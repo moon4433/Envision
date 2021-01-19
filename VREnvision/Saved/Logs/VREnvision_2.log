@@ -5678,3 +5678,196 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.19-20.23.14:102][692]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualReality/Mannequin/Animations/MannequinHand_Right_Open.MannequinHand_Right_Open
 [2021.01.19-20.35.14:316][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
 [2021.01.19-20.35.52:780][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.01.19-21.39.42:212][726]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\eNVISION\Assets\CustomBoxes\Tables\EntCenter.FBX)
+[2021.01.19-21.39.42:262][726]LogFbx: Loading FBX Scene from D:\eNVISION\Assets\CustomBoxes\Tables\EntCenter.FBX
+[2021.01.19-21.39.42:281][726]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.19-21.39.50:722][726]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.01.19-21.39.50:946][726]FBXImport: Error: Could not find any node. 
+[2021.01.19-21.39.50:946][726]FBXImport: Error: Import failed. 
+[2021.01.19-21.39.57:188][726]LogSlate: Window 'Message' being destroyed
+[2021.01.19-21.39.57:192][726]Message dialog closed, result: Ok, title: Message, text: Failed to import 'D:\eNVISION\Assets\CustomBoxes\Tables\EntCenter.FBX'. Failed to create asset '/Game/Geometry/Furniture/Tables/EntCenter/EntCenter'.
+Please see Output Log for details.
+[2021.01.19-21.39.57:192][726]LogAssetTools: Warning: Failed to import 'D:\eNVISION\Assets\CustomBoxes\Tables\EntCenter.FBX'. Failed to create asset '/Game/Geometry/Furniture/Tables/EntCenter/EntCenter'.
+Please see Output Log for details.
+[2021.01.19-21.40.00:660][117]LogSlate: Window 'Message Log' being destroyed
+[2021.01.19-21.40.00:664][117]LogSlate: Window 'Message Log' being destroyed
+[2021.01.19-21.40.03:876][373]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\eNVISION\Assets\CustomBoxes\Tables\EntCenter.FBX)
+[2021.01.19-21.40.03:886][373]LogFbx: Loading FBX Scene from D:\eNVISION\Assets\CustomBoxes\Tables\EntCenter.FBX
+[2021.01.19-21.40.03:897][373]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.19-21.40.05:950][373]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.01.19-21.40.06:102][373]FBXImport: Error: Could not find any node. 
+[2021.01.19-21.40.06:102][373]FBXImport: Error: Import failed. 
+[2021.01.19-21.40.23:633][373]LogSlate: Window 'Message' being destroyed
+[2021.01.19-21.40.23:636][373]Message dialog closed, result: Cancel, title: Message, text: Failed to import 'D:\eNVISION\Assets\CustomBoxes\Tables\EntCenter.FBX'. Failed to create asset '/Game/Geometry/Furniture/Tables/EntCenter/EntCenter'.
+Please see Output Log for details.
+[2021.01.19-21.40.23:636][373]LogAssetTools: Warning: Failed to import 'D:\eNVISION\Assets\CustomBoxes\Tables\EntCenter.FBX'. Failed to create asset '/Game/Geometry/Furniture/Tables/EntCenter/EntCenter'.
+Please see Output Log for details.
+[2021.01.19-21.40.34:287][626]LogSlate: Window 'Message Log' being destroyed
+[2021.01.19-21.40.34:292][626]LogSlate: Window 'Message Log' being destroyed
+[2021.01.19-21.40.42:875][919]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\eNVISION\Assets\CustomBoxes\Tables\EntCenter.FBX)
+[2021.01.19-21.40.42:885][919]LogFbx: Loading FBX Scene from D:\eNVISION\Assets\CustomBoxes\Tables\EntCenter.FBX
+[2021.01.19-21.40.42:896][919]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.19-21.41.39:717][919]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.01.19-21.41.40:132][919]FBXImport: Error: Could not find any node. 
+[2021.01.19-21.41.40:132][919]FBXImport: Error: Import failed. 
+[2021.01.19-21.41.42:384][919]LogSlate: Window 'Message' being destroyed
+[2021.01.19-21.41.42:387][919]Message dialog closed, result: Ok, title: Message, text: Failed to import 'D:\eNVISION\Assets\CustomBoxes\Tables\EntCenter.FBX'. Failed to create asset '/Game/Geometry/Furniture/Tables/EntCenter/EntCenter'.
+Please see Output Log for details.
+[2021.01.19-21.41.42:387][919]LogAssetTools: Warning: Failed to import 'D:\eNVISION\Assets\CustomBoxes\Tables\EntCenter.FBX'. Failed to create asset '/Game/Geometry/Furniture/Tables/EntCenter/EntCenter'.
+Please see Output Log for details.
+[2021.01.19-21.41.44:049][103]LogSlate: Window 'Message Log' being destroyed
+[2021.01.19-21.41.44:054][103]LogSlate: Window 'Message Log' being destroyed
+[2021.01.19-21.42.59:004][559]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\eNVISION\Assets\CustomBoxes\Tables\EntCenter.FBX)
+[2021.01.19-21.42.59:014][559]LogFbx: Loading FBX Scene from D:\eNVISION\Assets\CustomBoxes\Tables\EntCenter.FBX
+[2021.01.19-21.42.59:025][559]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.19-21.43.02:724][559]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.01.19-21.43.03:592][559]LogMaterial: Display: Missing cached shader map for material Material__26, compiling. 
+[2021.01.19-21.43.03:613][559]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2021.01.19-21.43.03:613][559]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.01.19-21.43.03:613][559]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.01.19-21.43.03:613][559]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.01.19-21.43.03:613][559]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.19-21.43.03:613][559]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.01.19-21.43.03:613][559]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.19-21.43.03:613][559]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.01.19-21.43.03:613][559]LogFbx: Display: Triangulating static mesh EntCenter
+[2021.01.19-21.43.03:660][559]LogFbx: Display: Triangulating mesh UCX_EntCenter_01 for collision model
+[2021.01.19-21.43.03:660][559]LogFbx: Display: Triangulating mesh UCX_EntCenter_02 for collision model
+[2021.01.19-21.43.03:661][559]LogFbx: Display: Triangulating mesh UCX_EntCenter_03 for collision model
+[2021.01.19-21.43.03:661][559]LogFbx: Display: Triangulating mesh UCX_EntCenter_11 for collision model
+[2021.01.19-21.43.03:662][559]LogFbx: Display: Triangulating mesh UCX_EntCenter_10 for collision model
+[2021.01.19-21.43.03:663][559]LogFbx: Display: Triangulating mesh UCX_EntCenter_09 for collision model
+[2021.01.19-21.43.03:663][559]LogFbx: Display: Triangulating mesh UCX_EntCenter_08 for collision model
+[2021.01.19-21.43.03:664][559]LogFbx: Display: Triangulating mesh UCX_EntCenter_04 for collision model
+[2021.01.19-21.43.03:664][559]LogFbx: Display: Triangulating mesh UCX_EntCenter_05 for collision model
+[2021.01.19-21.43.03:665][559]LogFbx: Display: Triangulating mesh UCX_EntCenter_06 for collision model
+[2021.01.19-21.43.03:665][559]LogFbx: Display: Triangulating mesh UCX_EntCenter_07 for collision model
+[2021.01.19-21.43.03:937][559]LogStaticMesh: Building static mesh EntCenter...
+[2021.01.19-21.43.03:979][559]LogStaticMesh: Built static mesh [0.04s] /Game/Geometry/Furniture/Tables/EntCenter/EntCenter.EntCenter
+[2021.01.19-21.43.09:385][687]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Geometry/Furniture/Tables/EntCenter/EntCenter.EntCenter
+[2021.01.19-21.43.09:928][687]LogMaterial: Display: Missing cached shader map for material M_SkyBox, compiling. 
+[2021.01.19-21.43.09:941][687]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.01.19-21.43.09:942][687]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.01.19-21.43.09:999][687]LogMaterial: Display: Missing cached shader map for material GridMaterial, compiling. 
+[2021.01.19-21.43.10:744][687]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2021.01.19-21.43.10:989][687]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.01.19-21.43.10:989][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-21.43.11:246][687]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2021.01.19-21.43.11:719][687]LogRenderer: Reallocating scene render targets to support 1932x628 Format 26 NumSamples 1 (Frame:1).
+[2021.01.19-21.43.11:720][687]LogSlate: Took 0.018049 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.19-21.43.14:933][757]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.01.19-21.43.15:111][763]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2021.01.19-21.43.15:172][765]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.01.19-21.43.15:767][784]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.19-21.43.23:614][ 13]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.01.19-21.43.24:774][ 50]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.01.19-21.43.26:247][ 98]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.19-21.43.26:339][101]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.01.19-21.43.26:466][105]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.19-21.45.16:876][711]LogSlate: Window 'EntCenter' being destroyed
+[2021.01.19-21.45.16:882][711]LogSlate: Window 'EntCenter' being destroyed
+[2021.01.19-21.45.17:182][711]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.01.19-21.45.17:182][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-21.49.57:807][128]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2021.01.19-21.49.57:825][128]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Testing/Maps/GrayBox002' took 0.045
+[2021.01.19-21.49.57:878][128]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Furniture/Tables/EntCenter/EntCenter] ([1] browsable assets)...
+[2021.01.19-21.49.57:899][128]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/Furniture/Tables/EntCenter/EntCenter.EntCenter]
+[2021.01.19-21.49.57:899][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Furniture/Tables/EntCenter/EntCenter]
+[2021.01.19-21.49.57:956][128]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/EntCenter_Auto17A1754B0486376E1A88F5C92A665A928.tmp' to 'D:/eNVISION/Envision/VREnvision/Saved/Autosaves/Game/Geometry/Furniture/Tables/EntCenter/EntCenter_Auto1.uasset'
+[2021.01.19-21.49.57:960][128]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Furniture/Tables/EntCenter/Material__26] ([1] browsable assets)...
+[2021.01.19-21.49.57:973][128]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/Furniture/Tables/EntCenter/Material__26.Material__26]
+[2021.01.19-21.49.57:973][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Furniture/Tables/EntCenter/Material__26]
+[2021.01.19-21.49.58:001][128]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Material__26_Auto15D5A6B0D402BC899F5DFAB9EBD99F4C8.tmp' to 'D:/eNVISION/Envision/VREnvision/Saved/Autosaves/Game/Geometry/Furniture/Tables/EntCenter/Material__26_Auto1.uasset'
+[2021.01.19-21.49.58:002][128]LogFileHelpers: Auto-saving content packages took 0.177
+[2021.01.19-21.50.12:728][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.01.19-21.50.12:762][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Furniture/Tables/EntCenter/EntCenter" FILE="D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Tables/EntCenter/EntCenter.uasset" SILENT=true
+[2021.01.19-21.50.12:886][552]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/EntCenter7E4F48854438F56FB94B2CAF49B80086.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Tables/EntCenter/EntCenter.uasset'
+[2021.01.19-21.50.12:893][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Furniture/Tables/EntCenter/Material__26" FILE="D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Tables/EntCenter/Material__26.uasset" SILENT=true
+[2021.01.19-21.50.12:921][552]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Material__26B5B6840B44FDF61F4B22E3B7B18B0B52.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Tables/EntCenter/Material__26.uasset'
+[2021.01.19-21.50.12:942][552]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.19-21.50.12:943][552]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Tables/EntCenter/EntCenter.EntCenter
+[2021.01.19-21.50.12:943][552]LogContentValidation: Display: Validating Material /Game/Geometry/Furniture/Tables/EntCenter/Material__26.Material__26
+[2021.01.19-21.50.32:447][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Furniture/Tables/EntCenter/MAT_EntCenter" FILE="D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Tables/EntCenter/MAT_EntCenter.uasset" SILENT=true
+[2021.01.19-21.50.32:542][557]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/MAT_EntCenter9D834E4D449613D441D81F8F8030C76C.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Tables/EntCenter/MAT_EntCenter.uasset'
+[2021.01.19-21.50.32:701][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.01.19-21.50.32:728][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.01.19-21.50.32:741][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.01.19-21.50.32:757][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Furniture/Tables/EntCenter/EntCenter" FILE="D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Tables/EntCenter/EntCenter.uasset" SILENT=true
+[2021.01.19-21.50.32:796][557]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/EntCenterFE01408047DC485C86BED28981F333F5.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Tables/EntCenter/EntCenter.uasset'
+[2021.01.19-21.50.32:975][557]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.19-21.50.32:975][557]LogContentValidation: Display: Validating Material /Game/Geometry/Furniture/Tables/EntCenter/MAT_EntCenter.MAT_EntCenter
+[2021.01.19-21.50.32:975][557]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Tables/EntCenter/EntCenter.EntCenter
+[2021.01.19-21.50.48:440][221]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Geometry/Furniture/Tables/EntCenter/EntCenter.EntCenter
+[2021.01.19-21.50.48:641][221]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.01.19-21.50.48:641][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-21.50.48:875][222]LogRenderer: Reallocating scene render targets to support 1932x632 Format 26 NumSamples 1 (Frame:1).
+[2021.01.19-21.51.19:349][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Furniture/Tables/EntCenter/EntCenter" FILE="D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Tables/EntCenter/EntCenter.uasset" SILENT=true
+[2021.01.19-21.51.19:734][175]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/EntCenterA32618B14B28F2A35E1D379E5B1000B9.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Tables/EntCenter/EntCenter.uasset'
+[2021.01.19-21.51.19:748][175]AssetCheck: New page: Asset Save: EntCenter
+[2021.01.19-21.51.19:749][175]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Tables/EntCenter/EntCenter.EntCenter
+[2021.01.19-21.51.20:612][258]LogSlate: Window 'EntCenter' being destroyed
+[2021.01.19-21.51.20:618][258]LogSlate: Window 'EntCenter' being destroyed
+[2021.01.19-21.51.20:638][258]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.01.19-21.51.20:638][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-22.00.23:811][708]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4406b0d3-73f6-4bff-b032-06475382634a}.
+[2021.01.19-22.00.23:811][708]LogTemp: Resetting audio stream to device id 
+[2021.01.19-22.00.23:849][708]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.19-22.00.23:849][708]LogAudioMixer: Display: 1: FrontRight
+[2021.01.19-22.33.47:569][ 93]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\eNVISION\Assets\CustomBoxes\Tables\McCoffeeTable.FBX)
+[2021.01.19-22.33.47:581][ 93]LogFbx: Loading FBX Scene from D:\eNVISION\Assets\CustomBoxes\Tables\McCoffeeTable.FBX
+[2021.01.19-22.33.47:597][ 93]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.19-22.33.50:836][ 93]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.01.19-22.33.51:028][ 93]LogMaterial: Display: Missing cached shader map for material 08_-_Default, compiling. 
+[2021.01.19-22.33.51:048][ 93]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2021.01.19-22.33.51:048][ 93]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.01.19-22.33.51:048][ 93]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.01.19-22.33.51:048][ 93]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.01.19-22.33.51:048][ 93]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.19-22.33.51:048][ 93]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.01.19-22.33.51:048][ 93]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.19-22.33.51:048][ 93]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.01.19-22.33.51:048][ 93]LogFbx: Display: Triangulating static mesh McCurleyCoffeeTable
+[2021.01.19-22.33.51:363][ 93]LogFbx: Display: Triangulating mesh UCX_McCurleyCoffeeTable_01 for collision model
+[2021.01.19-22.33.51:364][ 93]LogFbx: Display: Triangulating mesh UCX_McCurleyCoffeeTable_02 for collision model
+[2021.01.19-22.33.51:365][ 93]LogFbx: Display: Triangulating mesh UCX_McCurleyCoffeeTable_03 for collision model
+[2021.01.19-22.33.51:365][ 93]LogFbx: Display: Triangulating mesh UCX_McCurleyCoffeeTable_04 for collision model
+[2021.01.19-22.33.51:366][ 93]LogFbx: Display: Triangulating mesh UCX_McCurleyCoffeeTable_09 for collision model
+[2021.01.19-22.33.51:367][ 93]LogFbx: Display: Triangulating mesh UCX_McCurleyCoffeeTable_08 for collision model
+[2021.01.19-22.33.51:368][ 93]LogFbx: Display: Triangulating mesh UCX_McCurleyCoffeeTable_07 for collision model
+[2021.01.19-22.33.51:369][ 93]LogFbx: Display: Triangulating mesh UCX_McCurleyCoffeeTable_06 for collision model
+[2021.01.19-22.33.51:370][ 93]LogFbx: Display: Triangulating mesh UCX_McCurleyCoffeeTable_05 for collision model
+[2021.01.19-22.33.51:429][ 93]LogStaticMesh: Building static mesh McCoffeeTable...
+[2021.01.19-22.33.51:539][ 93]LogStaticMesh: Built static mesh [0.11s] /Game/Geometry/Furniture/Tables/McCoffeeTable/McCoffeeTable.McCoffeeTable
+[2021.01.19-22.34.09:809][253]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/MAT_McCoffeeTableFD05A6CA4F2795B0DA0F04B60A41E47D.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Tables/McCoffeeTable/MAT_McCoffeeTable.uasset'
+[2021.01.19-22.34.10:022][253]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2021.01.19-22.34.10:103][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.01.19-22.34.10:118][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.01.19-22.34.10:249][253]AssetCheck: New page: Asset Save: MAT_McCoffeeTable
+[2021.01.19-22.34.10:249][253]LogContentValidation: Display: Validating Material /Game/Geometry/Furniture/Tables/McCoffeeTable/MAT_McCoffeeTable.MAT_McCoffeeTable
+[2021.01.19-22.34.43:302][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.01.19-22.34.43:467][336]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/McCoffeeTable75DE978340CF9085CA8D649709AF1B7C.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Tables/McCoffeeTable/McCoffeeTable.uasset'
+[2021.01.19-22.34.43:480][336]AssetCheck: New page: Asset Save: McCoffeeTable
+[2021.01.19-22.34.43:480][336]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Tables/McCoffeeTable/McCoffeeTable.McCoffeeTable
+[2021.01.19-22.34.48:025][792]LogActorFactory: Actor Factory created EntCenter
+[2021.01.19-22.34.52:266][253]LogActorFactory: Actor Factory created EntCenter
+[2021.01.19-22.34.59:199][856]LogActorFactory: Actor Factory created McCoffeeTable
+[2021.01.19-22.35.02:798][255]LogActorFactory: Actor Factory created McCoffeeTable
+[2021.01.19-22.35.07:641][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EntCenter)
+[2021.01.19-22.35.10:862][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (McCoffeeTable)
+[2021.01.19-22.35.22:365][427]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Geometry/Furniture/Tables/McCoffeeTable/McCoffeeTable.McCoffeeTable
+[2021.01.19-22.35.22:651][427]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.01.19-22.35.22:651][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-22.35.22:923][428]LogRenderer: Reallocating scene render targets to support 1932x636 Format 26 NumSamples 1 (Frame:1).
+[2021.01.19-22.35.43:635][ 83]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/McCoffeeTableA2D48A9E40C8F36E6AFD2AAFF9542729.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Tables/McCoffeeTable/McCoffeeTable.uasset'
+[2021.01.19-22.35.43:650][ 83]AssetCheck: New page: Asset Save: McCoffeeTable
+[2021.01.19-22.35.43:650][ 83]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Tables/McCoffeeTable/McCoffeeTable.McCoffeeTable
+[2021.01.19-22.35.44:879][170]LogSlate: Window 'McCoffeeTable' being destroyed
+[2021.01.19-22.35.44:885][170]LogSlate: Window 'McCoffeeTable' being destroyed
+[2021.01.19-22.35.44:905][170]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.01.19-22.35.44:905][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-22.35.52:192][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.01.19-22.35.52:240][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.01.19-22.35.55:115][966]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/GrayBox0027AA6A5C94CEB3E56DB5881A726137134.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/VirtualRealityBP/Testing/Maps/GrayBox002.umap'
+[2021.01.19-22.35.55:167][966]LogFileHelpers: Saving map 'GrayBox002' took 2.953
+[2021.01.19-22.35.55:183][966]AssetCheck: New page: Asset Save: GrayBox002
+[2021.01.19-22.35.55:183][966]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002
