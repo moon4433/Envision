@@ -5871,3 +5871,288 @@ Please see Output Log for details.
 [2021.01.19-22.35.55:167][966]LogFileHelpers: Saving map 'GrayBox002' took 2.953
 [2021.01.19-22.35.55:183][966]AssetCheck: New page: Asset Save: GrayBox002
 [2021.01.19-22.35.55:183][966]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002
+[2021.01.19-23.02.01:220][924]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{a89250e0-441f-4680-bae8-47329a88a4b1}.
+[2021.01.19-23.02.01:220][924]LogTemp: Resetting audio stream to device id 
+[2021.01.19-23.02.01:294][924]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.19-23.02.01:294][924]LogAudioMixer: Display: 1: FrontRight
+[2021.01.19-23.02.10:357][950]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8bf7e027-7d2e-43a8-b291-437fbeaff571}.
+[2021.01.19-23.02.10:357][950]LogTemp: Resetting audio stream to device id 
+[2021.01.19-23.02.11:404][950]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.19-23.02.11:404][950]LogAudioMixer: Display: 1: FrontRight
+[2021.01.19-23.02.11:594][951]LogTemp: Resetting audio stream to device id 
+[2021.01.19-23.02.11:643][951]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.19-23.02.11:643][951]LogAudioMixer: Display: 1: FrontRight
+[2021.01.19-23.45.14:085][987]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\eNVISION\Assets\Downloaded\WineGlass_LowPoly_Unwrapped.obj)
+[2021.01.19-23.45.14:104][987]LogFbx: Loading FBX Scene from D:\eNVISION\Assets\Downloaded\WineGlass_LowPoly_Unwrapped.obj
+[2021.01.19-23.45.14:129][987]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.19-23.45.20:037][987]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.01.19-23.45.20:093][987]LogMaterial: Display: Missing cached shader map for material pCylinder1Mat, compiling. 
+[2021.01.19-23.45.20:125][987]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2021.01.19-23.45.20:125][987]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.01.19-23.45.20:126][987]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.01.19-23.45.20:126][987]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.01.19-23.45.20:126][987]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.19-23.45.20:126][987]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.01.19-23.45.20:126][987]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.19-23.45.20:126][987]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.01.19-23.45.20:126][987]LogFbx: Display: Triangulating static mesh pCylinder1
+[2021.01.19-23.45.20:413][987]LogStaticMesh: Building static mesh WineGlass_LowPoly_Unwrapped...
+[2021.01.19-23.45.20:447][987]LogStaticMesh: Built static mesh [0.04s] /Game/Geometry/Props/Objects/Wineglass/WineGlass_LowPoly_Unwrapped.WineGlass_LowPoly_Unwrapped
+[2021.01.19-23.45.22:045][ 18]LogActorFactory: Actor Factory created WineGlass_LowPoly_Unwrapped
+[2021.01.19-23.45.23:375][ 51]LogActorFactory: Actor Factory created WineGlass_LowPoly_Unwrapped
+[2021.01.19-23.45.35:977][613]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (McCoffeeTable)
+[2021.01.19-23.46.00:406][ 95]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\eNVISION\Assets\Downloaded\Keurig.fbx)
+[2021.01.19-23.46.00:420][ 95]LogFbx: Loading FBX Scene from D:\eNVISION\Assets\Downloaded\Keurig.fbx
+[2021.01.19-23.46.00:434][ 95]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.19-23.46.02:409][ 95]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.01.19-23.46.02:474][ 95]LogMaterial: Display: Missing cached shader map for material Material__2, compiling. 
+[2021.01.19-23.46.02:529][ 95]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2021.01.19-23.46.02:529][ 95]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.01.19-23.46.02:529][ 95]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.01.19-23.46.02:529][ 95]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.01.19-23.46.02:529][ 95]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.19-23.46.02:529][ 95]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.01.19-23.46.02:529][ 95]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.19-23.46.02:529][ 95]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.01.19-23.46.02:681][ 95]LogStaticMesh: Building static mesh Keurig...
+[2021.01.19-23.46.02:778][ 95]LogStaticMesh: Built static mesh [0.10s] /Game/Geometry/Props/Objects/Keurig/Keurig.Keurig
+[2021.01.19-23.46.03:941][120]LogActorFactory: Actor Factory created Keurig
+[2021.01.19-23.46.05:564][157]LogActorFactory: Actor Factory created Keurig
+[2021.01.19-23.46.54:898][716]LogEditorViewport: Clicking Background
+[2021.01.19-23.47.21:744][121]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\eNVISION\Assets\Keurig\Texture Maps\Keurig_ORM.png)
+[2021.01.19-23.47.21:947][121]LogTexture: Display: Building textures: Keurig_ORM (AutoDXT, 2048X2048)
+[2021.01.19-23.47.22:201][121]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\eNVISION\Assets\Keurig\Texture Maps\Keurig_BaseColor.png)
+[2021.01.19-23.47.22:275][121]LogTexture: Display: Building textures: Keurig_BaseColor (AutoDXT, 2048X2048)
+[2021.01.19-23.47.22:452][121]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\eNVISION\Assets\Keurig\Texture Maps\Keurig_Normal.png)
+[2021.01.19-23.47.22:573][121]LogTexture: Display: Building textures: Keurig_Normal (BC5, 2048X2048)
+[2021.01.19-23.47.24:560][180]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Geometry/Props/Objects/Keurig/TextureMaps/Keurig_ORM.Keurig_ORM
+[2021.01.19-23.47.24:676][180]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0089 seconds. Added 1 classes and 2 folders.
+[2021.01.19-23.47.27:216][416]LogTexture: Display: Building textures: Keurig_ORM (AutoDXT, 2048X2048)
+[2021.01.19-23.47.28:949][531]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Keurig_ORMAD9C58AB49AFE857064754995E27D5BC.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/Keurig/TextureMaps/Keurig_ORM.uasset'
+[2021.01.19-23.47.28:972][531]AssetCheck: New page: Asset Save: Keurig_ORM
+[2021.01.19-23.47.28:972][531]LogContentValidation: Display: Validating Texture2D /Game/Geometry/Props/Objects/Keurig/TextureMaps/Keurig_ORM.Keurig_ORM
+[2021.01.19-23.47.29:800][624]LogSlate: Window 'Keurig_ORM' being destroyed
+[2021.01.19-23.47.29:806][624]LogSlate: Window 'Keurig_ORM' being destroyed
+[2021.01.19-23.47.33:060][954]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Geometry/Props/Objects/Keurig/Material__2.Material__2
+[2021.01.19-23.47.33:071][954]LogMaterial: Display: Missing cached shader map for material Material__2, compiling. 
+[2021.01.19-23.47.33:304][954]LogMaterial: Display: Missing cached shader map for material Material__2, compiling. 
+[2021.01.19-23.47.33:317][954]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.19-23.47.33:317][954]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.19-23.47.33:317][954]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.19-23.47.33:317][954]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.19-23.47.33:317][954]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.19-23.47.33:317][954]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.19-23.47.33:317][954]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.19-23.47.33:317][954]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.19-23.47.33:339][954]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.01.19-23.47.33:545][954]LogSlate: Took 0.014178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.19-23.47.34:923][970]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.01.19-23.47.34:923][970]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.19-23.47.36:361][  6]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.01.19-23.47.36:397][  7]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.01.19-23.47.36:920][ 18]LogMaterial: Display: Missing cached shader map for material Material__2, compiling. 
+[2021.01.19-23.47.37:799][ 36]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2021.01.19-23.47.37:800][ 36]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.19-23.47.38:794][ 62]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.01.19-23.47.41:210][112]LogMaterial: Display: Missing cached shader map for material Material__2, compiling. 
+[2021.01.19-23.47.41:239][112]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.19-23.47.41:270][112]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.19-23.47.43:790][176]LogMaterial: Display: Missing cached shader map for material Material__2, compiling. 
+[2021.01.19-23.47.43:845][176]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.19-23.47.45:806][216]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.01.19-23.47.45:843][217]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2021.01.19-23.47.46:169][226]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.01.19-23.47.46:169][226]LogMaterial: Display: Missing cached shader map for material Material__2, compiling. 
+[2021.01.19-23.47.46:195][226]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.01.19-23.47.46:236][226]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.19-23.47.46:246][226]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.01.19-23.47.46:493][228]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2021.01.19-23.47.46:493][228]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2021.01.19-23.47.46:847][239]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2021.01.19-23.47.47:224][249]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2021.01.19-23.47.48:259][275]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2021.01.19-23.47.51:036][343]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.01.19-23.47.51:096][345]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.01.19-23.47.51:583][358]LogMaterial: Display: Missing cached shader map for material Material__2, compiling. 
+[2021.01.19-23.47.51:624][358]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.01.19-23.47.52:582][377]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2021.01.19-23.47.53:727][404]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2021.01.19-23.47.55:178][444]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2021.01.19-23.47.56:652][485]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2021.01.19-23.47.57:721][513]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2021.01.19-23.47.57:854][517]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.01.19-23.47.58:353][530]LogMaterial: Display: Missing cached shader map for material Material__2, compiling. 
+[2021.01.19-23.47.58:444][531]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2021.01.19-23.47.59:380][552]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.01.19-23.47.59:400][552]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Geometry/Props/Objects/Keurig/TextureMaps/Keurig_Normal.Keurig_Normal
+[2021.01.19-23.47.59:576][552]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2021.01.19-23.47.59:703][552]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2021.01.19-23.47.59:975][557]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.01.19-23.48.00:738][581]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.19-23.48.00:771][582]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.19-23.48.00:836][584]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.19-23.48.01:311][601]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2021.01.19-23.48.02:051][608]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.01.19-23.48.03:143][608]LogSlate: Window 'Message' being destroyed
+[2021.01.19-23.48.03:192][608]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Geometry/Props/Objects/Keurig/Material__2.Material__2
+(Selecting 'No' will cause all changes to be lost!)
+[2021.01.19-23.48.03:477][615]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.01.19-23.48.03:650][619]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.01.19-23.48.07:302][708]LogMaterial: Display: Missing cached shader map for material Material__2, compiling. 
+[2021.01.19-23.48.07:339][708]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.01.19-23.48.07:378][708]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.19-23.48.07:393][708]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.01.19-23.48.10:226][780]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2021.01.19-23.48.10:322][783]LogMaterial: Display: Missing cached shader map for material Material__2, compiling. 
+[2021.01.19-23.48.10:358][783]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.01.19-23.48.10:889][791]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 17
+[2021.01.19-23.48.12:129][822]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2021.01.19-23.48.12:358][827]LogMaterial: Display: Missing cached shader map for material Material__2, compiling. 
+[2021.01.19-23.48.12:385][827]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.01.19-23.48.12:427][827]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.19-23.48.12:435][827]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.01.19-23.48.12:450][827]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.01.19-23.48.12:552][828]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2021.01.19-23.48.12:777][833]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2021.01.19-23.48.13:556][853]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2021.01.19-23.48.13:631][855]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 18
+[2021.01.19-23.48.14:055][866]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 17
+[2021.01.19-23.48.15:054][891]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2021.01.19-23.48.16:001][914]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.01.19-23.48.16:288][923]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2021.01.19-23.48.16:325][924]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2021.01.19-23.48.17:584][960]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.01.19-23.48.17:625][961]LogMaterial: Display: Missing cached shader map for material Material__2, compiling. 
+[2021.01.19-23.48.17:668][961]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.01.19-23.48.18:790][987]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2021.01.19-23.48.20:226][ 26]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2021.01.19-23.48.21:120][ 52]LogMaterial: Display: Missing cached shader map for material Material__2, compiling. 
+[2021.01.19-23.48.21:158][ 52]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.01.19-23.48.21:661][ 65]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2021.01.19-23.48.22:817][ 96]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2021.01.19-23.48.23:305][110]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2021.01.19-23.48.23:378][112]LogMaterial: Display: Missing cached shader map for material Material__2, compiling. 
+[2021.01.19-23.48.23:413][112]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.01.19-23.48.23:938][123]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2021.01.19-23.48.24:506][138]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2021.01.19-23.48.24:765][144]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.01.19-23.48.25:437][163]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.01.19-23.48.25:554][166]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.01.19-23.48.25:627][168]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2021.01.19-23.48.26:443][190]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2021.01.19-23.48.26:546][193]LogMaterialEditor: Saving and Compiling material Material__2
+[2021.01.19-23.48.37:091][193]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.19-23.48.37:091][193]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.01.19-23.48.37:091][193]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2021.01.19-23.48.37:091][193]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.19-23.48.37:091][193]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.01.19-23.48.37:091][193]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.01.19-23.48.37:091][193]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.01.19-23.48.37:091][193]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.19-23.48.37:100][193]LogMaterial: Display: Missing cached shader map for material Material__2, compiling. 
+[2021.01.19-23.48.37:193][193]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.19-23.48.37:193][193]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.19-23.48.37:193][193]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.19-23.48.37:193][193]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.19-23.48.37:193][193]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.19-23.48.37:193][193]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.19-23.48.37:193][193]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.19-23.48.37:193][193]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.19-23.48.37:300][193]LogMaterial: Display: Missing cached shader map for material Material__2, compiling. 
+[2021.01.19-23.48.37:615][193]LogUObjectHash: Compacting FUObjectHashTables data took  23.17ms
+[2021.01.19-23.48.37:985][193]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.19-23.48.38:559][193]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2021.01.19-23.48.38:559][193]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2021.01.19-23.48.39:682][193]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2021.01.19-23.48.39:682][193]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.01.19-23.48.39:943][193]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.01.19-23.48.39:966][193]TextureStreamingBuild: Display: Compiling optional shaders took 2.000 seconds.
+[2021.01.19-23.48.40:044][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.01.19-23.48.47:479][193]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.01.19-23.48.47:479][193]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2021.01.19-23.48.48:040][193]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.01.19-23.48.48:040][193]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.01.19-23.48.48:040][193]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.19-23.48.48:040][193]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.01.19-23.48.49:723][193]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.01.19-23.48.49:723][193]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.01.19-23.48.50:839][193]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.01.19-23.48.57:127][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Props/Objects/Keurig/Material__2" FILE="D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/Keurig/Material__2.uasset" SILENT=true
+[2021.01.19-23.48.57:269][193]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Material__255F1485B4985CC0FAE47FBA3D50A6F0A.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/Keurig/Material__2.uasset'
+[2021.01.19-23.48.57:295][193]AssetCheck: New page: Asset Save: Material__2
+[2021.01.19-23.48.57:295][193]LogContentValidation: Display: Validating Material /Game/Geometry/Props/Objects/Keurig/Material__2.Material__2
+[2021.01.19-23.48.57:303][193]MaterialEditorStats: Base pass shader: 802 instructions
+[2021.01.19-23.48.57:303][193]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 873 instructions
+[2021.01.19-23.48.57:303][193]MaterialEditorStats: Base pass vertex shader: 237 instructions
+[2021.01.19-23.48.57:303][193]MaterialEditorStats: Texture samplers: 8/16
+[2021.01.19-23.48.57:303][193]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.01.19-23.48.57:303][193]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.19-23.48.57:454][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.01.19-23.49.00:664][194]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/GrayBox002_Auto28442220B40C3783258F01B83753B0BB6.tmp' to 'D:/eNVISION/Envision/VREnvision/Saved/Autosaves/Game/VirtualRealityBP/Testing/Maps/GrayBox002_Auto2.umap'
+[2021.01.19-23.49.00:674][194]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Testing/Maps/GrayBox002' took 3.232
+[2021.01.19-23.49.00:674][194]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.232
+[2021.01.19-23.49.00:695][194]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Props/Objects/Wineglass/WineGlass_LowPoly_Unwrapped] ([1] browsable assets)...
+[2021.01.19-23.49.00:710][194]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/Props/Objects/Wineglass/WineGlass_LowPoly_Unwrapped.WineGlass_LowPoly_Unwrapped]
+[2021.01.19-23.49.00:710][194]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Props/Objects/Wineglass/WineGlass_LowPoly_Unwrapped]
+[2021.01.19-23.49.00:735][194]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/WineGlass_LowPoly_Unwrapped_AutoD0D2BFC0454A5C86F6D08D90D1A61DA2.tmp' to 'D:/eNVISION/Envision/VREnvision/Saved/Autosaves/Game/Geometry/Props/Objects/Wineglass/WineGlass_LowPoly_Unwrapped_Auto2.uasset'
+[2021.01.19-23.49.00:736][194]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Props/Objects/Wineglass/pCylinder1Mat] ([1] browsable assets)...
+[2021.01.19-23.49.00:760][194]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/Props/Objects/Wineglass/pCylinder1Mat.pCylinder1Mat]
+[2021.01.19-23.49.00:760][194]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Props/Objects/Wineglass/pCylinder1Mat]
+[2021.01.19-23.49.00:777][194]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/pCylinder1Mat_Auto235C2E85A4526FE779F8F209E81194D41.tmp' to 'D:/eNVISION/Envision/VREnvision/Saved/Autosaves/Game/Geometry/Props/Objects/Wineglass/pCylinder1Mat_Auto2.uasset'
+[2021.01.19-23.49.00:778][194]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Props/Objects/Keurig/Keurig] ([1] browsable assets)...
+[2021.01.19-23.49.00:793][194]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/Props/Objects/Keurig/Keurig.Keurig]
+[2021.01.19-23.49.00:793][194]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Props/Objects/Keurig/Keurig]
+[2021.01.19-23.49.00:826][194]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Keurig_Auto2CBA1459940FE3FBA2E1C2A8E05CE7282.tmp' to 'D:/eNVISION/Envision/VREnvision/Saved/Autosaves/Game/Geometry/Props/Objects/Keurig/Keurig_Auto2.uasset'
+[2021.01.19-23.49.00:828][194]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Props/Objects/Keurig/TextureMaps/Keurig_BaseColor] ([1] browsable assets)...
+[2021.01.19-23.49.00:856][194]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Props/Objects/Keurig/TextureMaps/Keurig_BaseColor.Keurig_BaseColor]
+[2021.01.19-23.49.00:856][194]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Props/Objects/Keurig/TextureMaps/Keurig_BaseColor]
+[2021.01.19-23.49.00:941][194]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Keurig_BaseColor_Auto2024273314F849452A8CE3581598E64EA.tmp' to 'D:/eNVISION/Envision/VREnvision/Saved/Autosaves/Game/Geometry/Props/Objects/Keurig/TextureMaps/Keurig_BaseColor_Auto2.uasset'
+[2021.01.19-23.49.00:942][194]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Props/Objects/Keurig/TextureMaps/Keurig_Normal] ([1] browsable assets)...
+[2021.01.19-23.49.00:950][194]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Props/Objects/Keurig/TextureMaps/Keurig_Normal.Keurig_Normal]
+[2021.01.19-23.49.00:950][194]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Props/Objects/Keurig/TextureMaps/Keurig_Normal]
+[2021.01.19-23.49.01:130][194]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Keurig_Normal_Auto2513227D649CEB13428E4AF8B41ED1DF3.tmp' to 'D:/eNVISION/Envision/VREnvision/Saved/Autosaves/Game/Geometry/Props/Objects/Keurig/TextureMaps/Keurig_Normal_Auto2.uasset'
+[2021.01.19-23.49.01:131][194]LogFileHelpers: Auto-saving content packages took 0.457
+[2021.01.19-23.49.03:953][416]LogSlate: Window 'Material__2' being destroyed
+[2021.01.19-23.49.03:959][416]LogSlate: Window 'Material__2' being destroyed
+[2021.01.19-23.49.04:040][416]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.01.19-23.49.04:040][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-23.53.11:232][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.01.19-23.53.14:837][352]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.19-23.53.15:610][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Keurig)
+[2021.01.19-23.53.17:118][590]Cmd: DELETE
+[2021.01.19-23.53.17:118][590]Cmd: ACTOR DELETE
+[2021.01.19-23.53.17:183][590]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.19-23.53.17:196][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.01.19-23.53.17:199][590]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2021.01.19-23.53.23:830][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.01.19-23.53.25:323][231]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.19-23.53.25:961][231]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Geometry/Props/Objects/Keurig/Keurig.Keurig
+[2021.01.19-23.53.27:641][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.01.19-23.53.37:379][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WineGlass_LowPoly_Unwrapped)
+[2021.01.19-23.53.38:160][433]Cmd: DELETE
+[2021.01.19-23.53.38:160][433]Cmd: ACTOR DELETE
+[2021.01.19-23.53.38:188][433]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.19-23.53.38:200][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.01.19-23.53.38:205][433]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2021.01.19-23.53.45:634][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.01.19-23.53.47:231][211]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.19-23.53.47:536][211]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/Geometry/Props/Objects/Wineglass/WineGlass_LowPoly_Unwrapped.WineGlass_LowPoly_Unwrapped
+	Asset Name: /Game/Geometry/Props/Objects/Wineglass/pCylinder1Mat.pCylinder1Mat
+[2021.01.19-23.53.48:099][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.01.19-23.59.01:813][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.01.19-23.59.04:302][106]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/GrayBox002_Auto3704CC1DD45BAB0AFA7425EA58DEEFDA7.tmp' to 'D:/eNVISION/Envision/VREnvision/Saved/Autosaves/Game/VirtualRealityBP/Testing/Maps/GrayBox002_Auto3.umap'
+[2021.01.19-23.59.04:305][106]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Testing/Maps/GrayBox002' took 2.503
+[2021.01.19-23.59.04:305][106]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.503
+[2021.01.20-00.27.10:396][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.01.20-00.27.10:738][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.01.20-00.27.13:111][724]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/GrayBox002F282C86748B42C31D1055C8FE17AC9AE.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/VirtualRealityBP/Testing/Maps/GrayBox002.umap'
+[2021.01.20-00.27.13:166][724]LogFileHelpers: Saving map 'GrayBox002' took 2.742
+[2021.01.20-00.27.13:656][724]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Keurig_Normal907E303844EE8E3FF0F81983E75397ED.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/Keurig/TextureMaps/Keurig_Normal.uasset'
+[2021.01.20-00.27.13:865][724]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Keurig_BaseColorE301FFB64D1A3F234B277B923ADAACF1.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/Keurig/TextureMaps/Keurig_BaseColor.uasset'
+[2021.01.20-00.27.13:883][724]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.20-00.27.13:883][724]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002
+[2021.01.20-00.27.13:883][724]LogContentValidation: Display: Validating Texture2D /Game/Geometry/Props/Objects/Keurig/TextureMaps/Keurig_Normal.Keurig_Normal
+[2021.01.20-00.27.13:883][724]LogContentValidation: Display: Validating Texture2D /Game/Geometry/Props/Objects/Keurig/TextureMaps/Keurig_BaseColor.Keurig_BaseColor
