@@ -6156,3 +6156,272 @@ Please see Output Log for details.
 [2021.01.20-00.27.13:883][724]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002
 [2021.01.20-00.27.13:883][724]LogContentValidation: Display: Validating Texture2D /Game/Geometry/Props/Objects/Keurig/TextureMaps/Keurig_Normal.Keurig_Normal
 [2021.01.20-00.27.13:883][724]LogContentValidation: Display: Validating Texture2D /Game/Geometry/Props/Objects/Keurig/TextureMaps/Keurig_BaseColor.Keurig_BaseColor
+[2021.01.20-00.43.33:903][ 30]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\eNVISION\Assets\CustomBoxes\Chairs\SofaSophia.FBX)
+[2021.01.20-00.43.33:923][ 30]LogFbx: Loading FBX Scene from D:\eNVISION\Assets\CustomBoxes\Chairs\SofaSophia.FBX
+[2021.01.20-00.43.33:974][ 30]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.20-00.43.36:819][ 30]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.01.20-00.43.36:874][ 30]LogFbx: Display: Triangulating static mesh SofaSophia
+[2021.01.20-00.43.38:129][ 30]LogFbx: Display: Triangulating mesh UCX_SofaSophia_10 for collision model
+[2021.01.20-00.43.38:130][ 30]LogFbx: Display: Triangulating mesh UCX_SofaSophia_09 for collision model
+[2021.01.20-00.43.38:131][ 30]LogFbx: Display: Triangulating mesh UCX_SofaSophia_08 for collision model
+[2021.01.20-00.43.38:131][ 30]LogFbx: Display: Triangulating mesh UCX_SofaSophia_07 for collision model
+[2021.01.20-00.43.38:132][ 30]LogFbx: Display: Triangulating mesh UCX_SofaSophia_06 for collision model
+[2021.01.20-00.43.38:133][ 30]LogFbx: Display: Triangulating mesh UCX_SofaSophia_05 for collision model
+[2021.01.20-00.43.38:133][ 30]LogFbx: Display: Triangulating mesh UCX_SofaSophia_04 for collision model
+[2021.01.20-00.43.38:134][ 30]LogFbx: Display: Triangulating mesh UCX_SofaSophia_03 for collision model
+[2021.01.20-00.43.38:136][ 30]LogFbx: Display: Triangulating mesh UCX_SofaSophia_02 for collision model
+[2021.01.20-00.43.38:137][ 30]LogFbx: Display: Triangulating mesh UCX_SofaSophia_01 for collision model
+[2021.01.20-00.43.38:364][ 30]LogStaticMesh: Building static mesh SofaSophia...
+[2021.01.20-00.43.38:794][ 30]LogStaticMesh: Built static mesh [0.43s] /Game/Geometry/Furniture/Seating/SofaSophia.SofaSophia
+[2021.01.20-00.43.38:913][ 30]LogStaticMesh: Warning: SofaSophia has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.20-00.43.38:913][ 30]LogStaticMesh: Warning: SofaSophia has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2021.01.20-00.43.38:913][ 30]LogStaticMesh: Warning: SofaSophia has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.20-00.43.38:917][ 30]FBXImport: Warning: SofaSophia has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.01.20-00.43.38:918][ 30]FBXImport: Warning: SofaSophia has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2021.01.20-00.43.38:918][ 30]FBXImport: Warning: SofaSophia has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.01.20-00.43.45:943][778]LogSlate: Window 'Message Log' being destroyed
+[2021.01.20-00.43.45:948][778]LogSlate: Window 'Message Log' being destroyed
+[2021.01.20-00.43.47:680][958]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Geometry/Furniture/Seating/SofaSophia.SofaSophia
+[2021.01.20-00.43.48:068][958]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.01.20-00.43.48:068][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-00.43.48:464][959]LogRenderer: Reallocating scene render targets to support 1932x644 Format 26 NumSamples 1 (Frame:1).
+[2021.01.20-00.43.55:496][560]LogSlate: Window 'SofaSophia' being destroyed
+[2021.01.20-00.43.55:502][560]LogSlate: Window 'SofaSophia' being destroyed
+[2021.01.20-00.43.55:504][560]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.01.20-00.43.55:504][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-00.43.56:496][632]LogActorFactory: Actor Factory created SofaSophia
+[2021.01.20-00.43.58:194][816]LogActorFactory: Actor Factory created SofaSophia
+[2021.01.20-00.44.25:044][230]LogMetaData: Removing '/Game/Geometry/Furniture/Seating/SofaSohpia/SofaSophia.SofaSophia' ref from Metadata '/Game/Geometry/Furniture/Seating/SofaSophia.PackageMetaData'
+[2021.01.20-00.44.25:107][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Furniture/Seating/SofaSohpia/SofaSophia" FILE="D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Seating/SofaSohpia/SofaSophia.uasset" SILENT=true
+[2021.01.20-00.44.25:233][230]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/SofaSophiaEC18A900487431CCE1EA8E98B290E5B2.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Seating/SofaSohpia/SofaSophia.uasset'
+[2021.01.20-00.44.25:410][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.01.20-00.44.25:443][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.01.20-00.44.25:460][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.01.20-00.44.25:594][230]AssetCheck: New page: Asset Save: SofaSophia
+[2021.01.20-00.44.25:594][230]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Seating/SofaSohpia/SofaSophia.SofaSophia
+[2021.01.20-00.45.00:448][ 49]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\eNVISION\Assets\CustomBoxes\Shelves\Shelf.FBX)
+[2021.01.20-00.45.00:462][ 49]LogFbx: Loading FBX Scene from D:\eNVISION\Assets\CustomBoxes\Shelves\Shelf.FBX
+[2021.01.20-00.45.00:477][ 49]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.20-00.45.05:362][ 49]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.01.20-00.45.05:515][ 49]LogMaterial: Display: Missing cached shader map for material Material__28, compiling. 
+[2021.01.20-00.45.05:557][ 49]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2021.01.20-00.45.05:557][ 49]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.01.20-00.45.05:558][ 49]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.01.20-00.45.05:558][ 49]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.01.20-00.45.05:558][ 49]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.20-00.45.05:558][ 49]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.01.20-00.45.05:558][ 49]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.20-00.45.05:558][ 49]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.01.20-00.45.05:775][ 49]LogMaterial: Display: Missing cached shader map for material Material__29, compiling. 
+[2021.01.20-00.45.06:122][ 49]LogMaterial: Display: Missing cached shader map for material Material__30, compiling. 
+[2021.01.20-00.45.06:212][ 49]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 30
+[2021.01.20-00.45.06:676][ 49]LogMaterial: Display: Missing cached shader map for material Material__31, compiling. 
+[2021.01.20-00.45.07:239][ 49]LogMaterial: Display: Missing cached shader map for material Material__32, compiling. 
+[2021.01.20-00.45.07:774][ 49]LogMaterial: Display: Missing cached shader map for material Material__33, compiling. 
+[2021.01.20-00.45.07:847][ 49]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 71
+[2021.01.20-00.45.07:983][ 49]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.01.20-00.45.07:983][ 49]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.01.20-00.45.08:341][ 49]LogMaterial: Display: Missing cached shader map for material 07_-_Default, compiling. 
+[2021.01.20-00.45.08:404][ 49]LogFbx: Display: Triangulating mesh UCX_Shelf_01 for collision model
+[2021.01.20-00.45.08:406][ 49]LogFbx: Display: Triangulating mesh UCX_Shelf_02 for collision model
+[2021.01.20-00.45.08:408][ 49]LogFbx: Display: Triangulating mesh UCX_Shelf_03 for collision model
+[2021.01.20-00.45.08:410][ 49]LogFbx: Display: Triangulating mesh UCX_Shelf_04 for collision model
+[2021.01.20-00.45.08:414][ 49]LogFbx: Display: Triangulating mesh UCX_Shelf_05 for collision model
+[2021.01.20-00.45.08:417][ 49]LogFbx: Display: Triangulating mesh UCX_Shelf_06 for collision model
+[2021.01.20-00.45.08:420][ 49]LogFbx: Display: Triangulating mesh UCX_Shelf_08 for collision model
+[2021.01.20-00.45.08:423][ 49]LogFbx: Display: Triangulating mesh UCX_Shelf_09 for collision model
+[2021.01.20-00.45.08:424][ 49]LogFbx: Display: Triangulating mesh UCX_Shelf_10 for collision model
+[2021.01.20-00.45.08:425][ 49]LogFbx: Display: Triangulating mesh UCX_Shelf_11 for collision model
+[2021.01.20-00.45.08:427][ 49]LogFbx: Display: Triangulating mesh UCX_Shelf_12 for collision model
+[2021.01.20-00.45.08:428][ 49]LogFbx: Display: Triangulating mesh UCX_Shelf_13 for collision model
+[2021.01.20-00.45.08:429][ 49]LogFbx: Display: Triangulating mesh UCX_Shelf_14 for collision model
+[2021.01.20-00.45.08:433][ 49]LogFbx: Display: Triangulating mesh UCX_Shelf_15 for collision model
+[2021.01.20-00.45.08:434][ 49]LogFbx: Display: Triangulating mesh UCX_Shelf_16 for collision model
+[2021.01.20-00.45.08:435][ 49]LogFbx: Display: Triangulating mesh UCX_Shelf_17 for collision model
+[2021.01.20-00.45.08:436][ 49]LogFbx: Display: Triangulating mesh UCX_Shelf_18 for collision model
+[2021.01.20-00.45.08:438][ 49]LogFbx: Display: Triangulating mesh UCX_Shelf_19 for collision model
+[2021.01.20-00.45.08:439][ 49]LogFbx: Display: Triangulating mesh UCX_Shelf_20 for collision model
+[2021.01.20-00.45.08:441][ 49]LogFbx: Display: Triangulating mesh UCX_Shelf_21 for collision model
+[2021.01.20-00.45.08:942][ 49]LogStaticMesh: Building static mesh Shelf...
+[2021.01.20-00.45.08:985][ 49]LogStaticMesh: Built static mesh [0.05s] /Game/Geometry/Furniture/Shelves/Shelf/Shelf.Shelf
+[2021.01.20-00.45.08:995][ 49]LogStaticMesh: Warning: Shelf has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.20-00.45.08:995][ 49]LogStaticMesh: Warning: Shelf has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.20-00.45.09:004][ 49]FBXImport: Warning: Shelf has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.01.20-00.45.09:004][ 49]FBXImport: Warning: Shelf has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.01.20-00.45.12:834][106]LogSlate: Window 'Message Log' being destroyed
+[2021.01.20-00.45.12:859][106]LogSlate: Window 'Message Log' being destroyed
+[2021.01.20-00.45.18:355][214]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.01.20-00.45.19:790][214]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.20-00.45.20:977][214]LogUObjectGlobals: Force Deleting 7 Package(s):
+	Asset Name: /Game/Geometry/Furniture/Shelves/Shelf/Material__33.Material__33
+	Asset Name: /Game/Geometry/Furniture/Shelves/Shelf/07_-_Default.07_-_Default
+	Asset Name: /Game/Geometry/Furniture/Shelves/Shelf/Material__28.Material__28
+	Asset Name: /Game/Geometry/Furniture/Shelves/Shelf/Material__29.Material__29
+	Asset Name: /Game/Geometry/Furniture/Shelves/Shelf/Material__30.Material__30
+	Asset Name: /Game/Geometry/Furniture/Shelves/Shelf/Material__31.Material__31
+	Asset Name: /Game/Geometry/Furniture/Shelves/Shelf/Material__32.Material__32
+[2021.01.20-00.45.22:638][214]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 77
+[2021.01.20-00.45.23:342][214]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 67
+[2021.01.20-00.45.23:342][214]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 58
+[2021.01.20-00.45.23:730][214]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 50
+[2021.01.20-00.45.24:785][214]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2021.01.20-00.45.35:253][399]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\eNVISION\Assets\CustomBoxes\Shelves\BookCase.FBX)
+[2021.01.20-00.45.35:283][399]LogFbx: Loading FBX Scene from D:\eNVISION\Assets\CustomBoxes\Shelves\BookCase.FBX
+[2021.01.20-00.45.35:355][399]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.20-00.45.37:362][399]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.01.20-00.45.37:452][399]LogFbx: Display: Triangulating static mesh BookCase
+[2021.01.20-00.45.39:298][399]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 43
+[2021.01.20-00.45.39:298][399]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 37
+[2021.01.20-00.45.39:298][399]LogFbx: Display: Triangulating mesh UCX_BookCase_01 for collision model
+[2021.01.20-00.45.39:301][399]LogFbx: Display: Triangulating mesh UCX_BookCase_02 for collision model
+[2021.01.20-00.45.39:302][399]LogFbx: Display: Triangulating mesh UCX_BookCase_03 for collision model
+[2021.01.20-00.45.39:306][399]LogFbx: Display: Triangulating mesh UCX_BookCase_04 for collision model
+[2021.01.20-00.45.39:307][399]LogFbx: Display: Triangulating mesh UCX_BookCase_05 for collision model
+[2021.01.20-00.45.39:309][399]LogFbx: Display: Triangulating mesh UCX_BookCase_06 for collision model
+[2021.01.20-00.45.39:311][399]LogFbx: Display: Triangulating mesh UCX_BookCase_07 for collision model
+[2021.01.20-00.45.39:312][399]LogFbx: Display: Triangulating mesh UCX_BookCase_08 for collision model
+[2021.01.20-00.45.39:317][399]LogFbx: Display: Triangulating mesh UCX_BookCase_09 for collision model
+[2021.01.20-00.45.39:320][399]LogFbx: Display: Triangulating mesh UCX_BookCase_10 for collision model
+[2021.01.20-00.45.39:322][399]LogFbx: Display: Triangulating mesh UCX_BookCase_11 for collision model
+[2021.01.20-00.45.39:324][399]LogFbx: Display: Triangulating mesh UCX_BookCase_12 for collision model
+[2021.01.20-00.45.39:326][399]LogFbx: Display: Triangulating mesh UCX_BookCase_13 for collision model
+[2021.01.20-00.45.39:328][399]LogFbx: Display: Triangulating mesh UCX_BookCase_14 for collision model
+[2021.01.20-00.45.39:329][399]LogFbx: Display: Triangulating mesh UCX_BookCase_15 for collision model
+[2021.01.20-00.45.39:331][399]LogFbx: Display: Triangulating mesh UCX_BookCase_16 for collision model
+[2021.01.20-00.45.39:334][399]LogFbx: Display: Triangulating mesh UCX_BookCase_17 for collision model
+[2021.01.20-00.45.39:337][399]LogFbx: Display: Triangulating mesh UCX_BookCase_18 for collision model
+[2021.01.20-00.45.39:339][399]LogFbx: Display: Triangulating mesh UCX_BookCase_19 for collision model
+[2021.01.20-00.45.39:341][399]LogFbx: Display: Triangulating mesh UCX_BookCase_20 for collision model
+[2021.01.20-00.45.39:344][399]LogFbx: Display: Triangulating mesh UCX_BookCase_21 for collision model
+[2021.01.20-00.45.39:346][399]LogFbx: Display: Triangulating mesh UCX_BookCase_022 for collision model
+[2021.01.20-00.45.39:349][399]LogFbx: Display: Triangulating mesh UCX_BookCase_023 for collision model
+[2021.01.20-00.45.39:352][399]LogFbx: Display: Triangulating mesh UCX_BookCase_024 for collision model
+[2021.01.20-00.45.39:354][399]LogFbx: Display: Triangulating mesh UCX_BookCase_025 for collision model
+[2021.01.20-00.45.39:355][399]LogFbx: Display: Triangulating mesh UCX_BookCase_026 for collision model
+[2021.01.20-00.45.39:358][399]LogFbx: Display: Triangulating mesh UCX_BookCase_27 for collision model
+[2021.01.20-00.45.39:361][399]LogFbx: Display: Triangulating mesh UCX_BookCase_028 for collision model
+[2021.01.20-00.45.39:363][399]LogFbx: Display: Triangulating mesh UCX_BookCase_29 for collision model
+[2021.01.20-00.45.39:366][399]LogFbx: Display: Triangulating mesh UCX_BookCase_30 for collision model
+[2021.01.20-00.45.39:368][399]LogFbx: Display: Triangulating mesh UCX_BookCase_31 for collision model
+[2021.01.20-00.45.39:652][399]LogStaticMesh: Building static mesh BookCase...
+[2021.01.20-00.45.40:305][399]LogStaticMesh: Built static mesh [0.66s] /Game/Geometry/Furniture/Shelves/Bookcase/BookCase.BookCase
+[2021.01.20-00.45.40:419][399]LogStaticMesh: Warning: BookCase has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.20-00.45.40:419][399]LogStaticMesh: Warning: BookCase has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.20-00.45.40:430][399]FBXImport: Warning: BookCase has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.01.20-00.45.40:430][399]FBXImport: Warning: BookCase has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.01.20-00.45.41:671][417]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 32
+[2021.01.20-00.45.44:286][479]LogSlate: Window 'Message Log' being destroyed
+[2021.01.20-00.45.44:312][479]LogSlate: Window 'Message Log' being destroyed
+[2021.01.20-00.45.45:290][497]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Geometry/Furniture/Shelves/Bookcase/BookCase.BookCase
+[2021.01.20-00.45.45:904][497]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.01.20-00.45.45:904][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-00.45.46:956][498]LogRenderer: Reallocating scene render targets to support 1932x648 Format 26 NumSamples 1 (Frame:1).
+[2021.01.20-00.45.58:288][694]LogSlate: Window 'BookCase' being destroyed
+[2021.01.20-00.45.58:318][694]LogSlate: Window 'BookCase' being destroyed
+[2021.01.20-00.45.58:325][694]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.01.20-00.45.58:325][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-00.46.01:895][775]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 27
+[2021.01.20-00.46.05:457][844]LogActorFactory: Actor Factory created BookCase
+[2021.01.20-00.46.06:918][878]LogActorFactory: Actor Factory created BookCase
+[2021.01.20-00.46.09:393][935]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.01.20-00.46.09:393][935]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.01.20-00.46.19:808][185]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 23
+[2021.01.20-00.46.27:694][310]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.01.20-00.46.29:927][348]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2021.01.20-00.46.38:055][489]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2021.01.20-00.46.42:073][591]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2021.01.20-00.46.42:643][605]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.01.20-00.46.42:643][605]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.01.20-00.46.42:966][614]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2021.01.20-00.46.46:684][694]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2021.01.20-00.46.47:112][703]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.01.20-00.46.55:252][841]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2021.01.20-00.46.58:500][897]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.01.20-00.46.59:794][921]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.01.20-00.47.01:614][953]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.01.20-00.47.01:657][954]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.01.20-00.47.01:757][956]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.01.20-00.47.04:858][ 34]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.01.20-00.47.14:877][258]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\eNVISION\Assets\Downloaded\Sofa_Luca_Temp.FBX)
+[2021.01.20-00.47.14:912][258]LogFbx: Loading FBX Scene from D:\eNVISION\Assets\Downloaded\Sofa_Luca_Temp.FBX
+[2021.01.20-00.47.15:106][258]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.20-00.47.18:344][258]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.01.20-00.47.18:499][258]LogFbx: Display: Triangulating static mesh Sofa_Luca_Collapsed
+[2021.01.20-00.47.33:899][258]LogStaticMesh: Building static mesh Sofa_Luca_Temp...
+[2021.01.20-00.47.38:344][258]LogStaticMesh: Built static mesh [4.45s] /Game/Geometry/Furniture/Seating/Sofa_Luca_Temp.Sofa_Luca_Temp
+[2021.01.20-00.47.41:801][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.01.20-00.47.44:509][259]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/GrayBox002_Auto480EE2D8143D899D2827A3F891728E4CC.tmp' to 'D:/eNVISION/Envision/VREnvision/Saved/Autosaves/Game/VirtualRealityBP/Testing/Maps/GrayBox002_Auto4.umap'
+[2021.01.20-00.47.44:513][259]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Testing/Maps/GrayBox002' took 2.726
+[2021.01.20-00.47.44:513][259]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.726
+[2021.01.20-00.47.44:514][259]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Furniture/Shelves/Shelf/Shelf] ([1] browsable assets)...
+[2021.01.20-00.47.44:529][259]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/Furniture/Shelves/Shelf/Shelf.Shelf]
+[2021.01.20-00.47.44:530][259]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Furniture/Shelves/Shelf/Shelf]
+[2021.01.20-00.47.44:558][259]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Shelf_Auto4C84819E64D4725F7AF3D12BEC4DCD9F6.tmp' to 'D:/eNVISION/Envision/VREnvision/Saved/Autosaves/Game/Geometry/Furniture/Shelves/Shelf/Shelf_Auto4.uasset'
+[2021.01.20-00.47.44:561][259]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Furniture/Shelves/Bookcase/BookCase] ([1] browsable assets)...
+[2021.01.20-00.47.44:577][259]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/Furniture/Shelves/Bookcase/BookCase.BookCase]
+[2021.01.20-00.47.44:577][259]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Furniture/Shelves/Bookcase/BookCase]
+[2021.01.20-00.47.44:638][259]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/BookCase_Auto43A6EC0FF4A2CFCFDE77DBD812437C5E0.tmp' to 'D:/eNVISION/Envision/VREnvision/Saved/Autosaves/Game/Geometry/Furniture/Shelves/Bookcase/BookCase_Auto4.uasset'
+[2021.01.20-00.47.44:640][259]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Furniture/Seating/Sofa_Luca_Temp] ([1] browsable assets)...
+[2021.01.20-00.47.44:660][259]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/Furniture/Seating/Sofa_Luca_Temp.Sofa_Luca_Temp]
+[2021.01.20-00.47.44:660][259]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Furniture/Seating/Sofa_Luca_Temp]
+[2021.01.20-00.47.45:199][259]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Sofa_Luca_Temp_Auto4FB3704134531F90056C833BBD48FE2DD.tmp' to 'D:/eNVISION/Envision/VREnvision/Saved/Autosaves/Game/Geometry/Furniture/Seating/Sofa_Luca_Temp_Auto4.uasset'
+[2021.01.20-00.47.45:200][259]LogFileHelpers: Auto-saving content packages took 0.687
+[2021.01.20-00.47.56:723][296]LogMetaData: Removing '/Game/Geometry/Furniture/Seating/SofaLuca/Sofa_Luca_Temp.Sofa_Luca_Temp' ref from Metadata '/Game/Geometry/Furniture/Seating/Sofa_Luca_Temp.PackageMetaData'
+[2021.01.20-00.47.56:786][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Furniture/Seating/SofaLuca/Sofa_Luca_Temp" FILE="D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Seating/SofaLuca/Sofa_Luca_Temp.uasset" SILENT=true
+[2021.01.20-00.47.57:343][296]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Sofa_Luca_Temp04E32E994C1F8A15913D4EA59C10FCBC.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Seating/SofaLuca/Sofa_Luca_Temp.uasset'
+[2021.01.20-00.47.57:503][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.01.20-00.47.57:527][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.01.20-00.47.57:543][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.01.20-00.47.57:665][296]AssetCheck: New page: Asset Save: Sofa_Luca_Temp
+[2021.01.20-00.47.57:665][296]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Seating/SofaLuca/Sofa_Luca_Temp.Sofa_Luca_Temp
+[2021.01.20-00.48.02:035][653]LogActorFactory: Actor Factory created Sofa_Luca_Temp
+[2021.01.20-00.48.06:080][999]LogActorFactory: Actor Factory created Sofa_Luca_Temp
+[2021.01.20-00.48.08:765][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EntCenter)
+[2021.01.20-00.48.11:913][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (McCoffeeTable)
+[2021.01.20-00.48.19:210][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SofaSophia)
+[2021.01.20-00.48.23:858][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (McCoffeeTable)
+[2021.01.20-00.48.27:017][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EntCenter)
+[2021.01.20-00.48.41:520][ 97]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (McCoffeeTable)
+[2021.01.20-00.48.43:551][225]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EntCenter)
+[2021.01.20-00.48.52:481][ 16]Cmd: TRANSACTION UNDO
+[2021.01.20-00.48.52:481][ 16]LogEditorTransaction: Undo Move Actors
+[2021.01.20-00.48.52:972][ 29]Cmd: TRANSACTION UNDO
+[2021.01.20-00.48.52:972][ 29]LogEditorTransaction: Undo Move Actors
+[2021.01.20-00.49.27:724][680]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\eNVISION\Assets\LivingRoom\TV_001.FBX)
+[2021.01.20-00.49.27:736][680]LogFbx: Loading FBX Scene from D:\eNVISION\Assets\LivingRoom\TV_001.FBX
+[2021.01.20-00.49.27:744][680]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.20-00.49.29:995][680]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.01.20-00.49.30:148][680]LogMaterial: Display: Missing cached shader map for material 01_-_Default, compiling. 
+[2021.01.20-00.49.30:166][680]LogFbx: Display: Triangulating static mesh TV_001
+[2021.01.20-00.49.30:205][680]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2021.01.20-00.49.30:205][680]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.01.20-00.49.30:205][680]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.01.20-00.49.30:205][680]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.01.20-00.49.30:205][680]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.20-00.49.30:205][680]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.01.20-00.49.30:206][680]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.20-00.49.30:206][680]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.01.20-00.49.30:397][680]LogStaticMesh: Building static mesh TV_001...
+[2021.01.20-00.49.30:414][680]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Props/Objects/TV/TV_001.TV_001
+[2021.01.20-00.49.30:959][689]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.01.20-00.49.30:959][689]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.01.20-00.49.41:944][928]LogActorFactory: Actor Factory created TV_001
+[2021.01.20-00.49.43:932][970]LogActorFactory: Actor Factory created TV_001
+[2021.01.20-00.50.03:871][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.01.20-00.50.04:214][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.01.20-00.50.06:569][420]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/GrayBox002A8692D314458F9C2F7E2089ACAFE77E5.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/VirtualRealityBP/Testing/Maps/GrayBox002.umap'
+[2021.01.20-00.50.06:623][420]LogFileHelpers: Saving map 'GrayBox002' took 2.717
+[2021.01.20-00.50.06:623][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Furniture/Shelves/Shelf/Shelf" FILE="D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Shelves/Shelf/Shelf.uasset" SILENT=true
+[2021.01.20-00.50.06:645][420]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Shelf3A4250974E7A851A771A2798B9B2CC66.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Shelves/Shelf/Shelf.uasset'
+[2021.01.20-00.50.06:653][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Furniture/Shelves/Bookcase/BookCase" FILE="D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Shelves/Bookcase/BookCase.uasset" SILENT=true
+[2021.01.20-00.50.06:788][420]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/BookCase151963C14CAA2460CE306F8EE4507F17.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Shelves/Bookcase/BookCase.uasset'
+[2021.01.20-00.50.06:803][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Props/Objects/TV/TV_001" FILE="D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/TV/TV_001.uasset" SILENT=true
+[2021.01.20-00.50.06:837][420]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/TV_00137BC07004E8006623D8F93B51A66AB35.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/TV/TV_001.uasset'
+[2021.01.20-00.50.06:853][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Props/Objects/TV/01_-_Default" FILE="D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/TV/01_-_Default.uasset" SILENT=true
+[2021.01.20-00.50.06:870][420]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/01_-_Default03CAC25B40DB35095D745BB3B676DCCF.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/TV/01_-_Default.uasset'
+[2021.01.20-00.50.06:905][420]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.20-00.50.06:905][420]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002
+[2021.01.20-00.50.06:905][420]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Shelves/Shelf/Shelf.Shelf
+[2021.01.20-00.50.06:905][420]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Shelves/Bookcase/BookCase.BookCase
+[2021.01.20-00.50.06:905][420]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Props/Objects/TV/TV_001.TV_001
+[2021.01.20-00.50.06:905][420]LogContentValidation: Display: Validating Material /Game/Geometry/Props/Objects/TV/01_-_Default.01_-_Default
