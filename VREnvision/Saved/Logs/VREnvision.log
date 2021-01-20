@@ -761,3 +761,1846 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.20-01.10.54:129][259]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
 [2021.01.20-01.11.19:410][128]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
 [2021.01.20-01.11.19:413][128]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2021.01.20-01.13.09:245][899]LogTemp: Repeating last play command: VR Preview
+[2021.01.20-01.13.09:263][899]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.20-01.13.09:263][899]LogHMD: Initializing OVRPlugin session
+[2021.01.20-01.13.09:448][899]LogHMD: Allocating Oculus 4128 x 2272 rendertarget swapchain
+[2021.01.20-01.13.09:450][899]PIE: New page: PIE session: GrayBox002 (Jan 19, 2021, 3:13:09 PM)
+[2021.01.20-01.13.09:450][899]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.01.20-01.13.09:452][899]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.01.20-01.13.09:452][899]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Testing/Maps/UEDPIE_0_GrayBox002
+[2021.01.20-01.13.09:658][899]LogPlayLevel: PIE: StaticDuplicateObject took: (0.205943s)
+[2021.01.20-01.13.09:659][899]LogAIModule: Creating AISystem for world GrayBox002
+[2021.01.20-01.13.09:659][899]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022E00CA3E00), frame # 16899
+[2021.01.20-01.13.09:659][899]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022DCE565E40), frame # 16899
+[2021.01.20-01.13.09:659][899]LogPlayLevel: PIE: World Init took: (0.001256s)
+[2021.01.20-01.13.09:659][899]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002 to /Game/VirtualRealityBP/Testing/Maps/UEDPIE_0_GrayBox002.GrayBox002 (0.207410s)
+[2021.01.20-01.13.09:673][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.01.20-01.13.09:675][899]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.20-01.13.09:675][899]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.20-01.13.09:675][899]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.20-01.13.09:675][899]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.20-01.13.09:675][899]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.20-01.13.09:675][899]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.20-01.13.09:675][899]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.20-01.13.09:675][899]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.20-01.13.09:676][899]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.20-01.13.09:676][899]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.20-01.13.09:686][899]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-01.13.09:686][899]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-01.13.09:686][899]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.20-01.13.09:686][899]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.20-01.13.09:686][899]LogAudioMixer: Display: 4: BackLeft
+[2021.01.20-01.13.09:686][899]LogAudioMixer: Display: 5: BackRight
+[2021.01.20-01.13.09:686][899]LogAudioMixer: Display: 6: SideLeft
+[2021.01.20-01.13.09:686][899]LogAudioMixer: Display: 7: SideRight
+[2021.01.20-01.13.09:690][899]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-01.13.09:690][899]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-01.13.09:693][899]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-01.13.09:693][899]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-01.13.09:700][899]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-01.13.09:700][899]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-01.13.10:036][899]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2021.01.20-01.13.10:036][899]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.20-01.13.10:036][899]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.20-01.13.10:036][899]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.20-01.13.10:037][899]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.20-01.13.10:050][899]LogInit: FAudioDevice initialized.
+[2021.01.20-01.13.10:064][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.20-01.13.10:153][899]LogLoad: Game class is 'GameModeBase'
+[2021.01.20-01.13.10:174][899]LogWorld: Bringing World /Game/VirtualRealityBP/Testing/Maps/UEDPIE_0_GrayBox002.GrayBox002 up for play (max tick rate 0) at 2021.01.19-20.13.10
+[2021.01.20-01.13.10:174][899]LogWorld: Bringing up level for play took: 0.020168
+[2021.01.20-01.13.10:174][899]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.01.20-01.13.10:178][899]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.01.20-01.13.10:183][899]PIE: Server logged in
+[2021.01.20-01.13.10:184][899]PIE: Play in editor total start time 0.924 seconds.
+[2021.01.20-01.13.10:186][899]LogEngine: Changing dynamic resolution state.
+[2021.01.20-01.13.10:332][899]LogRenderer: Warning: Resizing VR buffer to 4128 by 2272
+[2021.01.20-01.13.10:332][899]LogRenderer: Reallocating scene render targets to support 4128x2272 Format 26 NumSamples 1 (Frame:1).
+[2021.01.20-01.13.10:332][899]LogHMD: Allocating Oculus 4128 x 2272 depth rendertarget swapchain
+[2021.01.20-01.13.10:430][902]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.01.20-01.14.32:836][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.20-01.14.32:836][ 73]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Testing/Maps/UEDPIE_0_GrayBox002
+[2021.01.20-01.14.32:869][ 73]LogSlate: Window 'VREnvision Preview [NetMode: Standalone] (64-bit/Windows) OculusHMD' being destroyed
+[2021.01.20-01.14.32:908][ 73]LogWorld: UWorld::CleanupWorld for GrayBox002, bSessionEnded=true, bCleanupResources=true
+[2021.01.20-01.14.32:913][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-01.14.32:921][ 73]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.20-01.14.32:923][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-01.14.32:970][ 73]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022E00CA3E00), frame # 23073
+[2021.01.20-01.14.32:970][ 73]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022DCE565E40), frame # 23073
+[2021.01.20-01.14.32:972][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.01.20-01.14.33:005][ 74]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.01.20-01.14.33:060][ 74]LogEngine: Changing dynamic resolution state.
+[2021.01.20-01.15.15:689][406]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2021.01.20-01.28.06:091][488]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/VirtualRealityBP/Testing/NewMaterial.NewMaterial
+[2021.01.20-01.28.06:297][488]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.28.06:847][488]LogMaterial: Display: Missing cached shader map for material M_SkyBox, compiling. 
+[2021.01.20-01.28.06:896][488]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.01.20-01.28.06:896][488]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.01.20-01.28.06:896][488]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.01.20-01.28.06:896][488]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.01.20-01.28.07:375][488]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.28.07:384][488]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.20-01.28.07:384][488]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.01.20-01.28.07:384][488]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.20-01.28.07:384][488]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.20-01.28.07:384][488]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.20-01.28.07:384][488]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.01.20-01.28.07:386][488]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.28.07:514][488]LogSlate: Took 0.000264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.20-01.28.07:943][488]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.01.20-01.28.07:943][488]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.20-01.28.08:537][520]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.20-01.28.08:655][524]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.01.20-01.28.09:578][563]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.20-01.28.10:328][573]LogSlate: Window 'NewMaterial' being destroyed
+[2021.01.20-01.28.13:753][867]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.01.20-01.28.14:167][910]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.01.20-01.28.14:289][921]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.01.20-01.28.14:413][935]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.01.20-01.28.18:077][354]MaterialEditorStats: Base pass shader: 788 instructions
+[2021.01.20-01.28.18:077][354]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 856 instructions
+[2021.01.20-01.28.18:077][354]MaterialEditorStats: Base pass vertex shader: 233 instructions
+[2021.01.20-01.28.18:077][354]MaterialEditorStats: Texture samplers: 4/16
+[2021.01.20-01.28.18:082][354]LogSlate: Took 0.000293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.01.20-01.28.40:376][900]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.28.40:386][900]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.20-01.28.40:386][900]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.20-01.28.40:386][900]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.20-01.28.40:386][900]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.20-01.28.40:386][900]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.20-01.28.40:386][900]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.20-01.28.40:386][900]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.20-01.28.40:386][900]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.20-01.28.41:582][ 26]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.20-01.28.43:465][238]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.28.43:539][238]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 22
+[2021.01.20-01.28.43:539][238]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 21
+[2021.01.20-01.28.43:542][238]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.28.43:567][238]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.28.45:302][361]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2021.01.20-01.28.46:407][436]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.28.46:719][461]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 22
+[2021.01.20-01.28.47:016][489]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 21
+[2021.01.20-01.28.47:127][501]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2021.01.20-01.28.47:154][504]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2021.01.20-01.28.47:257][516]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2021.01.20-01.28.47:265][517]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2021.01.20-01.28.47:283][519]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2021.01.20-01.28.47:550][548]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.28.47:562][548]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.28.47:576][548]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.20-01.28.47:576][548]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.01.20-01.28.47:581][548]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.28.48:235][584]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.20-01.28.48:634][601]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2021.01.20-01.28.48:935][611]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.01.20-01.28.49:769][640]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.20-01.28.50:081][671]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.01.20-01.28.50:383][685]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.01.20-01.28.50:491][694]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.01.20-01.28.51:344][781]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.01.20-01.28.53:917][ 12]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.01.20-01.28.56:914][334]MaterialEditorStats: Base pass shader: 788 instructions
+[2021.01.20-01.28.56:914][334]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 856 instructions
+[2021.01.20-01.28.56:914][334]MaterialEditorStats: Base pass vertex shader: 233 instructions
+[2021.01.20-01.28.56:914][334]MaterialEditorStats: Texture samplers: 4/16
+[2021.01.20-01.29.09:031][706]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.29.09:040][706]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.01.20-01.29.09:147][707]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2021.01.20-01.29.09:147][707]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.01.20-01.29.09:147][707]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.01.20-01.29.09:147][707]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.01.20-01.29.09:147][707]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.01.20-01.29.09:147][707]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.01.20-01.29.09:147][707]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.01.20-01.29.09:147][707]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.01.20-01.29.09:152][707]LogSlate: Took 0.000332 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.20-01.29.09:891][752]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.01.20-01.29.09:947][756]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.20-01.29.10:734][842]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.01.20-01.29.10:753][844]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.01.20-01.29.11:615][940]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.01.20-01.29.15:011][308]MaterialEditorStats: Base pass shader: 788 instructions
+[2021.01.20-01.29.15:012][308]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 856 instructions
+[2021.01.20-01.29.15:012][308]MaterialEditorStats: Base pass vertex shader: 233 instructions
+[2021.01.20-01.29.15:012][308]MaterialEditorStats: Texture samplers: 4/16
+[2021.01.20-01.29.18:401][692]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.29.18:415][692]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.20-01.29.18:416][692]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.20-01.29.18:416][692]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.20-01.29.18:416][692]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.20-01.29.18:416][692]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.20-01.29.18:416][692]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.20-01.29.18:416][692]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.20-01.29.18:416][692]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.20-01.29.18:417][692]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.01.20-01.29.19:327][756]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.01.20-01.29.19:371][761]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.20-01.29.19:442][768]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.29.19:464][768]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.01.20-01.29.19:473][768]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.20-01.29.20:243][842]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.01.20-01.29.20:382][855]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.01.20-01.29.21:665][954]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.29.21:689][954]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.01.20-01.29.25:335][191]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.01.20-01.29.25:679][213]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2021.01.20-01.29.25:848][228]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2021.01.20-01.29.25:872][230]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2021.01.20-01.29.25:960][238]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.20-01.29.26:001][242]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.01.20-01.29.26:246][263]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.29.26:774][307]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2021.01.20-01.29.26:893][319]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2021.01.20-01.29.27:282][361]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.01.20-01.29.27:526][387]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.01.20-01.29.27:639][400]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.01.20-01.29.27:826][421]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.01.20-01.29.28:238][465]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.20-01.29.28:260][466]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.20-01.29.28:907][516]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.29.29:190][539]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.20-01.29.30:523][669]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.29.32:009][804]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2021.01.20-01.29.32:207][823]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.20-01.29.32:488][851]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.01.20-01.29.32:713][874]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.01.20-01.29.33:133][917]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.29.33:364][933]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.01.20-01.29.34:228][  8]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.01.20-01.29.34:678][ 54]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.01.20-01.29.34:947][ 81]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.20-01.29.35:663][152]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.01.20-01.29.35:784][163]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.29.35:820][163]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.29.35:840][163]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.01.20-01.29.35:848][163]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.29.36:215][184]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2021.01.20-01.29.36:989][261]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.01.20-01.29.38:081][319]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.01.20-01.29.38:338][342]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.29.38:670][364]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.01.20-01.29.38:984][393]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.20-01.29.39:035][398]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.20-01.29.39:512][446]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.29.39:533][446]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2021.01.20-01.29.39:535][446]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.29.39:544][446]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.20-01.29.39:552][446]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.29.40:105][478]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2021.01.20-01.29.40:105][478]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.01.20-01.29.40:378][503]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.01.20-01.29.40:563][523]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.01.20-01.29.40:981][555]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.20-01.29.41:348][578]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.20-01.29.41:683][600]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.01.20-01.29.42:555][656]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.01.20-01.29.42:614][660]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.01.20-01.29.45:267][875]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.29.45:285][875]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.01.20-01.29.46:357][950]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.29.46:382][950]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.01.20-01.29.46:616][952]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.01.20-01.29.46:616][952]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.01.20-01.29.46:616][952]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.20-01.29.47:060][992]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.29.47:083][992]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.01.20-01.29.47:090][992]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2021.01.20-01.29.47:094][992]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.20-01.29.47:359][ 19]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2021.01.20-01.29.47:547][ 38]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.20-01.29.48:266][ 94]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2021.01.20-01.29.48:458][106]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.20-01.29.49:119][161]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.20-01.29.49:285][172]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.01.20-01.29.50:217][229]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.20-01.29.50:890][286]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.29.50:911][286]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.01.20-01.29.50:921][286]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.20-01.29.53:088][437]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.01.20-01.29.53:507][479]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.01.20-01.29.53:921][522]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2021.01.20-01.29.54:336][553]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.01.20-01.29.54:889][599]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.01.20-01.29.55:219][624]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.01.20-01.29.55:583][658]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.01.20-01.29.56:300][715]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.01.20-01.29.56:486][731]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.01.20-01.29.57:135][784]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.01.20-01.29.57:446][808]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.01.20-01.29.57:887][845]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.01.20-01.29.58:445][881]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.01.20-01.29.58:455][881]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.29.58:511][883]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.01.20-01.29.58:917][914]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.01.20-01.29.59:342][951]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2021.01.20-01.29.59:770][990]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.29.59:788][990]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.01.20-01.29.59:808][990]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.01.20-01.29.59:821][990]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.29.59:842][990]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.01.20-01.29.59:853][990]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.29.59:874][990]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.01.20-01.29.59:885][990]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.29.59:899][990]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.20-01.29.59:944][992]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2021.01.20-01.30.00:178][ 13]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.01.20-01.30.00:360][ 30]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2021.01.20-01.30.00:426][ 37]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.20-01.30.00:730][ 68]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.01.20-01.30.01:157][109]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2021.01.20-01.30.01:185][110]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.20-01.30.01:210][112]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2021.01.20-01.30.01:383][127]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.01.20-01.30.01:998][193]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.01.20-01.30.02:134][208]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.01.20-01.30.02:458][244]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.01.20-01.30.02:861][288]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.01.20-01.30.05:958][600]LogMaterialEditor: Applying material NewMaterial
+[2021.01.20-01.30.06:856][600]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.30.06:897][600]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.01.20-01.30.06:897][600]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.01.20-01.30.06:897][600]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.01.20-01.30.06:897][600]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.01.20-01.30.07:070][600]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.01.20-01.30.07:083][600]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.30.07:275][600]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2021.01.20-01.30.07:355][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.01.20-01.30.07:383][600]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.20-01.30.07:934][600]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2021.01.20-01.30.07:934][600]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 19
+[2021.01.20-01.30.07:934][600]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2021.01.20-01.30.08:468][600]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2021.01.20-01.30.08:468][600]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2021.01.20-01.30.08:743][600]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2021.01.20-01.30.08:744][600]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.01.20-01.30.08:755][600]TextureStreamingBuild: Display: Compiling optional shaders took 1.396 seconds.
+[2021.01.20-01.30.08:782][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.01.20-01.30.12:791][ 16]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2021.01.20-01.30.13:123][ 51]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2021.01.20-01.30.13:373][ 78]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.01.20-01.30.13:480][ 89]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2021.01.20-01.30.14:044][133]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.20-01.30.14:074][136]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.01.20-01.30.15:049][224]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.01.20-01.30.15:357][254]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.01.20-01.30.15:914][316]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.01.20-01.30.22:193][ 46]MaterialEditorStats: Base pass shader: 791 instructions
+[2021.01.20-01.30.22:193][ 46]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 858 instructions
+[2021.01.20-01.30.22:193][ 46]MaterialEditorStats: Base pass vertex shader: 233 instructions
+[2021.01.20-01.30.22:193][ 46]MaterialEditorStats: Texture samplers: 5/16
+[2021.01.20-01.30.33:378][376]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.30.33:507][377]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.20-01.30.33:507][377]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.20-01.30.33:507][377]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.20-01.30.33:507][377]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.20-01.30.33:507][377]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.20-01.30.33:507][377]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.20-01.30.33:507][377]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.20-01.30.33:507][377]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.20-01.30.34:279][447]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.20-01.30.38:184][799]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.30.38:254][799]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 22
+[2021.01.20-01.30.38:254][799]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 21
+[2021.01.20-01.30.38:928][841]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 20
+[2021.01.20-01.30.39:222][865]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 19
+[2021.01.20-01.30.39:573][893]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2021.01.20-01.30.39:687][903]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2021.01.20-01.30.39:705][904]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2021.01.20-01.30.39:815][914]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2021.01.20-01.30.39:842][917]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2021.01.20-01.30.39:884][922]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2021.01.20-01.30.39:913][925]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.01.20-01.30.39:938][927]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.20-01.30.40:098][941]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.20-01.30.40:246][956]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.01.20-01.30.40:685][  1]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.20-01.30.40:881][ 23]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.01.20-01.30.40:939][ 29]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.01.20-01.30.41:220][ 58]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.01.20-01.30.41:551][ 95]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.01.20-01.30.42:151][154]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.01.20-01.30.42:838][214]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.01.20-01.30.42:907][222]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.01.20-01.30.46:584][595]MaterialEditorStats: Base pass shader: 791 instructions
+[2021.01.20-01.30.46:584][595]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 858 instructions
+[2021.01.20-01.30.46:584][595]MaterialEditorStats: Base pass vertex shader: 237 instructions
+[2021.01.20-01.30.46:584][595]MaterialEditorStats: Texture samplers: 4/16
+[2021.01.20-01.31.24:306][850]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\School\Ferris\DAGD 320\W0Kdjmi.jpg)
+[2021.01.20-01.31.24:397][850]LogTexture: Display: Building textures: W0Kdjmi (BGRA8, 619X845)
+[2021.01.20-01.31.29:248][290]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.31.29:260][290]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.20-01.31.29:288][290]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2021.01.20-01.31.29:288][290]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2021.01.20-01.31.29:288][290]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2021.01.20-01.31.29:288][290]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2021.01.20-01.31.29:288][290]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2021.01.20-01.31.29:288][290]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2021.01.20-01.31.29:288][290]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2021.01.20-01.31.29:288][290]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2021.01.20-01.31.29:291][290]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.01.20-01.31.29:295][290]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.20-01.31.29:856][316]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2021.01.20-01.31.30:004][326]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 21
+[2021.01.20-01.31.30:060][330]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2021.01.20-01.31.30:074][331]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2021.01.20-01.31.30:087][332]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2021.01.20-01.31.30:152][337]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2021.01.20-01.31.30:519][355]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2021.01.20-01.31.30:814][369]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2021.01.20-01.31.31:125][370]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2021.01.20-01.31.31:125][370]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.01.20-01.31.31:470][382]LogSlate: Window 'NewMaterial' being destroyed
+[2021.01.20-01.31.31:644][398]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.01.20-01.31.31:798][409]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2021.01.20-01.31.32:461][455]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2021.01.20-01.31.32:567][464]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.01.20-01.31.33:166][504]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.20-01.31.33:848][557]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.01.20-01.31.33:996][569]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.20-01.31.34:872][641]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.01.20-01.31.34:966][650]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.01.20-01.31.35:636][699]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.01.20-01.31.35:788][714]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.01.20-01.31.35:837][719]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.01.20-01.31.36:283][752]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.31.36:452][759]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2021.01.20-01.31.36:664][769]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2021.01.20-01.31.36:690][771]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 20
+[2021.01.20-01.31.36:704][772]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2021.01.20-01.31.36:785][780]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2021.01.20-01.31.36:796][781]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2021.01.20-01.31.36:974][790]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2021.01.20-01.31.37:067][792]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2021.01.20-01.31.37:144][799]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2021.01.20-01.31.37:184][803]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2021.01.20-01.31.37:199][804]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.01.20-01.31.37:210][805]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2021.01.20-01.31.37:304][813]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2021.01.20-01.31.37:312][814]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.01.20-01.31.37:786][845]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.20-01.31.38:162][875]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.01.20-01.31.38:207][878]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.01.20-01.31.38:297][881]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.01.20-01.31.38:746][922]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.01.20-01.31.38:969][945]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.31.38:985][945]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 22
+[2021.01.20-01.31.38:994][945]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.20-01.31.39:701][998]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2021.01.20-01.31.40:167][ 33]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 24
+[2021.01.20-01.31.40:747][ 62]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2021.01.20-01.31.41:243][110]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2021.01.20-01.31.41:541][139]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 21
+[2021.01.20-01.31.42:086][193]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2021.01.20-01.31.43:124][290]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 19
+[2021.01.20-01.31.43:187][296]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2021.01.20-01.31.43:380][315]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 17
+[2021.01.20-01.31.43:883][364]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2021.01.20-01.31.43:903][366]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2021.01.20-01.31.43:966][373]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2021.01.20-01.31.44:117][389]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.01.20-01.31.44:340][412]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.31.44:366][412]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.20-01.31.44:377][412]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 26
+[2021.01.20-01.31.44:506][419]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 25
+[2021.01.20-01.31.44:882][443]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 24
+[2021.01.20-01.31.44:942][447]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 23
+[2021.01.20-01.31.45:299][475]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2021.01.20-01.31.45:466][481]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2021.01.20-01.31.45:620][490]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 20
+[2021.01.20-01.31.45:772][503]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2021.01.20-01.31.45:961][522]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2021.01.20-01.31.46:067][525]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2021.01.20-01.31.46:935][609]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2021.01.20-01.31.47:192][635]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.31.47:219][635]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.20-01.31.48:251][736]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2021.01.20-01.31.49:965][909]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.01.20-01.31.50:612][972]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.01.20-01.31.50:664][974]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.01.20-01.31.51:396][ 43]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.01.20-01.31.51:636][ 66]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.01.20-01.31.52:039][105]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.01.20-01.31.52:623][163]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2021.01.20-01.31.52:922][192]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.01.20-01.31.52:923][192]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.31.53:763][276]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.01.20-01.31.53:981][284]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.01.20-01.31.54:536][330]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.01.20-01.31.54:892][359]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.01.20-01.31.55:058][376]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.01.20-01.31.55:483][420]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.20-01.31.55:767][442]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.01.20-01.31.56:322][477]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.01.20-01.31.56:720][511]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.01.20-01.31.57:223][565]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.31.57:243][565]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.20-01.31.57:311][567]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2021.01.20-01.31.58:202][651]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.01.20-01.31.58:729][706]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2021.01.20-01.31.59:114][748]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2021.01.20-01.31.59:668][809]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.01.20-01.32.01:792][ 18]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.20-01.32.01:931][ 33]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.20-01.32.02:778][114]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2021.01.20-01.32.02:934][130]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2021.01.20-01.32.03:504][188]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.01.20-01.32.03:914][229]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.01.20-01.32.04:185][257]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.20-01.32.04:318][270]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.01.20-01.32.07:190][576]MaterialEditorStats: Base pass shader: 792 instructions
+[2021.01.20-01.32.07:190][576]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 859 instructions
+[2021.01.20-01.32.07:190][576]MaterialEditorStats: Base pass vertex shader: 237 instructions
+[2021.01.20-01.32.07:190][576]MaterialEditorStats: Texture samplers: 5/16
+[2021.01.20-01.32.07:190][576]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.01.20-01.32.07:190][576]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.20-01.32.22:860][435]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.32.22:910][436]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.20-01.32.22:910][436]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.20-01.32.22:910][436]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.20-01.32.22:910][436]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.20-01.32.22:910][436]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.20-01.32.22:910][436]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.20-01.32.22:910][436]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.20-01.32.22:910][436]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.20-01.32.23:842][537]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.20-01.32.28:327][907]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.32.28:337][907]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2021.01.20-01.32.28:337][907]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.01.20-01.32.28:337][907]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.01.20-01.32.28:565][926]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.01.20-01.32.28:721][939]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.20-01.32.28:779][941]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.01.20-01.32.28:816][945]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.01.20-01.32.28:858][950]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.01.20-01.32.29:293][999]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.01.20-01.32.34:364][557]MaterialEditorStats: Base pass shader: 792 instructions
+[2021.01.20-01.32.34:364][557]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 859 instructions
+[2021.01.20-01.32.34:364][557]MaterialEditorStats: Base pass vertex shader: 233 instructions
+[2021.01.20-01.32.34:364][557]MaterialEditorStats: Texture samplers: 5/16
+[2021.01.20-01.32.34:364][557]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.01.20-01.32.42:711][545]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.32.42:725][546]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.20-01.32.42:725][546]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.20-01.32.42:725][546]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.20-01.32.42:725][546]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.20-01.32.42:725][546]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.20-01.32.42:725][546]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.20-01.32.42:725][546]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.20-01.32.42:725][546]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.20-01.32.43:664][616]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.20-01.32.44:285][669]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.32.44:297][669]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.01.20-01.32.44:307][669]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.20-01.32.44:447][681]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.01.20-01.32.44:997][719]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.32.48:337][968]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.32.48:356][968]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.20-01.32.49:116][ 19]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.01.20-01.32.49:176][ 24]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2021.01.20-01.32.49:331][ 40]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2021.01.20-01.32.49:377][ 44]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.01.20-01.32.49:472][ 54]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.01.20-01.32.49:522][ 59]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.01.20-01.32.50:221][116]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.01.20-01.32.50:411][137]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.01.20-01.32.50:823][182]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.01.20-01.32.51:120][214]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.20-01.32.51:322][233]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.32.51:761][274]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.01.20-01.32.51:896][286]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2021.01.20-01.32.52:753][343]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2021.01.20-01.32.52:860][354]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.01.20-01.32.53:525][398]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.01.20-01.32.54:407][485]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.32.54:425][485]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.20-01.32.55:208][539]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2021.01.20-01.32.55:760][588]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.01.20-01.32.55:809][593]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2021.01.20-01.32.56:049][618]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2021.01.20-01.32.56:552][662]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.01.20-01.32.56:719][680]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.01.20-01.32.56:730][681]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.01.20-01.32.57:635][753]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.01.20-01.32.59:564][926]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.01.20-01.32.59:784][949]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.01.20-01.33.00:562][ 31]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.01.20-01.33.00:571][ 32]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.01.20-01.33.01:140][ 90]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.33.01:154][ 90]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2021.01.20-01.33.01:553][117]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2021.01.20-01.33.01:583][119]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.01.20-01.33.01:991][148]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2021.01.20-01.33.02:007][149]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.01.20-01.33.02:351][176]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2021.01.20-01.33.02:681][202]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.01.20-01.33.02:956][218]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.20-01.33.03:275][247]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.01.20-01.33.03:396][258]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.20-01.33.03:891][302]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.01.20-01.33.04:111][323]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.01.20-01.33.04:227][332]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.33.04:765][378]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.01.20-01.33.04:856][387]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.20-01.33.05:756][465]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.20-01.33.05:849][474]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.20-01.33.06:491][532]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.20-01.33.08:127][687]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.01.20-01.33.08:345][707]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.20-01.33.08:912][759]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.01.20-01.33.09:111][777]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.01.20-01.33.09:372][800]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.01.20-01.33.09:738][834]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.01.20-01.33.09:773][837]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.01.20-01.33.14:481][282]MaterialEditorStats: Base pass shader: 788 instructions
+[2021.01.20-01.33.14:481][282]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 856 instructions
+[2021.01.20-01.33.14:481][282]MaterialEditorStats: Base pass vertex shader: 233 instructions
+[2021.01.20-01.33.14:481][282]MaterialEditorStats: Texture samplers: 4/16
+[2021.01.20-01.33.16:167][470]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.33.16:180][470]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.20-01.33.16:184][470]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.20-01.33.16:184][470]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.20-01.33.16:184][470]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.20-01.33.16:184][470]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.20-01.33.16:184][470]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.20-01.33.16:184][470]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.20-01.33.16:184][470]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.20-01.33.16:184][470]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.20-01.33.17:158][557]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.01.20-01.33.17:177][559]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.01.20-01.33.17:930][630]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.01.20-01.33.18:033][634]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.01.20-01.33.18:907][721]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.20-01.33.20:148][836]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.33.20:156][836]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.20-01.33.20:156][836]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.01.20-01.33.22:152][ 31]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.01.20-01.33.22:422][ 57]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.01.20-01.33.22:575][ 73]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.01.20-01.33.22:659][ 80]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.01.20-01.33.22:680][ 82]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.20-01.33.22:936][108]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.01.20-01.33.23:135][124]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.01.20-01.33.27:987][555]MaterialEditorStats: Base pass shader: 792 instructions
+[2021.01.20-01.33.27:987][555]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 859 instructions
+[2021.01.20-01.33.27:987][555]MaterialEditorStats: Base pass vertex shader: 237 instructions
+[2021.01.20-01.33.27:987][555]MaterialEditorStats: Texture samplers: 5/16
+[2021.01.20-01.33.27:987][555]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.01.20-01.33.27:987][555]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.20-01.33.30:297][829]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.33.30:342][830]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.20-01.33.30:342][830]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.20-01.33.30:342][830]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.20-01.33.30:342][830]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.20-01.33.30:342][830]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.20-01.33.30:342][830]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.20-01.33.30:342][830]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.20-01.33.30:342][830]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.20-01.33.31:216][911]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.20-01.33.33:864][154]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.33.33:874][154]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.20-01.33.33:874][154]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.01.20-01.33.35:373][283]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.33.36:123][343]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2021.01.20-01.33.36:323][364]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2021.01.20-01.33.36:494][380]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.01.20-01.33.36:494][380]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.01.20-01.33.36:554][387]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.20-01.33.36:631][395]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.01.20-01.33.37:550][488]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.01.20-01.33.37:664][501]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.01.20-01.33.38:494][586]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.33.39:236][654]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.33.40:225][733]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.01.20-01.33.40:599][770]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.33.40:732][777]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.20-01.33.42:773][980]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2021.01.20-01.33.42:987][  2]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.01.20-01.33.43:218][ 21]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.01.20-01.33.43:457][ 43]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.20-01.33.43:991][ 92]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2021.01.20-01.33.44:054][ 98]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.01.20-01.33.44:075][100]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.01.20-01.33.44:910][183]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.01.20-01.33.49:507][648]MaterialEditorStats: Base pass shader: 792 instructions
+[2021.01.20-01.33.49:507][648]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 859 instructions
+[2021.01.20-01.33.49:507][648]MaterialEditorStats: Base pass vertex shader: 237 instructions
+[2021.01.20-01.33.49:507][648]MaterialEditorStats: Texture samplers: 5/16
+[2021.01.20-01.33.49:507][648]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.01.20-01.33.49:507][648]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.20-01.34.04:000][384]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.34.04:026][385]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.20-01.34.04:026][385]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.20-01.34.04:026][385]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.20-01.34.04:026][385]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.20-01.34.04:026][385]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.20-01.34.04:026][385]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.20-01.34.04:026][385]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.20-01.34.04:026][385]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.20-01.34.04:906][468]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.20-01.34.06:761][632]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.34.06:772][632]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.20-01.34.06:772][632]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.01.20-01.34.10:167][971]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.01.20-01.34.10:423][998]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.01.20-01.34.10:566][ 14]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.01.20-01.34.10:566][ 14]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.01.20-01.34.10:698][ 27]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.34.10:746][ 29]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.01.20-01.34.10:764][ 31]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.01.20-01.34.11:092][ 64]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.01.20-01.34.11:465][ 97]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.01.20-01.34.12:003][150]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.01.20-01.34.12:907][228]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.34.13:044][236]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.01.20-01.34.13:552][280]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.01.20-01.34.16:978][585]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.01.20-01.34.17:007][588]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.01.20-01.34.17:434][630]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.01.20-01.34.17:506][638]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.01.20-01.34.18:036][679]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.01.20-01.34.18:036][679]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.01.20-01.34.18:182][695]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.34.18:199][695]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.34.18:391][713]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.01.20-01.34.18:676][742]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.20-01.34.19:821][822]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.01.20-01.34.19:904][830]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2021.01.20-01.34.20:907][919]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.01.20-01.34.21:793][  4]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.34.23:735][163]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.20-01.34.23:930][182]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.34.24:323][209]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.01.20-01.34.24:598][229]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.01.20-01.34.24:632][232]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.01.20-01.34.25:199][285]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2021.01.20-01.34.25:310][297]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.20-01.34.25:599][327]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.01.20-01.34.26:495][404]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.01.20-01.34.26:583][414]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.01.20-01.34.27:706][524]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.34.27:723][524]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.34.27:746][525]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.01.20-01.34.30:624][768]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.01.20-01.34.31:018][804]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.01.20-01.34.31:202][822]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.20-01.34.31:933][894]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.01.20-01.34.32:039][904]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.01.20-01.34.32:165][916]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.01.20-01.34.32:991][958]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.01.20-01.34.33:137][966]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.20-01.34.37:551][408]MaterialEditorStats: Base pass shader: 792 instructions
+[2021.01.20-01.34.37:551][408]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 859 instructions
+[2021.01.20-01.34.37:551][408]MaterialEditorStats: Base pass vertex shader: 233 instructions
+[2021.01.20-01.34.37:551][408]MaterialEditorStats: Texture samplers: 5/16
+[2021.01.20-01.34.37:551][408]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.01.20-01.34.47:657][596]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.34.47:704][597]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.20-01.34.47:705][597]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.20-01.34.47:705][597]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.20-01.34.47:705][597]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.20-01.34.47:705][597]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.20-01.34.47:705][597]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.20-01.34.47:705][597]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.20-01.34.47:705][597]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.20-01.34.48:468][670]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.34.48:541][672]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.20-01.34.48:621][675]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.01.20-01.34.49:068][714]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.34.50:292][815]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.34.50:317][815]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.20-01.34.53:919][ 72]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.01.20-01.34.54:259][103]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2021.01.20-01.34.54:391][113]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2021.01.20-01.34.54:401][114]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.01.20-01.34.54:512][125]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.20-01.34.54:523][126]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.01.20-01.34.54:926][166]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.01.20-01.34.55:318][205]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.01.20-01.34.55:348][208]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.01.20-01.34.55:398][213]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.01.20-01.34.56:106][282]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.01.20-01.34.56:237][295]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.01.20-01.34.57:060][379]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2021.01.20-01.34.57:362][407]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.34.57:376][407]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.20-01.34.57:833][450]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.01.20-01.35.00:294][643]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.01.20-01.35.00:617][677]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2021.01.20-01.35.00:927][708]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.01.20-01.35.01:316][738]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.01.20-01.35.01:442][747]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.01.20-01.35.01:582][750]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.01.20-01.35.01:683][758]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.01.20-01.35.04:707][ 71]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.35.04:715][ 71]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.20-01.35.04:715][ 71]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.01.20-01.35.04:715][ 71]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.20-01.35.04:715][ 71]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.01.20-01.35.04:722][ 71]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.35.04:745][ 71]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.20-01.35.05:697][171]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2021.01.20-01.35.06:460][242]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.01.20-01.35.06:969][295]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2021.01.20-01.35.07:128][312]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2021.01.20-01.35.07:191][319]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2021.01.20-01.35.07:338][334]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.35.07:360][334]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.20-01.35.07:914][375]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2021.01.20-01.35.08:159][396]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.35.08:581][417]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.35.10:938][641]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.01.20-01.35.11:383][690]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.01.20-01.35.11:483][701]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.20-01.35.11:735][727]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2021.01.20-01.35.12:437][800]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.01.20-01.35.12:455][802]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.01.20-01.35.12:545][812]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.01.20-01.35.12:571][815]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2021.01.20-01.35.12:827][845]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.01.20-01.35.13:485][916]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.01.20-01.35.13:785][949]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.01.20-01.35.14:006][974]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.20-01.35.14:352][ 14]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.01.20-01.35.19:025][538]MaterialEditorStats: Base pass shader: 788 instructions
+[2021.01.20-01.35.19:025][538]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 856 instructions
+[2021.01.20-01.35.19:025][538]MaterialEditorStats: Base pass vertex shader: 233 instructions
+[2021.01.20-01.35.19:025][538]MaterialEditorStats: Texture samplers: 4/16
+[2021.01.20-01.35.59:934][418]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.35.59:984][419]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.20-01.35.59:984][419]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.20-01.35.59:984][419]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.20-01.35.59:984][419]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.20-01.35.59:984][419]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.20-01.35.59:984][419]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.20-01.35.59:984][419]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.20-01.35.59:984][419]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.20-01.36.01:114][531]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.20-01.36.04:479][858]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.36.04:490][858]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.20-01.36.04:490][858]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.01.20-01.36.05:775][985]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.01.20-01.36.06:042][ 10]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.01.20-01.36.06:096][ 16]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.01.20-01.36.06:196][ 27]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.01.20-01.36.06:315][ 38]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.01.20-01.36.06:359][ 43]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.01.20-01.36.06:690][ 63]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.01.20-01.36.06:881][ 82]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.36.07:110][104]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.01.20-01.36.07:651][149]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.20-01.36.09:909][380]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.36.10:697][442]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.01.20-01.36.11:165][469]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.01.20-01.36.11:508][500]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.36.12:596][580]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2021.01.20-01.36.12:825][585]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.20-01.36.12:842][587]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.01.20-01.36.12:860][589]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.01.20-01.36.13:782][664]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2021.01.20-01.36.13:881][675]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.01.20-01.36.13:891][676]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.01.20-01.36.14:854][769]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.01.20-01.36.17:373][973]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.20-01.36.20:456][309]MaterialEditorStats: Base pass shader: 878 instructions
+[2021.01.20-01.36.20:456][309]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 946 instructions
+[2021.01.20-01.36.20:456][309]MaterialEditorStats: Base pass vertex shader: 233 instructions
+[2021.01.20-01.36.20:456][309]MaterialEditorStats: Texture samplers: 5/16
+[2021.01.20-01.36.20:456][309]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.01.20-01.36.29:525][364]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.36.29:541][365]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.20-01.36.29:541][365]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.20-01.36.29:541][365]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.20-01.36.29:541][365]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.20-01.36.29:541][365]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.20-01.36.29:541][365]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.20-01.36.29:541][365]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.20-01.36.29:541][365]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.20-01.36.29:767][388]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.20-01.36.29:904][402]LogShaderCompilers: Warning: Failed to compile Material /Engine/Transient.NewMaterial for platform PCD3D_SM5, Default Material will be used in game.
+[2021.01.20-01.36.29:904][402]LogShaderCompilers: Display: /Engine/Generated/Material.ush(2227,18-172):  err0r X3017: 'MaterialExpressionNoise': cannot implicitly convert from 'float2' to 'float3'
+[2021.01.20-01.36.29:912][403]MaterialEditorStats: Error: [SM5] /Engine/Generated/Material.ush(2227,18-172):  error X3017: 'MaterialExpressionNoise': cannot implicitly convert from 'float2' to 'float3'
+[2021.01.20-01.36.38:256][398]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.36.38:281][399]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.20-01.36.38:281][399]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.20-01.36.38:281][399]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.20-01.36.38:281][399]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.20-01.36.38:281][399]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.20-01.36.38:281][399]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.20-01.36.38:281][399]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.20-01.36.38:281][399]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.20-01.36.38:473][421]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.01.20-01.36.38:576][433]LogShaderCompilers: Warning: Failed to compile Material /Engine/Transient.NewMaterial for platform PCD3D_SM5, Default Material will be used in game.
+[2021.01.20-01.36.38:576][433]LogShaderCompilers: Display: /Engine/Generated/Material.ush(2227,18-172):  err0r X3017: 'MaterialExpressionNoise': cannot implicitly convert from 'float2' to 'float3'
+[2021.01.20-01.36.38:584][434]MaterialEditorStats: Error: [SM5] /Engine/Generated/Material.ush(2227,18-172):  error X3017: 'MaterialExpressionNoise': cannot implicitly convert from 'float2' to 'float3'
+[2021.01.20-01.36.40:092][606]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.36.40:107][607]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.20-01.36.40:107][607]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.20-01.36.40:107][607]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.20-01.36.40:107][607]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.20-01.36.40:107][607]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.20-01.36.40:107][607]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.20-01.36.40:107][607]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.20-01.36.40:107][607]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.20-01.36.40:273][625]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.20-01.36.40:383][634]LogShaderCompilers: Warning: Failed to compile Material /Engine/Transient.NewMaterial for platform PCD3D_SM5, Default Material will be used in game.
+[2021.01.20-01.36.40:383][634]LogShaderCompilers: Display: /Engine/Generated/Material.ush(2226,18-172):  err0r X3017: 'MaterialExpressionNoise': cannot implicitly convert from 'float2' to 'float3'
+[2021.01.20-01.36.40:391][635]MaterialEditorStats: Error: [SM5] /Engine/Generated/Material.ush(2226,18-172):  error X3017: 'MaterialExpressionNoise': cannot implicitly convert from 'float2' to 'float3'
+[2021.01.20-01.36.41:991][820]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.36.42:010][822]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.20-01.36.42:010][822]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.20-01.36.42:010][822]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.20-01.36.42:011][822]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.20-01.36.42:011][822]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.20-01.36.42:011][822]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.20-01.36.42:011][822]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.20-01.36.42:011][822]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.20-01.36.42:175][841]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.20-01.36.42:294][855]LogShaderCompilers: Warning: Failed to compile Material /Engine/Transient.NewMaterial for platform PCD3D_SM5, Default Material will be used in game.
+[2021.01.20-01.36.42:294][855]LogShaderCompilers: Display: /Engine/Generated/Material.ush(2227,18-172):  err0r X3017: 'MaterialExpressionNoise': cannot implicitly convert from 'float2' to 'float3'
+[2021.01.20-01.36.42:302][856]MaterialEditorStats: Error: [SM5] /Engine/Generated/Material.ush(2227,18-172):  error X3017: 'MaterialExpressionNoise': cannot implicitly convert from 'float2' to 'float3'
+[2021.01.20-01.36.46:149][285]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.36.46:158][285]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.36.46:173][286]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.20-01.36.46:173][286]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.20-01.36.46:173][286]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.20-01.36.46:173][286]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.20-01.36.46:173][286]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.20-01.36.46:173][286]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.20-01.36.46:173][286]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.20-01.36.46:174][286]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.20-01.36.46:332][303]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.20-01.36.46:502][321]LogShaderCompilers: Warning: Failed to compile Material /Engine/Transient.NewMaterial for platform PCD3D_SM5, Default Material will be used in game.
+[2021.01.20-01.36.46:502][321]LogShaderCompilers: Display: /Engine/Generated/Material.ush(2228,18-172):  err0r X3017: 'MaterialExpressionNoise': cannot implicitly convert from 'float2' to 'float3'
+[2021.01.20-01.36.46:510][322]MaterialEditorStats: Error: [SM5] /Engine/Generated/Material.ush(2228,18-172):  error X3017: 'MaterialExpressionNoise': cannot implicitly convert from 'float2' to 'float3'
+[2021.01.20-01.36.47:934][492]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.36.47:942][492]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.20-01.36.47:942][492]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.20-01.36.47:942][492]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.20-01.36.47:942][492]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.20-01.36.47:942][492]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.20-01.36.47:942][492]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.20-01.36.47:942][492]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.20-01.36.47:943][492]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.20-01.36.47:943][492]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.36.48:128][510]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.20-01.36.48:173][511]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.01.20-01.36.48:173][511]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.01.20-01.36.48:173][511]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2021.01.20-01.36.48:173][511]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.20-01.36.48:198][514]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.01.20-01.36.48:206][515]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.20-01.36.48:206][515]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.20-01.36.48:335][529]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.01.20-01.36.48:463][544]LogShaderCompilers: Warning: Failed to compile Material /Engine/Transient.NewMaterial for platform PCD3D_SM5, Default Material will be used in game.
+[2021.01.20-01.36.48:463][544]LogShaderCompilers: Display: /Engine/Generated/Material.ush(2228,18-172):  err0r X3017: 'MaterialExpressionNoise': cannot implicitly convert from 'float2' to 'float3'
+[2021.01.20-01.36.48:471][545]MaterialEditorStats: Error: [SM5] /Engine/Generated/Material.ush(2228,18-172):  error X3017: 'MaterialExpressionNoise': cannot implicitly convert from 'float2' to 'float3'
+[2021.01.20-01.37.07:994][ 63]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.37.08:039][ 64]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.20-01.37.08:039][ 64]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.20-01.37.08:039][ 64]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.20-01.37.08:039][ 64]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.20-01.37.08:039][ 64]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.20-01.37.08:039][ 64]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.20-01.37.08:039][ 64]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.20-01.37.08:039][ 64]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.20-01.37.08:164][ 79]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.20-01.37.08:296][ 94]LogShaderCompilers: Warning: Failed to compile Material /Engine/Transient.NewMaterial for platform PCD3D_SM5, Default Material will be used in game.
+[2021.01.20-01.37.08:296][ 94]LogShaderCompilers: Display: /Engine/Generated/Material.ush(2228,18-172):  err0r X3017: 'MaterialExpressionNoise': cannot implicitly convert from 'float2' to 'float3'
+[2021.01.20-01.37.08:305][ 95]MaterialEditorStats: Error: [SM5] /Engine/Generated/Material.ush(2228,18-172):  error X3017: 'MaterialExpressionNoise': cannot implicitly convert from 'float2' to 'float3'
+[2021.01.20-01.37.09:329][213]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.37.09:376][214]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.20-01.37.09:376][214]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.20-01.37.09:376][214]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.20-01.37.09:376][214]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.20-01.37.09:376][214]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.20-01.37.09:376][214]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.20-01.37.09:376][214]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.20-01.37.09:376][214]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.20-01.37.10:147][272]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.20-01.37.11:938][332]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.37.11:948][332]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.20-01.37.11:948][332]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.01.20-01.37.11:952][332]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.01.20-01.37.11:968][332]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.01.20-01.37.13:254][377]LogSlate: Window 'NewMaterial' being destroyed
+[2021.01.20-01.37.15:039][469]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.01.20-01.37.15:251][482]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.01.20-01.37.15:383][489]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.01.20-01.37.15:406][491]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.01.20-01.37.15:483][497]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.01.20-01.37.15:537][502]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.01.20-01.37.15:847][521]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.01.20-01.37.16:200][550]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.01.20-01.37.16:279][558]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.37.16:297][558]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.01.20-01.37.16:679][580]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.01.20-01.37.16:894][599]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.01.20-01.37.17:632][652]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2021.01.20-01.37.17:685][657]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.37.17:705][657]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.01.20-01.37.18:201][684]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.01.20-01.37.18:509][710]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.01.20-01.37.21:158][947]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.01.20-01.37.21:299][959]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2021.01.20-01.37.21:493][974]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.20-01.37.21:518][976]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.20-01.37.22:019][ 16]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.01.20-01.37.22:453][ 45]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.20-01.37.22:644][ 57]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.20-01.37.22:812][ 72]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2021.01.20-01.37.23:490][131]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.20-01.37.23:521][132]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.01.20-01.37.24:195][184]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.01.20-01.37.27:050][460]MaterialEditorStats: Base pass shader: 793 instructions
+[2021.01.20-01.37.27:050][460]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 860 instructions
+[2021.01.20-01.37.27:050][460]MaterialEditorStats: Base pass vertex shader: 237 instructions
+[2021.01.20-01.37.27:050][460]MaterialEditorStats: Texture samplers: 5/16
+[2021.01.20-01.37.27:050][460]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.01.20-01.37.27:050][460]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.20-01.37.41:396][ 25]LogSlate: Window 'Message' being destroyed
+[2021.01.20-01.37.41:407][ 25]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/VirtualRealityBP/Testing/NewMaterial.NewMaterial
+(Selecting 'No' will cause all changes to be lost!)
+[2021.01.20-01.37.41:420][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.01.20-01.37.47:562][ 25]LogSlate: Window 'Save Content' being destroyed
+[2021.01.20-01.37.48:790][156]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.01.20-01.37.48:790][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-01.37.51:065][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.01.20-01.37.52:137][411]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.20-01.37.53:693][411]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/VirtualRealityBP/Testing/W0Kdjmi.W0Kdjmi
+[2021.01.20-01.37.55:086][411]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.37.55:086][411]LogMaterial: Warning: /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.01.20-01.37.55:086][411]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.01.20-01.37.55:087][411]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.20-01.37.55:088][411]LogMaterial: Warning: /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.01.20-01.37.55:088][411]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.01.20-01.37.55:318][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.01.20-01.37.56:550][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.01.20-01.37.57:334][517]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.20-01.37.57:465][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.01.20-02.37.25:944][559]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap
+[2021.01.20-02.37.25:960][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.01.20-02.37.25:964][559]Cmd: MAP LOAD FILE="../../../../School/Ferris/Capstone/Envision/VREnvision/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.20-02.37.25:964][559]LightingResults: New page: Lighting Build
+[2021.01.20-02.37.25:964][559]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2021.01.20-02.37.26:009][559]LogWorld: UWorld::CleanupWorld for GrayBox002, bSessionEnded=true, bCleanupResources=true
+[2021.01.20-02.37.26:009][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-02.37.26:009][559]MapCheck: New page: Map Check
+[2021.01.20-02.37.26:009][559]LightingResults: New page: Lighting Build
+[2021.01.20-02.37.26:133][559]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022E010B0A40), frame # 514559
+[2021.01.20-02.37.26:133][559]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022DD97B6200), frame # 514559
+[2021.01.20-02.37.26:142][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.01.20-02.37.26:253][559]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.20-02.37.26:253][559]LogAIModule: Creating AISystem for world MotionControllerMap
+[2021.01.20-02.37.26:253][559]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022E23726200), frame # 514559
+[2021.01.20-02.37.26:253][559]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022DA45947C0), frame # 514559
+[2021.01.20-02.37.26:269][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.01.20-02.37.26:297][559]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.20-02.37.26:298][559]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.102ms to complete.
+[2021.01.20-02.37.26:298][559]LogFileHelpers: Loading map 'MotionControllerMap' took 0.334
+[2021.01.20-02.37.47:118][971]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Testing/Doors/Door.Door
+[2021.01.20-02.37.47:396][971]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 125 classes and 0 folders.
+[2021.01.20-02.39.04:543][179]BlueprintLog: New page: Compile Door
+[2021.01.20-02.39.04:594][179]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.01.20-02.39.29:686][730]LogTemp: Repeating last play command: VR Preview
+[2021.01.20-02.39.29:704][730]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.20-02.39.29:704][730]LogHMD: Initializing OVRPlugin session
+[2021.01.20-02.39.29:905][730]LogHMD: Allocating Oculus 4128 x 2272 rendertarget swapchain
+[2021.01.20-02.39.29:906][730]PIE: New page: PIE session: MotionControllerMap (Jan 19, 2021, 4:39:29 PM)
+[2021.01.20-02.39.29:906][730]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.01.20-02.39.29:923][730]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016475s)
+[2021.01.20-02.39.29:924][730]LogAIModule: Creating AISystem for world MotionControllerMap
+[2021.01.20-02.39.29:924][730]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022E739D7E00), frame # 525730
+[2021.01.20-02.39.29:924][730]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022E745E2D40), frame # 525730
+[2021.01.20-02.39.29:924][730]LogPlayLevel: PIE: World Init took: (0.001109s)
+[2021.01.20-02.39.29:924][730]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.017720s)
+[2021.01.20-02.39.29:945][730]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.01.20-02.39.29:948][730]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.20-02.39.29:948][730]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.20-02.39.29:948][730]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.20-02.39.29:948][730]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.20-02.39.29:948][730]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.20-02.39.29:948][730]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.20-02.39.29:948][730]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.20-02.39.29:948][730]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.20-02.39.29:948][730]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.20-02.39.29:948][730]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.20-02.39.29:996][730]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-02.39.29:996][730]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-02.39.29:996][730]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.20-02.39.29:996][730]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.20-02.39.29:996][730]LogAudioMixer: Display: 4: BackLeft
+[2021.01.20-02.39.29:996][730]LogAudioMixer: Display: 5: BackRight
+[2021.01.20-02.39.29:996][730]LogAudioMixer: Display: 6: SideLeft
+[2021.01.20-02.39.29:996][730]LogAudioMixer: Display: 7: SideRight
+[2021.01.20-02.39.30:000][730]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-02.39.30:000][730]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-02.39.30:003][730]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-02.39.30:003][730]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-02.39.30:010][730]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-02.39.30:010][730]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-02.39.30:355][730]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2021.01.20-02.39.30:355][730]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.20-02.39.30:355][730]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.20-02.39.30:355][730]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.20-02.39.30:356][730]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.20-02.39.30:370][730]LogInit: FAudioDevice initialized.
+[2021.01.20-02.39.30:384][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.20-02.39.30:478][730]LogLoad: Game class is 'GameModeBase'
+[2021.01.20-02.39.30:481][730]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2021.01.19-21.39.30
+[2021.01.20-02.39.30:482][730]LogWorld: Bringing up level for play took: 0.002881
+[2021.01.20-02.39.30:482][730]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.01.20-02.39.30:492][730]PIE: Server logged in
+[2021.01.20-02.39.30:494][730]PIE: Play in editor total start time 0.793 seconds.
+[2021.01.20-02.39.30:494][730]LogEngine: Changing dynamic resolution state.
+[2021.01.20-02.39.30:507][730]LogHMD: Allocating Oculus 4128 x 2272 depth rendertarget swapchain
+[2021.01.20-02.39.30:551][733]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.01.20-02.42.32:839][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.20-02.42.32:839][413]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.01.20-02.42.32:934][413]LogSlate: Window 'VREnvision Preview [NetMode: Standalone] (64-bit/Windows) OculusHMD' being destroyed
+[2021.01.20-02.42.32:968][413]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.20-02.42.32:969][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-02.42.32:976][413]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.20-02.42.32:979][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-02.42.33:022][413]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022E745E2D40), frame # 537413
+[2021.01.20-02.42.33:022][413]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022E739D7E00), frame # 537413
+[2021.01.20-02.42.33:025][413]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.01.20-02.42.33:068][414]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.01.20-02.42.33:073][414]LogEngine: Changing dynamic resolution state.
+[2021.01.20-02.44.34:112][877]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door)
+[2021.01.20-02.50.29:084][350]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.01.20-02.50.29:176][350]LogSavePackage: Moving '../../../../School/Ferris/Capstone/Envision/VREnvision/Saved/MotionControllerMap_Auto1FA6A436E439A75EB75884B8BA4D70B8C.tmp' to '../../../../School/Ferris/Capstone/Envision/VREnvision/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto1.umap'
+[2021.01.20-02.50.29:202][350]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.143
+[2021.01.20-02.50.29:202][350]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.143
+[2021.01.20-02.50.29:203][350]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Testing/Doors/Door] ([1] browsable assets)...
+[2021.01.20-02.50.29:203][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Testing/Doors/Door]
+[2021.01.20-02.50.29:255][350]LogSavePackage: Moving '../../../../School/Ferris/Capstone/Envision/VREnvision/Saved/Door_Auto17DFD93314985F2AEF065F6AC1ECD10A5.tmp' to '../../../../School/Ferris/Capstone/Envision/VREnvision/Saved/Autosaves/Game/VirtualRealityBP/Testing/Doors/Door_Auto1.uasset'
+[2021.01.20-02.50.29:257][350]LogFileHelpers: Auto-saving content packages took 0.054
+[2021.01.20-03.00.29:464][175]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.01.20-03.00.29:556][175]LogSavePackage: Moving '../../../../School/Ferris/Capstone/Envision/VREnvision/Saved/MotionControllerMap_Auto2989C773548AA3A5D342B96B969BC888A.tmp' to '../../../../School/Ferris/Capstone/Envision/VREnvision/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto2.umap'
+[2021.01.20-03.00.29:559][175]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.121
+[2021.01.20-03.00.29:559][175]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.121
+[2021.01.20-03.00.29:559][175]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Testing/Doors/Door] ([1] browsable assets)...
+[2021.01.20-03.00.29:559][175]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Testing/Doors/Door]
+[2021.01.20-03.00.29:590][175]LogSavePackage: Moving '../../../../School/Ferris/Capstone/Envision/VREnvision/Saved/Door_Auto2225F19234C74E1D2B623238BB75EEFD8.tmp' to '../../../../School/Ferris/Capstone/Envision/VREnvision/Saved/Autosaves/Game/VirtualRealityBP/Testing/Doors/Door_Auto2.uasset'
+[2021.01.20-03.00.29:591][175]LogFileHelpers: Auto-saving content packages took 0.033
+[2021.01.20-03.03.45:981][274]BlueprintLog: New page: Compile Door
+[2021.01.20-03.03.46:035][274]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.01.20-03.03.48:307][452]LogTemp: Repeating last play command: VR Preview
+[2021.01.20-03.03.48:332][452]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.20-03.03.48:332][452]LogHMD: Initializing OVRPlugin session
+[2021.01.20-03.03.48:517][452]LogHMD: Allocating Oculus 4128 x 2272 rendertarget swapchain
+[2021.01.20-03.03.48:518][452]PIE: New page: PIE session: MotionControllerMap (Jan 19, 2021, 5:03:48 PM)
+[2021.01.20-03.03.48:518][452]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.01.20-03.03.48:534][452]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016250s)
+[2021.01.20-03.03.48:535][452]LogAIModule: Creating AISystem for world MotionControllerMap
+[2021.01.20-03.03.48:535][452]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022E47FAE400), frame # 605452
+[2021.01.20-03.03.48:535][452]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022E47FEF240), frame # 605452
+[2021.01.20-03.03.48:535][452]LogPlayLevel: PIE: World Init took: (0.001239s)
+[2021.01.20-03.03.48:535][452]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.017631s)
+[2021.01.20-03.03.48:562][452]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.01.20-03.03.48:563][452]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.20-03.03.48:563][452]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.20-03.03.48:563][452]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.20-03.03.48:563][452]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.20-03.03.48:563][452]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.20-03.03.48:563][452]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.20-03.03.48:563][452]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.20-03.03.48:563][452]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.20-03.03.48:563][452]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.20-03.03.48:564][452]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.20-03.03.48:574][452]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-03.03.48:574][452]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-03.03.48:574][452]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.20-03.03.48:574][452]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.20-03.03.48:574][452]LogAudioMixer: Display: 4: BackLeft
+[2021.01.20-03.03.48:574][452]LogAudioMixer: Display: 5: BackRight
+[2021.01.20-03.03.48:574][452]LogAudioMixer: Display: 6: SideLeft
+[2021.01.20-03.03.48:574][452]LogAudioMixer: Display: 7: SideRight
+[2021.01.20-03.03.48:578][452]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-03.03.48:578][452]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-03.03.48:582][452]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-03.03.48:582][452]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-03.03.48:589][452]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-03.03.48:589][452]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-03.03.48:933][452]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2021.01.20-03.03.48:934][452]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.20-03.03.48:934][452]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.20-03.03.48:934][452]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.20-03.03.48:934][452]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.20-03.03.48:948][452]LogInit: FAudioDevice initialized.
+[2021.01.20-03.03.48:962][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.20-03.03.49:046][452]LogLoad: Game class is 'GameModeBase'
+[2021.01.20-03.03.49:050][452]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2021.01.19-22.03.49
+[2021.01.20-03.03.49:051][452]LogWorld: Bringing up level for play took: 0.004069
+[2021.01.20-03.03.49:051][452]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.01.20-03.03.49:060][452]PIE: Server logged in
+[2021.01.20-03.03.49:062][452]PIE: Play in editor total start time 0.739 seconds.
+[2021.01.20-03.03.49:062][452]LogEngine: Changing dynamic resolution state.
+[2021.01.20-03.03.49:096][452]LogHMD: Allocating Oculus 4128 x 2272 depth rendertarget swapchain
+[2021.01.20-03.03.49:127][455]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.01.20-03.04.48:427][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.20-03.04.48:428][646]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.01.20-03.04.48:514][646]LogSlate: Window 'VREnvision Preview [NetMode: Standalone] (64-bit/Windows) OculusHMD' being destroyed
+[2021.01.20-03.04.48:558][646]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.20-03.04.48:559][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-03.04.48:572][646]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.20-03.04.48:575][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-03.04.48:617][646]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022E47FEF240), frame # 609646
+[2021.01.20-03.04.48:617][646]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022E47FAE400), frame # 609646
+[2021.01.20-03.04.48:620][646]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.01.20-03.04.48:679][647]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.01.20-03.04.48:685][647]LogEngine: Changing dynamic resolution state.
+[2021.01.20-03.04.59:133][403]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2021.01.20-03.05.06:104][817]BlueprintLog: New page: Compile Door
+[2021.01.20-03.05.06:151][817]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.01.20-03.05.10:482][ 95]LogTemp: Repeating last play command: VR Preview
+[2021.01.20-03.05.10:505][ 95]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.20-03.05.10:505][ 95]LogHMD: Initializing OVRPlugin session
+[2021.01.20-03.05.10:710][ 95]LogHMD: Allocating Oculus 4128 x 2272 rendertarget swapchain
+[2021.01.20-03.05.10:711][ 95]PIE: New page: PIE session: MotionControllerMap (Jan 19, 2021, 5:05:10 PM)
+[2021.01.20-03.05.10:711][ 95]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.01.20-03.05.10:731][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019933s)
+[2021.01.20-03.05.10:732][ 95]LogAIModule: Creating AISystem for world MotionControllerMap
+[2021.01.20-03.05.10:732][ 95]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022E747F0C00), frame # 611095
+[2021.01.20-03.05.10:732][ 95]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022DCE688CC0), frame # 611095
+[2021.01.20-03.05.10:733][ 95]LogPlayLevel: PIE: World Init took: (0.001484s)
+[2021.01.20-03.05.10:733][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.021582s)
+[2021.01.20-03.05.10:757][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.01.20-03.05.10:758][ 95]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.20-03.05.10:758][ 95]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.20-03.05.10:758][ 95]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.20-03.05.10:758][ 95]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.20-03.05.10:758][ 95]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.20-03.05.10:758][ 95]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.20-03.05.10:758][ 95]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.20-03.05.10:758][ 95]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.20-03.05.10:759][ 95]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.20-03.05.10:759][ 95]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.20-03.05.10:767][ 95]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-03.05.10:767][ 95]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-03.05.10:767][ 95]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.20-03.05.10:767][ 95]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.20-03.05.10:767][ 95]LogAudioMixer: Display: 4: BackLeft
+[2021.01.20-03.05.10:767][ 95]LogAudioMixer: Display: 5: BackRight
+[2021.01.20-03.05.10:767][ 95]LogAudioMixer: Display: 6: SideLeft
+[2021.01.20-03.05.10:767][ 95]LogAudioMixer: Display: 7: SideRight
+[2021.01.20-03.05.10:771][ 95]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-03.05.10:771][ 95]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-03.05.10:776][ 95]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-03.05.10:776][ 95]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-03.05.10:783][ 95]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-03.05.10:783][ 95]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-03.05.11:155][ 95]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2021.01.20-03.05.11:156][ 95]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.20-03.05.11:156][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.20-03.05.11:156][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.20-03.05.11:156][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.20-03.05.11:171][ 95]LogInit: FAudioDevice initialized.
+[2021.01.20-03.05.11:183][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.20-03.05.11:266][ 95]LogLoad: Game class is 'GameModeBase'
+[2021.01.20-03.05.11:270][ 95]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2021.01.19-22.05.11
+[2021.01.20-03.05.11:270][ 95]LogWorld: Bringing up level for play took: 0.003705
+[2021.01.20-03.05.11:270][ 95]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.01.20-03.05.11:282][ 95]PIE: Server logged in
+[2021.01.20-03.05.11:287][ 95]PIE: Play in editor total start time 0.785 seconds.
+[2021.01.20-03.05.11:288][ 95]LogEngine: Changing dynamic resolution state.
+[2021.01.20-03.05.11:304][ 95]LogHMD: Allocating Oculus 4128 x 2272 depth rendertarget swapchain
+[2021.01.20-03.05.11:368][ 98]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.01.20-03.05.33:954][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.20-03.05.33:954][680]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.01.20-03.05.34:056][680]LogSlate: Window 'VREnvision Preview [NetMode: Standalone] (64-bit/Windows) OculusHMD' being destroyed
+[2021.01.20-03.05.34:088][680]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.20-03.05.34:089][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-03.05.34:104][680]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.20-03.05.34:108][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-03.05.34:149][680]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022DCE688CC0), frame # 612680
+[2021.01.20-03.05.34:149][680]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022E747F0C00), frame # 612680
+[2021.01.20-03.05.34:152][680]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.01.20-03.05.34:217][681]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.01.20-03.05.34:223][681]LogEngine: Changing dynamic resolution state.
+[2021.01.20-03.11.24:036][976]BlueprintLog: New page: Compile Door
+[2021.01.20-03.11.24:084][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.01.20-03.11.25:845][ 69]LogTemp: Repeating last play command: VR Preview
+[2021.01.20-03.11.25:867][ 69]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.20-03.11.25:867][ 69]LogHMD: Initializing OVRPlugin session
+[2021.01.20-03.11.26:064][ 69]LogHMD: Allocating Oculus 4128 x 2272 rendertarget swapchain
+[2021.01.20-03.11.26:065][ 69]PIE: New page: PIE session: MotionControllerMap (Jan 19, 2021, 5:11:26 PM)
+[2021.01.20-03.11.26:087][ 69]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.01.20-03.11.26:108][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019948s)
+[2021.01.20-03.11.26:109][ 69]LogAIModule: Creating AISystem for world MotionControllerMap
+[2021.01.20-03.11.26:109][ 69]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022E73373E00), frame # 615069
+[2021.01.20-03.11.26:109][ 69]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022DAE1B3240), frame # 615069
+[2021.01.20-03.11.26:109][ 69]LogPlayLevel: PIE: World Init took: (0.001670s)
+[2021.01.20-03.11.26:109][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.021826s)
+[2021.01.20-03.11.26:137][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.01.20-03.11.26:138][ 69]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.20-03.11.26:138][ 69]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.20-03.11.26:138][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.20-03.11.26:138][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.20-03.11.26:138][ 69]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.20-03.11.26:138][ 69]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.20-03.11.26:138][ 69]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.20-03.11.26:138][ 69]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.20-03.11.26:139][ 69]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.20-03.11.26:139][ 69]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.20-03.11.26:146][ 69]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-03.11.26:146][ 69]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-03.11.26:146][ 69]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.20-03.11.26:146][ 69]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.20-03.11.26:146][ 69]LogAudioMixer: Display: 4: BackLeft
+[2021.01.20-03.11.26:146][ 69]LogAudioMixer: Display: 5: BackRight
+[2021.01.20-03.11.26:146][ 69]LogAudioMixer: Display: 6: SideLeft
+[2021.01.20-03.11.26:146][ 69]LogAudioMixer: Display: 7: SideRight
+[2021.01.20-03.11.26:150][ 69]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-03.11.26:150][ 69]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-03.11.26:155][ 69]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-03.11.26:155][ 69]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-03.11.26:162][ 69]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-03.11.26:163][ 69]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-03.11.26:565][ 69]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2021.01.20-03.11.26:566][ 69]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.20-03.11.26:566][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.20-03.11.26:566][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.20-03.11.26:566][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.20-03.11.26:581][ 69]LogInit: FAudioDevice initialized.
+[2021.01.20-03.11.26:596][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.20-03.11.26:684][ 69]LogLoad: Game class is 'GameModeBase'
+[2021.01.20-03.11.26:687][ 69]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2021.01.19-22.11.26
+[2021.01.20-03.11.26:688][ 69]LogWorld: Bringing up level for play took: 0.003369
+[2021.01.20-03.11.26:688][ 69]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.01.20-03.11.26:700][ 69]PIE: Server logged in
+[2021.01.20-03.11.26:704][ 69]PIE: Play in editor total start time 0.84 seconds.
+[2021.01.20-03.11.26:704][ 69]LogEngine: Changing dynamic resolution state.
+[2021.01.20-03.11.26:718][ 69]LogHMD: Allocating Oculus 4128 x 2272 depth rendertarget swapchain
+[2021.01.20-03.11.26:888][ 72]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.01.20-03.11.41:861][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.20-03.11.41:861][ 31]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.01.20-03.11.41:957][ 31]LogSlate: Window 'VREnvision Preview [NetMode: Standalone] (64-bit/Windows) OculusHMD' being destroyed
+[2021.01.20-03.11.41:988][ 31]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.20-03.11.41:989][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-03.11.42:005][ 31]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.20-03.11.42:009][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-03.11.42:053][ 31]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022DAE1B3240), frame # 616031
+[2021.01.20-03.11.42:053][ 31]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022E73373E00), frame # 616031
+[2021.01.20-03.11.42:056][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.01.20-03.11.42:134][ 32]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.01.20-03.11.42:140][ 32]LogEngine: Changing dynamic resolution state.
+[2021.01.20-03.14.12:628][212]BlueprintLog: New page: Compile Door
+[2021.01.20-03.14.12:680][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.01.20-03.14.14:515][321]LogTemp: Repeating last play command: VR Preview
+[2021.01.20-03.14.14:540][321]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.20-03.14.14:540][321]LogHMD: Initializing OVRPlugin session
+[2021.01.20-03.14.14:761][321]LogHMD: Allocating Oculus 4128 x 2272 rendertarget swapchain
+[2021.01.20-03.14.14:763][321]PIE: New page: PIE session: MotionControllerMap (Jan 19, 2021, 5:14:14 PM)
+[2021.01.20-03.14.14:763][321]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.01.20-03.14.14:787][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024278s)
+[2021.01.20-03.14.14:788][321]LogAIModule: Creating AISystem for world MotionControllerMap
+[2021.01.20-03.14.14:789][321]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022E14EAFE00), frame # 627321
+[2021.01.20-03.14.14:789][321]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022DD9549580), frame # 627321
+[2021.01.20-03.14.14:789][321]LogPlayLevel: PIE: World Init took: (0.001676s)
+[2021.01.20-03.14.14:789][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.026124s)
+[2021.01.20-03.14.14:817][321]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.01.20-03.14.14:818][321]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.20-03.14.14:818][321]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.20-03.14.14:818][321]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.20-03.14.14:818][321]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.20-03.14.14:818][321]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.20-03.14.14:818][321]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.20-03.14.14:818][321]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.20-03.14.14:818][321]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.20-03.14.14:819][321]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.20-03.14.14:819][321]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.20-03.14.14:834][321]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-03.14.14:834][321]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-03.14.14:834][321]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.20-03.14.14:834][321]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.20-03.14.14:834][321]LogAudioMixer: Display: 4: BackLeft
+[2021.01.20-03.14.14:834][321]LogAudioMixer: Display: 5: BackRight
+[2021.01.20-03.14.14:834][321]LogAudioMixer: Display: 6: SideLeft
+[2021.01.20-03.14.14:834][321]LogAudioMixer: Display: 7: SideRight
+[2021.01.20-03.14.14:841][321]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-03.14.14:841][321]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-03.14.14:845][321]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-03.14.14:845][321]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-03.14.14:856][321]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-03.14.14:856][321]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-03.14.15:250][321]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2021.01.20-03.14.15:250][321]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.20-03.14.15:250][321]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.20-03.14.15:250][321]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.20-03.14.15:251][321]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.20-03.14.15:265][321]LogInit: FAudioDevice initialized.
+[2021.01.20-03.14.15:279][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.20-03.14.15:358][321]LogLoad: Game class is 'GameModeBase'
+[2021.01.20-03.14.15:363][321]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2021.01.19-22.14.15
+[2021.01.20-03.14.15:363][321]LogWorld: Bringing up level for play took: 0.005019
+[2021.01.20-03.14.15:364][321]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.01.20-03.14.15:378][321]PIE: Server logged in
+[2021.01.20-03.14.15:383][321]PIE: Play in editor total start time 0.846 seconds.
+[2021.01.20-03.14.15:383][321]LogEngine: Changing dynamic resolution state.
+[2021.01.20-03.14.15:401][321]LogHMD: Allocating Oculus 4128 x 2272 depth rendertarget swapchain
+[2021.01.20-03.14.15:503][324]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.01.20-03.15.09:416][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.20-03.15.09:416][629]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.01.20-03.15.09:514][629]LogSlate: Window 'VREnvision Preview [NetMode: Standalone] (64-bit/Windows) OculusHMD' being destroyed
+[2021.01.20-03.15.09:538][629]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.20-03.15.09:539][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-03.15.09:553][629]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.20-03.15.09:556][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-03.15.09:604][629]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022DD9549580), frame # 630629
+[2021.01.20-03.15.09:604][629]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022E14EAFE00), frame # 630629
+[2021.01.20-03.15.09:607][629]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.01.20-03.15.09:671][630]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.01.20-03.15.09:675][630]LogEngine: Changing dynamic resolution state.
+[2021.01.20-03.15.17:614][218]BlueprintLog: New page: Compile Door
+[2021.01.20-03.15.17:666][218]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.01.20-03.15.19:060][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Testing/Doors/Door" FILE="../../../../School/Ferris/Capstone/Envision/VREnvision/Content/VirtualRealityBP/Testing/Doors/Door.uasset" SILENT=true
+[2021.01.20-03.15.19:117][276]LogSavePackage: Moving '../../../../School/Ferris/Capstone/Envision/VREnvision/Saved/DoorACD839E442B9B2092F55D5839DCA1340.tmp' to '../../../../School/Ferris/Capstone/Envision/VREnvision/Content/VirtualRealityBP/Testing/Doors/Door.uasset'
+[2021.01.20-03.15.19:142][276]AssetCheck: New page: Asset Save: Door
+[2021.01.20-03.15.19:142][276]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Testing/Doors/Door.Door
+[2021.01.20-03.15.23:004][567]LogTemp: Repeating last play command: VR Preview
+[2021.01.20-03.15.23:027][567]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.20-03.15.23:027][567]LogHMD: Initializing OVRPlugin session
+[2021.01.20-03.15.23:251][567]LogHMD: Allocating Oculus 4128 x 2272 rendertarget swapchain
+[2021.01.20-03.15.23:252][567]PIE: New page: PIE session: MotionControllerMap (Jan 19, 2021, 5:15:23 PM)
+[2021.01.20-03.15.23:297][567]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.01.20-03.15.23:316][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018991s)
+[2021.01.20-03.15.23:317][567]LogAIModule: Creating AISystem for world MotionControllerMap
+[2021.01.20-03.15.23:317][567]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022E1191E000), frame # 631567
+[2021.01.20-03.15.23:317][567]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022DAE1B2AC0), frame # 631567
+[2021.01.20-03.15.23:318][567]LogPlayLevel: PIE: World Init took: (0.001471s)
+[2021.01.20-03.15.23:318][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.020668s)
+[2021.01.20-03.15.23:343][567]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.01.20-03.15.23:345][567]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.20-03.15.23:345][567]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.20-03.15.23:345][567]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.20-03.15.23:345][567]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.20-03.15.23:345][567]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.20-03.15.23:345][567]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.20-03.15.23:345][567]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.20-03.15.23:345][567]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.20-03.15.23:346][567]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.20-03.15.23:346][567]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.20-03.15.23:354][567]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-03.15.23:354][567]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-03.15.23:354][567]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.20-03.15.23:354][567]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.20-03.15.23:354][567]LogAudioMixer: Display: 4: BackLeft
+[2021.01.20-03.15.23:354][567]LogAudioMixer: Display: 5: BackRight
+[2021.01.20-03.15.23:354][567]LogAudioMixer: Display: 6: SideLeft
+[2021.01.20-03.15.23:354][567]LogAudioMixer: Display: 7: SideRight
+[2021.01.20-03.15.23:358][567]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-03.15.23:358][567]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-03.15.23:361][567]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-03.15.23:361][567]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-03.15.23:368][567]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-03.15.23:368][567]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-03.15.23:722][567]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2021.01.20-03.15.23:723][567]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.20-03.15.23:723][567]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.20-03.15.23:723][567]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.20-03.15.23:724][567]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.20-03.15.23:739][567]LogInit: FAudioDevice initialized.
+[2021.01.20-03.15.23:749][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.20-03.15.23:846][567]LogLoad: Game class is 'GameModeBase'
+[2021.01.20-03.15.23:849][567]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2021.01.19-22.15.23
+[2021.01.20-03.15.23:850][567]LogWorld: Bringing up level for play took: 0.003108
+[2021.01.20-03.15.23:850][567]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.01.20-03.15.23:860][567]PIE: Server logged in
+[2021.01.20-03.15.23:862][567]PIE: Play in editor total start time 0.838 seconds.
+[2021.01.20-03.15.23:862][567]LogEngine: Changing dynamic resolution state.
+[2021.01.20-03.15.23:872][567]LogHMD: Allocating Oculus 4128 x 2272 depth rendertarget swapchain
+[2021.01.20-03.15.23:948][570]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.01.20-03.25.45:195][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.20-03.25.45:195][750]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.01.20-03.25.45:285][750]LogSlate: Window 'VREnvision Preview [NetMode: Standalone] (64-bit/Windows) OculusHMD' being destroyed
+[2021.01.20-03.25.45:328][750]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.20-03.25.45:329][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-03.25.45:339][750]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.20-03.25.45:342][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-03.25.45:383][750]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022DAE1B2AC0), frame # 671750
+[2021.01.20-03.25.45:383][750]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022E1191E000), frame # 671750
+[2021.01.20-03.25.45:387][750]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.01.20-03.25.45:452][751]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.01.20-03.25.45:457][751]LogEngine: Changing dynamic resolution state.
+[2021.01.20-03.26.12:093][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.01.20-03.26.12:177][931]LogSavePackage: Moving '../../../../School/Ferris/Capstone/Envision/VREnvision/Saved/MotionControllerMap_Auto3C085CBAA4B089458DBD3E59EC03596B3.tmp' to '../../../../School/Ferris/Capstone/Envision/VREnvision/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto3.umap'
+[2021.01.20-03.26.12:180][931]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.109
+[2021.01.20-03.26.12:180][931]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.109
+[2021.01.20-04.28.20:185][973]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8555216a-2d2d-4b7d-8076-a0d525d2becb}.
+[2021.01.20-04.28.20:185][973]LogTemp: Resetting audio stream to device id 
+[2021.01.20-04.28.20:522][973]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-04.28.20:522][973]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-04.28.21:858][974]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.01.20-04.28.21:858][974]LogTemp: Resetting audio stream to device id 
+[2021.01.20-04.28.22:122][974]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-04.28.22:122][974]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-04.28.24:721][981]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{a809fc6b-0c9a-4487-8731-2a89af2226d6}.
+[2021.01.20-04.28.24:724][981]LogTemp: Resetting audio stream to device id 
+[2021.01.20-04.28.26:877][981]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-04.28.26:877][981]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-04.28.26:877][981]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.20-04.28.26:877][981]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.20-04.28.26:877][981]LogAudioMixer: Display: 4: BackLeft
+[2021.01.20-04.28.26:877][981]LogAudioMixer: Display: 5: BackRight
+[2021.01.20-04.28.26:877][981]LogAudioMixer: Display: 6: SideLeft
+[2021.01.20-04.28.26:877][981]LogAudioMixer: Display: 7: SideRight
+[2021.01.20-04.28.28:273][982]LogTemp: Resetting audio stream to device id 
+[2021.01.20-04.28.28:319][982]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-04.28.28:320][982]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-04.28.28:320][982]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.20-04.28.28:320][982]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.20-04.28.28:320][982]LogAudioMixer: Display: 4: BackLeft
+[2021.01.20-04.28.28:320][982]LogAudioMixer: Display: 5: BackRight
+[2021.01.20-04.28.28:320][982]LogAudioMixer: Display: 6: SideLeft
+[2021.01.20-04.28.28:320][982]LogAudioMixer: Display: 7: SideRight
+[2021.01.20-04.48.54:372][934]LogTemp: Repeating last play command: VR Preview
+[2021.01.20-04.48.54:393][934]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.20-04.48.54:393][934]LogHMD: Initializing OVRPlugin session
+[2021.01.20-04.48.54:624][934]LogHMD: Allocating Oculus 4128 x 2272 rendertarget swapchain
+[2021.01.20-04.48.54:626][934]PIE: New page: PIE session: MotionControllerMap (Jan 19, 2021, 6:48:54 PM)
+[2021.01.20-04.48.54:626][934]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.01.20-04.48.54:656][934]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029674s)
+[2021.01.20-04.48.54:657][934]LogAIModule: Creating AISystem for world MotionControllerMap
+[2021.01.20-04.48.54:658][934]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022E14CCDC00), frame # 708934
+[2021.01.20-04.48.54:658][934]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022E74F8F880), frame # 708934
+[2021.01.20-04.48.54:659][934]LogPlayLevel: PIE: World Init took: (0.003259s)
+[2021.01.20-04.48.54:659][934]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.033219s)
+[2021.01.20-04.48.54:688][934]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.01.20-04.48.54:693][934]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.20-04.48.54:693][934]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.20-04.48.54:693][934]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.20-04.48.54:693][934]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.20-04.48.54:693][934]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.20-04.48.54:693][934]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.20-04.48.54:693][934]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.20-04.48.54:693][934]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.20-04.48.54:694][934]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.20-04.48.54:694][934]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.20-04.48.54:828][934]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-04.48.54:828][934]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-04.48.54:828][934]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.20-04.48.54:828][934]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.20-04.48.54:828][934]LogAudioMixer: Display: 4: BackLeft
+[2021.01.20-04.48.54:828][934]LogAudioMixer: Display: 5: BackRight
+[2021.01.20-04.48.54:828][934]LogAudioMixer: Display: 6: SideLeft
+[2021.01.20-04.48.54:828][934]LogAudioMixer: Display: 7: SideRight
+[2021.01.20-04.48.54:831][934]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-04.48.54:832][934]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-04.48.54:835][934]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-04.48.54:835][934]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-04.48.54:842][934]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-04.48.54:842][934]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-04.48.55:163][934]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2021.01.20-04.48.55:164][934]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.20-04.48.55:164][934]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.20-04.48.55:164][934]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.20-04.48.55:167][934]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.20-04.48.55:179][934]LogInit: FAudioDevice initialized.
+[2021.01.20-04.48.55:193][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.20-04.48.55:268][934]LogLoad: Game class is 'GameModeBase'
+[2021.01.20-04.48.55:272][934]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2021.01.19-23.48.55
+[2021.01.20-04.48.55:273][934]LogWorld: Bringing up level for play took: 0.003500
+[2021.01.20-04.48.55:273][934]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.01.20-04.48.55:308][934]PIE: Server logged in
+[2021.01.20-04.48.55:311][934]PIE: Play in editor total start time 0.921 seconds.
+[2021.01.20-04.48.55:312][934]LogEngine: Changing dynamic resolution state.
+[2021.01.20-04.48.55:325][934]LogHMD: Allocating Oculus 4128 x 2272 depth rendertarget swapchain
+[2021.01.20-04.48.55:383][937]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.01.20-04.50.59:751][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.20-04.50.59:751][575]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.01.20-04.50.59:833][575]LogSlate: Window 'VREnvision Preview [NetMode: Standalone] (64-bit/Windows) OculusHMD' being destroyed
+[2021.01.20-04.50.59:868][575]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.20-04.50.59:869][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-04.50.59:882][575]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.20-04.50.59:887][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-04.50.59:934][575]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022E74F8F880), frame # 716575
+[2021.01.20-04.50.59:934][575]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022E14CCDC00), frame # 716575
+[2021.01.20-04.50.59:936][575]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.01.20-04.51.00:009][576]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.01.20-04.51.00:015][576]LogEngine: Changing dynamic resolution state.
+[2021.01.20-04.52.53:516][935]LogTemp: Repeating last play command: VR Preview
+[2021.01.20-04.52.53:534][935]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.20-04.52.53:534][935]LogHMD: Initializing OVRPlugin session
+[2021.01.20-04.52.53:699][935]LogHMD: Allocating Oculus 4128 x 2272 rendertarget swapchain
+[2021.01.20-04.52.53:700][935]PIE: New page: PIE session: MotionControllerMap (Jan 19, 2021, 6:52:53 PM)
+[2021.01.20-04.52.53:737][935]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.01.20-04.52.53:768][935]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030825s)
+[2021.01.20-04.52.53:770][935]LogAIModule: Creating AISystem for world MotionControllerMap
+[2021.01.20-04.52.53:770][935]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022E44B0BE00), frame # 717935
+[2021.01.20-04.52.53:770][935]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022E74F8E5C0), frame # 717935
+[2021.01.20-04.52.53:770][935]LogPlayLevel: PIE: World Init took: (0.001713s)
+[2021.01.20-04.52.53:770][935]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.032707s)
+[2021.01.20-04.52.53:797][935]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.01.20-04.52.53:799][935]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.20-04.52.53:799][935]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.20-04.52.53:799][935]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.20-04.52.53:799][935]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.20-04.52.53:799][935]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.20-04.52.53:799][935]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.20-04.52.53:799][935]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.20-04.52.53:799][935]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.20-04.52.53:800][935]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.20-04.52.53:800][935]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.20-04.52.53:810][935]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-04.52.53:810][935]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-04.52.53:810][935]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.20-04.52.53:810][935]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.20-04.52.53:810][935]LogAudioMixer: Display: 4: BackLeft
+[2021.01.20-04.52.53:810][935]LogAudioMixer: Display: 5: BackRight
+[2021.01.20-04.52.53:810][935]LogAudioMixer: Display: 6: SideLeft
+[2021.01.20-04.52.53:810][935]LogAudioMixer: Display: 7: SideRight
+[2021.01.20-04.52.53:815][935]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-04.52.53:815][935]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-04.52.53:820][935]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-04.52.53:820][935]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-04.52.53:827][935]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.20-04.52.53:827][935]LogAudioMixer: Display: 1: FrontRight
+[2021.01.20-04.52.54:183][935]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2021.01.20-04.52.54:183][935]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.20-04.52.54:183][935]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.20-04.52.54:183][935]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.20-04.52.54:187][935]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.20-04.52.54:199][935]LogInit: FAudioDevice initialized.
+[2021.01.20-04.52.54:213][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.20-04.52.54:295][935]LogLoad: Game class is 'GameModeBase'
+[2021.01.20-04.52.54:299][935]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2021.01.19-23.52.54
+[2021.01.20-04.52.54:299][935]LogWorld: Bringing up level for play took: 0.002780
+[2021.01.20-04.52.54:299][935]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.01.20-04.52.54:309][935]PIE: Server logged in
+[2021.01.20-04.52.54:311][935]PIE: Play in editor total start time 0.78 seconds.
+[2021.01.20-04.52.54:312][935]LogEngine: Changing dynamic resolution state.
+[2021.01.20-04.52.54:325][935]LogHMD: Allocating Oculus 4128 x 2272 depth rendertarget swapchain
+[2021.01.20-04.52.54:364][938]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.01.20-04.54.17:876][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.20-04.54.17:876][898]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.01.20-04.54.17:943][898]LogSlate: Window 'VREnvision Preview [NetMode: Standalone] (64-bit/Windows) OculusHMD' being destroyed
+[2021.01.20-04.54.17:978][898]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.20-04.54.17:979][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-04.54.17:990][898]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.20-04.54.17:993][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-04.54.18:041][898]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022E74F8E5C0), frame # 723898
+[2021.01.20-04.54.18:041][898]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022E44B0BE00), frame # 723898
+[2021.01.20-04.54.18:045][898]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.01.20-04.54.18:121][899]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.01.20-04.54.18:126][899]LogEngine: Changing dynamic resolution state.
+[2021.01.20-04.57.50:239][133]LogSlate: Window 'Door' being destroyed
+[2021.01.20-04.57.50:248][133]LogSlate: Window 'Door' being destroyed
+[2021.01.20-04.57.50:278][133]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.01.20-04.57.50:278][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.20-04.58.00:101][248]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.01.20-04.58.01:611][248]LogSlate: Window 'Save Content' being destroyed
+[2021.01.20-04.58.01:692][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.20-04.58.01:976][248]LogSavePackage: Moving '../../../../School/Ferris/Capstone/Envision/VREnvision/Saved/MotionControllerMap9C3A314A4F7DF430BE835E9C89F6BF5B.tmp' to '../../../../School/Ferris/Capstone/Envision/VREnvision/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2021.01.20-04.58.02:021][248]LogFileHelpers: Saving map 'MotionControllerMap' took 0.348
+[2021.01.20-04.58.02:422][248]LogSavePackage: Moving '../../../../School/Ferris/Capstone/Envision/VREnvision/Saved/MotionControllerMap_BuiltData2ACF840B443B1204F9A098854255E628.tmp' to '../../../../School/Ferris/Capstone/Envision/VREnvision/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset'
+[2021.01.20-04.58.02:771][248]LogSlate: Window 'VREnvision - Unreal Editor' being destroyed
+[2021.01.20-04.58.02:772][248]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.01.20-04.58.03:541][248]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.20-04.58.03:542][248]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap
+[2021.01.20-04.58.03:542][248]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.MotionControllerMap_BuiltData
+[2021.01.20-04.58.03:552][249]Cmd: QUIT_EDITOR
+[2021.01.20-04.58.03:552][249]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.01.20-04.58.03:668][249]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.01.20-04.58.04:615][249]LogExit: Preparing to exit.
+[2021.01.20-04.58.06:102][249]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.01.20-04.58.06:105][249]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.01.20-04.58.06:107][249]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.01.20-04.58.06:109][249]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.20-04.58.06:624][249]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.01.20-04.58.06:961][249]LogExit: Editor shut down
+[2021.01.20-04.58.06:964][249]LogExit: Transaction tracking system shut down
+[2021.01.20-04.58.11:939][249]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (0000022DA7FA0340), frame # 734249
+[2021.01.20-04.58.11:939][249]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022DA7EC7D80), frame # 734249
+[2021.01.20-04.58.11:948][249]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022DA7ECFC00), frame # 734249
+[2021.01.20-04.58.16:203][249]LogAvatars: Shutdown ordering error closing down OVRAvatar module.
+[2021.01.20-04.58.16:219][249]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022DA45947C0), frame # 734249
+[2021.01.20-04.58.16:219][249]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022E23726200), frame # 734249
+[2021.01.20-04.58.18:026][249]LogExit: Object subsystem successfully closed.
+[2021.01.20-04.58.18:856][249]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.01.20-04.58.22:753][249]LogModuleManager: Shutting down and abandoning module BlueprintGraph (804)
+[2021.01.20-04.58.22:753][249]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (802)
+[2021.01.20-04.58.22:753][249]LogModuleManager: Shutting down and abandoning module Voice (800)
+[2021.01.20-04.58.22:767][249]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (798)
+[2021.01.20-04.58.22:767][249]LogModuleManager: Shutting down and abandoning module SceneOutliner (796)
+[2021.01.20-04.58.22:767][249]LogModuleManager: Shutting down and abandoning module AddContentDialog (794)
+[2021.01.20-04.58.22:816][249]LogModuleManager: Shutting down and abandoning module WidgetCarousel (793)
+[2021.01.20-04.58.22:816][249]LogModuleManager: Shutting down and abandoning module EditorWidgets (790)
+[2021.01.20-04.58.22:816][249]LogModuleManager: Shutting down and abandoning module CollectionManager (788)
+[2021.01.20-04.58.23:060][249]LogModuleManager: Shutting down and abandoning module StatsViewer (786)
+[2021.01.20-04.58.23:178][249]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (784)
+[2021.01.20-04.58.23:178][249]LogModuleManager: Shutting down and abandoning module FoliageEdit (782)
+[2021.01.20-04.58.23:199][249]LogModuleManager: Shutting down and abandoning module LandscapeEditor (780)
+[2021.01.20-04.58.23:232][249]LogModuleManager: Shutting down and abandoning module MeshPaintMode (778)
+[2021.01.20-04.58.23:248][249]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (776)
+[2021.01.20-04.58.23:248][249]LogModuleManager: Shutting down and abandoning module ActorPickerMode (774)
+[2021.01.20-04.58.23:248][249]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (772)
+[2021.01.20-04.58.23:347][249]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (770)
+[2021.01.20-04.58.23:385][249]LogModuleManager: Shutting down and abandoning module AutomationWorker (768)
+[2021.01.20-04.58.23:395][249]LogModuleManager: Shutting down and abandoning module SteamVREditor (766)
+[2021.01.20-04.58.23:396][249]LogModuleManager: Shutting down and abandoning module OculusMR (764)
+[2021.01.20-04.58.23:436][249]LogModuleManager: Shutting down and abandoning module OculusAudioEditor (762)
+[2021.01.20-04.58.23:437][249]LogModuleManager: Shutting down and abandoning module GooglePADEditor (760)
+[2021.01.20-04.58.23:437][249]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (758)
+[2021.01.20-04.58.23:437][249]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (756)
+[2021.01.20-04.58.23:463][249]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (754)
+[2021.01.20-04.58.23:480][249]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (752)
+[2021.01.20-04.58.23:503][249]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (750)
+[2021.01.20-04.58.23:542][249]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (748)
+[2021.01.20-04.58.23:542][249]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (746)
+[2021.01.20-04.58.23:542][249]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (744)
+[2021.01.20-04.58.23:542][249]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (742)
+[2021.01.20-04.58.23:542][249]LogModuleManager: Shutting down and abandoning module WebMMedia (740)
+[2021.01.20-04.58.23:583][249]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (738)
+[2021.01.20-04.58.23:791][249]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (736)
+[2021.01.20-04.58.23:808][249]LogModuleManager: Shutting down and abandoning module SequenceRecorder (735)
+[2021.01.20-04.58.23:810][249]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (732)
+[2021.01.20-04.58.23:810][249]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (730)
+[2021.01.20-04.58.23:810][249]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (728)
+[2021.01.20-04.58.23:810][249]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (726)
+[2021.01.20-04.58.23:810][249]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (724)
+[2021.01.20-04.58.23:810][249]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (722)
+[2021.01.20-04.58.23:810][249]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (720)
+[2021.01.20-04.58.23:810][249]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (718)
+[2021.01.20-04.58.23:810][249]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (716)
+[2021.01.20-04.58.23:810][249]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (714)
+[2021.01.20-04.58.23:810][249]LogModuleManager: Shutting down and abandoning module PlanarCut (712)
+[2021.01.20-04.58.23:862][249]LogModuleManager: Shutting down and abandoning module CharacterAI (710)
+[2021.01.20-04.58.23:862][249]LogModuleManager: Shutting down and abandoning module TextureAlignMode (708)
+[2021.01.20-04.58.23:862][249]LogModuleManager: Shutting down and abandoning module BspMode (706)
+[2021.01.20-04.58.23:882][249]LogModuleManager: Shutting down and abandoning module PlacementMode (705)
+[2021.01.20-04.58.23:882][249]LogModuleManager: Shutting down and abandoning module GeometryMode (702)
+[2021.01.20-04.58.23:882][249]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (700)
+[2021.01.20-04.58.24:002][249]LogModuleManager: Shutting down and abandoning module SmartSnapping (698)
+[2021.01.20-04.58.24:002][249]LogModuleManager: Shutting down and abandoning module SessionServices (696)
+[2021.01.20-04.58.24:002][249]LogModuleManager: Shutting down and abandoning module MeshPaint (694)
+[2021.01.20-04.58.24:084][249]LogModuleManager: Shutting down and abandoning module ViewportSnapping (692)
+[2021.01.20-04.58.24:084][249]LogModuleManager: Shutting down and abandoning module ViewportInteraction (690)
+[2021.01.20-04.58.24:084][249]LogModuleManager: Shutting down and abandoning module ClothPainter (688)
+[2021.01.20-04.58.24:138][249]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (687)
+[2021.01.20-04.58.24:195][249]LogModuleManager: Shutting down and abandoning module LogVisualizer (684)
+[2021.01.20-04.58.24:334][249]LogModuleManager: Shutting down and abandoning module IntroTutorials (682)
+[2021.01.20-04.58.24:367][249]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (681)
+[2021.01.20-04.58.24:421][249]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (678)
+[2021.01.20-04.58.24:421][249]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (676)
+[2021.01.20-04.58.24:432][249]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (674)
+[2021.01.20-04.58.24:432][249]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (673)
+[2021.01.20-04.58.24:619][249]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (670)
+[2021.01.20-04.58.24:619][249]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (668)
+[2021.01.20-04.58.24:619][249]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (666)
+[2021.01.20-04.58.24:619][249]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (664)
+[2021.01.20-04.58.24:619][249]LogModuleManager: Shutting down and abandoning module TraceInsights (662)
+[2021.01.20-04.58.25:061][249]LogModuleManager: Shutting down and abandoning module TraceServices (661)
+[2021.01.20-04.58.25:083][249]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (658)
+[2021.01.20-04.58.25:099][249]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (656)
+[2021.01.20-04.58.25:099][249]LogModuleManager: Shutting down and abandoning module InputBindingEditor (654)
+[2021.01.20-04.58.25:108][249]LogModuleManager: Shutting down and abandoning module MergeActors (652)
+[2021.01.20-04.58.25:185][249]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (650)
+[2021.01.20-04.58.25:205][249]LogModuleManager: Shutting down and abandoning module LocalizationService (649)
+[2021.01.20-04.58.25:216][249]LogModuleManager: Shutting down and abandoning module HardwareTargeting (646)
+[2021.01.20-04.58.25:216][249]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (644)
+[2021.01.20-04.58.25:230][249]LogModuleManager: Shutting down and abandoning module UndoHistory (642)
+[2021.01.20-04.58.25:249][249]LogModuleManager: Shutting down and abandoning module XmlParser (640)
+[2021.01.20-04.58.25:267][249]LogModuleManager: Shutting down and abandoning module Blutility (638)
+[2021.01.20-04.58.25:267][249]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (636)
+[2021.01.20-04.58.25:267][249]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (635)
+[2021.01.20-04.58.25:268][249]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (632)
+[2021.01.20-04.58.25:268][249]LogModuleManager: Shutting down and abandoning module SettingsEditor (630)
+[2021.01.20-04.58.25:325][249]LogModuleManager: Shutting down and abandoning module ProjectLauncher (628)
+[2021.01.20-04.58.25:341][249]LogModuleManager: Shutting down and abandoning module SessionFrontend (626)
+[2021.01.20-04.58.25:355][249]LogModuleManager: Shutting down and abandoning module ProfilerClient (624)
+[2021.01.20-04.58.25:367][249]LogModuleManager: Shutting down and abandoning module DeviceManager (622)
+[2021.01.20-04.58.25:384][249]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (621)
+[2021.01.20-04.58.25:416][249]LogModuleManager: Shutting down and abandoning module AutomationController (618)
+[2021.01.20-04.58.25:515][249]LogModuleManager: Shutting down and abandoning module AutomationWindow (616)
+[2021.01.20-04.58.25:538][249]LogModuleManager: Shutting down and abandoning module Layers (614)
+[2021.01.20-04.58.25:590][249]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (612)
+[2021.01.20-04.58.25:591][249]LogModuleManager: Shutting down and abandoning module DetailCustomizations (610)
+[2021.01.20-04.58.25:591][249]LogModuleManager: Shutting down and abandoning module PackagesDialog (608)
+[2021.01.20-04.58.25:591][249]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (606)
+[2021.01.20-04.58.25:605][249]LogModuleManager: Shutting down and abandoning module Persona (604)
+[2021.01.20-04.58.25:649][249]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (603)
+[2021.01.20-04.58.25:650][249]LogModuleManager: Shutting down and abandoning module AnimGraph (601)
+[2021.01.20-04.58.25:662][249]LogModuleManager: Shutting down and abandoning module Kismet (598)
+[2021.01.20-04.58.25:688][249]LogModuleManager: Shutting down and abandoning module KismetWidgets (597)
+[2021.01.20-04.58.25:688][249]LogModuleManager: Shutting down and abandoning module GraphEditor (594)
+[2021.01.20-04.58.25:688][249]LogModuleManager: Shutting down and abandoning module StructViewer (592)
+[2021.01.20-04.58.25:688][249]LogModuleManager: Shutting down and abandoning module ClassViewer (590)
+[2021.01.20-04.58.25:688][249]LogModuleManager: Shutting down and abandoning module Toolbox (588)
+[2021.01.20-04.58.25:688][249]LogModuleManager: Shutting down and abandoning module ModuleUI (586)
+[2021.01.20-04.58.25:721][249]LogModuleManager: Shutting down and abandoning module OutputLog (584)
+[2021.01.20-04.58.25:853][249]LogModuleManager: Shutting down and abandoning module GammaUI (582)
+[2021.01.20-04.58.25:901][249]LogModuleManager: Shutting down and abandoning module Documentation (580)
+[2021.01.20-04.58.25:902][249]LogModuleManager: Shutting down and abandoning module LiveCoding (578)
+[2021.01.20-04.58.25:968][249]LogModuleManager: Shutting down and abandoning module LevelSequence (576)
+[2021.01.20-04.58.25:968][249]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (574)
+[2021.01.20-04.58.25:968][249]LogModuleManager: Shutting down and abandoning module MovieScene (572)
+[2021.01.20-04.58.25:968][249]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (570)
+[2021.01.20-04.58.25:995][249]LogModuleManager: Shutting down and abandoning module LauncherPlatform (568)
+[2021.01.20-04.58.25:995][249]LogModuleManager: Shutting down and abandoning module AnalyticsET (566)
+[2021.01.20-04.58.25:995][249]LogModuleManager: Shutting down and abandoning module PortalServices (564)
+[2021.01.20-04.58.25:995][249]LogModuleManager: Shutting down and abandoning module PortalRpc (562)
+[2021.01.20-04.58.25:995][249]LogModuleManager: Shutting down and abandoning module MessagingRpc (560)
+[2021.01.20-04.58.25:995][249]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (558)
+[2021.01.20-04.58.25:995][249]LogModuleManager: Shutting down and abandoning module AudioMixerCore (557)
+[2021.01.20-04.58.25:995][249]LogModuleManager: Shutting down and abandoning module AIModule (554)
+[2021.01.20-04.58.26:013][249]LogModuleManager: Shutting down and abandoning module GameplayDebugger (553)
+[2021.01.20-04.58.26:021][249]LogModuleManager: Shutting down and abandoning module AITestSuite (551)
+[2021.01.20-04.58.26:022][249]LogModuleManager: Shutting down and abandoning module NavigationSystem (549)
+[2021.01.20-04.58.26:022][249]LogModuleManager: Shutting down and abandoning module ProfilerService (546)
+[2021.01.20-04.58.26:207][249]LogModuleManager: Shutting down and abandoning module TaskGraph (544)
+[2021.01.20-04.58.26:259][249]LogModuleManager: Shutting down and abandoning module ScreenshotTools (542)
+[2021.01.20-04.58.26:259][249]LogModuleManager: Shutting down and abandoning module SynthesisEditor (540)
+[2021.01.20-04.58.26:259][249]LogModuleManager: Shutting down and abandoning module Synthesis (538)
+[2021.01.20-04.58.26:309][249]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (536)
+[2021.01.20-04.58.26:309][249]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (534)
+[2021.01.20-04.58.26:309][249]LogModuleManager: Shutting down and abandoning module OculusEditor (532)
+[2021.01.20-04.58.26:342][249]LogModuleManager: Shutting down and abandoning module OculusInput (530)
+[2021.01.20-04.58.26:342][249]LogModuleManager: Shutting down and abandoning module OculusAvatar (528)
+[2021.01.20-04.58.26:342][249]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (526)
+[2021.01.20-04.58.26:342][249]LogModuleManager: Shutting down and abandoning module GooglePAD (524)
+[2021.01.20-04.58.26:342][249]LogModuleManager: Shutting down and abandoning module EditableMesh (522)
+[2021.01.20-04.58.26:348][249]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (520)
+[2021.01.20-04.58.26:348][249]LogModuleManager: Shutting down and abandoning module CableComponent (518)
+[2021.01.20-04.58.26:385][249]LogModuleManager: Shutting down and abandoning module AudioCapture (516)
+[2021.01.20-04.58.26:385][249]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (515)
+[2021.01.20-04.58.26:657][249]LogModuleManager: Shutting down and abandoning module AssetTags (512)
+[2021.01.20-04.58.26:657][249]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (510)
+[2021.01.20-04.58.26:657][249]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (508)
+[2021.01.20-04.58.26:657][249]LogModuleManager: Shutting down and abandoning module AppleImageUtils (506)
+[2021.01.20-04.58.26:657][249]LogModuleManager: Shutting down and abandoning module AndroidPermission (504)
+[2021.01.20-04.58.26:657][249]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (500)
+[2021.01.20-04.58.26:672][249]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (498)
+[2021.01.20-04.58.26:717][249]LogModuleManager: Shutting down and abandoning module TemplateSequence (496)
+[2021.01.20-04.58.26:717][249]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (494)
+[2021.01.20-04.58.26:753][249]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (492)
+[2021.01.20-04.58.26:780][249]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (490)
+[2021.01.20-04.58.26:780][249]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (488)
+[2021.01.20-04.58.26:780][249]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (487)
+[2021.01.20-04.58.26:784][249]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (484)
+[2021.01.20-04.58.26:801][249]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (482)
+[2021.01.20-04.58.26:801][249]LogModuleManager: Shutting down and abandoning module MediaCompositing (480)
+[2021.01.20-04.58.26:801][249]LogModuleManager: Shutting down and abandoning module ImgMedia (478)
+[2021.01.20-04.58.26:801][249]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (476)
+[2021.01.20-04.58.26:801][249]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (474)
+[2021.01.20-04.58.26:801][249]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (472)
+[2021.01.20-04.58.26:801][249]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (470)
+[2021.01.20-04.58.26:801][249]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (468)
+[2021.01.20-04.58.26:816][249]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (466)
+[2021.01.20-04.58.26:971][249]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (464)
+[2021.01.20-04.58.26:994][249]LogModuleManager: Shutting down and abandoning module MeshConversion (462)
+[2021.01.20-04.58.27:006][249]LogModuleManager: Shutting down and abandoning module DynamicMesh (460)
+[2021.01.20-04.58.27:028][249]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (458)
+[2021.01.20-04.58.27:100][249]LogModuleManager: Shutting down and abandoning module GeometricObjects (456)
+[2021.01.20-04.58.27:112][249]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (454)
+[2021.01.20-04.58.27:112][249]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (453)
+[2021.01.20-04.58.27:112][249]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (450)
+[2021.01.20-04.58.27:112][249]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (448)
+[2021.01.20-04.58.27:112][249]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (446)
+[2021.01.20-04.58.27:112][249]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (444)
+[2021.01.20-04.58.27:112][249]LogModuleManager: Shutting down and abandoning module ChaosNiagara (442)
+[2021.01.20-04.58.27:112][249]LogModuleManager: Shutting down and abandoning module FractureEditor (440)
