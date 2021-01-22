@@ -796,3 +796,634 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.21-22.49.35:178][379]LogFileHelpers: Saving map 'GrayBox002' took 3.467
 [2021.01.21-22.49.35:195][379]AssetCheck: New page: Asset Save: GrayBox002
 [2021.01.21-22.49.35:195][379]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002
+[2021.01.21-23.25.31:681][ 88]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.01.21-23.27.10:820][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.01.21-23.27.13:177][782]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/GrayBox002_Auto10EDCE07A47C8F30C6F9357A16A3033D8.tmp' to 'D:/eNVISION/Envision/VREnvision/Saved/Autosaves/Game/VirtualRealityBP/Testing/Maps/GrayBox002_Auto1.umap'
+[2021.01.21-23.27.13:184][782]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Testing/Maps/GrayBox002' took 2.383
+[2021.01.21-23.27.13:184][782]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.383
+[2021.01.21-23.27.31:862][821]Cmd: DELETE
+[2021.01.21-23.27.31:862][821]Cmd: ACTOR DELETE
+[2021.01.21-23.27.31:886][821]LogEditorActor: Deleted Actor: SkyLight
+[2021.01.21-23.27.31:900][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.01.21-23.27.31:903][821]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2021.01.21-23.37.13:699][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.01.21-23.37.16:092][872]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/GrayBox002_Auto233D8056B4C2C8924200C7B8FBE38F245.tmp' to 'D:/eNVISION/Envision/VREnvision/Saved/Autosaves/Game/VirtualRealityBP/Testing/Maps/GrayBox002_Auto2.umap'
+[2021.01.21-23.37.16:235][872]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Testing/Maps/GrayBox002' took 2.550
+[2021.01.21-23.37.16:235][872]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.550
+[2021.01.21-23.43.47:140][986]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\eNVISION\Textures\Wood Flooring\WoodDark\TexturesCom_Wood_ParquetStrip5_1K_normal.tif)
+[2021.01.21-23.43.47:469][986]LogTexture: Display: Building textures: TexturesCom_Wood_ParquetStrip5_1K_normal (BC5, 1024X1024)
+[2021.01.21-23.43.47:571][986]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\eNVISION\Textures\Wood Flooring\WoodDark\TexturesCom_Wood_ParquetStrip5_1K_roughness.tif)
+[2021.01.21-23.43.47:602][986]LogTexture: Display: Building textures: TexturesCom_Wood_ParquetStrip5_1K_roughness (AutoDXT, 1024X1024)
+[2021.01.21-23.43.47:738][986]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\eNVISION\Textures\Wood Flooring\WoodDark\TexturesCom_Wood_ParquetStrip5_1K_albedo.tif)
+[2021.01.21-23.43.47:774][986]LogTexture: Display: Building textures: TexturesCom_Wood_ParquetStrip5_1K_albedo (AutoDXT, 1024X1024)
+[2021.01.21-23.44.50:228][794]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2021.01.21-23.44.50:229][794]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2021.01.21-23.49.07:194][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.01.21-23.49.09:579][672]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/GrayBox002_Auto3D364B986463173AE8819DEAC882EBAA0.tmp' to 'D:/eNVISION/Envision/VREnvision/Saved/Autosaves/Game/VirtualRealityBP/Testing/Maps/GrayBox002_Auto3.umap'
+[2021.01.21-23.49.09:583][672]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Testing/Maps/GrayBox002' took 2.405
+[2021.01.21-23.49.09:583][672]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.405
+[2021.01.21-23.49.09:585][672]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/TexturesCom_Wood_ParquetStrip5_1K_normal] ([1] browsable assets)...
+[2021.01.21-23.49.09:594][672]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/TexturesCom_Wood_ParquetStrip5_1K_normal.TexturesCom_Wood_ParquetStrip5_1K_normal]
+[2021.01.21-23.49.09:594][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/TexturesCom_Wood_ParquetStrip5_1K_normal]
+[2021.01.21-23.49.09:645][672]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/TexturesCom_Wood_ParquetStrip5_1FAC3435F486E065F157B85B42246523A.tmp' to 'D:/eNVISION/Envision/VREnvision/Saved/Autosaves/Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/TexturesCom_Wood_ParquetStrip5_1K_normal_Auto3.uasset'
+[2021.01.21-23.49.09:646][672]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/TexturesCom_Wood_ParquetStrip5_1K_roughness] ([1] browsable assets)...
+[2021.01.21-23.49.09:652][672]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/TexturesCom_Wood_ParquetStrip5_1K_roughness.TexturesCom_Wood_ParquetStrip5_1K_roughness]
+[2021.01.21-23.49.09:652][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/TexturesCom_Wood_ParquetStrip5_1K_roughness]
+[2021.01.21-23.49.09:761][672]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/TexturesCom_Wood_ParquetStrip5_1EB780A5F495D6EA2D42D559F3693E04E.tmp' to 'D:/eNVISION/Envision/VREnvision/Saved/Autosaves/Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/TexturesCom_Wood_ParquetStrip5_1K_roughness_Auto3.uasset'
+[2021.01.21-23.49.09:763][672]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/TexturesCom_Wood_ParquetStrip5_1K_albedo] ([1] browsable assets)...
+[2021.01.21-23.49.09:769][672]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/TexturesCom_Wood_ParquetStrip5_1K_albedo.TexturesCom_Wood_ParquetStrip5_1K_albedo]
+[2021.01.21-23.49.09:769][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/TexturesCom_Wood_ParquetStrip5_1K_albedo]
+[2021.01.21-23.49.09:794][672]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/TexturesCom_Wood_ParquetStrip5_1C55612A5435E0F302FC203A65DFF5284.tmp' to 'D:/eNVISION/Envision/VREnvision/Saved/Autosaves/Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/TexturesCom_Wood_ParquetStrip5_1K_albedo_Auto3.uasset'
+[2021.01.21-23.49.09:795][672]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/MAT_DWood] ([1] browsable assets)...
+[2021.01.21-23.49.09:810][672]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/MAT_DWood.MAT_DWood]
+[2021.01.21-23.49.09:810][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/MAT_DWood]
+[2021.01.21-23.49.09:825][672]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/MAT_DWood_Auto36544513D4A51762AB84A219A14E9977E.tmp' to 'D:/eNVISION/Envision/VREnvision/Saved/Autosaves/Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/MAT_DWood_Auto3.uasset'
+[2021.01.21-23.49.09:825][672]LogFileHelpers: Auto-saving content packages took 0.243
+[2021.01.21-23.53.06:119][883]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/MAT_DWood.MAT_DWood
+[2021.01.21-23.53.06:124][883]LogMaterial: Display: Missing cached shader map for material MAT_DWood, compiling. 
+[2021.01.21-23.53.06:619][883]LogMaterial: Display: Missing cached shader map for material MAT_DWood, compiling. 
+[2021.01.21-23.53.06:629][883]LogMaterial: Display: Missing cached shader map for material MAT_DWood, compiling. 
+[2021.01.21-23.53.06:644][883]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.21-23.53.06:644][883]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.21-23.53.06:644][883]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.21-23.53.06:644][883]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.21-23.53.06:644][883]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.21-23.53.06:644][883]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.21-23.53.06:644][883]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.21-23.53.06:644][883]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.21-23.53.06:738][883]LogSlate: Took 0.012288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.21-23.53.08:674][928]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.01.21-23.53.13:123][  8]LogMaterial: Display: Missing cached shader map for material MAT_DWood, compiling. 
+[2021.01.21-23.53.13:143][  8]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.21-23.53.13:144][  8]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.01.21-23.53.13:152][  8]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.21-23.53.13:186][  8]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.21-23.53.15:844][ 64]LogMaterial: Display: Missing cached shader map for material MAT_DWood, compiling. 
+[2021.01.21-23.53.15:889][ 64]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.21-23.53.18:609][114]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.01.21-23.53.18:772][118]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2021.01.21-23.53.19:032][123]LogMaterial: Display: Missing cached shader map for material MAT_DWood, compiling. 
+[2021.01.21-23.53.19:050][123]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.01.21-23.53.19:057][123]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.01.21-23.53.19:088][123]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.21-23.53.19:097][123]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.01.21-23.53.19:289][125]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2021.01.21-23.53.19:651][131]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2021.01.21-23.53.19:769][134]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2021.01.21-23.53.20:247][144]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2021.01.21-23.53.21:248][165]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2021.01.21-23.53.24:537][238]LogMaterial: Display: Missing cached shader map for material MAT_DWood, compiling. 
+[2021.01.21-23.53.24:585][238]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.01.21-23.53.25:707][257]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2021.01.21-23.53.26:590][272]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2021.01.21-23.53.26:925][281]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2021.01.21-23.53.26:929][281]LogMaterial: Display: Missing cached shader map for material MAT_DWood, compiling. 
+[2021.01.21-23.53.26:955][281]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.01.21-23.53.26:981][281]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.21-23.53.26:988][281]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.01.21-23.53.26:999][281]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.01.21-23.53.27:921][297]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2021.01.21-23.53.28:248][306]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 20
+[2021.01.21-23.53.30:714][353]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2021.01.21-23.53.31:395][367]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2021.01.21-23.53.31:395][367]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 17
+[2021.01.21-23.53.32:192][384]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2021.01.21-23.53.32:321][387]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2021.01.21-23.53.32:627][394]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2021.01.21-23.53.33:489][412]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2021.01.21-23.53.34:056][423]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2021.01.21-23.53.35:164][445]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.01.21-23.53.35:325][449]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2021.01.21-23.53.36:459][476]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2021.01.21-23.53.36:565][479]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.01.21-23.53.37:496][501]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.01.21-23.53.37:627][504]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.01.21-23.53.38:873][534]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.01.21-23.53.39:027][539]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.01.21-23.53.39:902][561]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.01.21-23.53.39:942][562]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.01.21-23.53.40:020][564]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2021.01.21-23.53.43:342][721]LogMaterial: Display: Missing cached shader map for material MAT_DWood, compiling. 
+[2021.01.21-23.53.43:357][721]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.21-23.53.43:358][721]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.21-23.53.43:358][721]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.21-23.53.43:358][721]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.21-23.53.43:358][721]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.21-23.53.43:358][721]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.21-23.53.43:358][721]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.21-23.53.43:358][721]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.21-23.53.43:359][721]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.01.21-23.53.44:701][750]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.01.21-23.53.44:846][753]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.21-23.53.46:109][778]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.01.21-23.53.46:208][780]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.01.21-23.53.47:612][808]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.01.21-23.53.49:501][849]LogMaterialEditor: Saving and Compiling material MAT_DWood
+[2021.01.21-23.53.50:879][849]LogMaterial: Display: Missing cached shader map for material MAT_DWood, compiling. 
+[2021.01.21-23.53.50:936][849]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.21-23.53.50:936][849]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.01.21-23.53.51:184][849]LogMaterial: Display: Missing cached shader map for material MAT_DWood, compiling. 
+[2021.01.21-23.53.51:477][849]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.01.21-23.53.51:506][849]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.21-23.53.54:317][849]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 24
+[2021.01.21-23.53.54:877][849]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 23
+[2021.01.21-23.53.54:877][849]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 22
+[2021.01.21-23.53.54:877][849]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2021.01.21-23.53.54:877][849]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2021.01.21-23.53.54:877][849]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2021.01.21-23.53.54:877][849]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2021.01.21-23.53.55:996][849]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2021.01.21-23.53.56:557][849]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2021.01.21-23.53.56:557][849]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2021.01.21-23.53.56:797][849]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.01.21-23.53.56:826][849]TextureStreamingBuild: Display: Compiling optional shaders took 5.335 seconds.
+[2021.01.21-23.53.56:880][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.01.21-23.54.01:463][849]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2021.01.21-23.54.02:582][849]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.21-23.54.05:381][849]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.01.21-23.54.05:942][849]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.01.21-23.54.05:942][849]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2021.01.21-23.54.05:942][849]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.01.21-23.54.07:059][849]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.01.21-23.54.07:620][849]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.01.21-23.54.08:741][849]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.01.21-23.54.14:084][849]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/MAT_DWood91B0B1084C3F82843A6426AB24E4FF25.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/MAT_DWood.uasset'
+[2021.01.21-23.54.14:127][849]AssetCheck: New page: Asset Save: MAT_DWood
+[2021.01.21-23.54.14:127][849]LogContentValidation: Display: Validating Material /Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/MAT_DWood.MAT_DWood
+[2021.01.21-23.54.14:131][849]MaterialEditorStats: Base pass shader: 800 instructions
+[2021.01.21-23.54.14:131][849]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 867 instructions
+[2021.01.21-23.54.14:131][849]MaterialEditorStats: Base pass vertex shader: 237 instructions
+[2021.01.21-23.54.14:131][849]MaterialEditorStats: Texture samplers: 8/16
+[2021.01.21-23.54.14:131][849]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.01.21-23.54.14:131][849]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.21-23.54.17:140][ 44]LogSlate: Window 'MAT_DWood' being destroyed
+[2021.01.21-23.54.17:146][ 44]LogSlate: Window 'MAT_DWood' being destroyed
+[2021.01.21-23.54.17:196][ 44]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.01.21-23.54.17:196][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.21-23.56.25:761][570]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/MAT_GrayWood633819A640E738BEB141649263194E53.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/MAT_GrayWood.uasset'
+[2021.01.21-23.56.25:926][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.01.21-23.56.25:954][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.01.21-23.56.25:967][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.01.21-23.56.26:104][570]AssetCheck: New page: Asset Save: MAT_GrayWood
+[2021.01.21-23.56.26:104][570]LogContentValidation: Display: Validating Material /Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/MAT_GrayWood.MAT_GrayWood
+[2021.01.21-23.56.51:066][583]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/TexturesCom_Wood_ParquetStrip5_126BD6D9C47C8ED974E146CBE772DEA5C.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Environment/Floors/TextureMaps/GrayWood/TexturesCom_Wood_ParquetStrip5_1K_albedo.uasset'
+[2021.01.21-23.56.51:135][583]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/TexturesCom_Wood_ParquetStrip5_1328E31FC4926857E450CEEA1C6508A8A.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Environment/Floors/TextureMaps/GrayWood/TexturesCom_Wood_ParquetStrip5_1K_roughness.uasset'
+[2021.01.21-23.56.51:329][583]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/TexturesCom_Wood_ParquetStrip5_1EDBF76164CEF7ACE95581885C6A31D66.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Environment/Floors/TextureMaps/GrayWood/TexturesCom_Wood_ParquetStrip5_1K_normal.uasset'
+[2021.01.21-23.56.51:363][583]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/MAT_GrayWood44ADBEC549AD428E361941A75BE77359.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Environment/Floors/TextureMaps/GrayWood/MAT_GrayWood.uasset'
+[2021.01.21-23.56.51:805][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.01.21-23.56.51:822][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.01.21-23.56.51:835][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.01.21-23.56.51:849][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.01.21-23.56.51:871][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.01.21-23.56.51:885][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.01.21-23.56.52:010][583]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.21-23.56.52:010][583]LogContentValidation: Display: Validating Texture2D /Game/Geometry/Environment/Floors/TextureMaps/GrayWood/TexturesCom_Wood_ParquetStrip5_1K_albedo.TexturesCom_Wood_ParquetStrip5_1K_albedo
+[2021.01.21-23.56.52:010][583]LogContentValidation: Display: Validating Texture2D /Game/Geometry/Environment/Floors/TextureMaps/GrayWood/TexturesCom_Wood_ParquetStrip5_1K_roughness.TexturesCom_Wood_ParquetStrip5_1K_roughness
+[2021.01.21-23.56.52:010][583]LogContentValidation: Display: Validating Texture2D /Game/Geometry/Environment/Floors/TextureMaps/GrayWood/TexturesCom_Wood_ParquetStrip5_1K_normal.TexturesCom_Wood_ParquetStrip5_1K_normal
+[2021.01.21-23.56.52:010][583]LogContentValidation: Display: Validating Material /Game/Geometry/Environment/Floors/TextureMaps/GrayWood/MAT_GrayWood.MAT_GrayWood
+[2021.01.21-23.57.25:911][294]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\eNVISION\Textures\Wood Flooring\WoodDarkBrown\TexturesCom_Wood_ParquetStrip3_1K_roughness.tif)
+[2021.01.21-23.57.25:956][294]LogTexture: Display: Building textures: TexturesCom_Wood_ParquetStrip3_1K_roughness (AutoDXT, 1024X1024)
+[2021.01.21-23.57.26:063][294]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\eNVISION\Textures\Wood Flooring\WoodDarkBrown\TexturesCom_Wood_ParquetStrip3_1K_albedo.tif)
+[2021.01.21-23.57.26:100][294]LogTexture: Display: Building textures: TexturesCom_Wood_ParquetStrip3_1K_albedo (AutoDXT, 1024X1024)
+[2021.01.21-23.57.26:385][294]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\eNVISION\Textures\Wood Flooring\WoodDarkBrown\TexturesCom_Wood_ParquetStrip3_1K_normal.tif)
+[2021.01.21-23.57.26:436][294]LogTexture: Display: Building textures: TexturesCom_Wood_ParquetStrip3_1K_normal (BC5, 1024X1024)
+[2021.01.21-23.57.41:109][276]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/MAT_DWood.MAT_DWood
+[2021.01.21-23.57.41:110][276]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.01.21-23.57.41:223][276]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.01.21-23.57.41:231][276]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.01.21-23.57.41:245][276]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.21-23.57.41:245][276]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.21-23.57.41:245][276]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.21-23.57.41:245][276]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.21-23.57.41:245][276]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.21-23.57.41:245][276]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.21-23.57.41:245][276]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.21-23.57.41:245][276]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.21-23.57.42:895][309]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.21-23.57.46:024][380]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.01.21-23.57.46:034][380]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.21-23.57.46:034][380]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.01.21-23.57.46:038][380]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.21-23.57.46:067][380]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.21-23.57.48:219][418]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.01.21-23.57.48:247][418]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.21-23.57.49:589][444]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.01.21-23.57.49:615][444]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.01.21-23.57.49:647][444]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.21-23.57.49:654][444]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.01.21-23.57.51:558][485]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.01.21-23.57.51:587][485]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.01.21-23.57.52:831][505]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.01.21-23.57.52:858][505]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.01.21-23.57.52:894][505]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.21-23.57.52:902][505]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.01.21-23.57.52:916][505]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.01.21-23.57.53:221][507]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2021.01.21-23.57.53:529][514]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2021.01.21-23.57.53:752][519]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 19
+[2021.01.21-23.57.53:956][524]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2021.01.21-23.57.54:046][527]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 17
+[2021.01.21-23.57.54:174][530]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2021.01.21-23.57.55:106][547]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2021.01.21-23.57.55:549][555]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2021.01.21-23.57.58:552][611]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.01.21-23.57.59:630][634]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.01.21-23.58.00:195][646]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2021.01.21-23.58.00:683][656]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2021.01.21-23.58.01:533][675]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.01.21-23.58.02:046][688]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.01.21-23.58.02:524][701]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.01.21-23.58.02:632][703]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.01.21-23.58.02:664][703]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.01.21-23.58.03:141][713]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.01.21-23.58.03:875][730]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2021.01.21-23.58.04:611][744]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.01.21-23.58.05:084][754]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.01.21-23.58.05:124][755]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.01.21-23.58.05:165][756]LogMaterialEditor: Saving and Compiling material MAT_DWood
+[2021.01.21-23.58.06:307][756]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.21-23.58.06:331][756]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.01.21-23.58.06:385][756]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.01.21-23.58.06:411][756]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2021.01.21-23.58.06:574][756]LogMaterial: Display: Missing cached shader map for material MAT_DWood, compiling. 
+[2021.01.21-23.58.06:610][756]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2021.01.21-23.58.06:837][756]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2021.01.21-23.58.06:856][756]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.21-23.58.07:423][756]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 27
+[2021.01.21-23.58.07:423][756]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 26
+[2021.01.21-23.58.07:423][756]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 25
+[2021.01.21-23.58.07:982][756]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 24
+[2021.01.21-23.58.07:982][756]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 23
+[2021.01.21-23.58.08:540][756]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2021.01.21-23.58.09:099][756]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 21
+[2021.01.21-23.58.10:220][756]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2021.01.21-23.58.15:813][756]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2021.01.21-23.58.16:373][756]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2021.01.21-23.58.16:932][756]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2021.01.21-23.58.17:492][756]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2021.01.21-23.58.17:492][756]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2021.01.21-23.58.17:492][756]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.01.21-23.58.17:851][756]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.01.21-23.58.17:864][756]TextureStreamingBuild: Display: Compiling optional shaders took 11.016 seconds.
+[2021.01.21-23.58.17:885][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.01.21-23.58.18:552][756]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.21-23.58.18:552][756]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.01.21-23.58.19:673][756]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.01.21-23.58.21:356][756]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.01.21-23.58.26:390][756]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.21-23.58.27:510][756]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.01.21-23.58.28:069][756]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.01.21-23.58.28:630][756]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.01.21-23.58.31:467][756]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/MAT_DWood4DAADE7948AEE6491FF0AF9FFF60B548.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/MAT_DWood.uasset'
+[2021.01.21-23.58.31:516][756]AssetCheck: New page: Asset Save: MAT_DWood
+[2021.01.21-23.58.31:516][756]LogContentValidation: Display: Validating Material /Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/MAT_DWood.MAT_DWood
+[2021.01.21-23.58.31:521][756]MaterialEditorStats: Base pass shader: 800 instructions
+[2021.01.21-23.58.31:521][756]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 867 instructions
+[2021.01.21-23.58.31:521][756]MaterialEditorStats: Base pass vertex shader: 237 instructions
+[2021.01.21-23.58.31:521][756]MaterialEditorStats: Texture samplers: 8/16
+[2021.01.21-23.58.31:521][756]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.01.21-23.58.31:521][756]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.21-23.59.01:454][ 39]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.01.21-23.59.01:463][ 39]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.21-23.59.01:463][ 39]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.21-23.59.01:463][ 39]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.21-23.59.01:463][ 39]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.21-23.59.01:463][ 39]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.21-23.59.01:463][ 39]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.21-23.59.01:463][ 39]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.21-23.59.01:463][ 39]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.21-23.59.01:463][ 39]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.01.21-23.59.03:147][ 82]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.01.21-23.59.03:148][ 82]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.01.21-23.59.04:296][106]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.01.21-23.59.04:473][110]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.01.21-23.59.05:754][139]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.21-23.59.10:931][278]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.01.21-23.59.10:944][278]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.21-23.59.10:944][278]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.01.21-23.59.11:758][294]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.01.21-23.59.12:244][303]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.01.21-23.59.12:296][304]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.01.21-23.59.12:435][307]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.01.21-23.59.12:936][318]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.01.21-23.59.13:164][322]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.01.21-23.59.13:204][323]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.01.21-23.59.14:460][350]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.01.21-23.59.14:472][350]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2021.01.21-23.59.14:472][350]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2021.01.21-23.59.14:494][350]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.01.21-23.59.16:438][390]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.01.21-23.59.16:469][390]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.01.21-23.59.18:609][428]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.01.21-23.59.23:211][518]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2021.01.21-23.59.24:368][545]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2021.01.21-23.59.24:408][546]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2021.01.21-23.59.24:586][551]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2021.01.21-23.59.25:134][563]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2021.01.21-23.59.25:283][567]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.01.21-23.59.25:430][571]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2021.01.21-23.59.25:572][575]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2021.01.21-23.59.25:612][576]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.01.21-23.59.25:677][578]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.01.21-23.59.26:102][589]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.01.21-23.59.26:265][593]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.01.21-23.59.26:476][598]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2021.01.21-23.59.26:516][599]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.01.21-23.59.26:620][602]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.01.21-23.59.26:761][605]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.01.21-23.59.26:796][605]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.01.21-23.59.27:127][611]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.01.21-23.59.27:330][615]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.01.21-23.59.27:590][620]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.01.21-23.59.27:622][620]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.01.21-23.59.27:640][620]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.21-23.59.27:970][624]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.01.21-23.59.34:172][742]LogMaterialEditor: Saving and Compiling material MAT_DWood
+[2021.01.21-23.59.35:370][742]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.01.21-23.59.35:675][742]LogMaterial: Display: Missing cached shader map for material MAT_DWood, compiling. 
+[2021.01.21-23.59.35:765][742]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.01.21-23.59.35:989][742]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.21-23.59.37:678][742]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 30
+[2021.01.21-23.59.38:238][742]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 29
+[2021.01.21-23.59.38:797][742]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 28
+[2021.01.21-23.59.38:797][742]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 27
+[2021.01.21-23.59.38:797][742]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 26
+[2021.01.21-23.59.38:797][742]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 25
+[2021.01.21-23.59.39:350][742]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2021.01.21-23.59.39:350][742]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 23
+[2021.01.21-23.59.39:350][742]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 22
+[2021.01.21-23.59.39:910][742]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 21
+[2021.01.21-23.59.39:910][742]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2021.01.21-23.59.40:471][742]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2021.01.21-23.59.40:471][742]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2021.01.21-23.59.41:030][742]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2021.01.21-23.59.41:591][742]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2021.01.21-23.59.41:591][742]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2021.01.21-23.59.42:065][742]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.01.21-23.59.42:078][742]TextureStreamingBuild: Display: Compiling optional shaders took 6.095 seconds.
+[2021.01.21-23.59.42:103][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.01.21-23.59.48:934][742]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.21-23.59.50:053][742]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.01.21-23.59.50:053][742]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.01.21-23.59.50:611][742]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.01.21-23.59.50:611][742]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.01.21-23.59.50:611][742]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.01.21-23.59.51:731][742]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.01.21-23.59.52:292][742]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.01.21-23.59.53:407][742]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.01.21-23.59.59:359][742]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/MAT_DWoodC5BE2256457581A31F8925B6AADAA595.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/MAT_DWood.uasset'
+[2021.01.21-23.59.59:396][742]AssetCheck: New page: Asset Save: MAT_DWood
+[2021.01.21-23.59.59:396][742]LogContentValidation: Display: Validating Material /Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/MAT_DWood.MAT_DWood
+[2021.01.21-23.59.59:401][742]MaterialEditorStats: Base pass shader: 793 instructions
+[2021.01.21-23.59.59:401][742]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 864 instructions
+[2021.01.21-23.59.59:401][742]MaterialEditorStats: Base pass vertex shader: 237 instructions
+[2021.01.21-23.59.59:401][742]MaterialEditorStats: Texture samplers: 7/16
+[2021.01.21-23.59.59:401][742]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.01.21-23.59.59:401][742]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.21-23.59.59:561][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.01.22-00.00.01:966][743]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/GrayBox002_Auto4C32FA54B4B2F88981FD47F92C5909A04.tmp' to 'D:/eNVISION/Envision/VREnvision/Saved/Autosaves/Game/VirtualRealityBP/Testing/Maps/GrayBox002_Auto4.umap'
+[2021.01.22-00.00.01:974][743]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Testing/Maps/GrayBox002' took 2.425
+[2021.01.22-00.00.01:974][743]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.425
+[2021.01.22-00.00.01:974][743]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/TexturesCom_Wood_ParquetStrip3_1K_roughness] ([1] browsable assets)...
+[2021.01.22-00.00.01:980][743]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/TexturesCom_Wood_ParquetStrip3_1K_roughness.TexturesCom_Wood_ParquetStrip3_1K_roughness]
+[2021.01.22-00.00.01:980][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/TexturesCom_Wood_ParquetStrip3_1K_roughness]
+[2021.01.22-00.00.02:004][743]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/TexturesCom_Wood_ParquetStrip3_1427B824C4BD4EB9575FC218B11EC85E5.tmp' to 'D:/eNVISION/Envision/VREnvision/Saved/Autosaves/Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/TexturesCom_Wood_ParquetStrip3_1K_roughness_Auto4.uasset'
+[2021.01.22-00.00.02:005][743]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/TexturesCom_Wood_ParquetStrip3_1K_albedo] ([1] browsable assets)...
+[2021.01.22-00.00.02:010][743]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/TexturesCom_Wood_ParquetStrip3_1K_albedo.TexturesCom_Wood_ParquetStrip3_1K_albedo]
+[2021.01.22-00.00.02:010][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/TexturesCom_Wood_ParquetStrip3_1K_albedo]
+[2021.01.22-00.00.02:034][743]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/TexturesCom_Wood_ParquetStrip3_17EEA0E5C42A90B38DDD9A09323677D35.tmp' to 'D:/eNVISION/Envision/VREnvision/Saved/Autosaves/Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/TexturesCom_Wood_ParquetStrip3_1K_albedo_Auto4.uasset'
+[2021.01.22-00.00.02:035][743]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/TexturesCom_Wood_ParquetStrip3_1K_normal] ([1] browsable assets)...
+[2021.01.22-00.00.02:040][743]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/TexturesCom_Wood_ParquetStrip3_1K_normal.TexturesCom_Wood_ParquetStrip3_1K_normal]
+[2021.01.22-00.00.02:040][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/TexturesCom_Wood_ParquetStrip3_1K_normal]
+[2021.01.22-00.00.02:118][743]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/TexturesCom_Wood_ParquetStrip3_1EC0B88B64D35A0966E9E10880C04D546.tmp' to 'D:/eNVISION/Envision/VREnvision/Saved/Autosaves/Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/TexturesCom_Wood_ParquetStrip3_1K_normal_Auto4.uasset'
+[2021.01.22-00.00.02:119][743]LogFileHelpers: Auto-saving content packages took 0.146
+[2021.01.22-00.00.22:037][182]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.01.22-00.00.22:052][182]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.22-00.00.22:052][182]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.22-00.00.22:052][182]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.22-00.00.22:052][182]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.22-00.00.22:052][182]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.22-00.00.22:052][182]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.22-00.00.22:052][182]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.22-00.00.22:052][182]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.22-00.00.22:052][182]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.01.22-00.00.22:808][208]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.01.22-00.00.22:859][208]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.01.22-00.00.22:886][208]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.22-00.00.23:798][223]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.01.22-00.00.23:844][224]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.01.22-00.00.26:888][280]LogMaterialEditor: Saving and Compiling material MAT_DWood
+[2021.01.22-00.00.28:106][280]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.01.22-00.00.28:421][280]LogMaterial: Display: Missing cached shader map for material MAT_DWood, compiling. 
+[2021.01.22-00.00.28:513][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.01.22-00.00.28:849][280]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.22-00.00.33:901][280]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 30
+[2021.01.22-00.00.33:901][280]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 29
+[2021.01.22-00.00.34:462][280]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 28
+[2021.01.22-00.00.34:462][280]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 27
+[2021.01.22-00.00.34:462][280]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2021.01.22-00.00.34:462][280]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2021.01.22-00.00.34:462][280]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2021.01.22-00.00.35:023][280]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2021.01.22-00.00.35:023][280]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 22
+[2021.01.22-00.00.35:023][280]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 21
+[2021.01.22-00.00.35:023][280]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2021.01.22-00.00.35:584][280]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2021.01.22-00.00.35:584][280]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2021.01.22-00.00.36:145][280]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 17
+[2021.01.22-00.00.36:707][280]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2021.01.22-00.00.37:263][280]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2021.01.22-00.00.37:393][280]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2021.01.22-00.00.37:416][280]TextureStreamingBuild: Display: Compiling optional shaders took 8.579 seconds.
+[2021.01.22-00.00.37:447][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.01.22-00.00.44:826][280]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2021.01.22-00.00.45:386][280]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2021.01.22-00.00.45:945][280]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.22-00.00.45:945][280]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.22-00.00.45:945][280]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.01.22-00.00.45:945][280]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.01.22-00.00.47:067][280]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.22-00.00.47:628][280]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.01.22-00.00.48:745][280]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.01.22-00.00.55:133][280]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/MAT_DWood1C7ECE2D4169B80A22825791713E9C99.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/MAT_DWood.uasset'
+[2021.01.22-00.00.55:161][280]AssetCheck: New page: Asset Save: MAT_DWood
+[2021.01.22-00.00.55:161][280]LogContentValidation: Display: Validating Material /Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/MAT_DWood.MAT_DWood
+[2021.01.22-00.00.55:165][280]MaterialEditorStats: Base pass shader: 800 instructions
+[2021.01.22-00.00.55:165][280]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 867 instructions
+[2021.01.22-00.00.55:165][280]MaterialEditorStats: Base pass vertex shader: 237 instructions
+[2021.01.22-00.00.55:165][280]MaterialEditorStats: Texture samplers: 8/16
+[2021.01.22-00.00.55:165][280]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.01.22-00.00.55:165][280]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.22-00.01.06:253][ 65]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.01.22-00.01.06:269][ 65]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.01.22-00.01.06:276][ 65]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.22-00.01.06:276][ 65]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.22-00.01.06:276][ 65]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.22-00.01.06:276][ 65]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.22-00.01.06:276][ 65]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.22-00.01.06:276][ 65]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.22-00.01.06:276][ 65]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.22-00.01.06:276][ 65]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.22-00.01.07:604][ 93]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.01.22-00.01.07:739][ 96]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.22-00.01.08:158][105]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.01.22-00.01.08:201][105]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.01.22-00.01.08:986][119]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2021.01.22-00.01.09:152][122]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.01.22-00.01.10:421][149]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2021.01.22-00.01.10:611][154]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.01.22-00.01.11:497][172]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.01.22-00.01.12:717][193]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.01.22-00.01.12:767][193]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.01.22-00.01.13:504][206]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.01.22-00.01.13:536][206]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.01.22-00.01.13:554][206]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.22-00.01.19:037][327]LogMaterialEditor: Saving and Compiling material MAT_DWood
+[2021.01.22-00.01.20:071][327]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.01.22-00.01.20:071][327]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.01.22-00.01.20:071][327]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2021.01.22-00.01.20:071][327]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.01.22-00.01.20:071][327]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.22-00.01.20:071][327]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2021.01.22-00.01.20:092][327]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.01.22-00.01.20:430][327]LogMaterial: Display: Missing cached shader map for material MAT_DWood, compiling. 
+[2021.01.22-00.01.20:514][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.01.22-00.01.20:757][327]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.22-00.01.21:325][327]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 30
+[2021.01.22-00.01.21:325][327]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 29
+[2021.01.22-00.01.22:448][327]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 28
+[2021.01.22-00.01.22:448][327]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 27
+[2021.01.22-00.01.23:566][327]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 26
+[2021.01.22-00.01.23:566][327]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2021.01.22-00.01.23:566][327]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2021.01.22-00.01.24:127][327]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2021.01.22-00.01.25:249][327]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 22
+[2021.01.22-00.01.30:328][327]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2021.01.22-00.01.30:891][327]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2021.01.22-00.01.30:891][327]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 19
+[2021.01.22-00.01.31:453][327]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2021.01.22-00.01.31:453][327]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2021.01.22-00.01.32:014][327]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2021.01.22-00.01.32:513][327]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2021.01.22-00.01.32:513][327]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2021.01.22-00.01.32:525][327]TextureStreamingBuild: Display: Compiling optional shaders took 11.775 seconds.
+[2021.01.22-00.01.32:555][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.01.22-00.01.34:320][327]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2021.01.22-00.01.34:880][327]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2021.01.22-00.01.35:441][327]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.01.22-00.01.37:122][327]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2021.01.22-00.01.42:161][327]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.01.22-00.01.42:717][327]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.01.22-00.01.43:836][327]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.01.22-00.01.43:836][327]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.01.22-00.01.44:396][327]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.01.22-00.01.47:921][327]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/MAT_DWood9ACFB9F74C9E33361D7B5AB3FCEAD306.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/MAT_DWood.uasset'
+[2021.01.22-00.01.47:952][327]AssetCheck: New page: Asset Save: MAT_DWood
+[2021.01.22-00.01.47:952][327]LogContentValidation: Display: Validating Material /Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/MAT_DWood.MAT_DWood
+[2021.01.22-00.01.47:956][327]MaterialEditorStats: Base pass shader: 793 instructions
+[2021.01.22-00.01.47:956][327]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 864 instructions
+[2021.01.22-00.01.47:956][327]MaterialEditorStats: Base pass vertex shader: 237 instructions
+[2021.01.22-00.01.47:956][327]MaterialEditorStats: Texture samplers: 7/16
+[2021.01.22-00.01.47:956][327]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.01.22-00.01.47:956][327]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.22-00.01.57:071][804]LogSlate: Window 'MAT_DWood' being destroyed
+[2021.01.22-00.01.57:077][804]LogSlate: Window 'MAT_DWood' being destroyed
+[2021.01.22-00.01.57:104][804]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.01.22-00.01.57:104][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.22-00.03.08:673][750]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\eNVISION\Textures\Wood Flooring\WoodLightBrown\TexturesCom_WoodFine0034_1_seamless_S.jpg)
+[2021.01.22-00.03.08:699][750]LogTexture: Display: Building textures: TexturesCom_WoodFine0034_1_seamless_S (AutoDXT, 1024X1024)
+[2021.01.22-00.03.22:765][138]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Geometry/Environment/Floors/TextureMaps/LightBrownWood/MAT_LBrown.MAT_LBrown
+[2021.01.22-00.03.22:766][138]LogMaterial: Display: Missing cached shader map for material MAT_LBrown, compiling. 
+[2021.01.22-00.03.22:880][138]LogMaterial: Display: Missing cached shader map for material MAT_LBrown, compiling. 
+[2021.01.22-00.03.22:888][138]LogMaterial: Display: Missing cached shader map for material MAT_LBrown, compiling. 
+[2021.01.22-00.03.22:900][138]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.22-00.03.22:901][138]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.22-00.03.22:901][138]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.22-00.03.22:901][138]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.22-00.03.22:901][138]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.22-00.03.22:901][138]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.22-00.03.22:901][138]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.22-00.03.22:901][138]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.22-00.03.24:053][163]LogMaterial: Display: Missing cached shader map for material MAT_LBrown, compiling. 
+[2021.01.22-00.03.24:076][163]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.22-00.03.24:115][163]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.22-00.03.24:446][167]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.01.22-00.03.24:446][167]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.01.22-00.03.25:903][194]LogMaterial: Display: Missing cached shader map for material MAT_LBrown, compiling. 
+[2021.01.22-00.03.25:943][194]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.22-00.03.28:069][235]LogMaterialEditor: Saving and Compiling material MAT_LBrown
+[2021.01.22-00.03.29:208][235]LogMaterial: Display: Missing cached shader map for material MAT_LBrown, compiling. 
+[2021.01.22-00.03.29:561][235]LogMaterial: Display: Missing cached shader map for material MAT_LBrown, compiling. 
+[2021.01.22-00.03.29:928][235]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.01.22-00.03.29:957][235]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.22-00.03.34:445][235]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 30
+[2021.01.22-00.03.34:445][235]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 29
+[2021.01.22-00.03.35:006][235]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 28
+[2021.01.22-00.03.35:006][235]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 27
+[2021.01.22-00.03.35:006][235]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 26
+[2021.01.22-00.03.35:006][235]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 25
+[2021.01.22-00.03.35:006][235]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 24
+[2021.01.22-00.03.35:006][235]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 23
+[2021.01.22-00.03.35:567][235]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2021.01.22-00.03.35:567][235]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2021.01.22-00.03.35:567][235]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 20
+[2021.01.22-00.03.36:128][235]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2021.01.22-00.03.36:128][235]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2021.01.22-00.03.36:687][235]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2021.01.22-00.03.37:247][235]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2021.01.22-00.03.37:247][235]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2021.01.22-00.03.37:922][235]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2021.01.22-00.03.37:935][235]TextureStreamingBuild: Display: Compiling optional shaders took 7.994 seconds.
+[2021.01.22-00.03.37:972][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.01.22-00.03.44:803][235]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.22-00.03.45:364][235]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.01.22-00.03.45:925][235]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.22-00.03.45:925][235]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.22-00.03.45:925][235]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.01.22-00.03.46:486][235]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.22-00.03.47:608][235]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.01.22-00.03.48:169][235]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.01.22-00.03.48:730][235]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.01.22-00.03.54:810][235]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/MAT_LBrownAA82EBDF4207CA544A4BB29093C6B0BF.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Environment/Floors/TextureMaps/LightBrownWood/MAT_LBrown.uasset'
+[2021.01.22-00.03.54:841][235]AssetCheck: New page: Asset Save: MAT_LBrown
+[2021.01.22-00.03.54:841][235]LogContentValidation: Display: Validating Material /Game/Geometry/Environment/Floors/TextureMaps/LightBrownWood/MAT_LBrown.MAT_LBrown
+[2021.01.22-00.03.54:844][235]MaterialEditorStats: Base pass shader: 792 instructions
+[2021.01.22-00.03.54:845][235]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 859 instructions
+[2021.01.22-00.03.54:845][235]MaterialEditorStats: Base pass vertex shader: 237 instructions
+[2021.01.22-00.03.54:845][235]MaterialEditorStats: Texture samplers: 6/16
+[2021.01.22-00.03.54:845][235]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.01.22-00.03.54:845][235]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.22-00.03.57:586][418]LogSlate: Window 'MAT_LBrown' being destroyed
+[2021.01.22-00.03.57:592][418]LogSlate: Window 'MAT_LBrown' being destroyed
+[2021.01.22-00.03.57:625][418]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.01.22-00.03.57:625][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.22-00.04.23:795][187]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.01.22-00.04.25:254][344]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2021.01.22-00.04.44:559][481]Cmd: DELETE
+[2021.01.22-00.04.44:560][481]Cmd: ACTOR DELETE
+[2021.01.22-00.04.44:586][481]LogEditorActor: Deleted Actor: AtmosphericFog
+[2021.01.22-00.04.44:600][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.01.22-00.04.44:606][481]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2021.01.22-00.04.47:510][826]Cmd: TRANSACTION UNDO
+[2021.01.22-00.04.47:510][826]LogEditorTransaction: Undo Delete Actors
+[2021.01.22-00.05.50:079][482]Cmd: DELETE
+[2021.01.22-00.05.50:079][482]Cmd: ACTOR DELETE
+[2021.01.22-00.05.50:103][482]LogEditorActor: Deleted Actor: AtmosphericFog
+[2021.01.22-00.05.50:117][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.01.22-00.05.50:123][482]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2021.01.22-00.05.52:516][768]Cmd: TRANSACTION UNDO
+[2021.01.22-00.05.52:516][768]LogEditorTransaction: Undo Delete Actors
+[2021.01.22-00.06.08:867][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.01.22-00.06.08:911][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.01.22-00.06.11:363][480]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/GrayBox002C64C47BF4B70D8B8060778AA71322A9B.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/VirtualRealityBP/Testing/Maps/GrayBox002.umap'
+[2021.01.22-00.06.11:491][480]LogFileHelpers: Saving map 'GrayBox002' took 2.597
+[2021.01.22-00.06.11:540][480]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/TexturesCom_Wood_ParquetStrip3_1FCD3BBAA4EFF120BF69D699835B8A5B4.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/TexturesCom_Wood_ParquetStrip3_1K_roughness.uasset'
+[2021.01.22-00.06.11:629][480]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/TexturesCom_Wood_ParquetStrip3_1DD8565854484A61319B9F28D2AD775C4.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/TexturesCom_Wood_ParquetStrip3_1K_albedo.uasset'
+[2021.01.22-00.06.11:796][480]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/TexturesCom_Wood_ParquetStrip3_1A4125C554489FCE060BA77B623D9330E.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/TexturesCom_Wood_ParquetStrip3_1K_normal.uasset'
+[2021.01.22-00.06.11:885][480]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/TexturesCom_WoodFine0034_1_seamlEE85378F4A942E9F00134A8DC9D29FC6.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Environment/Floors/TextureMaps/LightBrownWood/TexturesCom_WoodFine0034_1_seamless_S.uasset'
+[2021.01.22-00.06.11:926][480]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.22-00.06.11:926][480]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002
+[2021.01.22-00.06.11:926][480]LogContentValidation: Display: Validating Texture2D /Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/TexturesCom_Wood_ParquetStrip3_1K_roughness.TexturesCom_Wood_ParquetStrip3_1K_roughness
+[2021.01.22-00.06.11:926][480]LogContentValidation: Display: Validating Texture2D /Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/TexturesCom_Wood_ParquetStrip3_1K_albedo.TexturesCom_Wood_ParquetStrip3_1K_albedo
+[2021.01.22-00.06.11:926][480]LogContentValidation: Display: Validating Texture2D /Game/Geometry/Environment/Floors/TextureMaps/DarkBrownWood/TexturesCom_Wood_ParquetStrip3_1K_normal.TexturesCom_Wood_ParquetStrip3_1K_normal
+[2021.01.22-00.06.11:926][480]LogContentValidation: Display: Validating Texture2D /Game/Geometry/Environment/Floors/TextureMaps/LightBrownWood/TexturesCom_WoodFine0034_1_seamless_S.TexturesCom_WoodFine0034_1_seamless_S
