@@ -920,3 +920,25 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.26-16.55.26:109][243]AssetCheck: New page: Asset Save: multiple assets
 [2021.01.26-16.55.26:109][243]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002
 [2021.01.26-16.55.26:110][243]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Geometry/Environment/HDRI/HDRI_Inst.HDRI_Inst
+[2021.01.26-16.58.51:173][320]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\eNVISION\Textures\HDRI\Lowered Res\Iceland Sunset 01.hdr)
+[2021.01.26-16.58.51:261][320]LogTexture: Display: Building textures: Iceland_Sunset_01 (RGBA16F, 4096X2048)
+[2021.01.26-16.58.55:504][320]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\eNVISION\Textures\HDRI\Lowered Res\Iceland Sunset 02.hdr)
+[2021.01.26-16.58.55:587][320]LogTexture: Display: Building textures: Iceland_Sunset_02 (RGBA16F, 4096X2048)
+[2021.01.26-16.59.00:171][320]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\eNVISION\Textures\HDRI\Lowered Res\Iceland Djupivogur.hdr)
+[2021.01.26-16.59.00:287][320]LogTexture: Display: Building textures: Iceland_Djupivogur (RGBA16F, 3840X1920)
+[2021.01.26-16.59.04:417][320]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\eNVISION\Textures\HDRI\Lowered Res\Iceland Jokulsarlon.hdr)
+[2021.01.26-16.59.04:498][320]LogTexture: Display: Building textures: Iceland_Jokulsarlon (RGBA16F, 4096X2048)
+[2021.01.26-16.59.08:698][320]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\eNVISION\Textures\HDRI\Lowered Res\Iceland Route 250.hdr)
+[2021.01.26-16.59.08:783][320]LogTexture: Display: Building textures: Iceland_Route_250 (RGBA16F, 4096X2048)
+[2021.01.26-16.59.18:840][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.01.26-16.59.19:001][613]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Iceland_Sunset_01E958FF424036FCAF8675B5844767F15D.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Environment/HDRI/HDRI_TextureMaps/Iceland/Iceland_Sunset_01.uasset'
+[2021.01.26-16.59.19:155][613]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Iceland_Sunset_02C2F752A341CD9DC56AA409B352997547.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Environment/HDRI/HDRI_TextureMaps/Iceland/Iceland_Sunset_02.uasset'
+[2021.01.26-16.59.19:700][613]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Iceland_DjupivogurFE28350140F533DFF00F7F84F1028F19.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Environment/HDRI/HDRI_TextureMaps/Iceland/Iceland_Djupivogur.uasset'
+[2021.01.26-16.59.19:836][613]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Iceland_Jokulsarlon548C9DAD40C749E7CCFAFB9C2DE3D066.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Environment/HDRI/HDRI_TextureMaps/Iceland/Iceland_Jokulsarlon.uasset'
+[2021.01.26-16.59.20:115][613]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Iceland_Route_250E3BB2DFF4CFEB87AC9FA78AE06A8AC06.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Environment/HDRI/HDRI_TextureMaps/Iceland/Iceland_Route_250.uasset'
+[2021.01.26-16.59.20:139][613]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.26-16.59.20:140][613]LogContentValidation: Display: Validating TextureCube /Game/Geometry/Environment/HDRI/HDRI_TextureMaps/Iceland/Iceland_Sunset_01.Iceland_Sunset_01
+[2021.01.26-16.59.20:140][613]LogContentValidation: Display: Validating TextureCube /Game/Geometry/Environment/HDRI/HDRI_TextureMaps/Iceland/Iceland_Sunset_02.Iceland_Sunset_02
+[2021.01.26-16.59.20:140][613]LogContentValidation: Display: Validating TextureCube /Game/Geometry/Environment/HDRI/HDRI_TextureMaps/Iceland/Iceland_Djupivogur.Iceland_Djupivogur
+[2021.01.26-16.59.20:140][613]LogContentValidation: Display: Validating TextureCube /Game/Geometry/Environment/HDRI/HDRI_TextureMaps/Iceland/Iceland_Jokulsarlon.Iceland_Jokulsarlon
+[2021.01.26-16.59.20:140][613]LogContentValidation: Display: Validating TextureCube /Game/Geometry/Environment/HDRI/HDRI_TextureMaps/Iceland/Iceland_Route_250.Iceland_Route_250
