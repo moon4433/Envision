@@ -942,3 +942,337 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.26-16.59.20:140][613]LogContentValidation: Display: Validating TextureCube /Game/Geometry/Environment/HDRI/HDRI_TextureMaps/Iceland/Iceland_Djupivogur.Iceland_Djupivogur
 [2021.01.26-16.59.20:140][613]LogContentValidation: Display: Validating TextureCube /Game/Geometry/Environment/HDRI/HDRI_TextureMaps/Iceland/Iceland_Jokulsarlon.Iceland_Jokulsarlon
 [2021.01.26-16.59.20:140][613]LogContentValidation: Display: Validating TextureCube /Game/Geometry/Environment/HDRI/HDRI_TextureMaps/Iceland/Iceland_Route_250.Iceland_Route_250
+[2021.01.26-17.04.02:881][198]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\eNVISION\Assets\Downloaded\Today\Swiss Madison Toilet.FBX)
+[2021.01.26-17.04.02:924][198]LogFbx: Loading FBX Scene from D:\eNVISION\Assets\Downloaded\Today\Swiss Madison Toilet.FBX
+[2021.01.26-17.04.02:943][198]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.26-17.04.05:924][198]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.01.26-17.04.06:193][198]LogMaterial: Display: Missing cached shader map for material Material__15, compiling. 
+[2021.01.26-17.04.06:247][198]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2021.01.26-17.04.06:247][198]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.01.26-17.04.06:247][198]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.01.26-17.04.06:247][198]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.01.26-17.04.06:247][198]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.26-17.04.06:247][198]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.01.26-17.04.06:247][198]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.26-17.04.06:247][198]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.01.26-17.04.06:405][198]LogStaticMesh: Building static mesh Swiss_Madison_Toilet_Base...
+[2021.01.26-17.04.06:453][198]LogStaticMesh: Built static mesh [0.05s] /Game/Geometry/Furniture/Seating/Tolets/Swiss_Madison_Toilet_Base.Swiss_Madison_Toilet_Base
+[2021.01.26-17.04.06:466][198]LogStaticMesh: Warning: Swiss_Madison_Toilet_Base has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.26-17.04.06:467][198]LogStaticMesh: Warning: Swiss_Madison_Toilet_Base has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.26-17.04.06:547][198]LogFbx: Display: Triangulating static mesh Seat
+[2021.01.26-17.04.06:581][198]LogStaticMesh: Building static mesh Swiss_Madison_Toilet_Seat...
+[2021.01.26-17.04.06:592][198]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Furniture/Seating/Tolets/Swiss_Madison_Toilet_Seat.Swiss_Madison_Toilet_Seat
+[2021.01.26-17.04.06:605][198]LogFbx: Display: Triangulating static mesh Lid
+[2021.01.26-17.04.06:674][198]LogStaticMesh: Building static mesh Swiss_Madison_Toilet_Lid...
+[2021.01.26-17.04.06:696][198]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Furniture/Seating/Tolets/Swiss_Madison_Toilet_Lid.Swiss_Madison_Toilet_Lid
+[2021.01.26-17.04.06:711][198]LogFbx: Display: Triangulating static mesh pushFlush
+[2021.01.26-17.04.06:855][198]LogStaticMesh: Building static mesh Swiss_Madison_Toilet_pushFlush...
+[2021.01.26-17.04.06:890][198]LogStaticMesh: Built static mesh [0.04s] /Game/Geometry/Furniture/Seating/Tolets/Swiss_Madison_Toilet_pushFlush.Swiss_Madison_Toilet_pushFlush
+[2021.01.26-17.04.06:897][198]LogStaticMesh: Warning: Swiss_Madison_Toilet_pushFlush has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.26-17.04.06:897][198]LogStaticMesh: Warning: Swiss_Madison_Toilet_pushFlush has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.26-17.04.06:936][198]LogFbx: Display: Triangulating static mesh cap1
+[2021.01.26-17.04.06:982][198]LogStaticMesh: Building static mesh Swiss_Madison_Toilet_cap1...
+[2021.01.26-17.04.06:991][198]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Furniture/Seating/Tolets/Swiss_Madison_Toilet_cap1.Swiss_Madison_Toilet_cap1
+[2021.01.26-17.04.07:019][198]LogFbx: Display: Triangulating static mesh cap2
+[2021.01.26-17.04.07:096][198]LogStaticMesh: Building static mesh Swiss_Madison_Toilet_cap2...
+[2021.01.26-17.04.07:107][198]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Furniture/Seating/Tolets/Swiss_Madison_Toilet_cap2.Swiss_Madison_Toilet_cap2
+[2021.01.26-17.04.07:158][198]FBXImport: Warning: Swiss_Madison_Toilet_Base has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.01.26-17.04.07:158][198]FBXImport: Warning: Swiss_Madison_Toilet_Base has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.01.26-17.04.07:158][198]FBXImport: Warning: Swiss_Madison_Toilet_pushFlush has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.01.26-17.04.07:158][198]FBXImport: Warning: Swiss_Madison_Toilet_pushFlush has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.01.26-17.04.09:966][293]LogSlate: Window 'Message Log' being destroyed
+[2021.01.26-17.04.09:977][293]LogSlate: Window 'Message Log' being destroyed
+[2021.01.26-17.05.18:241][410]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\eNVISION\Assets\Downloaded\Today\leatherheadVanity.FBX)
+[2021.01.26-17.05.18:251][410]LogFbx: Loading FBX Scene from D:\eNVISION\Assets\Downloaded\Today\leatherheadVanity.FBX
+[2021.01.26-17.05.18:265][410]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.26-17.05.19:998][410]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.01.26-17.05.20:150][410]LogMaterial: Display: Missing cached shader map for material 07_-_Default, compiling. 
+[2021.01.26-17.05.20:166][410]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2021.01.26-17.05.20:166][410]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.01.26-17.05.20:166][410]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.01.26-17.05.20:166][410]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.01.26-17.05.20:166][410]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.26-17.05.20:166][410]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.01.26-17.05.20:166][410]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.26-17.05.20:166][410]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.01.26-17.05.20:166][410]LogFbx: Display: Triangulating static mesh Drawer
+[2021.01.26-17.05.20:328][410]LogStaticMesh: Building static mesh leatherheadVanity_Drawer...
+[2021.01.26-17.05.20:341][410]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Furniture/Vanities/LeatherHead/leatherheadVanity_Drawer.leatherheadVanity_Drawer
+[2021.01.26-17.05.20:342][410]LogStaticMesh: Warning: leatherheadVanity_Drawer has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.26-17.05.20:343][410]LogStaticMesh: Warning: leatherheadVanity_Drawer has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.26-17.05.20:402][410]LogFbx: Display: Triangulating static mesh baseHandle_lp
+[2021.01.26-17.05.21:247][410]LogStaticMesh: Building static mesh leatherheadVanity_baseHandle_lp...
+[2021.01.26-17.05.21:478][410]LogStaticMesh: Built static mesh [0.23s] /Game/Geometry/Furniture/Vanities/LeatherHead/leatherheadVanity_baseHandle_lp.leatherheadVanity_baseHandle_lp
+[2021.01.26-17.05.21:519][410]LogStaticMesh: Warning: leatherheadVanity_baseHandle_lp has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.26-17.05.21:520][410]LogStaticMesh: Warning: leatherheadVanity_baseHandle_lp has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.26-17.05.21:597][410]FBXImport: Warning: leatherheadVanity_Drawer has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.01.26-17.05.21:597][410]FBXImport: Warning: leatherheadVanity_Drawer has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.01.26-17.05.21:597][410]FBXImport: Warning: leatherheadVanity_baseHandle_lp has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.01.26-17.05.21:597][410]FBXImport: Warning: leatherheadVanity_baseHandle_lp has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.01.26-17.05.23:478][465]LogSlate: Window 'Message Log' being destroyed
+[2021.01.26-17.05.23:489][465]LogSlate: Window 'Message Log' being destroyed
+[2021.01.26-17.05.41:016][895]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\eNVISION\Assets\Downloaded\Today\Stella Wall Vanity.FBX)
+[2021.01.26-17.05.41:027][895]LogFbx: Loading FBX Scene from D:\eNVISION\Assets\Downloaded\Today\Stella Wall Vanity.FBX
+[2021.01.26-17.05.41:044][895]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.26-17.05.42:673][895]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.01.26-17.05.42:706][895]LogMaterial: Display: Missing cached shader map for material Material__27, compiling. 
+[2021.01.26-17.05.42:721][895]LogFbx: Display: Triangulating static mesh Base
+[2021.01.26-17.05.42:920][895]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2021.01.26-17.05.42:920][895]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.01.26-17.05.42:920][895]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.01.26-17.05.42:920][895]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.01.26-17.05.42:920][895]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.26-17.05.42:920][895]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.01.26-17.05.42:920][895]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.26-17.05.42:920][895]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.01.26-17.05.42:931][895]LogStaticMesh: Building static mesh Stella_Wall_Vanity_Base...
+[2021.01.26-17.05.43:012][895]LogStaticMesh: Built static mesh [0.08s] /Game/Geometry/Furniture/Vanities/StellaWall/Stella_Wall_Vanity_Base.Stella_Wall_Vanity_Base
+[2021.01.26-17.05.43:020][895]LogStaticMesh: Warning: Stella_Wall_Vanity_Base has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.26-17.05.43:021][895]LogStaticMesh: Warning: Stella_Wall_Vanity_Base has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.26-17.05.43:057][895]LogMaterial: Display: Missing cached shader map for material Material__28, compiling. 
+[2021.01.26-17.05.43:322][895]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2021.01.26-17.05.43:470][895]LogStaticMesh: Building static mesh Stella_Wall_Vanity_handle1...
+[2021.01.26-17.05.43:493][895]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Furniture/Vanities/StellaWall/Stella_Wall_Vanity_handle1.Stella_Wall_Vanity_handle1
+[2021.01.26-17.05.43:499][895]LogStaticMesh: Warning: Stella_Wall_Vanity_handle1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.26-17.05.43:499][895]LogStaticMesh: Warning: Stella_Wall_Vanity_handle1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.26-17.05.43:523][895]LogStaticMesh: Building static mesh Stella_Wall_Vanity_handle...
+[2021.01.26-17.05.43:548][895]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Furniture/Vanities/StellaWall/Stella_Wall_Vanity_handle.Stella_Wall_Vanity_handle
+[2021.01.26-17.05.43:550][895]LogStaticMesh: Warning: Stella_Wall_Vanity_handle has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.26-17.05.43:550][895]LogStaticMesh: Warning: Stella_Wall_Vanity_handle has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.26-17.05.43:573][895]LogStaticMesh: Building static mesh Stella_Wall_Vanity_handle001...
+[2021.01.26-17.05.43:601][895]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Furniture/Vanities/StellaWall/Stella_Wall_Vanity_handle001.Stella_Wall_Vanity_handle001
+[2021.01.26-17.05.43:603][895]LogStaticMesh: Warning: Stella_Wall_Vanity_handle001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.26-17.05.43:603][895]LogStaticMesh: Warning: Stella_Wall_Vanity_handle001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.26-17.05.43:627][895]LogStaticMesh: Building static mesh Stella_Wall_Vanity_handle002...
+[2021.01.26-17.05.43:653][895]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Furniture/Vanities/StellaWall/Stella_Wall_Vanity_handle002.Stella_Wall_Vanity_handle002
+[2021.01.26-17.05.43:655][895]LogStaticMesh: Warning: Stella_Wall_Vanity_handle002 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.26-17.05.43:655][895]LogStaticMesh: Warning: Stella_Wall_Vanity_handle002 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.26-17.05.43:670][895]LogFbx: Display: Triangulating static mesh cap
+[2021.01.26-17.05.43:913][895]LogStaticMesh: Building static mesh Stella_Wall_Vanity_cap...
+[2021.01.26-17.05.43:971][895]LogStaticMesh: Built static mesh [0.06s] /Game/Geometry/Furniture/Vanities/StellaWall/Stella_Wall_Vanity_cap.Stella_Wall_Vanity_cap
+[2021.01.26-17.05.43:995][895]LogFbx: Display: Triangulating static mesh zuraFaucet
+[2021.01.26-17.05.44:191][895]LogStaticMesh: Building static mesh Stella_Wall_Vanity_zuraFaucet...
+[2021.01.26-17.05.44:237][895]LogStaticMesh: Built static mesh [0.05s] /Game/Geometry/Furniture/Vanities/StellaWall/Stella_Wall_Vanity_zuraFaucet.Stella_Wall_Vanity_zuraFaucet
+[2021.01.26-17.05.44:285][895]FBXImport: Warning: Stella_Wall_Vanity_Base has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.01.26-17.05.44:285][895]FBXImport: Warning: Stella_Wall_Vanity_Base has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.01.26-17.05.44:285][895]FBXImport: Warning: Stella_Wall_Vanity_handle1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.01.26-17.05.44:285][895]FBXImport: Warning: Stella_Wall_Vanity_handle1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.01.26-17.05.44:285][895]FBXImport: Warning: Stella_Wall_Vanity_handle has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.01.26-17.05.44:285][895]FBXImport: Warning: Stella_Wall_Vanity_handle has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.01.26-17.05.44:285][895]FBXImport: Warning: Stella_Wall_Vanity_handle001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.01.26-17.05.44:285][895]FBXImport: Warning: Stella_Wall_Vanity_handle001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.01.26-17.05.44:285][895]FBXImport: Warning: Stella_Wall_Vanity_handle002 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.01.26-17.05.44:285][895]FBXImport: Warning: Stella_Wall_Vanity_handle002 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.01.26-17.05.44:333][895]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2021.01.26-17.05.46:115][941]LogSlate: Window 'Message Log' being destroyed
+[2021.01.26-17.05.46:126][941]LogSlate: Window 'Message Log' being destroyed
+[2021.01.26-17.05.54:783][283]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.01.26-17.05.55:201][295]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.26-17.05.55:356][300]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.01.26-17.05.55:492][305]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.26-17.05.56:076][324]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.01.26-17.05.56:663][341]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.01.26-17.05.58:018][388]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.26-17.05.58:358][403]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.01.26-17.05.59:536][453]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.01.26-17.06.25:393][862]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\eNVISION\Assets\Downloaded\Today\Posner End Table.FBX)
+[2021.01.26-17.06.25:403][862]LogFbx: Loading FBX Scene from D:\eNVISION\Assets\Downloaded\Today\Posner End Table.FBX
+[2021.01.26-17.06.25:412][862]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.26-17.06.26:685][862]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.01.26-17.06.26:717][862]LogMaterial: Display: Missing cached shader map for material Material__11, compiling. 
+[2021.01.26-17.06.26:732][862]LogFbx: Display: Triangulating static mesh shelfMid
+[2021.01.26-17.06.26:754][862]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2021.01.26-17.06.26:754][862]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.01.26-17.06.26:754][862]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.01.26-17.06.26:754][862]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.01.26-17.06.26:754][862]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.26-17.06.26:754][862]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.01.26-17.06.26:754][862]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.26-17.06.26:754][862]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.01.26-17.06.26:878][862]LogStaticMesh: Building static mesh Posner_End_Table_shelfMid...
+[2021.01.26-17.06.26:889][862]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Furniture/Tables/PosnerTable/Posner_End_Table_shelfMid.Posner_End_Table_shelfMid
+[2021.01.26-17.06.26:900][862]LogFbx: Display: Triangulating static mesh shelfMid001
+[2021.01.26-17.06.26:937][862]LogStaticMesh: Building static mesh Posner_End_Table_shelfMid001...
+[2021.01.26-17.06.26:949][862]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Furniture/Tables/PosnerTable/Posner_End_Table_shelfMid001.Posner_End_Table_shelfMid001
+[2021.01.26-17.06.26:961][862]LogFbx: Display: Triangulating static mesh Cylinder002
+[2021.01.26-17.06.27:043][862]LogStaticMesh: Building static mesh Posner_End_Table_Cylinder002...
+[2021.01.26-17.06.27:071][862]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Furniture/Tables/PosnerTable/Posner_End_Table_Cylinder002.Posner_End_Table_Cylinder002
+[2021.01.26-17.07.01:823][178]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\eNVISION\Assets\Downloaded\Today\Holifield End Table.FBX)
+[2021.01.26-17.07.01:833][178]LogFbx: Loading FBX Scene from D:\eNVISION\Assets\Downloaded\Today\Holifield End Table.FBX
+[2021.01.26-17.07.01:842][178]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.26-17.07.03:362][178]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.01.26-17.07.03:395][178]LogMaterial: Display: Missing cached shader map for material Material__25, compiling. 
+[2021.01.26-17.07.03:417][178]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2021.01.26-17.07.03:417][178]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.01.26-17.07.03:417][178]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.01.26-17.07.03:417][178]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.01.26-17.07.03:417][178]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.26-17.07.03:417][178]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.01.26-17.07.03:417][178]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.26-17.07.03:418][178]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.01.26-17.07.03:565][178]LogStaticMesh: Building static mesh Holifield_End_Table_shelf...
+[2021.01.26-17.07.03:598][178]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Furniture/Tables/HolifieldTable/Holifield_End_Table_shelf.Holifield_End_Table_shelf
+[2021.01.26-17.07.03:603][178]LogStaticMesh: Warning: Holifield_End_Table_shelf has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.26-17.07.03:604][178]LogStaticMesh: Warning: Holifield_End_Table_shelf has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.26-17.07.03:730][178]LogFbx: Display: Triangulating static mesh Box001
+[2021.01.26-17.07.03:754][178]LogStaticMesh: Building static mesh Holifield_End_Table_Box001...
+[2021.01.26-17.07.03:771][178]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Furniture/Tables/HolifieldTable/Holifield_End_Table_Box001.Holifield_End_Table_Box001
+[2021.01.26-17.07.03:785][178]FBXImport: Warning: Holifield_End_Table_shelf has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.01.26-17.07.03:785][178]FBXImport: Warning: Holifield_End_Table_shelf has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.01.26-17.07.05:460][224]LogSlate: Window 'Message Log' being destroyed
+[2021.01.26-17.07.05:477][224]LogSlate: Window 'Message Log' being destroyed
+[2021.01.26-17.07.47:890][526]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\eNVISION\Assets\Downloaded\Today\justiceWasteBasket.FBX)
+[2021.01.26-17.07.47:900][526]LogFbx: Loading FBX Scene from D:\eNVISION\Assets\Downloaded\Today\justiceWasteBasket.FBX
+[2021.01.26-17.07.47:908][526]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.26-17.07.49:252][526]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.01.26-17.07.49:417][526]LogMaterial: Display: Missing cached shader map for material Material__29, compiling. 
+[2021.01.26-17.07.49:441][526]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2021.01.26-17.07.49:441][526]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.01.26-17.07.49:441][526]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.01.26-17.07.49:441][526]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.01.26-17.07.49:441][526]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.26-17.07.49:441][526]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.01.26-17.07.49:441][526]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.26-17.07.49:441][526]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.01.26-17.07.49:584][526]LogStaticMesh: Building static mesh justiceWasteBasket...
+[2021.01.26-17.07.49:616][526]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Props/Objects/JusticeWasteBasket/justiceWasteBasket.justiceWasteBasket
+[2021.01.26-17.07.49:621][526]LogStaticMesh: Warning: justiceWasteBasket has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.26-17.07.49:621][526]LogStaticMesh: Warning: justiceWasteBasket has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.26-17.07.49:635][526]FBXImport: Warning: justiceWasteBasket has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.01.26-17.07.49:635][526]FBXImport: Warning: justiceWasteBasket has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.01.26-17.07.51:599][601]LogSlate: Window 'Message Log' being destroyed
+[2021.01.26-17.07.51:616][601]LogSlate: Window 'Message Log' being destroyed
+[2021.01.26-17.08.34:007][481]LogActorFactory: Actor Factory created justiceWasteBasket
+[2021.01.26-17.08.35:547][664]LogActorFactory: Actor Factory created justiceWasteBasket
+[2021.01.26-17.08.51:300][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.01.26-17.08.52:877][438]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.26-17.08.55:370][718]Cmd: DELETE
+[2021.01.26-17.08.55:370][718]Cmd: ACTOR DELETE
+[2021.01.26-17.08.55:395][718]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.26-17.08.55:409][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.01.26-17.08.55:411][718]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2021.01.26-17.09.11:697][626]LogActorFactory: Actor Factory created Swiss_Madison_Toilet_Base
+[2021.01.26-17.09.11:697][626]LogActorFactory: Actor Factory created Swiss_Madison_Toilet_cap1
+[2021.01.26-17.09.11:698][626]LogActorFactory: Actor Factory created Swiss_Madison_Toilet_cap2
+[2021.01.26-17.09.11:698][626]LogActorFactory: Actor Factory created Swiss_Madison_Toilet_Lid
+[2021.01.26-17.09.11:698][626]LogActorFactory: Actor Factory created Swiss_Madison_Toilet_pushFlush
+[2021.01.26-17.09.11:699][626]LogActorFactory: Actor Factory created Swiss_Madison_Toilet_Seat
+[2021.01.26-17.09.13:046][785]LogActorFactory: Actor Factory created Swiss_Madison_Toilet_Base
+[2021.01.26-17.09.13:062][785]LogActorFactory: Actor Factory created Swiss_Madison_Toilet_cap1
+[2021.01.26-17.09.13:077][785]LogActorFactory: Actor Factory created Swiss_Madison_Toilet_cap2
+[2021.01.26-17.09.13:094][785]LogActorFactory: Actor Factory created Swiss_Madison_Toilet_Lid
+[2021.01.26-17.09.13:110][785]LogActorFactory: Actor Factory created Swiss_Madison_Toilet_pushFlush
+[2021.01.26-17.09.13:127][785]LogActorFactory: Actor Factory created Swiss_Madison_Toilet_Seat
+[2021.01.26-17.09.17:508][274]Cmd: DELETE
+[2021.01.26-17.09.17:508][274]Cmd: ACTOR DELETE
+[2021.01.26-17.09.17:536][274]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.26-17.09.17:536][274]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.26-17.09.17:537][274]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.26-17.09.17:537][274]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.26-17.09.17:537][274]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.26-17.09.17:537][274]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.26-17.09.17:550][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.01.26-17.09.17:553][274]LogEditorActor: Deleted 6 Actors (0.045 secs)
+[2021.01.26-17.09.26:331][276]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Geometry/Furniture/Tables/HolifieldTable/Holifield_End_Table_shelf.Holifield_End_Table_shelf
+[2021.01.26-17.09.26:599][276]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.01.26-17.09.26:599][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.26-17.09.27:862][398]LogSlate: Window 'Holifield_End_Table_shelf' being destroyed
+[2021.01.26-17.09.27:867][398]LogSlate: Window 'Holifield_End_Table_shelf' being destroyed
+[2021.01.26-17.09.27:869][398]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.01.26-17.09.27:869][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.26-17.09.28:421][438]LogActorFactory: Actor Factory created Holifield_End_Table_Box001
+[2021.01.26-17.09.28:422][438]LogActorFactory: Actor Factory created Holifield_End_Table_shelf
+[2021.01.26-17.09.28:863][488]LogActorFactory: Actor Factory created Holifield_End_Table_Box001
+[2021.01.26-17.09.28:877][488]LogActorFactory: Actor Factory created Holifield_End_Table_shelf
+[2021.01.26-17.09.32:113][863]Cmd: DELETE
+[2021.01.26-17.09.32:113][863]Cmd: ACTOR DELETE
+[2021.01.26-17.09.32:138][863]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.26-17.09.32:138][863]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.26-17.09.32:153][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.01.26-17.09.32:158][863]LogEditorActor: Deleted 2 Actors (0.045 secs)
+[2021.01.26-17.09.36:681][370]LogActorFactory: Actor Factory created Holifield_End_Table_Box001
+[2021.01.26-17.09.36:682][370]LogActorFactory: Actor Factory created Holifield_End_Table_shelf
+[2021.01.26-17.09.38:442][579]LogActorFactory: Actor Factory created Holifield_End_Table_Box001
+[2021.01.26-17.09.38:456][579]LogActorFactory: Actor Factory created Holifield_End_Table_shelf
+[2021.01.26-17.09.46:395][413]LogActorFactory: Actor Factory created Posner_End_Table_Cylinder002
+[2021.01.26-17.09.46:395][413]LogActorFactory: Actor Factory created Posner_End_Table_shelfMid
+[2021.01.26-17.09.46:396][413]LogActorFactory: Actor Factory created Posner_End_Table_shelfMid001
+[2021.01.26-17.09.51:288][953]LogActorFactory: Actor Factory created Posner_End_Table_Cylinder002
+[2021.01.26-17.09.51:302][953]LogActorFactory: Actor Factory created Posner_End_Table_shelfMid
+[2021.01.26-17.09.51:318][953]LogActorFactory: Actor Factory created Posner_End_Table_shelfMid001
+[2021.01.26-17.11.02:206][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Posner_End_Table_shelfMid001)
+[2021.01.26-17.11.02:887][ 88]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Posner_End_Table_shelfMid)
+[2021.01.26-17.11.03:996][212]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Posner_End_Table_Cylinder002)
+[2021.01.26-17.11.12:345][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Holifield_End_Table_shelf)
+[2021.01.26-17.11.13:177][219]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Holifield_End_Table_Box001)
+[2021.01.26-17.11.23:503][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (McCoffeeTable)
+[2021.01.26-17.11.25:946][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EntCenter)
+[2021.01.26-17.11.33:816][526]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.01.26-17.11.34:436][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BookCase)
+[2021.01.26-17.11.37:116][901]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EntCenter)
+[2021.01.26-17.11.39:429][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sofa_Luca_Temp)
+[2021.01.26-17.11.40:846][325]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SofaSophia)
+[2021.01.26-17.12.17:851][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.01.26-17.12.18:183][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.01.26-17.12.21:345][401]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/GrayBox0021F84969846A6C0189F2932B7C6DB064B.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/VirtualRealityBP/Testing/Maps/GrayBox002.umap'
+[2021.01.26-17.12.21:393][401]LogFileHelpers: Saving map 'GrayBox002' took 3.518
+[2021.01.26-17.12.21:420][401]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Material__299CDFAFA2461F25DC3E5BFBA24673E9C6.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/JusticeWasteBasket/Material__29.uasset'
+[2021.01.26-17.12.21:458][401]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Swiss_Madison_Toilet_Base148CC71849B125EBC072AB80DF0A611B.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Seating/Tolets/Swiss_Madison_Toilet_Base.uasset'
+[2021.01.26-17.12.21:473][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Furniture/Seating/Tolets/Material__15" FILE="D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Seating/Tolets/Material__15.uasset" SILENT=true
+[2021.01.26-17.12.21:488][401]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Material__152D78BF7B413BFF30532D0F862D023053.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Seating/Tolets/Material__15.uasset'
+[2021.01.26-17.12.21:524][401]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Swiss_Madison_Toilet_SeatD7771619433133DC113E9890A3313CE3.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Seating/Tolets/Swiss_Madison_Toilet_Seat.uasset'
+[2021.01.26-17.12.21:593][401]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Swiss_Madison_Toilet_LidCE18706542C78685E6E000A67E33FB6B.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Seating/Tolets/Swiss_Madison_Toilet_Lid.uasset'
+[2021.01.26-17.12.21:640][401]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Swiss_Madison_Toilet_pushFlush32785B2D486F73BE36C7B2B9C79A3131.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Seating/Tolets/Swiss_Madison_Toilet_pushFlush.uasset'
+[2021.01.26-17.12.21:678][401]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Swiss_Madison_Toilet_cap192929AE94C93E40F29F34C8B364FBDC2.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Seating/Tolets/Swiss_Madison_Toilet_cap1.uasset'
+[2021.01.26-17.12.21:725][401]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Swiss_Madison_Toilet_cap2A6C1C97346EC92A60D7C238BF4EC5E8F.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Seating/Tolets/Swiss_Madison_Toilet_cap2.uasset'
+[2021.01.26-17.12.21:760][401]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/leatherheadVanity_Drawer58C9425441C19FDBE3EB548F66DA0A4B.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Vanities/LeatherHead/leatherheadVanity_Drawer.uasset'
+[2021.01.26-17.12.21:802][401]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/07_-_DefaultE8BB93754B472E0652B9878193A5CE00.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Vanities/LeatherHead/07_-_Default.uasset'
+[2021.01.26-17.12.21:860][401]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/leatherheadVanity_baseHandle_lp79AE9DAB4BC2BD78DA251D86800E8425.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Vanities/LeatherHead/leatherheadVanity_baseHandle_lp.uasset'
+[2021.01.26-17.12.22:019][401]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Stella_Wall_Vanity_Base2A538F0741A41EF71C4D1A9F71A9C7D5.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Vanities/StellaWall/Stella_Wall_Vanity_Base.uasset'
+[2021.01.26-17.12.22:086][401]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Material__27F1B015D24A4659FE764318A05CB5F2DB.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Vanities/StellaWall/Material__27.uasset'
+[2021.01.26-17.12.22:133][401]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Stella_Wall_Vanity_handle177276B0B480B4D3A755F43A5980BCCFC.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Vanities/StellaWall/Stella_Wall_Vanity_handle1.uasset'
+[2021.01.26-17.12.22:163][401]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Material__28C4576FDB40F6A786A47ACDB87E21B70C.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Vanities/StellaWall/Material__28.uasset'
+[2021.01.26-17.12.22:202][401]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Stella_Wall_Vanity_handle169EBB6C4B9DCC609B6E97BDD7AB9647.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Vanities/StellaWall/Stella_Wall_Vanity_handle.uasset'
+[2021.01.26-17.12.22:239][401]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Stella_Wall_Vanity_handle0016B1A5AA947FD806DB22B45B49EF55CF2.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Vanities/StellaWall/Stella_Wall_Vanity_handle001.uasset'
+[2021.01.26-17.12.22:274][401]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Stella_Wall_Vanity_handle002BA1532814965EDB3D7D9269FCA5E999C.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Vanities/StellaWall/Stella_Wall_Vanity_handle002.uasset'
+[2021.01.26-17.12.22:325][401]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Stella_Wall_Vanity_capA908CC6F4B53999D856ABEAA44B0175F.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Vanities/StellaWall/Stella_Wall_Vanity_cap.uasset'
+[2021.01.26-17.12.22:374][401]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Stella_Wall_Vanity_zuraFaucetF927208B4723B7384A1B4EAD63EBFEB0.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Vanities/StellaWall/Stella_Wall_Vanity_zuraFaucet.uasset'
+[2021.01.26-17.12.22:424][401]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Posner_End_Table_shelfMidD80A11634AD3A5698B58839701843C1E.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Tables/PosnerTable/Posner_End_Table_shelfMid.uasset'
+[2021.01.26-17.12.22:439][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Furniture/Tables/PosnerTable/Material__11" FILE="D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Tables/PosnerTable/Material__11.uasset" SILENT=true
+[2021.01.26-17.12.22:454][401]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Material__117933094245CD79E7604DDC9A6BABBE4D.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Tables/PosnerTable/Material__11.uasset'
+[2021.01.26-17.12.22:499][401]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Posner_End_Table_shelfMid00189FA48B942C83DCA385E6D96E938BC61.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Tables/PosnerTable/Posner_End_Table_shelfMid001.uasset'
+[2021.01.26-17.12.22:547][401]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Posner_End_Table_Cylinder00297ECCAF74E986DF6B104F48DB35BAFC1.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Tables/PosnerTable/Posner_End_Table_Cylinder002.uasset'
+[2021.01.26-17.12.22:593][401]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Holifield_End_Table_shelf4804101B4E163AE09702ECA386C17528.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Tables/HolifieldTable/Holifield_End_Table_shelf.uasset'
+[2021.01.26-17.12.22:620][401]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Material__25593A72C348E730DDB2FCBBB23FE5852F.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Tables/HolifieldTable/Material__25.uasset'
+[2021.01.26-17.12.22:660][401]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Holifield_End_Table_Box001378557CA4B46C37CC517718B7E010967.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Furniture/Tables/HolifieldTable/Holifield_End_Table_Box001.uasset'
+[2021.01.26-17.12.22:721][401]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/justiceWasteBasket4B54A7F04E8EAAD1FB02F0907FDAED64.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/JusticeWasteBasket/justiceWasteBasket.uasset'
+[2021.01.26-17.12.22:774][401]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.26-17.12.22:774][401]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002
+[2021.01.26-17.12.22:774][401]LogContentValidation: Display: Validating Material /Game/Geometry/Props/Objects/JusticeWasteBasket/Material__29.Material__29
+[2021.01.26-17.12.22:774][401]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Seating/Tolets/Swiss_Madison_Toilet_Base.Swiss_Madison_Toilet_Base
+[2021.01.26-17.12.22:774][401]LogContentValidation: Display: Validating Material /Game/Geometry/Furniture/Seating/Tolets/Material__15.Material__15
+[2021.01.26-17.12.22:774][401]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Seating/Tolets/Swiss_Madison_Toilet_Seat.Swiss_Madison_Toilet_Seat
+[2021.01.26-17.12.22:774][401]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Seating/Tolets/Swiss_Madison_Toilet_Lid.Swiss_Madison_Toilet_Lid
+[2021.01.26-17.12.22:774][401]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Seating/Tolets/Swiss_Madison_Toilet_pushFlush.Swiss_Madison_Toilet_pushFlush
+[2021.01.26-17.12.22:774][401]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Seating/Tolets/Swiss_Madison_Toilet_cap1.Swiss_Madison_Toilet_cap1
+[2021.01.26-17.12.22:774][401]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Seating/Tolets/Swiss_Madison_Toilet_cap2.Swiss_Madison_Toilet_cap2
+[2021.01.26-17.12.22:774][401]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Vanities/LeatherHead/leatherheadVanity_Drawer.leatherheadVanity_Drawer
+[2021.01.26-17.12.22:774][401]LogContentValidation: Display: Validating Material /Game/Geometry/Furniture/Vanities/LeatherHead/07_-_Default.07_-_Default
+[2021.01.26-17.12.22:774][401]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Vanities/LeatherHead/leatherheadVanity_baseHandle_lp.leatherheadVanity_baseHandle_lp
+[2021.01.26-17.12.22:774][401]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Vanities/StellaWall/Stella_Wall_Vanity_Base.Stella_Wall_Vanity_Base
+[2021.01.26-17.12.22:774][401]LogContentValidation: Display: Validating Material /Game/Geometry/Furniture/Vanities/StellaWall/Material__27.Material__27
+[2021.01.26-17.12.22:774][401]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Vanities/StellaWall/Stella_Wall_Vanity_handle1.Stella_Wall_Vanity_handle1
+[2021.01.26-17.12.22:774][401]LogContentValidation: Display: Validating Material /Game/Geometry/Furniture/Vanities/StellaWall/Material__28.Material__28
+[2021.01.26-17.12.22:774][401]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Vanities/StellaWall/Stella_Wall_Vanity_handle.Stella_Wall_Vanity_handle
+[2021.01.26-17.12.22:774][401]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Vanities/StellaWall/Stella_Wall_Vanity_handle001.Stella_Wall_Vanity_handle001
+[2021.01.26-17.12.22:774][401]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Vanities/StellaWall/Stella_Wall_Vanity_handle002.Stella_Wall_Vanity_handle002
+[2021.01.26-17.12.22:774][401]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Vanities/StellaWall/Stella_Wall_Vanity_cap.Stella_Wall_Vanity_cap
+[2021.01.26-17.12.22:774][401]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Vanities/StellaWall/Stella_Wall_Vanity_zuraFaucet.Stella_Wall_Vanity_zuraFaucet
+[2021.01.26-17.12.22:774][401]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Tables/PosnerTable/Posner_End_Table_shelfMid.Posner_End_Table_shelfMid
+[2021.01.26-17.12.22:774][401]LogContentValidation: Display: Validating Material /Game/Geometry/Furniture/Tables/PosnerTable/Material__11.Material__11
+[2021.01.26-17.12.22:774][401]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Tables/PosnerTable/Posner_End_Table_shelfMid001.Posner_End_Table_shelfMid001
+[2021.01.26-17.12.22:774][401]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Tables/PosnerTable/Posner_End_Table_Cylinder002.Posner_End_Table_Cylinder002
+[2021.01.26-17.12.22:774][401]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Tables/HolifieldTable/Holifield_End_Table_shelf.Holifield_End_Table_shelf
+[2021.01.26-17.12.22:774][401]LogContentValidation: Display: Validating Material /Game/Geometry/Furniture/Tables/HolifieldTable/Material__25.Material__25
+[2021.01.26-17.12.22:775][401]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Tables/HolifieldTable/Holifield_End_Table_Box001.Holifield_End_Table_Box001
+[2021.01.26-17.12.22:775][401]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Props/Objects/JusticeWasteBasket/justiceWasteBasket.justiceWasteBasket
