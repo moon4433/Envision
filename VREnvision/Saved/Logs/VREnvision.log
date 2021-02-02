@@ -2478,3 +2478,1466 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.02-08.46.58:946][539]LogDirectoryWatcher: A directory notification failed for 'D:/eNVISION/Envision/VREnvision/Content/' because it was empty or there was a buffer overflow. Attemping another request...
 [2021.02.02-08.46.58:946][539]LogDirectoryWatcher: A directory notification failed for 'D:/eNVISION/Envision/VREnvision/Content/' because it was empty or there was a buffer overflow. Attemping another request...
 [2021.02.02-08.47.21:670][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.02.02-09.17.23:754][763]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Geometry/Environment/KitchenLayouts/KLayout01/TextureMaps/Mat_KLayout01.Mat_KLayout01
+[2021.02.02-09.17.23:805][763]LogMaterial: Display: Missing cached shader map for material Mat_KLayout01, compiling. 
+[2021.02.02-09.17.24:575][763]LogMaterial: Display: Missing cached shader map for material Mat_KLayout01, compiling. 
+[2021.02.02-09.17.24:592][763]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.02.02-09.17.24:592][763]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.02.02-09.17.24:592][763]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.02.02-09.17.24:592][763]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.02.02-09.17.24:592][763]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.02.02-09.17.24:592][763]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.02.02-09.17.24:592][763]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.02.02-09.17.24:592][763]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.02.02-09.17.24:593][763]LogMaterial: Display: Missing cached shader map for material Mat_KLayout01, compiling. 
+[2021.02.02-09.17.24:701][763]LogSlate: Took 0.013681 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.02.02-09.17.26:849][819]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.02.02-09.17.26:954][821]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.02.02-09.17.32:898][938]LogMaterial: Display: Missing cached shader map for material Mat_KLayout01, compiling. 
+[2021.02.02-09.17.32:949][938]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.02.02-09.17.36:512][ 12]LogMaterial: Display: Missing cached shader map for material Mat_KLayout01, compiling. 
+[2021.02.02-09.17.36:580][ 12]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.02.02-09.17.37:011][ 19]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.02.02-09.17.37:668][ 33]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.02.02-09.17.37:750][ 35]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.02.02-09.17.37:796][ 36]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2021.02.02-09.17.37:870][ 38]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.02.02-09.17.37:977][ 41]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.02.02-09.17.38:467][ 52]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.02.02-09.17.38:885][ 56]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.02.02-09.17.39:193][ 62]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.02.02-09.17.39:469][ 68]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.02.02-09.17.40:642][ 91]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.02.02-09.17.40:720][ 93]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.02.02-09.17.41:904][123]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.02.02-09.17.44:115][180]LogMaterial: Display: Missing cached shader map for material Mat_KLayout01, compiling. 
+[2021.02.02-09.17.44:133][180]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.02.02-09.17.44:133][180]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.02.02-09.17.44:158][180]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.02.02-09.17.47:809][262]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2021.02.02-09.17.48:007][267]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.02.02-09.17.48:754][284]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.02.02-09.17.48:931][288]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.02.02-09.17.49:183][294]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.02.02-09.17.49:308][297]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.02.02-09.17.49:406][299]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.02.02-09.17.50:005][312]LogMaterial: Display: Missing cached shader map for material Mat_KLayout01, compiling. 
+[2021.02.02-09.17.50:046][312]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.02.02-09.17.50:235][315]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2021.02.02-09.17.50:620][323]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.02.02-09.17.50:817][327]LogMaterial: Display: Missing cached shader map for material Mat_KLayout01, compiling. 
+[2021.02.02-09.17.50:859][327]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.02.02-09.17.50:874][327]LogSlate: Window 'Color Picker' being destroyed
+[2021.02.02-09.17.52:727][363]LogMaterialEditor: Saving and Compiling material Mat_KLayout01
+[2021.02.02-09.17.54:533][363]LogMaterial: Display: Missing cached shader map for material Mat_KLayout01, compiling. 
+[2021.02.02-09.17.54:981][363]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.02.02-09.17.55:098][363]LogMaterial: Display: Missing cached shader map for material Mat_KLayout01, compiling. 
+[2021.02.02-09.17.55:387][363]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 27
+[2021.02.02-09.17.55:452][363]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2021.02.02-09.17.55:505][363]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.02-09.17.56:081][363]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 28
+[2021.02.02-09.17.56:640][363]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 27
+[2021.02.02-09.17.57:201][363]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 26
+[2021.02.02-09.17.57:762][363]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2021.02.02-09.17.58:882][363]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 24
+[2021.02.02-09.18.00:002][363]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 23
+[2021.02.02-09.18.00:002][363]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2021.02.02-09.18.00:002][363]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 21
+[2021.02.02-09.18.00:002][363]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2021.02.02-09.18.00:561][363]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2021.02.02-09.18.01:122][363]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2021.02.02-09.18.01:122][363]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2021.02.02-09.18.01:682][363]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2021.02.02-09.18.01:682][363]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2021.02.02-09.18.01:899][363]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2021.02.02-09.18.01:926][363]TextureStreamingBuild: Display: Compiling optional shaders took 6.436 seconds.
+[2021.02.02-09.18.01:949][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.02.02-09.18.07:101][363]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2021.02.02-09.18.07:662][363]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.02.02-09.18.09:344][363]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.02.02-09.18.09:905][363]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2021.02.02-09.18.09:905][363]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.02.02-09.18.09:905][363]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2021.02.02-09.18.11:022][363]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.02.02-09.18.11:022][363]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.02.02-09.18.12:139][363]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.02.02-09.18.17:070][363]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Mat_KLayout01F2DD973B4620DB26923D068AE6A372BA.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Environment/KitchenLayouts/KLayout01/TextureMaps/Mat_KLayout01.uasset'
+[2021.02.02-09.18.17:122][363]AssetCheck: New page: Asset Save: Mat_KLayout01
+[2021.02.02-09.18.17:122][363]LogContentValidation: Display: Validating Material /Game/Geometry/Environment/KitchenLayouts/KLayout01/TextureMaps/Mat_KLayout01.Mat_KLayout01
+[2021.02.02-09.18.17:127][363]MaterialEditorStats: Base pass shader: 789 instructions
+[2021.02.02-09.18.17:127][363]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 857 instructions
+[2021.02.02-09.18.17:127][363]MaterialEditorStats: Base pass vertex shader: 233 instructions
+[2021.02.02-09.18.17:127][363]MaterialEditorStats: Texture samplers: 5/16
+[2021.02.02-09.18.20:345][581]LogSlate: Window 'Mat_KLayout01' being destroyed
+[2021.02.02-09.18.20:349][581]LogSlate: Window 'Mat_KLayout01' being destroyed
+[2021.02.02-09.18.20:392][581]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.02.02-09.18.20:394][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-09.18.33:514][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HDRI_Sphere)
+[2021.02.02-09.18.41:865][889]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Geometry/Environment/HDRI/HDRI_Inst.HDRI_Inst
+[2021.02.02-09.18.42:135][889]LogRenderer: Reallocating scene render targets to support 1688x940 Format 26 NumSamples 1 (Frame:1).
+[2021.02.02-09.18.48:205][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Environment/HDRI/HDRI_Inst" FILE="D:/eNVISION/Envision/VREnvision/Content/Geometry/Environment/HDRI/HDRI_Inst.uasset" SILENT=true
+[2021.02.02-09.18.48:242][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.02.02-09.18.48:249][336]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.02-09.18.48:683][336]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.02.02-09.18.48:683][336]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.02.02-09.18.48:687][336]TextureStreamingBuild: Display: Compiling optional shaders took 0.439 seconds.
+[2021.02.02-09.18.48:710][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.02.02-09.18.48:943][336]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/HDRI_Inst53A84AC84C421F9074BDB68A3E263B92.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Environment/HDRI/HDRI_Inst.uasset'
+[2021.02.02-09.18.48:968][336]AssetCheck: New page: Asset Save: HDRI_Inst
+[2021.02.02-09.18.48:968][336]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Geometry/Environment/HDRI/HDRI_Inst.HDRI_Inst
+[2021.02.02-09.18.50:669][487]LogSlate: Window 'HDRI_Inst' being destroyed
+[2021.02.02-09.18.50:674][487]LogSlate: Window 'HDRI_Inst' being destroyed
+[2021.02.02-09.18.50:810][487]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.02.02-09.18.50:810][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-09.19.30:309][141]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (KitchenLayout01_Box048)
+[2021.02.02-09.19.32:105][259]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (KitchenLayout01_CabUpperJMain_002)
+[2021.02.02-09.19.37:918][661]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (KitchenLayout01_CabUpperDoor_015)
+[2021.02.02-09.19.48:330][290]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (KitchenLayout01_Box046)
+[2021.02.02-09.21.19:095][ 48]Cmd: TRANSACTION UNDO
+[2021.02.02-09.21.19:096][ 48]LogEditorTransaction: Undo Create Actors
+[2021.02.02-09.21.19:107][ 48]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_1024' invalid (6151 verts, 0 indices).
+[2021.02.02-09.21.19:107][ 48]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_1024.BodySetup_0 when we are unable to.
+[2021.02.02-09.22.15:797][652]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Mat_Cabinet012B9B439D4B47727C1435508A868CDBA3.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Environment/KitchenLayouts/KLayout01/TextureMaps/Mat_Cabinet01.uasset'
+[2021.02.02-09.22.15:988][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.02.02-09.22.16:021][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.02.02-09.22.16:036][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.02.02-09.22.16:205][652]AssetCheck: New page: Asset Save: Mat_Cabinet01
+[2021.02.02-09.22.16:205][652]LogContentValidation: Display: Validating Material /Game/Geometry/Environment/KitchenLayouts/KLayout01/TextureMaps/Mat_Cabinet01.Mat_Cabinet01
+[2021.02.02-09.22.26:551][298]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Mat_Cabinet01B322C33643B72836ABC9EF9720391EBC.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Environment/KitchenLayouts/KLayout01/TextureMaps/Mat_Cabinet01.uasset'
+[2021.02.02-09.22.26:762][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.02.02-09.22.26:947][298]AssetCheck: New page: Asset Save: MAT_Cabinet01
+[2021.02.02-09.22.26:947][298]LogContentValidation: Display: Validating Material /Game/Geometry/Environment/KitchenLayouts/KLayout01/TextureMaps/Mat_Cabinet01.MAT_Cabinet01
+[2021.02.02-09.22.38:904][ 55]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Geometry/Environment/KitchenLayouts/KLayout01/TextureMaps/Mat_Handles.Mat_Handles
+[2021.02.02-09.22.38:908][ 55]LogMaterial: Display: Missing cached shader map for material Mat_Handles, compiling. 
+[2021.02.02-09.22.39:043][ 55]LogMaterial: Display: Missing cached shader map for material Mat_Handles, compiling. 
+[2021.02.02-09.22.39:050][ 55]LogMaterial: Display: Missing cached shader map for material Mat_Handles, compiling. 
+[2021.02.02-09.22.39:063][ 55]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.02.02-09.22.39:063][ 55]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.02.02-09.22.39:063][ 55]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.02.02-09.22.39:063][ 55]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.02.02-09.22.39:063][ 55]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.02.02-09.22.39:063][ 55]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.02.02-09.22.39:063][ 55]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.02.02-09.22.39:063][ 55]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.02.02-09.22.40:430][ 76]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.02.02-09.22.43:665][132]LogMaterial: Display: Missing cached shader map for material Mat_Handles, compiling. 
+[2021.02.02-09.22.43:675][132]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.02.02-09.22.43:675][132]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.02.02-09.22.43:682][132]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.02.02-09.22.45:855][165]LogMaterial: Display: Missing cached shader map for material Mat_Handles, compiling. 
+[2021.02.02-09.22.45:886][165]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.02.02-09.22.47:926][199]LogMaterial: Display: Missing cached shader map for material Mat_Handles, compiling. 
+[2021.02.02-09.22.48:871][211]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.02.02-09.22.49:282][217]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2021.02.02-09.22.49:673][223]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2021.02.02-09.22.49:721][224]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.02.02-09.22.49:778][225]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2021.02.02-09.22.49:882][227]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.02.02-09.22.49:944][227]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.02.02-09.22.50:372][236]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.02.02-09.22.50:586][239]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.02.02-09.22.50:754][242]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.02.02-09.22.50:972][246]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.02.02-09.22.51:906][263]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.02.02-09.22.54:307][303]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.02.02-09.22.58:395][387]LogMaterial: Display: Missing cached shader map for material Mat_Handles, compiling. 
+[2021.02.02-09.22.58:406][387]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.02.02-09.22.58:406][387]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.02.02-09.22.58:516][388]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.02.02-09.22.59:352][402]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2021.02.02-09.22.59:543][405]LogMaterial: Display: Missing cached shader map for material Mat_Handles, compiling. 
+[2021.02.02-09.22.59:571][405]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2021.02.02-09.22.59:817][408]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2021.02.02-09.22.59:888][409]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2021.02.02-09.23.00:130][413]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2021.02.02-09.23.00:462][418]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2021.02.02-09.23.01:032][426]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.02.02-09.23.01:229][429]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.02.02-09.23.02:339][446]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.02.02-09.23.03:676][468]LogMaterial: Display: Missing cached shader map for material Mat_Handles, compiling. 
+[2021.02.02-09.23.03:730][468]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2021.02.02-09.23.08:881][544]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.02.02-09.23.09:765][559]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.02.02-09.23.10:216][567]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.02.02-09.23.10:496][572]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.02.02-09.23.10:570][573]LogMaterial: Display: Missing cached shader map for material Mat_Handles, compiling. 
+[2021.02.02-09.23.10:600][573]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.02.02-09.23.11:053][580]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 17
+[2021.02.02-09.23.11:309][584]LogMaterial: Display: Missing cached shader map for material Mat_Handles, compiling. 
+[2021.02.02-09.23.11:344][584]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.02.02-09.23.11:356][584]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2021.02.02-09.23.11:363][584]LogSlate: Window 'Color Picker' being destroyed
+[2021.02.02-09.23.11:431][585]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2021.02.02-09.23.12:048][595]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 14
+[2021.02.02-09.23.12:246][598]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2021.02.02-09.23.12:625][605]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2021.02.02-09.23.12:793][608]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2021.02.02-09.23.12:886][610]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2021.02.02-09.23.13:114][612]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.02.02-09.23.13:920][625]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.02.02-09.23.14:327][631]LogMaterial: Display: Missing cached shader map for material Mat_Handles, compiling. 
+[2021.02.02-09.23.14:361][631]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2021.02.02-09.23.15:276][644]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2021.02.02-09.23.15:401][646]LogMaterial: Display: Missing cached shader map for material Mat_Handles, compiling. 
+[2021.02.02-09.23.15:442][646]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2021.02.02-09.23.16:273][658]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2021.02.02-09.23.16:515][662]LogMaterial: Display: Missing cached shader map for material Mat_Handles, compiling. 
+[2021.02.02-09.23.16:545][662]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2021.02.02-09.23.16:560][662]LogSlate: Window 'Color Picker' being destroyed
+[2021.02.02-09.23.17:399][675]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2021.02.02-09.23.18:419][691]LogMaterialEditor: Saving and Compiling material Mat_Handles
+[2021.02.02-09.23.19:499][691]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2021.02.02-09.23.19:518][691]LogMaterial: Display: Missing cached shader map for material Mat_Handles, compiling. 
+[2021.02.02-09.23.19:574][691]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.02.02-09.23.19:810][691]LogMaterial: Display: Missing cached shader map for material Mat_Handles, compiling. 
+[2021.02.02-09.23.20:005][691]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 27
+[2021.02.02-09.23.20:032][691]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 26
+[2021.02.02-09.23.20:096][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.02.02-09.23.20:121][691]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.02-09.23.20:688][691]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 27
+[2021.02.02-09.23.21:249][691]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2021.02.02-09.23.21:249][691]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2021.02.02-09.23.21:249][691]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 24
+[2021.02.02-09.23.21:249][691]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2021.02.02-09.23.22:369][691]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2021.02.02-09.23.22:369][691]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 21
+[2021.02.02-09.23.22:930][691]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2021.02.02-09.23.23:487][691]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 19
+[2021.02.02-09.23.23:487][691]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 18
+[2021.02.02-09.23.24:043][691]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2021.02.02-09.23.24:043][691]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2021.02.02-09.23.24:597][691]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2021.02.02-09.23.24:598][691]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2021.02.02-09.23.24:606][691]TextureStreamingBuild: Display: Compiling optional shaders took 4.494 seconds.
+[2021.02.02-09.23.24:634][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.02.02-09.23.30:320][691]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.02.02-09.23.30:881][691]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2021.02.02-09.23.30:881][691]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.02.02-09.23.32:002][691]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.02.02-09.23.32:002][691]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.02.02-09.23.32:563][691]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.02.02-09.23.33:677][691]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.02.02-09.23.33:677][691]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.02.02-09.23.34:798][691]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.02.02-09.23.39:864][691]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Mat_Handles402102B3432C2BBE2D34F492AD09E229.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Environment/KitchenLayouts/KLayout01/TextureMaps/Mat_Handles.uasset'
+[2021.02.02-09.23.39:906][691]AssetCheck: New page: Asset Save: Mat_Handles
+[2021.02.02-09.23.39:906][691]LogContentValidation: Display: Validating Material /Game/Geometry/Environment/KitchenLayouts/KLayout01/TextureMaps/Mat_Handles.Mat_Handles
+[2021.02.02-09.23.39:912][691]MaterialEditorStats: Base pass shader: 789 instructions
+[2021.02.02-09.23.39:912][691]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 857 instructions
+[2021.02.02-09.23.39:912][691]MaterialEditorStats: Base pass vertex shader: 233 instructions
+[2021.02.02-09.23.39:912][691]MaterialEditorStats: Texture samplers: 5/16
+[2021.02.02-09.23.52:026][298]LogMaterial: Display: Missing cached shader map for material Mat_Handles, compiling. 
+[2021.02.02-09.23.52:039][298]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.02.02-09.23.52:039][298]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.02.02-09.23.52:039][298]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.02.02-09.23.52:039][298]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.02.02-09.23.52:039][298]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.02.02-09.23.52:039][298]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.02.02-09.23.52:039][298]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.02.02-09.23.52:039][298]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.02.02-09.23.52:039][298]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2021.02.02-09.23.53:261][320]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.02.02-09.23.53:324][321]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.02.02-09.23.53:580][325]LogMaterial: Display: Missing cached shader map for material Mat_Handles, compiling. 
+[2021.02.02-09.23.53:615][325]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2021.02.02-09.23.54:410][335]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.02.02-09.23.54:596][338]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.02.02-09.23.54:612][338]LogMaterial: Display: Missing cached shader map for material Mat_Handles, compiling. 
+[2021.02.02-09.23.54:643][338]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2021.02.02-09.23.54:659][338]LogSlate: Window 'Color Picker' being destroyed
+[2021.02.02-09.23.57:267][380]LogMaterialEditor: Saving and Compiling material Mat_Handles
+[2021.02.02-09.23.58:573][380]LogMaterial: Display: Missing cached shader map for material Mat_Handles, compiling. 
+[2021.02.02-09.23.58:821][380]LogMaterial: Display: Missing cached shader map for material Mat_Handles, compiling. 
+[2021.02.02-09.23.58:912][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.02.02-09.23.59:078][380]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.02-09.24.02:994][380]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 30
+[2021.02.02-09.24.02:994][380]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 29
+[2021.02.02-09.24.02:994][380]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 28
+[2021.02.02-09.24.02:994][380]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2021.02.02-09.24.02:994][380]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 26
+[2021.02.02-09.24.02:994][380]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2021.02.02-09.24.03:555][380]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 24
+[2021.02.02-09.24.03:555][380]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 23
+[2021.02.02-09.24.04:115][380]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2021.02.02-09.24.04:115][380]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2021.02.02-09.24.04:115][380]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2021.02.02-09.24.04:671][380]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 19
+[2021.02.02-09.24.05:229][380]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2021.02.02-09.24.05:229][380]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2021.02.02-09.24.05:229][380]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2021.02.02-09.24.05:788][380]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2021.02.02-09.24.05:915][380]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2021.02.02-09.24.05:927][380]TextureStreamingBuild: Display: Compiling optional shaders took 6.857 seconds.
+[2021.02.02-09.24.05:947][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.02.02-09.24.12:172][380]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2021.02.02-09.24.12:733][380]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.02.02-09.24.13:288][380]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.02.02-09.24.13:847][380]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.02.02-09.24.13:847][380]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.02.02-09.24.13:847][380]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.02.02-09.24.14:961][380]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.02.02-09.24.15:520][380]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.02.02-09.24.16:076][380]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.02.02-09.24.21:528][380]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Mat_HandlesC5E58ED240367577C8E47C9F21FEF425.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Environment/KitchenLayouts/KLayout01/TextureMaps/Mat_Handles.uasset'
+[2021.02.02-09.24.21:557][380]AssetCheck: New page: Asset Save: Mat_Handles
+[2021.02.02-09.24.21:557][380]LogContentValidation: Display: Validating Material /Game/Geometry/Environment/KitchenLayouts/KLayout01/TextureMaps/Mat_Handles.Mat_Handles
+[2021.02.02-09.24.21:562][380]MaterialEditorStats: Base pass shader: 789 instructions
+[2021.02.02-09.24.21:562][380]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 857 instructions
+[2021.02.02-09.24.21:562][380]MaterialEditorStats: Base pass vertex shader: 233 instructions
+[2021.02.02-09.24.21:562][380]MaterialEditorStats: Texture samplers: 5/16
+[2021.02.02-09.24.24:407][518]LogSlate: Window 'Mat_Handles' being destroyed
+[2021.02.02-09.24.24:414][518]LogSlate: Window 'Mat_Handles' being destroyed
+[2021.02.02-09.24.24:442][518]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.02.02-09.24.24:442][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-09.24.34:420][146]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (KitchenLayout01_Box053)
+[2021.02.02-09.24.38:031][543]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (KitchenLayout01_BabUpperHandle_055)
+[2021.02.02-09.24.43:779][189]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (KitchenLayout01_BabUpperHandle_055)
+[2021.02.02-09.24.50:961][  8]Cmd: TRANSACTION UNDO
+[2021.02.02-09.24.50:961][  8]LogEditorTransaction: Undo Create Actors
+[2021.02.02-09.25.02:953][288]Cmd: TRANSACTION UNDO
+[2021.02.02-09.25.02:953][288]LogEditorTransaction: Undo Create Actors
+[2021.02.02-09.25.10:190][ 54]Cmd: TRANSACTION UNDO
+[2021.02.02-09.25.10:190][ 54]LogEditorTransaction: Undo Create Actors
+[2021.02.02-09.28.58:774][451]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (KitchenLayout01_Box072)
+[2021.02.02-09.30.17:532][369]LogActorFactory: Actor Factory created RecessedLight_LP_RecessedBulb
+[2021.02.02-09.30.17:538][369]LogActorFactory: Actor Factory created RecessedLight_LP_RecessedCasing001
+[2021.02.02-09.30.18:623][482]LogActorFactory: Actor Factory created RecessedLight_LP_RecessedBulb
+[2021.02.02-09.30.18:639][482]LogActorFactory: Actor Factory created RecessedLight_LP_RecessedCasing001
+[2021.02.02-09.31.58:069][745]LogSlate: Window 'Color Picker' being destroyed
+[2021.02.02-09.33.06:046][515]Cmd: TRANSACTION UNDO
+[2021.02.02-09.33.06:046][515]LogEditorTransaction: Undo Move Actors
+[2021.02.02-09.33.08:516][745]Cmd: TRANSACTION UNDO
+[2021.02.02-09.33.08:516][745]LogEditorTransaction: Undo Move Actors
+[2021.02.02-09.33.31:093][173]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2021.02.02-09.33.34:195][502]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2021.02.02-09.33.40:760][242]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2021.02.02-09.33.59:840][337]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2021.02.02-09.34.10:424][436]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2021.02.02-09.34.27:361][322]Cmd: TRANSACTION UNDO
+[2021.02.02-09.34.27:361][322]LogEditorTransaction: Undo Edit Intensity
+[2021.02.02-09.34.42:529][998]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2021.02.02-09.34.47:138][512]LogSlate: Took 0.008859 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.02.02-09.34.47:891][590]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2021.02.02-09.34.50:991][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (KitchenLayout01_Box047)
+[2021.02.02-09.35.06:365][694]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2021.02.02-09.35.08:286][906]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight2)
+[2021.02.02-09.35.18:591][ 39]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (KitchenLayout01_Box045)
+[2021.02.02-09.35.19:563][140]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2021.02.02-09.35.22:953][495]Cmd: TRANSACTION UNDO
+[2021.02.02-09.35.22:953][495]LogEditorTransaction: Undo Edit Attenuation Radius
+[2021.02.02-09.35.52:190][730]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight5)
+[2021.02.02-09.35.53:032][822]Cmd: DELETE
+[2021.02.02-09.35.53:033][822]Cmd: ACTOR DELETE
+[2021.02.02-09.35.53:099][822]LogEditorActor: Deleted Actor: SpotLight
+[2021.02.02-09.35.53:113][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.02.02-09.35.53:123][822]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2021.02.02-09.35.56:531][168]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2021.02.02-09.36.39:165][854]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2021.02.02-09.36.40:539][  0]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight7)
+[2021.02.02-09.36.58:384][ 62]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2021.02.02-09.37.01:427][406]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight6)
+[2021.02.02-09.37.08:822][240]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight7)
+[2021.02.02-09.37.16:034][ 50]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight6)
+[2021.02.02-09.37.20:821][586]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight7)
+[2021.02.02-09.37.30:883][735]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (KitchenLayout01_Box048)
+[2021.02.02-09.37.32:705][932]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight7)
+[2021.02.02-09.37.33:601][ 26]Cmd: DELETE
+[2021.02.02-09.37.33:601][ 26]Cmd: ACTOR DELETE
+[2021.02.02-09.37.33:632][ 26]LogEditorActor: Deleted Actor: SpotLight
+[2021.02.02-09.37.33:647][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.02.02-09.37.33:653][ 26]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2021.02.02-09.37.59:820][997]Cmd: DELETE
+[2021.02.02-09.37.59:820][997]Cmd: ACTOR DELETE
+[2021.02.02-09.37.59:850][997]LogEditorActor: Deleted Actor: SpotLight
+[2021.02.02-09.37.59:864][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.02.02-09.37.59:869][997]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2021.02.02-09.38.03:083][323]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2021.02.02-09.38.26:031][925]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (KitchenLayout01_Box048)
+[2021.02.02-09.38.33:740][750]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2021.02.02-09.39.15:883][531]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2021.02.02-09.41.29:130][154]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\eNVISION\Assets\Downloaded\samsungFrenchDoor.FBX)
+[2021.02.02-09.41.29:182][154]LogFbx: Loading FBX Scene from D:\eNVISION\Assets\Downloaded\samsungFrenchDoor.FBX
+[2021.02.02-09.41.29:222][154]LogFbx: FBX Scene Loaded Succesfully
+[2021.02.02-09.41.31:142][154]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.02.02-09.41.35:166][154]LogMaterial: Display: Material /Game/Geometry/Props/Objects/Fridge/07_-_Default.07_-_Default needed to have new flag set bUsedWithSkeletalMesh !
+[2021.02.02-09.41.35:169][154]LogMaterial: Display: Missing cached shader map for material 07_-_Default, compiling. 
+[2021.02.02-09.41.35:200][154]LogMaterial: Display: Missing cached shader map for material 07_-_Default, compiling. 
+[2021.02.02-09.41.35:231][154]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 39
+[2021.02.02-09.41.35:231][154]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 34
+[2021.02.02-09.41.35:231][154]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 29
+[2021.02.02-09.41.35:231][154]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2021.02.02-09.41.35:231][154]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2021.02.02-09.41.35:231][154]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2021.02.02-09.41.35:231][154]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.02.02-09.41.35:231][154]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.02.02-09.41.35:231][154]LogFbx: Triangulating skeletal mesh Shelf_Mddle001
+[2021.02.02-09.41.35:250][154]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.02.02-09.41.35:434][154]LogSkeletalMesh: Section 0: 30 vertices, 1 active bones
+[2021.02.02-09.41.35:435][154]LogSkeletalMesh: Section 0: Material=0, 16 triangles
+[2021.02.02-09.41.35:444][154]LogSkeletalMesh: Building Skeletal Mesh samsungFrenchDoor_Shelf_Mddle001...
+[2021.02.02-09.41.35:445][154]LogSkeletalMesh: Section 0: 30 vertices, 1 active bones
+[2021.02.02-09.41.35:445][154]LogSkeletalMesh: Section 0: Material=0, 16 triangles
+[2021.02.02-09.41.35:448][154]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor.samsungFrenchDoor_Shelf_Mddle001
+[2021.02.02-09.41.35:494][154]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.02.02-09.41.35:495][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-09.41.35:501][154]LogFbx: Triangulating skeletal mesh Shelf_Mddle
+[2021.02.02-09.41.35:502][154]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.02.02-09.41.35:503][154]LogSkeletalMesh: Section 0: 30 vertices, 1 active bones
+[2021.02.02-09.41.35:503][154]LogSkeletalMesh: Section 0: Material=0, 16 triangles
+[2021.02.02-09.41.35:506][154]LogSkeletalMesh: Building Skeletal Mesh samsungFrenchDoor_Shelf_Mddle...
+[2021.02.02-09.41.35:506][154]LogSkeletalMesh: Section 0: 30 vertices, 1 active bones
+[2021.02.02-09.41.35:506][154]LogSkeletalMesh: Section 0: Material=0, 16 triangles
+[2021.02.02-09.41.35:506][154]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor.samsungFrenchDoor_Shelf_Mddle
+[2021.02.02-09.41.35:576][154]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.02.02-09.41.35:576][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-09.41.35:578][154]LogFbx: Triangulating skeletal mesh Shelf_Btm
+[2021.02.02-09.41.35:579][154]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.02.02-09.41.35:580][154]LogSkeletalMesh: Section 0: 30 vertices, 1 active bones
+[2021.02.02-09.41.35:580][154]LogSkeletalMesh: Section 0: Material=0, 16 triangles
+[2021.02.02-09.41.35:585][154]LogSkeletalMesh: Building Skeletal Mesh samsungFrenchDoor_Shelf_Btm...
+[2021.02.02-09.41.35:586][154]LogSkeletalMesh: Section 0: 30 vertices, 1 active bones
+[2021.02.02-09.41.35:586][154]LogSkeletalMesh: Section 0: Material=0, 16 triangles
+[2021.02.02-09.41.35:586][154]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor.samsungFrenchDoor_Shelf_Btm
+[2021.02.02-09.41.35:599][154]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.02.02-09.41.35:599][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-09.41.35:602][154]LogFbx: Triangulating skeletal mesh rightDoor
+[2021.02.02-09.41.36:029][154]LogFbx: Triangulating skeletal mesh shelfRightBottom
+[2021.02.02-09.41.36:049][154]LogFbx: Triangulating skeletal mesh shelfRightMiddle
+[2021.02.02-09.41.36:072][154]LogFbx: Triangulating skeletal mesh shelfRight
+[2021.02.02-09.41.36:111][154]LogFbx: Warning: Bones digested - 4  Depth of hierarchy - 2
+[2021.02.02-09.41.36:468][154]LogSkeletalMesh: Section 0: 4722 vertices, 4 active bones
+[2021.02.02-09.41.36:470][154]LogSkeletalMesh: Section 0: Material=0, 6216 triangles
+[2021.02.02-09.41.36:476][154]LogSkeletalMesh: Building Skeletal Mesh samsungFrenchDoor_rightDoor...
+[2021.02.02-09.41.36:802][154]LogSkeletalMesh: Section 0: 4722 vertices, 4 active bones
+[2021.02.02-09.41.36:805][154]LogSkeletalMesh: Section 0: Material=0, 6216 triangles
+[2021.02.02-09.41.36:848][154]LogSkeletalMesh: Built Skeletal Mesh [0.37s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor.samsungFrenchDoor_rightDoor
+[2021.02.02-09.41.36:961][154]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.02.02-09.41.36:961][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-09.41.36:996][154]LogMaterial: Display: Material /Game/Geometry/Props/Objects/Fridge/02_-_Default.02_-_Default needed to have new flag set bUsedWithSkeletalMesh !
+[2021.02.02-09.41.37:000][154]LogMaterial: Display: Missing cached shader map for material 02_-_Default, compiling. 
+[2021.02.02-09.41.37:083][154]LogMaterial: Display: Missing cached shader map for material 02_-_Default, compiling. 
+[2021.02.02-09.41.37:170][154]LogFbx: Triangulating skeletal mesh metalCoolingPlate
+[2021.02.02-09.41.37:312][154]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.02.02-09.41.37:672][154]LogSkeletalMesh: Section 0: 1141 vertices, 1 active bones
+[2021.02.02-09.41.37:673][154]LogSkeletalMesh: Section 0: Material=0, 1576 triangles
+[2021.02.02-09.41.37:679][154]LogSkeletalMesh: Building Skeletal Mesh samsungFrenchDoor_metalCoolingPlate...
+[2021.02.02-09.41.37:751][154]LogSkeletalMesh: Section 0: 1141 vertices, 1 active bones
+[2021.02.02-09.41.37:752][154]LogSkeletalMesh: Section 0: Material=0, 1576 triangles
+[2021.02.02-09.41.37:758][154]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor.samsungFrenchDoor_metalCoolingPlate
+[2021.02.02-09.41.37:790][154]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.02.02-09.41.37:790][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-09.41.37:804][154]LogFbx: Triangulating skeletal mesh sehlfTopLeft
+[2021.02.02-09.41.37:828][154]LogFbx: Triangulating skeletal mesh shelfLefttBottom001
+[2021.02.02-09.41.37:850][154]LogFbx: Triangulating skeletal mesh shelfLefttBottom
+[2021.02.02-09.41.37:892][154]LogFbx: Warning: Bones digested - 4  Depth of hierarchy - 2
+[2021.02.02-09.41.37:986][154]LogSkeletalMesh: Display: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2021.02.02-09.41.38:201][154]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 39
+[2021.02.02-09.41.38:350][154]LogSkeletalMesh: Section 0: 5547 vertices, 4 active bones
+[2021.02.02-09.41.38:352][154]LogSkeletalMesh: Section 0: Material=0, 6952 triangles
+[2021.02.02-09.41.38:371][154]LogSkeletalMesh: Building Skeletal Mesh samsungFrenchDoor_leftDoor...
+[2021.02.02-09.41.38:427][154]LogSkeletalMesh: Display: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2021.02.02-09.41.38:771][154]LogSkeletalMesh: Section 0: 5547 vertices, 4 active bones
+[2021.02.02-09.41.38:773][154]LogSkeletalMesh: Section 0: Material=0, 6952 triangles
+[2021.02.02-09.41.38:819][154]LogSkeletalMesh: Built Skeletal Mesh [0.45s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor.samsungFrenchDoor_leftDoor
+[2021.02.02-09.41.38:857][154]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.02.02-09.41.38:857][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-09.41.38:880][154]LogFbx: Triangulating skeletal mesh IceBox
+[2021.02.02-09.41.38:908][154]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.02.02-09.41.38:923][154]LogSkeletalMesh: Section 0: 353 vertices, 1 active bones
+[2021.02.02-09.41.38:924][154]LogSkeletalMesh: Section 0: Material=0, 312 triangles
+[2021.02.02-09.41.38:928][154]LogSkeletalMesh: Building Skeletal Mesh samsungFrenchDoor_IceBox...
+[2021.02.02-09.41.38:948][154]LogSkeletalMesh: Section 0: 353 vertices, 1 active bones
+[2021.02.02-09.41.38:949][154]LogSkeletalMesh: Section 0: Material=0, 312 triangles
+[2021.02.02-09.41.38:952][154]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor.samsungFrenchDoor_IceBox
+[2021.02.02-09.41.38:978][154]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.02.02-09.41.38:978][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-09.41.38:983][154]LogFbx: Triangulating skeletal mesh Hinge_TopR
+[2021.02.02-09.41.39:026][154]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.02.02-09.41.39:043][154]LogSkeletalMesh: Section 0: 522 vertices, 1 active bones
+[2021.02.02-09.41.39:043][154]LogSkeletalMesh: Section 0: Material=0, 592 triangles
+[2021.02.02-09.41.39:052][154]LogSkeletalMesh: Building Skeletal Mesh samsungFrenchDoor_Hinge_TopR...
+[2021.02.02-09.41.39:074][154]LogSkeletalMesh: Section 0: 522 vertices, 1 active bones
+[2021.02.02-09.41.39:074][154]LogSkeletalMesh: Section 0: Material=0, 592 triangles
+[2021.02.02-09.41.39:077][154]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor.samsungFrenchDoor_Hinge_TopR
+[2021.02.02-09.41.39:099][154]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.02.02-09.41.39:099][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-09.41.39:106][154]LogFbx: Triangulating skeletal mesh Hinge_TopL
+[2021.02.02-09.41.39:151][154]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.02.02-09.41.39:176][154]LogSkeletalMesh: Section 0: 522 vertices, 1 active bones
+[2021.02.02-09.41.39:177][154]LogSkeletalMesh: Section 0: Material=0, 592 triangles
+[2021.02.02-09.41.39:180][154]LogSkeletalMesh: Building Skeletal Mesh samsungFrenchDoor_Hinge_TopL...
+[2021.02.02-09.41.39:206][154]LogSkeletalMesh: Section 0: 522 vertices, 1 active bones
+[2021.02.02-09.41.39:206][154]LogSkeletalMesh: Section 0: Material=0, 592 triangles
+[2021.02.02-09.41.39:209][154]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor.samsungFrenchDoor_Hinge_TopL
+[2021.02.02-09.41.39:232][154]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.02.02-09.41.39:232][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-09.41.39:238][154]LogFbx: Triangulating skeletal mesh Hinge_BtmR
+[2021.02.02-09.41.39:257][154]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.02.02-09.41.39:281][154]LogSkeletalMesh: Section 0: 250 vertices, 1 active bones
+[2021.02.02-09.41.39:282][154]LogSkeletalMesh: Section 0: Material=0, 288 triangles
+[2021.02.02-09.41.39:294][154]LogSkeletalMesh: Building Skeletal Mesh samsungFrenchDoor_Hinge_BtmR...
+[2021.02.02-09.41.39:312][154]LogSkeletalMesh: Section 0: 250 vertices, 1 active bones
+[2021.02.02-09.41.39:312][154]LogSkeletalMesh: Section 0: Material=0, 288 triangles
+[2021.02.02-09.41.39:314][154]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor.samsungFrenchDoor_Hinge_BtmR
+[2021.02.02-09.41.39:341][154]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.02.02-09.41.39:341][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-09.41.39:349][154]LogFbx: Triangulating skeletal mesh Hinge_BtmL
+[2021.02.02-09.41.39:380][154]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.02.02-09.41.39:392][154]LogSkeletalMesh: Section 0: 250 vertices, 1 active bones
+[2021.02.02-09.41.39:393][154]LogSkeletalMesh: Section 0: Material=0, 288 triangles
+[2021.02.02-09.41.39:404][154]LogSkeletalMesh: Building Skeletal Mesh samsungFrenchDoor_Hinge_BtmL...
+[2021.02.02-09.41.39:422][154]LogSkeletalMesh: Section 0: 250 vertices, 1 active bones
+[2021.02.02-09.41.39:423][154]LogSkeletalMesh: Section 0: Material=0, 288 triangles
+[2021.02.02-09.41.39:426][154]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor.samsungFrenchDoor_Hinge_BtmL
+[2021.02.02-09.41.39:446][154]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.02.02-09.41.39:447][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-09.41.39:452][154]LogFbx: Triangulating skeletal mesh Fridge_Base
+[2021.02.02-09.41.39:959][154]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.02.02-09.41.40:216][154]LogSkeletalMesh: Section 0: 4385 vertices, 1 active bones
+[2021.02.02-09.41.40:218][154]LogSkeletalMesh: Section 0: Material=0, 4241 triangles
+[2021.02.02-09.41.40:232][154]LogSkeletalMesh: Building Skeletal Mesh samsungFrenchDoor_Fridge_Base...
+[2021.02.02-09.41.40:525][154]LogSkeletalMesh: Section 0: 4385 vertices, 1 active bones
+[2021.02.02-09.41.40:529][154]LogSkeletalMesh: Section 0: Material=0, 4241 triangles
+[2021.02.02-09.41.40:572][154]LogSkeletalMesh: Built Skeletal Mesh [0.34s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor.samsungFrenchDoor_Fridge_Base
+[2021.02.02-09.41.40:596][154]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.02.02-09.41.40:596][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-09.41.40:620][154]LogMaterial: Display: Material /Game/Geometry/Props/Objects/Fridge/Material__28.Material__28 needed to have new flag set bUsedWithSkeletalMesh !
+[2021.02.02-09.41.40:624][154]LogMaterial: Display: Missing cached shader map for material Material__28, compiling. 
+[2021.02.02-09.41.40:733][154]LogMaterial: Display: Missing cached shader map for material Material__28, compiling. 
+[2021.02.02-09.41.40:829][154]LogFbx: Triangulating skeletal mesh Drawer_Bottom
+[2021.02.02-09.41.40:864][154]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.02.02-09.41.41:323][154]LogSkeletalMesh: Section 0: 332 vertices, 1 active bones
+[2021.02.02-09.41.41:323][154]LogSkeletalMesh: Section 0: Material=0, 328 triangles
+[2021.02.02-09.41.41:330][154]LogSkeletalMesh: Building Skeletal Mesh samsungFrenchDoor_Drawer_Bottom...
+[2021.02.02-09.41.41:355][154]LogSkeletalMesh: Section 0: 332 vertices, 1 active bones
+[2021.02.02-09.41.41:356][154]LogSkeletalMesh: Section 0: Material=0, 328 triangles
+[2021.02.02-09.41.41:359][154]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor.samsungFrenchDoor_Drawer_Bottom
+[2021.02.02-09.41.41:393][154]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.02.02-09.41.41:393][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-09.41.41:401][154]LogFbx: Triangulating skeletal mesh Dial
+[2021.02.02-09.41.41:451][154]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.02.02-09.41.41:479][154]LogSkeletalMesh: Section 0: 282 vertices, 1 active bones
+[2021.02.02-09.41.41:479][154]LogSkeletalMesh: Section 0: Material=0, 420 triangles
+[2021.02.02-09.41.41:484][154]LogSkeletalMesh: Building Skeletal Mesh samsungFrenchDoor_Dial...
+[2021.02.02-09.41.41:508][154]LogSkeletalMesh: Section 0: 282 vertices, 1 active bones
+[2021.02.02-09.41.41:508][154]LogSkeletalMesh: Section 0: Material=0, 420 triangles
+[2021.02.02-09.41.41:510][154]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor.samsungFrenchDoor_Dial
+[2021.02.02-09.41.41:547][154]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.02.02-09.41.41:547][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-09.41.41:556][154]LogFbx: Triangulating skeletal mesh DailCover
+[2021.02.02-09.41.41:594][154]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.02.02-09.41.41:617][154]LogSkeletalMesh: Section 0: 346 vertices, 1 active bones
+[2021.02.02-09.41.41:617][154]LogSkeletalMesh: Section 0: Material=0, 384 triangles
+[2021.02.02-09.41.41:625][154]LogSkeletalMesh: Building Skeletal Mesh samsungFrenchDoor_DailCover...
+[2021.02.02-09.41.41:640][154]LogSkeletalMesh: Section 0: 346 vertices, 1 active bones
+[2021.02.02-09.41.41:640][154]LogSkeletalMesh: Section 0: Material=0, 384 triangles
+[2021.02.02-09.41.41:642][154]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor.samsungFrenchDoor_DailCover
+[2021.02.02-09.41.41:681][154]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.02.02-09.41.41:682][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-09.41.41:703][154]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.02.02-09.41.41:704][154]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.02.02-09.41.41:704][154]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.02.02-09.41.41:704][154]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.02.02-09.41.41:704][154]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.02.02-09.41.41:704][154]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.02.02-09.41.41:704][154]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.02.02-09.41.41:704][154]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.02.02-09.41.41:704][154]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.02.02-09.41.41:704][154]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.02.02-09.41.41:704][154]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.02.02-09.41.41:704][154]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.02.02-09.41.41:704][154]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.02.02-09.41.41:704][154]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.02.02-09.41.41:705][154]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.02.02-09.41.45:164][218]LogSlate: Window 'Message Log' being destroyed
+[2021.02.02-09.41.45:183][218]LogSlate: Window 'Message Log' being destroyed
+[2021.02.02-09.41.49:302][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.02.02-09.41.51:171][315]LogSlate: Window 'Delete Assets' being destroyed
+[2021.02.02-09.41.54:071][315]LogUObjectGlobals: Force Deleting 15 Package(s):
+	Asset Name: /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor.samsungFrenchDoor_DailCover
+	Asset Name: /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor.samsungFrenchDoor_Dial
+	Asset Name: /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor.samsungFrenchDoor_Drawer_Bottom
+	Asset Name: /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor.samsungFrenchDoor_Fridge_Base
+	Asset Name: /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor.samsungFrenchDoor_Hinge_BtmL
+	Asset Name: /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor.samsungFrenchDoor_Hinge_BtmR
+	Asset Name: /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor.samsungFrenchDoor_Hinge_TopL
+	Asset Name: /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor.samsungFrenchDoor_Hinge_TopR
+	Asset Name: /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor.samsungFrenchDoor_IceBox
+	Asset Name: /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor.samsungFrenchDoor_leftDoor
+[2021.02.02-09.41.57:781][315]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 73
+[2021.02.02-09.42.00:401][315]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2021.02.02-09.42.00:580][317]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor.samsungFrenchDoor_Hinge_BtmR'
+[2021.02.02-09.42.08:398][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.02.02-09.42.08:530][457]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 63
+[2021.02.02-09.42.09:617][457]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 55
+[2021.02.02-09.42.10:044][457]LogSlate: Window 'Delete Assets' being destroyed
+[2021.02.02-09.42.10:741][457]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.02.02-09.42.16:909][639]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 48
+[2021.02.02-09.42.18:144][657]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 41
+[2021.02.02-09.42.18:851][658]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 35
+[2021.02.02-09.42.20:015][669]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 30
+[2021.02.02-09.42.22:263][714]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 26
+[2021.02.02-09.42.36:298][ 59]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\eNVISION\Assets\Downloaded\samsungFrenchDoor.FBX)
+[2021.02.02-09.42.36:335][ 59]LogFbx: Loading FBX Scene from D:\eNVISION\Assets\Downloaded\samsungFrenchDoor.FBX
+[2021.02.02-09.42.36:402][ 59]LogFbx: FBX Scene Loaded Succesfully
+[2021.02.02-09.42.40:250][ 59]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.02.02-09.42.40:366][ 59]LogMaterial: Display: Missing cached shader map for material 07_-_Default, compiling. 
+[2021.02.02-09.42.40:426][ 59]LogFbx: Display: Triangulating static mesh Shelf_Mddle001
+[2021.02.02-09.42.40:727][ 59]LogStaticMesh: Building static mesh samsungFrenchDoor_Shelf_Mddle001...
+[2021.02.02-09.42.40:737][ 59]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Shelf_Mddle001.samsungFrenchDoor_Shelf_Mddle001
+[2021.02.02-09.42.40:773][ 59]LogFbx: Display: Triangulating static mesh Shelf_Mddle
+[2021.02.02-09.42.40:778][ 59]LogStaticMesh: Building static mesh samsungFrenchDoor_Shelf_Mddle...
+[2021.02.02-09.42.40:782][ 59]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Shelf_Mddle.samsungFrenchDoor_Shelf_Mddle
+[2021.02.02-09.42.40:799][ 59]LogFbx: Display: Triangulating static mesh Shelf_Btm
+[2021.02.02-09.42.40:802][ 59]LogStaticMesh: Building static mesh samsungFrenchDoor_Shelf_Btm...
+[2021.02.02-09.42.40:805][ 59]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Shelf_Btm.samsungFrenchDoor_Shelf_Btm
+[2021.02.02-09.42.40:825][ 59]LogFbx: Display: Triangulating static mesh rightDoor
+[2021.02.02-09.42.41:518][ 59]LogStaticMesh: Building static mesh samsungFrenchDoor_rightDoor...
+[2021.02.02-09.42.41:751][ 59]LogStaticMesh: Built static mesh [0.24s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_rightDoor.samsungFrenchDoor_rightDoor
+[2021.02.02-09.42.41:798][ 59]LogStaticMesh: Warning: samsungFrenchDoor_rightDoor has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.02.02-09.42.41:799][ 59]LogStaticMesh: Warning: samsungFrenchDoor_rightDoor has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.02.02-09.42.41:844][ 59]LogFbx: Display: Triangulating static mesh shelfRightBottom
+[2021.02.02-09.42.41:879][ 59]LogStaticMesh: Building static mesh samsungFrenchDoor_shelfRightBottom...
+[2021.02.02-09.42.41:887][ 59]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_shelfRightBottom.samsungFrenchDoor_shelfRightBottom
+[2021.02.02-09.42.41:912][ 59]LogFbx: Display: Triangulating static mesh shelfRightMiddle
+[2021.02.02-09.42.41:946][ 59]LogStaticMesh: Building static mesh samsungFrenchDoor_shelfRightMiddle...
+[2021.02.02-09.42.41:954][ 59]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_shelfRightMiddle.samsungFrenchDoor_shelfRightMiddle
+[2021.02.02-09.42.41:984][ 59]LogFbx: Display: Triangulating static mesh shelfRight
+[2021.02.02-09.42.42:013][ 59]LogStaticMesh: Building static mesh samsungFrenchDoor_shelfRight...
+[2021.02.02-09.42.42:019][ 59]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_shelfRight.samsungFrenchDoor_shelfRight
+[2021.02.02-09.42.42:050][ 59]LogMaterial: Display: Missing cached shader map for material 02_-_Default, compiling. 
+[2021.02.02-09.42.42:091][ 59]LogFbx: Display: Triangulating static mesh metalCoolingPlate
+[2021.02.02-09.42.42:414][ 59]LogStaticMesh: Building static mesh samsungFrenchDoor_metalCoolingPlate...
+[2021.02.02-09.42.42:460][ 59]LogStaticMesh: Built static mesh [0.05s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_metalCoolingPlate.samsungFrenchDoor_metalCoolingPlate
+[2021.02.02-09.42.42:584][ 59]LogStaticMesh: Building static mesh samsungFrenchDoor_leftDoor...
+[2021.02.02-09.42.42:763][ 59]LogStaticMesh: Built static mesh [0.18s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_leftDoor.samsungFrenchDoor_leftDoor
+[2021.02.02-09.42.42:792][ 59]LogStaticMesh: Warning: samsungFrenchDoor_leftDoor has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.02.02-09.42.42:792][ 59]LogStaticMesh: Warning: samsungFrenchDoor_leftDoor has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.02.02-09.42.42:838][ 59]LogFbx: Display: Triangulating static mesh sehlfTopLeft
+[2021.02.02-09.42.42:864][ 59]LogStaticMesh: Building static mesh samsungFrenchDoor_sehlfTopLeft...
+[2021.02.02-09.42.42:871][ 59]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_sehlfTopLeft.samsungFrenchDoor_sehlfTopLeft
+[2021.02.02-09.42.42:897][ 59]LogFbx: Display: Triangulating static mesh shelfLefttBottom001
+[2021.02.02-09.42.42:921][ 59]LogStaticMesh: Building static mesh samsungFrenchDoor_shelfLefttBottom001...
+[2021.02.02-09.42.42:928][ 59]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_shelfLefttBottom001.samsungFrenchDoor_shelfLefttBottom001
+[2021.02.02-09.42.42:961][ 59]LogFbx: Display: Triangulating static mesh shelfLefttBottom
+[2021.02.02-09.42.43:001][ 59]LogStaticMesh: Building static mesh samsungFrenchDoor_shelfLefttBottom...
+[2021.02.02-09.42.43:007][ 59]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_shelfLefttBottom.samsungFrenchDoor_shelfLefttBottom
+[2021.02.02-09.42.43:032][ 59]LogFbx: Display: Triangulating static mesh IceBox
+[2021.02.02-09.42.43:060][ 59]LogStaticMesh: Building static mesh samsungFrenchDoor_IceBox...
+[2021.02.02-09.42.43:073][ 59]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_IceBox.samsungFrenchDoor_IceBox
+[2021.02.02-09.42.43:075][ 59]LogStaticMesh: Warning: samsungFrenchDoor_IceBox has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.02.02-09.42.43:076][ 59]LogStaticMesh: Warning: samsungFrenchDoor_IceBox has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.02.02-09.42.43:101][ 59]LogFbx: Display: Triangulating static mesh Hinge_TopR
+[2021.02.02-09.42.43:157][ 59]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 52
+[2021.02.02-09.42.43:158][ 59]LogStaticMesh: Building static mesh samsungFrenchDoor_Hinge_TopR...
+[2021.02.02-09.42.43:177][ 59]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Hinge_TopR.samsungFrenchDoor_Hinge_TopR
+[2021.02.02-09.42.43:206][ 59]LogFbx: Display: Triangulating static mesh Hinge_TopL
+[2021.02.02-09.42.43:264][ 59]LogStaticMesh: Building static mesh samsungFrenchDoor_Hinge_TopL...
+[2021.02.02-09.42.43:290][ 59]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Hinge_TopL.samsungFrenchDoor_Hinge_TopL
+[2021.02.02-09.42.43:310][ 59]LogFbx: Display: Triangulating static mesh Hinge_BtmR
+[2021.02.02-09.42.43:341][ 59]LogStaticMesh: Building static mesh samsungFrenchDoor_Hinge_BtmR...
+[2021.02.02-09.42.43:348][ 59]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Hinge_BtmR.samsungFrenchDoor_Hinge_BtmR
+[2021.02.02-09.42.43:384][ 59]LogFbx: Display: Triangulating static mesh Hinge_BtmL
+[2021.02.02-09.42.43:413][ 59]LogStaticMesh: Building static mesh samsungFrenchDoor_Hinge_BtmL...
+[2021.02.02-09.42.43:421][ 59]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Hinge_BtmL.samsungFrenchDoor_Hinge_BtmL
+[2021.02.02-09.42.43:447][ 59]LogFbx: Display: Triangulating static mesh Fridge_Base
+[2021.02.02-09.42.43:829][ 59]LogStaticMesh: Building static mesh samsungFrenchDoor_Fridge_Base...
+[2021.02.02-09.42.43:952][ 59]LogStaticMesh: Built static mesh [0.12s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Fridge_Base.samsungFrenchDoor_Fridge_Base
+[2021.02.02-09.42.43:970][ 59]LogStaticMesh: Warning: samsungFrenchDoor_Fridge_Base has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.02.02-09.42.43:970][ 59]LogStaticMesh: Warning: samsungFrenchDoor_Fridge_Base has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.02.02-09.42.44:107][ 59]LogMaterial: Display: Missing cached shader map for material Material__28, compiling. 
+[2021.02.02-09.42.44:149][ 59]LogFbx: Display: Triangulating static mesh Drawer_Bottom
+[2021.02.02-09.42.44:488][ 59]LogStaticMesh: Building static mesh samsungFrenchDoor_Drawer_Bottom...
+[2021.02.02-09.42.44:506][ 59]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Drawer_Bottom.samsungFrenchDoor_Drawer_Bottom
+[2021.02.02-09.42.44:508][ 59]LogStaticMesh: Warning: samsungFrenchDoor_Drawer_Bottom has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.02.02-09.42.44:508][ 59]LogStaticMesh: Warning: samsungFrenchDoor_Drawer_Bottom has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.02.02-09.42.44:535][ 59]LogFbx: Display: Triangulating static mesh Dial
+[2021.02.02-09.42.44:580][ 59]LogStaticMesh: Building static mesh samsungFrenchDoor_Dial...
+[2021.02.02-09.42.44:594][ 59]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Dial.samsungFrenchDoor_Dial
+[2021.02.02-09.42.44:646][ 59]LogFbx: Display: Triangulating static mesh DailCover
+[2021.02.02-09.42.44:698][ 59]LogStaticMesh: Building static mesh samsungFrenchDoor_DailCover...
+[2021.02.02-09.42.44:709][ 59]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_DailCover.samsungFrenchDoor_DailCover
+[2021.02.02-09.42.44:712][ 59]LogStaticMesh: Warning: samsungFrenchDoor_DailCover has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.02.02-09.42.44:713][ 59]LogStaticMesh: Warning: samsungFrenchDoor_DailCover has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.02.02-09.42.44:931][ 59]FBXImport: Warning: samsungFrenchDoor_rightDoor has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.02.02-09.42.44:931][ 59]FBXImport: Warning: samsungFrenchDoor_rightDoor has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.02.02-09.42.44:931][ 59]FBXImport: Warning: samsungFrenchDoor_leftDoor has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.02.02-09.42.44:931][ 59]FBXImport: Warning: samsungFrenchDoor_leftDoor has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.02.02-09.42.44:931][ 59]FBXImport: Warning: samsungFrenchDoor_IceBox has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.02.02-09.42.44:931][ 59]FBXImport: Warning: samsungFrenchDoor_IceBox has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.02.02-09.42.44:931][ 59]FBXImport: Warning: samsungFrenchDoor_Fridge_Base has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.02.02-09.42.44:931][ 59]FBXImport: Warning: samsungFrenchDoor_Fridge_Base has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.02.02-09.42.44:931][ 59]FBXImport: Warning: samsungFrenchDoor_Drawer_Bottom has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.02.02-09.42.44:931][ 59]FBXImport: Warning: samsungFrenchDoor_Drawer_Bottom has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.02.02-09.42.44:931][ 59]FBXImport: Warning: samsungFrenchDoor_DailCover has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.02.02-09.42.44:931][ 59]FBXImport: Warning: samsungFrenchDoor_DailCover has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.02.02-09.42.47:484][113]LogSlate: Window 'Message Log' being destroyed
+[2021.02.02-09.42.47:501][113]LogSlate: Window 'Message Log' being destroyed
+[2021.02.02-09.42.49:558][161]LogActorFactory: Actor Factory created samsungFrenchDoor_DailCover
+[2021.02.02-09.42.49:560][161]LogActorFactory: Actor Factory created samsungFrenchDoor_Dial
+[2021.02.02-09.42.49:561][161]LogActorFactory: Actor Factory created samsungFrenchDoor_Drawer_Bottom
+[2021.02.02-09.42.49:562][161]LogActorFactory: Actor Factory created samsungFrenchDoor_Fridge_Base
+[2021.02.02-09.42.49:564][161]LogActorFactory: Actor Factory created samsungFrenchDoor_Hinge_BtmL
+[2021.02.02-09.42.49:567][161]LogActorFactory: Actor Factory created samsungFrenchDoor_Hinge_BtmR
+[2021.02.02-09.42.49:568][161]LogActorFactory: Actor Factory created samsungFrenchDoor_Hinge_TopL
+[2021.02.02-09.42.49:570][161]LogActorFactory: Actor Factory created samsungFrenchDoor_Hinge_TopR
+[2021.02.02-09.42.49:571][161]LogActorFactory: Actor Factory created samsungFrenchDoor_IceBox
+[2021.02.02-09.42.49:572][161]LogActorFactory: Actor Factory created samsungFrenchDoor_leftDoor
+[2021.02.02-09.42.49:573][161]LogActorFactory: Actor Factory created samsungFrenchDoor_metalCoolingPlate
+[2021.02.02-09.42.49:574][161]LogActorFactory: Actor Factory created samsungFrenchDoor_rightDoor
+[2021.02.02-09.42.49:575][161]LogActorFactory: Actor Factory created samsungFrenchDoor_sehlfTopLeft
+[2021.02.02-09.42.49:577][161]LogActorFactory: Actor Factory created samsungFrenchDoor_Shelf_Btm
+[2021.02.02-09.42.49:580][161]LogActorFactory: Actor Factory created samsungFrenchDoor_Shelf_Mddle
+[2021.02.02-09.42.49:584][161]LogActorFactory: Actor Factory created samsungFrenchDoor_Shelf_Mddle001
+[2021.02.02-09.42.49:586][161]LogActorFactory: Actor Factory created samsungFrenchDoor_shelfLefttBottom
+[2021.02.02-09.42.49:587][161]LogActorFactory: Actor Factory created samsungFrenchDoor_shelfLefttBottom001
+[2021.02.02-09.42.49:588][161]LogActorFactory: Actor Factory created samsungFrenchDoor_shelfRight
+[2021.02.02-09.42.49:588][161]LogActorFactory: Actor Factory created samsungFrenchDoor_shelfRightBottom
+[2021.02.02-09.42.49:592][161]LogActorFactory: Actor Factory created samsungFrenchDoor_shelfRightMiddle
+[2021.02.02-09.42.52:854][203]LogActorFactory: Actor Factory created samsungFrenchDoor_DailCover
+[2021.02.02-09.42.52:924][203]LogActorFactory: Actor Factory created samsungFrenchDoor_Dial
+[2021.02.02-09.42.52:994][203]LogActorFactory: Actor Factory created samsungFrenchDoor_Drawer_Bottom
+[2021.02.02-09.42.53:070][203]LogActorFactory: Actor Factory created samsungFrenchDoor_Fridge_Base
+[2021.02.02-09.42.53:144][203]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 60
+[2021.02.02-09.42.53:144][203]LogActorFactory: Actor Factory created samsungFrenchDoor_Hinge_BtmL
+[2021.02.02-09.42.53:205][203]LogActorFactory: Actor Factory created samsungFrenchDoor_Hinge_BtmR
+[2021.02.02-09.42.53:270][203]LogActorFactory: Actor Factory created samsungFrenchDoor_Hinge_TopL
+[2021.02.02-09.42.53:331][203]LogActorFactory: Actor Factory created samsungFrenchDoor_Hinge_TopR
+[2021.02.02-09.42.53:407][203]LogActorFactory: Actor Factory created samsungFrenchDoor_IceBox
+[2021.02.02-09.42.53:475][203]LogActorFactory: Actor Factory created samsungFrenchDoor_leftDoor
+[2021.02.02-09.42.53:543][203]LogActorFactory: Actor Factory created samsungFrenchDoor_metalCoolingPlate
+[2021.02.02-09.42.53:611][203]LogActorFactory: Actor Factory created samsungFrenchDoor_rightDoor
+[2021.02.02-09.42.53:687][203]LogActorFactory: Actor Factory created samsungFrenchDoor_sehlfTopLeft
+[2021.02.02-09.42.53:766][203]LogActorFactory: Actor Factory created samsungFrenchDoor_Shelf_Btm
+[2021.02.02-09.42.53:839][203]LogActorFactory: Actor Factory created samsungFrenchDoor_Shelf_Mddle
+[2021.02.02-09.42.53:912][203]LogActorFactory: Actor Factory created samsungFrenchDoor_Shelf_Mddle001
+[2021.02.02-09.42.53:998][203]LogActorFactory: Actor Factory created samsungFrenchDoor_shelfLefttBottom
+[2021.02.02-09.42.54:089][203]LogActorFactory: Actor Factory created samsungFrenchDoor_shelfLefttBottom001
+[2021.02.02-09.42.54:167][203]LogActorFactory: Actor Factory created samsungFrenchDoor_shelfRight
+[2021.02.02-09.42.54:246][203]LogActorFactory: Actor Factory created samsungFrenchDoor_shelfRightBottom
+[2021.02.02-09.42.54:323][203]LogActorFactory: Actor Factory created samsungFrenchDoor_shelfRightMiddle
+[2021.02.02-09.42.55:449][203]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 52
+[2021.02.02-09.42.59:267][287]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 45
+[2021.02.02-09.43.02:135][363]Cmd: DELETE
+[2021.02.02-09.43.02:135][363]Cmd: ACTOR DELETE
+[2021.02.02-09.43.02:222][363]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.02-09.43.02:224][363]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.02-09.43.02:225][363]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.02-09.43.02:226][363]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.02-09.43.02:226][363]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.02-09.43.02:226][363]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.02-09.43.02:226][363]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.02-09.43.02:227][363]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.02-09.43.02:227][363]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.02-09.43.02:228][363]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.02-09.43.02:229][363]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.02-09.43.02:230][363]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.02-09.43.02:230][363]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.02-09.43.02:231][363]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.02-09.43.02:231][363]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.02-09.43.02:232][363]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.02-09.43.02:232][363]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.02-09.43.02:233][363]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.02-09.43.02:234][363]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.02-09.43.02:234][363]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.02-09.43.02:235][363]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.02-09.43.02:256][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.02.02-09.43.02:277][363]LogEditorActor: Deleted 21 Actors (0.141 secs)
+[2021.02.02-09.43.03:354][387]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 39
+[2021.02.02-09.43.04:935][414]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 34
+[2021.02.02-09.43.05:963][434]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 29
+[2021.02.02-09.43.09:229][513]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.02.02-09.43.10:802][513]LogSlate: Window 'Delete Assets' being destroyed
+[2021.02.02-09.43.11:670][513]LogUObjectGlobals: Force Deleting 24 Package(s):
+	Asset Name: /Game/Geometry/Props/Objects/Fridge/02_-_Default.02_-_Default
+	Asset Name: /Game/Geometry/Props/Objects/Fridge/07_-_Default.07_-_Default
+	Asset Name: /Game/Geometry/Props/Objects/Fridge/Material__28.Material__28
+	Asset Name: /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_DailCover.samsungFrenchDoor_DailCover
+	Asset Name: /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Dial.samsungFrenchDoor_Dial
+	Asset Name: /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Drawer_Bottom.samsungFrenchDoor_Drawer_Bottom
+	Asset Name: /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Fridge_Base.samsungFrenchDoor_Fridge_Base
+	Asset Name: /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Hinge_BtmL.samsungFrenchDoor_Hinge_BtmL
+	Asset Name: /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Hinge_BtmR.samsungFrenchDoor_Hinge_BtmR
+	Asset Name: /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Hinge_TopL.samsungFrenchDoor_Hinge_TopL
+[2021.02.02-09.43.14:216][513]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2021.02.02-09.43.18:985][513]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2021.02.02-09.43.23:811][513]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2021.02.02-09.43.27:173][592]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 18
+[2021.02.02-09.43.29:205][644]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2021.02.02-09.43.29:540][651]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.02.02-09.43.31:784][705]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2021.02.02-09.43.42:185][995]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.02.02-09.43.42:658][  7]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.02.02-09.43.43:971][ 44]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2021.02.02-09.43.47:955][146]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.02.02-09.43.52:260][260]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.02.02-09.43.52:417][263]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.02.02-09.43.52:838][273]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.02.02-09.43.53:646][297]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2021.02.02-09.43.57:384][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.02.02-09.44.01:004][453]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/GrayBox002_Auto13669E20B437DCC3C494D1DA046C6A20C.tmp' to 'D:/eNVISION/Envision/VREnvision/Saved/Autosaves/Game/VirtualRealityBP/Testing/Maps/GrayBox002_Auto1.umap'
+[2021.02.02-09.44.01:102][453]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Testing/Maps/GrayBox002' took 3.734
+[2021.02.02-09.44.01:102][453]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.734
+[2021.02.02-09.44.01:112][453]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/samsungFrenchDoor_Auto1558A3D824D2BCA60B31A7EB485E05413.tmp' to 'D:/eNVISION/Envision/VREnvision/Saved/Autosaves/Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Auto1.uasset'
+[2021.02.02-09.44.01:113][453]LogFileHelpers: Auto-saving content packages took 0.010
+[2021.02.02-09.44.03:508][474]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\jacob\Downloads\samsungFrenchDoor.FBX)
+[2021.02.02-09.44.03:520][474]LogFbx: Loading FBX Scene from C:\Users\jacob\Downloads\samsungFrenchDoor.FBX
+[2021.02.02-09.44.03:548][474]LogFbx: FBX Scene Loaded Succesfully
+[2021.02.02-09.44.07:310][474]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.02.02-09.44.07:341][474]LogMaterial: Display: Missing cached shader map for material 07_-_Default, compiling. 
+[2021.02.02-09.44.07:359][474]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2021.02.02-09.44.07:359][474]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.02.02-09.44.07:359][474]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.02.02-09.44.07:359][474]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.02.02-09.44.07:359][474]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.02.02-09.44.07:359][474]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.02.02-09.44.07:359][474]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.02.02-09.44.07:359][474]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.02.02-09.44.07:359][474]LogFbx: Display: Triangulating static mesh Shelf_Mddle001
+[2021.02.02-09.44.07:588][474]LogStaticMesh: Building static mesh samsungFrenchDoor_Shelf_Mddle001...
+[2021.02.02-09.44.07:590][474]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Shelf_Mddle001.samsungFrenchDoor_Shelf_Mddle001
+[2021.02.02-09.44.07:608][474]LogFbx: Display: Triangulating static mesh Shelf_Mddle
+[2021.02.02-09.44.07:611][474]LogStaticMesh: Building static mesh samsungFrenchDoor_Shelf_Mddle...
+[2021.02.02-09.44.07:615][474]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Shelf_Mddle.samsungFrenchDoor_Shelf_Mddle
+[2021.02.02-09.44.07:627][474]LogFbx: Display: Triangulating static mesh Shelf_Btm
+[2021.02.02-09.44.07:630][474]LogStaticMesh: Building static mesh samsungFrenchDoor_Shelf_Btm...
+[2021.02.02-09.44.07:633][474]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Shelf_Btm.samsungFrenchDoor_Shelf_Btm
+[2021.02.02-09.44.07:649][474]LogFbx: Display: Triangulating static mesh rightDoor
+[2021.02.02-09.44.08:210][474]LogStaticMesh: Building static mesh samsungFrenchDoor_rightDoor...
+[2021.02.02-09.44.08:368][474]LogStaticMesh: Built static mesh [0.16s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_rightDoor.samsungFrenchDoor_rightDoor
+[2021.02.02-09.44.08:386][474]LogStaticMesh: Warning: samsungFrenchDoor_rightDoor has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.02.02-09.44.08:386][474]LogStaticMesh: Warning: samsungFrenchDoor_rightDoor has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.02.02-09.44.08:418][474]LogFbx: Display: Triangulating static mesh shelfRightBottom
+[2021.02.02-09.44.08:472][474]LogStaticMesh: Building static mesh samsungFrenchDoor_shelfRightBottom...
+[2021.02.02-09.44.08:480][474]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_shelfRightBottom.samsungFrenchDoor_shelfRightBottom
+[2021.02.02-09.44.08:502][474]LogFbx: Display: Triangulating static mesh shelfRightMiddle
+[2021.02.02-09.44.08:527][474]LogStaticMesh: Building static mesh samsungFrenchDoor_shelfRightMiddle...
+[2021.02.02-09.44.08:533][474]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_shelfRightMiddle.samsungFrenchDoor_shelfRightMiddle
+[2021.02.02-09.44.08:556][474]LogFbx: Display: Triangulating static mesh shelfRight
+[2021.02.02-09.44.08:580][474]LogStaticMesh: Building static mesh samsungFrenchDoor_shelfRight...
+[2021.02.02-09.44.08:588][474]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_shelfRight.samsungFrenchDoor_shelfRight
+[2021.02.02-09.44.08:608][474]LogMaterial: Display: Missing cached shader map for material 02_-_Default, compiling. 
+[2021.02.02-09.44.08:628][474]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2021.02.02-09.44.08:658][474]LogFbx: Display: Triangulating static mesh metalCoolingPlate
+[2021.02.02-09.44.08:818][474]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2021.02.02-09.44.09:051][474]LogStaticMesh: Building static mesh samsungFrenchDoor_metalCoolingPlate...
+[2021.02.02-09.44.09:097][474]LogStaticMesh: Built static mesh [0.05s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_metalCoolingPlate.samsungFrenchDoor_metalCoolingPlate
+[2021.02.02-09.44.09:213][474]LogStaticMesh: Building static mesh samsungFrenchDoor_leftDoor...
+[2021.02.02-09.44.09:408][474]LogStaticMesh: Built static mesh [0.20s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_leftDoor.samsungFrenchDoor_leftDoor
+[2021.02.02-09.44.09:442][474]LogStaticMesh: Warning: samsungFrenchDoor_leftDoor has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.02.02-09.44.09:442][474]LogStaticMesh: Warning: samsungFrenchDoor_leftDoor has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.02.02-09.44.09:490][474]LogFbx: Display: Triangulating static mesh sehlfTopLeft
+[2021.02.02-09.44.09:529][474]LogStaticMesh: Building static mesh samsungFrenchDoor_sehlfTopLeft...
+[2021.02.02-09.44.09:537][474]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_sehlfTopLeft.samsungFrenchDoor_sehlfTopLeft
+[2021.02.02-09.44.09:563][474]LogFbx: Display: Triangulating static mesh shelfLefttBottom001
+[2021.02.02-09.44.09:606][474]LogStaticMesh: Building static mesh samsungFrenchDoor_shelfLefttBottom001...
+[2021.02.02-09.44.09:616][474]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_shelfLefttBottom001.samsungFrenchDoor_shelfLefttBottom001
+[2021.02.02-09.44.09:655][474]LogFbx: Display: Triangulating static mesh shelfLefttBottom
+[2021.02.02-09.44.09:679][474]LogStaticMesh: Building static mesh samsungFrenchDoor_shelfLefttBottom...
+[2021.02.02-09.44.09:685][474]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_shelfLefttBottom.samsungFrenchDoor_shelfLefttBottom
+[2021.02.02-09.44.09:715][474]LogFbx: Display: Triangulating static mesh IceBox
+[2021.02.02-09.44.09:751][474]LogStaticMesh: Building static mesh samsungFrenchDoor_IceBox...
+[2021.02.02-09.44.09:766][474]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_IceBox.samsungFrenchDoor_IceBox
+[2021.02.02-09.44.09:771][474]LogStaticMesh: Warning: samsungFrenchDoor_IceBox has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.02.02-09.44.09:771][474]LogStaticMesh: Warning: samsungFrenchDoor_IceBox has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.02.02-09.44.09:794][474]LogFbx: Display: Triangulating static mesh Hinge_TopR
+[2021.02.02-09.44.09:861][474]LogStaticMesh: Building static mesh samsungFrenchDoor_Hinge_TopR...
+[2021.02.02-09.44.09:870][474]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Hinge_TopR.samsungFrenchDoor_Hinge_TopR
+[2021.02.02-09.44.09:902][474]LogFbx: Display: Triangulating static mesh Hinge_TopL
+[2021.02.02-09.44.09:970][474]LogStaticMesh: Building static mesh samsungFrenchDoor_Hinge_TopL...
+[2021.02.02-09.44.09:987][474]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Hinge_TopL.samsungFrenchDoor_Hinge_TopL
+[2021.02.02-09.44.10:014][474]LogFbx: Display: Triangulating static mesh Hinge_BtmR
+[2021.02.02-09.44.10:052][474]LogStaticMesh: Building static mesh samsungFrenchDoor_Hinge_BtmR...
+[2021.02.02-09.44.10:058][474]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Hinge_BtmR.samsungFrenchDoor_Hinge_BtmR
+[2021.02.02-09.44.10:093][474]LogFbx: Display: Triangulating static mesh Hinge_BtmL
+[2021.02.02-09.44.10:129][474]LogStaticMesh: Building static mesh samsungFrenchDoor_Hinge_BtmL...
+[2021.02.02-09.44.10:137][474]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Hinge_BtmL.samsungFrenchDoor_Hinge_BtmL
+[2021.02.02-09.44.10:169][474]LogFbx: Display: Triangulating static mesh Fridge_Base
+[2021.02.02-09.44.10:663][474]LogStaticMesh: Building static mesh samsungFrenchDoor_Fridge_Base...
+[2021.02.02-09.44.10:780][474]LogStaticMesh: Built static mesh [0.12s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Fridge_Base.samsungFrenchDoor_Fridge_Base
+[2021.02.02-09.44.10:796][474]LogStaticMesh: Warning: samsungFrenchDoor_Fridge_Base has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.02.02-09.44.10:797][474]LogStaticMesh: Warning: samsungFrenchDoor_Fridge_Base has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.02.02-09.44.10:837][474]LogMaterial: Display: Missing cached shader map for material Material__28, compiling. 
+[2021.02.02-09.44.10:895][474]LogFbx: Display: Triangulating static mesh Drawer_Bottom
+[2021.02.02-09.44.11:305][474]LogStaticMesh: Building static mesh samsungFrenchDoor_Drawer_Bottom...
+[2021.02.02-09.44.11:321][474]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Drawer_Bottom.samsungFrenchDoor_Drawer_Bottom
+[2021.02.02-09.44.11:323][474]LogStaticMesh: Warning: samsungFrenchDoor_Drawer_Bottom has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.02.02-09.44.11:323][474]LogStaticMesh: Warning: samsungFrenchDoor_Drawer_Bottom has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.02.02-09.44.11:336][474]LogFbx: Display: Triangulating static mesh Dial
+[2021.02.02-09.44.11:385][474]LogStaticMesh: Building static mesh samsungFrenchDoor_Dial...
+[2021.02.02-09.44.11:392][474]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Dial.samsungFrenchDoor_Dial
+[2021.02.02-09.44.11:410][474]LogFbx: Display: Triangulating static mesh DailCover
+[2021.02.02-09.44.11:444][474]LogStaticMesh: Building static mesh samsungFrenchDoor_DailCover...
+[2021.02.02-09.44.11:453][474]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_DailCover.samsungFrenchDoor_DailCover
+[2021.02.02-09.44.11:455][474]LogStaticMesh: Warning: samsungFrenchDoor_DailCover has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.02.02-09.44.11:455][474]LogStaticMesh: Warning: samsungFrenchDoor_DailCover has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.02.02-09.44.11:647][474]FBXImport: Warning: samsungFrenchDoor_rightDoor has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.02.02-09.44.11:647][474]FBXImport: Warning: samsungFrenchDoor_rightDoor has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.02.02-09.44.11:647][474]FBXImport: Warning: samsungFrenchDoor_leftDoor has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.02.02-09.44.11:647][474]FBXImport: Warning: samsungFrenchDoor_leftDoor has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.02.02-09.44.11:647][474]FBXImport: Warning: samsungFrenchDoor_IceBox has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.02.02-09.44.11:647][474]FBXImport: Warning: samsungFrenchDoor_IceBox has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.02.02-09.44.11:647][474]FBXImport: Warning: samsungFrenchDoor_Fridge_Base has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.02.02-09.44.11:647][474]FBXImport: Warning: samsungFrenchDoor_Fridge_Base has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.02.02-09.44.11:647][474]FBXImport: Warning: samsungFrenchDoor_Drawer_Bottom has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.02.02-09.44.11:647][474]FBXImport: Warning: samsungFrenchDoor_Drawer_Bottom has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.02.02-09.44.11:648][474]FBXImport: Warning: samsungFrenchDoor_DailCover has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.02.02-09.44.11:648][474]FBXImport: Warning: samsungFrenchDoor_DailCover has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.02.02-09.44.13:706][516]LogSlate: Window 'Message Log' being destroyed
+[2021.02.02-09.44.13:720][516]LogSlate: Window 'Message Log' being destroyed
+[2021.02.02-09.44.19:136][683]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2021.02.02-09.44.19:636][693]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2021.02.02-09.44.19:937][698]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2021.02.02-09.44.20:116][700]LogActorFactory: Actor Factory created samsungFrenchDoor_DailCover
+[2021.02.02-09.44.20:118][700]LogActorFactory: Actor Factory created samsungFrenchDoor_Dial
+[2021.02.02-09.44.20:120][700]LogActorFactory: Actor Factory created samsungFrenchDoor_Drawer_Bottom
+[2021.02.02-09.44.20:121][700]LogActorFactory: Actor Factory created samsungFrenchDoor_Fridge_Base
+[2021.02.02-09.44.20:122][700]LogActorFactory: Actor Factory created samsungFrenchDoor_Hinge_BtmL
+[2021.02.02-09.44.20:123][700]LogActorFactory: Actor Factory created samsungFrenchDoor_Hinge_BtmR
+[2021.02.02-09.44.20:123][700]LogActorFactory: Actor Factory created samsungFrenchDoor_Hinge_TopL
+[2021.02.02-09.44.20:124][700]LogActorFactory: Actor Factory created samsungFrenchDoor_Hinge_TopR
+[2021.02.02-09.44.20:125][700]LogActorFactory: Actor Factory created samsungFrenchDoor_IceBox
+[2021.02.02-09.44.20:126][700]LogActorFactory: Actor Factory created samsungFrenchDoor_leftDoor
+[2021.02.02-09.44.20:127][700]LogActorFactory: Actor Factory created samsungFrenchDoor_metalCoolingPlate
+[2021.02.02-09.44.20:129][700]LogActorFactory: Actor Factory created samsungFrenchDoor_rightDoor
+[2021.02.02-09.44.20:131][700]LogActorFactory: Actor Factory created samsungFrenchDoor_sehlfTopLeft
+[2021.02.02-09.44.20:132][700]LogActorFactory: Actor Factory created samsungFrenchDoor_Shelf_Btm
+[2021.02.02-09.44.20:133][700]LogActorFactory: Actor Factory created samsungFrenchDoor_Shelf_Mddle
+[2021.02.02-09.44.20:134][700]LogActorFactory: Actor Factory created samsungFrenchDoor_Shelf_Mddle001
+[2021.02.02-09.44.20:135][700]LogActorFactory: Actor Factory created samsungFrenchDoor_shelfLefttBottom
+[2021.02.02-09.44.20:136][700]LogActorFactory: Actor Factory created samsungFrenchDoor_shelfLefttBottom001
+[2021.02.02-09.44.20:137][700]LogActorFactory: Actor Factory created samsungFrenchDoor_shelfRight
+[2021.02.02-09.44.20:138][700]LogActorFactory: Actor Factory created samsungFrenchDoor_shelfRightBottom
+[2021.02.02-09.44.20:139][700]LogActorFactory: Actor Factory created samsungFrenchDoor_shelfRightMiddle
+[2021.02.02-09.44.20:213][700]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2021.02.02-09.44.21:158][714]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2021.02.02-09.44.21:304][719]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.02.02-09.44.22:064][735]LogActorFactory: Actor Factory created samsungFrenchDoor_DailCover
+[2021.02.02-09.44.22:116][735]LogActorFactory: Actor Factory created samsungFrenchDoor_Dial
+[2021.02.02-09.44.22:165][735]LogActorFactory: Actor Factory created samsungFrenchDoor_Drawer_Bottom
+[2021.02.02-09.44.22:223][735]LogActorFactory: Actor Factory created samsungFrenchDoor_Fridge_Base
+[2021.02.02-09.44.22:275][735]LogActorFactory: Actor Factory created samsungFrenchDoor_Hinge_BtmL
+[2021.02.02-09.44.22:328][735]LogActorFactory: Actor Factory created samsungFrenchDoor_Hinge_BtmR
+[2021.02.02-09.44.22:383][735]LogActorFactory: Actor Factory created samsungFrenchDoor_Hinge_TopL
+[2021.02.02-09.44.22:427][735]LogActorFactory: Actor Factory created samsungFrenchDoor_Hinge_TopR
+[2021.02.02-09.44.22:466][735]LogActorFactory: Actor Factory created samsungFrenchDoor_IceBox
+[2021.02.02-09.44.22:505][735]LogActorFactory: Actor Factory created samsungFrenchDoor_leftDoor
+[2021.02.02-09.44.22:574][735]LogActorFactory: Actor Factory created samsungFrenchDoor_metalCoolingPlate
+[2021.02.02-09.44.22:616][735]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.02.02-09.44.22:616][735]LogActorFactory: Actor Factory created samsungFrenchDoor_rightDoor
+[2021.02.02-09.44.22:656][735]LogActorFactory: Actor Factory created samsungFrenchDoor_sehlfTopLeft
+[2021.02.02-09.44.22:695][735]LogActorFactory: Actor Factory created samsungFrenchDoor_Shelf_Btm
+[2021.02.02-09.44.22:734][735]LogActorFactory: Actor Factory created samsungFrenchDoor_Shelf_Mddle
+[2021.02.02-09.44.22:776][735]LogActorFactory: Actor Factory created samsungFrenchDoor_Shelf_Mddle001
+[2021.02.02-09.44.22:818][735]LogActorFactory: Actor Factory created samsungFrenchDoor_shelfLefttBottom
+[2021.02.02-09.44.22:857][735]LogActorFactory: Actor Factory created samsungFrenchDoor_shelfLefttBottom001
+[2021.02.02-09.44.22:908][735]LogActorFactory: Actor Factory created samsungFrenchDoor_shelfRight
+[2021.02.02-09.44.22:951][735]LogActorFactory: Actor Factory created samsungFrenchDoor_shelfRightBottom
+[2021.02.02-09.44.23:008][735]LogActorFactory: Actor Factory created samsungFrenchDoor_shelfRightMiddle
+[2021.02.02-09.44.30:105][853]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.02.02-09.44.31:102][876]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.02.02-09.44.32:644][904]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2021.02.02-09.44.32:955][912]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.02.02-09.44.34:397][951]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.02.02-09.44.34:754][955]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.02.02-09.44.35:143][959]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.02.02-09.45.22:309][437]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.02.02-09.45.24:224][578]LogEditorViewport: Clicking Background
+[2021.02.02-09.50.32:254][189]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HDRI_Sphere)
+[2021.02.02-09.52.04:476][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.02.02-09.52.04:815][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.02.02-09.52.07:542][165]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/GrayBox002F830776C4F52F50FE0C9E099A2790687.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/VirtualRealityBP/Testing/Maps/GrayBox002.umap'
+[2021.02.02-09.52.07:714][165]LogFileManager: Warning: MoveFile was unable to move 'D:/eNVISION/Envision/VREnvision/Saved/GrayBox002F830776C4F52F50FE0C9E099A2790687.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/VirtualRealityBP/Testing/Maps/GrayBox002.umap' (Error Code 32), retrying in .5s...
+[2021.02.02-09.52.08:215][165]LogFileManager: Warning: MoveFile recovered during retry!
+[2021.02.02-09.52.08:280][165]LogFileHelpers: Saving map 'GrayBox002' took 3.777
+[2021.02.02-09.52.08:281][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Testing/Maps/GrayBox002_BuiltData" FILE="D:/eNVISION/Envision/VREnvision/Content/VirtualRealityBP/Testing/Maps/GrayBox002_BuiltData.uasset" SILENT=true
+[2021.02.02-09.52.11:742][165]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/GrayBox002_BuiltData88C736854C192A3E4DE391B63D6BBEF6.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/VirtualRealityBP/Testing/Maps/GrayBox002_BuiltData.uasset'
+[2021.02.02-09.52.11:871][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor" FILE="D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/Fridge/samsungFrenchDoor.uasset" SILENT=true
+[2021.02.02-09.52.11:879][165]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/samsungFrenchDoorD10F668A4168B5CD7ED70D96F38A91E2.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/Fridge/samsungFrenchDoor.uasset'
+[2021.02.02-09.52.11:946][165]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/samsungFrenchDoor_Shelf_Mddle0016BA0154648E1142EDD1BFBBCE5ADF322.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Shelf_Mddle001.uasset'
+[2021.02.02-09.52.11:963][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Props/Objects/Fridge/07_-_Default" FILE="D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/Fridge/07_-_Default.uasset" SILENT=true
+[2021.02.02-09.52.11:980][165]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/07_-_DefaultA94A111D457F1F7873E068A7D3DB0EB2.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/Fridge/07_-_Default.uasset'
+[2021.02.02-09.52.12:013][165]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/samsungFrenchDoor_Shelf_Mddle7B3C92EA426E1A02341A969FF2F1E41C.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Shelf_Mddle.uasset'
+[2021.02.02-09.52.12:047][165]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/samsungFrenchDoor_Shelf_Btm581465D94C6CC09A934B5D9ED5AAAE40.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Shelf_Btm.uasset'
+[2021.02.02-09.52.12:107][165]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/samsungFrenchDoor_rightDoor7AAB2A24473831A39270B9987A38B4B9.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/Fridge/samsungFrenchDoor_rightDoor.uasset'
+[2021.02.02-09.52.12:144][165]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/samsungFrenchDoor_shelfRightBott3B0BF62348B59EA2CE6587AA8B04E1C7.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/Fridge/samsungFrenchDoor_shelfRightBottom.uasset'
+[2021.02.02-09.52.12:178][165]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/samsungFrenchDoor_shelfRightMidd287026A849FDB6333F2B089052CF2BDC.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/Fridge/samsungFrenchDoor_shelfRightMiddle.uasset'
+[2021.02.02-09.52.12:219][165]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/samsungFrenchDoor_shelfRightB0E9D3F44D700C4787C8AABB29DF0EE8.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/Fridge/samsungFrenchDoor_shelfRight.uasset'
+[2021.02.02-09.52.12:265][165]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/samsungFrenchDoor_metalCoolingPl3571F03A47C4CAAC8F9D9388F774CC53.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/Fridge/samsungFrenchDoor_metalCoolingPlate.uasset'
+[2021.02.02-09.52.12:282][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Props/Objects/Fridge/02_-_Default" FILE="D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/Fridge/02_-_Default.uasset" SILENT=true
+[2021.02.02-09.52.12:333][165]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/02_-_Default35782870489C37059564778E47AD6B83.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/Fridge/02_-_Default.uasset'
+[2021.02.02-09.52.12:395][165]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/samsungFrenchDoor_leftDoor953F83CB4295B2E471050FB146894AC0.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/Fridge/samsungFrenchDoor_leftDoor.uasset'
+[2021.02.02-09.52.12:432][165]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/samsungFrenchDoor_sehlfTopLeftCFCBA1DF499F791565D92F8C1A779EA8.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/Fridge/samsungFrenchDoor_sehlfTopLeft.uasset'
+[2021.02.02-09.52.12:488][165]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/samsungFrenchDoor_shelfLefttBottF08F99FC4501D7A33CA628A5D033E977.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/Fridge/samsungFrenchDoor_shelfLefttBottom001.uasset'
+[2021.02.02-09.52.12:525][165]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/samsungFrenchDoor_shelfLefttBott7DF029DE47A856BFDA5E708998B91387.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/Fridge/samsungFrenchDoor_shelfLefttBottom.uasset'
+[2021.02.02-09.52.12:577][165]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/samsungFrenchDoor_IceBoxF60E9E0C4346801D771E6C8536472BD7.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/Fridge/samsungFrenchDoor_IceBox.uasset'
+[2021.02.02-09.52.12:617][165]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/samsungFrenchDoor_Hinge_TopR6BE70FC44D21EBE307D5FBAEE1E8206D.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Hinge_TopR.uasset'
+[2021.02.02-09.52.12:652][165]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/samsungFrenchDoor_Hinge_TopL4066052647DB705278F5B9822958E059.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Hinge_TopL.uasset'
+[2021.02.02-09.52.12:685][165]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/samsungFrenchDoor_Hinge_BtmRDF4D02D147D733834A1BB681DA4DF93A.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Hinge_BtmR.uasset'
+[2021.02.02-09.52.12:722][165]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/samsungFrenchDoor_Hinge_BtmL2957A60B489D274C5CD2BF9ED985951F.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Hinge_BtmL.uasset'
+[2021.02.02-09.52.12:804][165]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/samsungFrenchDoor_Fridge_BaseDA90A97F45E514373D3ADB88A502282D.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Fridge_Base.uasset'
+[2021.02.02-09.52.12:852][165]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/samsungFrenchDoor_Drawer_Bottom18F7EDD64709D663410740A09CDB9D0D.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Drawer_Bottom.uasset'
+[2021.02.02-09.52.12:872][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Props/Objects/Fridge/Material__28" FILE="D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/Fridge/Material__28.uasset" SILENT=true
+[2021.02.02-09.52.12:917][165]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/Material__284F606EFA442A60A0EF32279A812C791A.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/Fridge/Material__28.uasset'
+[2021.02.02-09.52.12:951][165]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/samsungFrenchDoor_Dial81EB6B0D4F5DF669823895BEBA2CD5D1.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Dial.uasset'
+[2021.02.02-09.52.12:996][165]LogSavePackage: Moving 'D:/eNVISION/Envision/VREnvision/Saved/samsungFrenchDoor_DailCoverDE862A9E47834B529F6DDBAD96DD896D.tmp' to 'D:/eNVISION/Envision/VREnvision/Content/Geometry/Props/Objects/Fridge/samsungFrenchDoor_DailCover.uasset'
+[2021.02.02-09.52.13:065][165]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.02-09.52.13:065][165]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002
+[2021.02.02-09.52.13:065][165]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Testing/Maps/GrayBox002_BuiltData.GrayBox002_BuiltData
+[2021.02.02-09.52.13:065][165]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Shelf_Mddle001.samsungFrenchDoor_Shelf_Mddle001
+[2021.02.02-09.52.13:065][165]LogContentValidation: Display: Validating Material /Game/Geometry/Props/Objects/Fridge/07_-_Default.07_-_Default
+[2021.02.02-09.52.13:065][165]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Shelf_Mddle.samsungFrenchDoor_Shelf_Mddle
+[2021.02.02-09.52.13:065][165]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Shelf_Btm.samsungFrenchDoor_Shelf_Btm
+[2021.02.02-09.52.13:066][165]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_rightDoor.samsungFrenchDoor_rightDoor
+[2021.02.02-09.52.13:066][165]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_shelfRightBottom.samsungFrenchDoor_shelfRightBottom
+[2021.02.02-09.52.13:066][165]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_shelfRightMiddle.samsungFrenchDoor_shelfRightMiddle
+[2021.02.02-09.52.13:066][165]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_shelfRight.samsungFrenchDoor_shelfRight
+[2021.02.02-09.52.13:066][165]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_metalCoolingPlate.samsungFrenchDoor_metalCoolingPlate
+[2021.02.02-09.52.13:066][165]LogContentValidation: Display: Validating Material /Game/Geometry/Props/Objects/Fridge/02_-_Default.02_-_Default
+[2021.02.02-09.52.13:066][165]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_leftDoor.samsungFrenchDoor_leftDoor
+[2021.02.02-09.52.13:066][165]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_sehlfTopLeft.samsungFrenchDoor_sehlfTopLeft
+[2021.02.02-09.52.13:066][165]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_shelfLefttBottom001.samsungFrenchDoor_shelfLefttBottom001
+[2021.02.02-09.52.13:066][165]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_shelfLefttBottom.samsungFrenchDoor_shelfLefttBottom
+[2021.02.02-09.52.13:066][165]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_IceBox.samsungFrenchDoor_IceBox
+[2021.02.02-09.52.13:066][165]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Hinge_TopR.samsungFrenchDoor_Hinge_TopR
+[2021.02.02-09.52.13:066][165]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Hinge_TopL.samsungFrenchDoor_Hinge_TopL
+[2021.02.02-09.52.13:066][165]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Hinge_BtmR.samsungFrenchDoor_Hinge_BtmR
+[2021.02.02-09.52.13:066][165]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Hinge_BtmL.samsungFrenchDoor_Hinge_BtmL
+[2021.02.02-09.52.13:066][165]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Fridge_Base.samsungFrenchDoor_Fridge_Base
+[2021.02.02-09.52.13:066][165]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Drawer_Bottom.samsungFrenchDoor_Drawer_Bottom
+[2021.02.02-09.52.13:066][165]LogContentValidation: Display: Validating Material /Game/Geometry/Props/Objects/Fridge/Material__28.Material__28
+[2021.02.02-09.52.13:066][165]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_Dial.samsungFrenchDoor_Dial
+[2021.02.02-09.52.13:066][165]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Props/Objects/Fridge/samsungFrenchDoor_DailCover.samsungFrenchDoor_DailCover
+[2021.02.02-09.52.18:019][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.02.02-09.52.18:245][675]LogSlate: Window 'VREnvision - Unreal Editor' being destroyed
+[2021.02.02-09.52.19:132][676]Cmd: QUIT_EDITOR
+[2021.02.02-09.52.19:133][676]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.02.02-09.52.19:169][676]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.02.02-09.52.19:263][676]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.02.02-09.52.19:287][676]LogExit: Preparing to exit.
+[2021.02.02-09.52.20:257][676]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.02-09.52.20:257][676]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.02-09.52.20:257][676]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.02-09.52.20:257][676]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.02-09.52.20:257][676]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.02-09.52.20:257][676]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.02-09.52.20:257][676]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.02-09.52.20:257][676]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.02.02-09.52.20:257][676]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.02.02-09.52.20:257][676]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.02.02-09.52.20:257][676]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.02.02-09.52.20:375][676]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.02.02-09.52.20:778][676]LogExit: Editor shut down
+[2021.02.02-09.52.20:788][676]LogExit: Transaction tracking system shut down
+[2021.02.02-09.52.21:176][676]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000001A17A95CE00), frame # 193676
+[2021.02.02-09.52.21:176][676]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A17A7E51C0), frame # 193676
+[2021.02.02-09.52.21:178][676]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A17A841E00), frame # 193676
+[2021.02.02-09.52.21:463][676]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A18FE4B740), frame # 193676
+[2021.02.02-09.52.21:463][676]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A19E544400), frame # 193676
+[2021.02.02-09.52.21:497][676]LogAvatars: Shutdown ordering error closing down OVRAvatar module.
+[2021.02.02-09.52.21:632][676]LogExit: Object subsystem successfully closed.
+[2021.02.02-09.52.21:709][676]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.02.02-09.52.22:038][676]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (798)
+[2021.02.02-09.52.22:038][676]LogModuleManager: Shutting down and abandoning module SceneOutliner (796)
+[2021.02.02-09.52.22:038][676]LogModuleManager: Shutting down and abandoning module AddContentDialog (794)
+[2021.02.02-09.52.22:052][676]LogModuleManager: Shutting down and abandoning module WidgetCarousel (793)
+[2021.02.02-09.52.22:052][676]LogModuleManager: Shutting down and abandoning module EditorWidgets (790)
+[2021.02.02-09.52.22:052][676]LogModuleManager: Shutting down and abandoning module CollectionManager (788)
+[2021.02.02-09.52.22:053][676]LogModuleManager: Shutting down and abandoning module StatsViewer (786)
+[2021.02.02-09.52.22:055][676]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (784)
+[2021.02.02-09.52.22:055][676]LogModuleManager: Shutting down and abandoning module FoliageEdit (782)
+[2021.02.02-09.52.22:056][676]LogModuleManager: Shutting down and abandoning module LandscapeEditor (780)
+[2021.02.02-09.52.22:060][676]LogModuleManager: Shutting down and abandoning module MeshPaintMode (778)
+[2021.02.02-09.52.22:061][676]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (776)
+[2021.02.02-09.52.22:061][676]LogModuleManager: Shutting down and abandoning module ActorPickerMode (774)
+[2021.02.02-09.52.22:061][676]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (772)
+[2021.02.02-09.52.22:062][676]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (770)
+[2021.02.02-09.52.22:062][676]LogModuleManager: Shutting down and abandoning module AutomationWorker (768)
+[2021.02.02-09.52.22:063][676]LogModuleManager: Shutting down and abandoning module SteamVREditor (766)
+[2021.02.02-09.52.22:063][676]LogModuleManager: Shutting down and abandoning module OculusMR (764)
+[2021.02.02-09.52.22:063][676]LogModuleManager: Shutting down and abandoning module OculusAudioEditor (762)
+[2021.02.02-09.52.22:063][676]LogModuleManager: Shutting down and abandoning module GooglePADEditor (760)
+[2021.02.02-09.52.22:064][676]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (758)
+[2021.02.02-09.52.22:064][676]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (756)
+[2021.02.02-09.52.22:069][676]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (754)
+[2021.02.02-09.52.22:070][676]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (752)
+[2021.02.02-09.52.22:073][676]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (750)
+[2021.02.02-09.52.22:075][676]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (748)
+[2021.02.02-09.52.22:075][676]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (746)
+[2021.02.02-09.52.22:075][676]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (744)
+[2021.02.02-09.52.22:075][676]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (742)
+[2021.02.02-09.52.22:075][676]LogModuleManager: Shutting down and abandoning module WebMMedia (740)
+[2021.02.02-09.52.22:076][676]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (738)
+[2021.02.02-09.52.22:077][676]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (736)
+[2021.02.02-09.52.22:079][676]LogModuleManager: Shutting down and abandoning module SequenceRecorder (735)
+[2021.02.02-09.52.22:079][676]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (732)
+[2021.02.02-09.52.22:080][676]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (730)
+[2021.02.02-09.52.22:080][676]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (728)
+[2021.02.02-09.52.22:080][676]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (726)
+[2021.02.02-09.52.22:080][676]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (724)
+[2021.02.02-09.52.22:080][676]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (722)
+[2021.02.02-09.52.22:080][676]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (720)
+[2021.02.02-09.52.22:080][676]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (718)
+[2021.02.02-09.52.22:080][676]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (716)
+[2021.02.02-09.52.22:080][676]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (714)
+[2021.02.02-09.52.22:080][676]LogModuleManager: Shutting down and abandoning module PlanarCut (712)
+[2021.02.02-09.52.22:080][676]LogModuleManager: Shutting down and abandoning module CharacterAI (710)
+[2021.02.02-09.52.22:080][676]LogModuleManager: Shutting down and abandoning module TextureAlignMode (708)
+[2021.02.02-09.52.22:080][676]LogModuleManager: Shutting down and abandoning module BspMode (706)
+[2021.02.02-09.52.22:082][676]LogModuleManager: Shutting down and abandoning module PlacementMode (705)
+[2021.02.02-09.52.22:082][676]LogModuleManager: Shutting down and abandoning module GeometryMode (702)
+[2021.02.02-09.52.22:082][676]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (700)
+[2021.02.02-09.52.22:083][676]LogModuleManager: Shutting down and abandoning module SmartSnapping (698)
+[2021.02.02-09.52.22:083][676]LogModuleManager: Shutting down and abandoning module SessionServices (696)
+[2021.02.02-09.52.22:083][676]LogModuleManager: Shutting down and abandoning module MeshPaint (694)
+[2021.02.02-09.52.22:085][676]LogModuleManager: Shutting down and abandoning module ViewportSnapping (692)
+[2021.02.02-09.52.22:085][676]LogModuleManager: Shutting down and abandoning module ViewportInteraction (690)
+[2021.02.02-09.52.22:085][676]LogModuleManager: Shutting down and abandoning module ClothPainter (688)
+[2021.02.02-09.52.22:088][676]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (687)
+[2021.02.02-09.52.22:090][676]LogModuleManager: Shutting down and abandoning module LogVisualizer (684)
+[2021.02.02-09.52.22:093][676]LogModuleManager: Shutting down and abandoning module IntroTutorials (682)
+[2021.02.02-09.52.22:094][676]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (681)
+[2021.02.02-09.52.22:096][676]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (678)
+[2021.02.02-09.52.22:096][676]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (676)
+[2021.02.02-09.52.22:097][676]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (674)
+[2021.02.02-09.52.22:097][676]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (673)
+[2021.02.02-09.52.22:436][676]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (670)
+[2021.02.02-09.52.22:436][676]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (668)
+[2021.02.02-09.52.22:436][676]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (666)
+[2021.02.02-09.52.22:436][676]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (664)
+[2021.02.02-09.52.22:436][676]LogModuleManager: Shutting down and abandoning module TraceInsights (662)
+[2021.02.02-09.52.22:444][676]LogModuleManager: Shutting down and abandoning module TraceServices (661)
+[2021.02.02-09.52.22:446][676]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (658)
+[2021.02.02-09.52.22:446][676]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (656)
+[2021.02.02-09.52.22:447][676]LogModuleManager: Shutting down and abandoning module InputBindingEditor (654)
+[2021.02.02-09.52.22:448][676]LogModuleManager: Shutting down and abandoning module MergeActors (652)
+[2021.02.02-09.52.22:449][676]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (650)
+[2021.02.02-09.52.22:451][676]LogModuleManager: Shutting down and abandoning module LocalizationService (649)
+[2021.02.02-09.52.22:452][676]LogModuleManager: Shutting down and abandoning module HardwareTargeting (646)
+[2021.02.02-09.52.22:452][676]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (644)
+[2021.02.02-09.52.22:452][676]LogModuleManager: Shutting down and abandoning module UndoHistory (642)
+[2021.02.02-09.52.22:453][676]LogModuleManager: Shutting down and abandoning module XmlParser (640)
+[2021.02.02-09.52.22:453][676]LogModuleManager: Shutting down and abandoning module Blutility (638)
+[2021.02.02-09.52.22:453][676]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (636)
+[2021.02.02-09.52.22:453][676]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (635)
+[2021.02.02-09.52.22:454][676]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (632)
+[2021.02.02-09.52.22:454][676]LogModuleManager: Shutting down and abandoning module SettingsEditor (630)
+[2021.02.02-09.52.22:455][676]LogModuleManager: Shutting down and abandoning module ProjectLauncher (628)
+[2021.02.02-09.52.22:456][676]LogModuleManager: Shutting down and abandoning module SessionFrontend (626)
+[2021.02.02-09.52.22:457][676]LogModuleManager: Shutting down and abandoning module ProfilerClient (624)
+[2021.02.02-09.52.22:457][676]LogModuleManager: Shutting down and abandoning module DeviceManager (622)
+[2021.02.02-09.52.22:459][676]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (621)
+[2021.02.02-09.52.22:493][676]LogModuleManager: Shutting down and abandoning module AutomationController (618)
+[2021.02.02-09.52.22:494][676]LogModuleManager: Shutting down and abandoning module AutomationWindow (616)
+[2021.02.02-09.52.22:495][676]LogModuleManager: Shutting down and abandoning module Layers (614)
+[2021.02.02-09.52.22:497][676]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (612)
+[2021.02.02-09.52.22:497][676]LogModuleManager: Shutting down and abandoning module DetailCustomizations (610)
+[2021.02.02-09.52.22:498][676]LogModuleManager: Shutting down and abandoning module PackagesDialog (608)
+[2021.02.02-09.52.22:498][676]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (606)
+[2021.02.02-09.52.22:501][676]LogModuleManager: Shutting down and abandoning module Persona (604)
+[2021.02.02-09.52.22:503][676]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (603)
+[2021.02.02-09.52.22:503][676]LogModuleManager: Shutting down and abandoning module AnimGraph (601)
+[2021.02.02-09.52.22:503][676]LogModuleManager: Shutting down and abandoning module Kismet (598)
+[2021.02.02-09.52.22:507][676]LogModuleManager: Shutting down and abandoning module KismetWidgets (597)
+[2021.02.02-09.52.22:508][676]LogModuleManager: Shutting down and abandoning module GraphEditor (594)
+[2021.02.02-09.52.22:508][676]LogModuleManager: Shutting down and abandoning module StructViewer (592)
+[2021.02.02-09.52.22:509][676]LogModuleManager: Shutting down and abandoning module ClassViewer (590)
+[2021.02.02-09.52.22:509][676]LogModuleManager: Shutting down and abandoning module Toolbox (588)
+[2021.02.02-09.52.22:509][676]LogModuleManager: Shutting down and abandoning module ModuleUI (586)
+[2021.02.02-09.52.22:509][676]LogModuleManager: Shutting down and abandoning module OutputLog (584)
+[2021.02.02-09.52.22:513][676]LogModuleManager: Shutting down and abandoning module GammaUI (582)
+[2021.02.02-09.52.22:514][676]LogModuleManager: Shutting down and abandoning module Documentation (580)
+[2021.02.02-09.52.22:514][676]LogModuleManager: Shutting down and abandoning module LiveCoding (578)
+[2021.02.02-09.52.22:515][676]LogModuleManager: Shutting down and abandoning module LevelSequence (576)
+[2021.02.02-09.52.22:515][676]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (574)
+[2021.02.02-09.52.22:516][676]LogModuleManager: Shutting down and abandoning module MovieScene (572)
+[2021.02.02-09.52.22:516][676]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (570)
+[2021.02.02-09.52.22:516][676]LogModuleManager: Shutting down and abandoning module LauncherPlatform (568)
+[2021.02.02-09.52.22:516][676]LogModuleManager: Shutting down and abandoning module AnalyticsET (566)
+[2021.02.02-09.52.22:516][676]LogModuleManager: Shutting down and abandoning module PortalServices (564)
+[2021.02.02-09.52.22:516][676]LogModuleManager: Shutting down and abandoning module PortalRpc (562)
+[2021.02.02-09.52.22:516][676]LogModuleManager: Shutting down and abandoning module MessagingRpc (560)
+[2021.02.02-09.52.22:516][676]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (558)
+[2021.02.02-09.52.22:516][676]LogModuleManager: Shutting down and abandoning module AudioMixerCore (557)
+[2021.02.02-09.52.22:516][676]LogModuleManager: Shutting down and abandoning module AIModule (554)
+[2021.02.02-09.52.22:517][676]LogModuleManager: Shutting down and abandoning module GameplayDebugger (553)
+[2021.02.02-09.52.22:517][676]LogModuleManager: Shutting down and abandoning module AITestSuite (551)
+[2021.02.02-09.52.22:517][676]LogModuleManager: Shutting down and abandoning module NavigationSystem (549)
+[2021.02.02-09.52.22:517][676]LogModuleManager: Shutting down and abandoning module ProfilerService (546)
+[2021.02.02-09.52.22:631][676]LogModuleManager: Shutting down and abandoning module TaskGraph (544)
+[2021.02.02-09.52.22:633][676]LogModuleManager: Shutting down and abandoning module ScreenshotTools (542)
+[2021.02.02-09.52.22:633][676]LogModuleManager: Shutting down and abandoning module SynthesisEditor (540)
+[2021.02.02-09.52.22:633][676]LogModuleManager: Shutting down and abandoning module Synthesis (538)
+[2021.02.02-09.52.22:634][676]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (536)
+[2021.02.02-09.52.22:634][676]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (534)
+[2021.02.02-09.52.22:634][676]LogModuleManager: Shutting down and abandoning module OculusEditor (532)
+[2021.02.02-09.52.22:636][676]LogModuleManager: Shutting down and abandoning module OculusInput (530)
+[2021.02.02-09.52.22:636][676]LogModuleManager: Shutting down and abandoning module OculusAvatar (528)
+[2021.02.02-09.52.22:636][676]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (526)
+[2021.02.02-09.52.22:636][676]LogModuleManager: Shutting down and abandoning module GooglePAD (524)
+[2021.02.02-09.52.22:636][676]LogModuleManager: Shutting down and abandoning module EditableMesh (522)
+[2021.02.02-09.52.22:636][676]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (520)
+[2021.02.02-09.52.22:636][676]LogModuleManager: Shutting down and abandoning module CableComponent (518)
+[2021.02.02-09.52.22:636][676]LogModuleManager: Shutting down and abandoning module AudioCapture (516)
+[2021.02.02-09.52.22:636][676]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (515)
+[2021.02.02-09.52.22:637][676]LogModuleManager: Shutting down and abandoning module AssetTags (512)
+[2021.02.02-09.52.22:637][676]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (510)
+[2021.02.02-09.52.22:637][676]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (508)
+[2021.02.02-09.52.22:637][676]LogModuleManager: Shutting down and abandoning module AppleImageUtils (506)
+[2021.02.02-09.52.22:637][676]LogModuleManager: Shutting down and abandoning module AndroidPermission (504)
+[2021.02.02-09.52.22:637][676]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (500)
+[2021.02.02-09.52.22:637][676]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (498)
+[2021.02.02-09.52.22:639][676]LogModuleManager: Shutting down and abandoning module TemplateSequence (496)
+[2021.02.02-09.52.22:639][676]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (494)
+[2021.02.02-09.52.22:639][676]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (492)
+[2021.02.02-09.52.22:640][676]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (490)
+[2021.02.02-09.52.22:640][676]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (488)
+[2021.02.02-09.52.22:640][676]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (487)
+[2021.02.02-09.52.22:645][676]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (484)
+[2021.02.02-09.52.22:645][676]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (482)
+[2021.02.02-09.52.22:645][676]LogModuleManager: Shutting down and abandoning module MediaCompositing (480)
+[2021.02.02-09.52.22:645][676]LogModuleManager: Shutting down and abandoning module ImgMedia (478)
+[2021.02.02-09.52.22:645][676]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (476)
+[2021.02.02-09.52.22:645][676]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (474)
+[2021.02.02-09.52.22:646][676]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (472)
+[2021.02.02-09.52.22:646][676]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (470)
+[2021.02.02-09.52.22:646][676]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (468)
+[2021.02.02-09.52.22:646][676]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (466)
+[2021.02.02-09.52.22:650][676]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (464)
+[2021.02.02-09.52.22:650][676]LogModuleManager: Shutting down and abandoning module MeshConversion (462)
+[2021.02.02-09.52.22:650][676]LogModuleManager: Shutting down and abandoning module DynamicMesh (460)
+[2021.02.02-09.52.22:651][676]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (458)
+[2021.02.02-09.52.22:652][676]LogModuleManager: Shutting down and abandoning module GeometricObjects (456)
+[2021.02.02-09.52.22:652][676]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (454)
+[2021.02.02-09.52.22:652][676]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (453)
+[2021.02.02-09.52.22:652][676]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (450)
+[2021.02.02-09.52.22:653][676]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (448)
+[2021.02.02-09.52.22:653][676]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (446)
+[2021.02.02-09.52.22:653][676]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (444)
+[2021.02.02-09.52.22:653][676]LogModuleManager: Shutting down and abandoning module ChaosNiagara (442)
+[2021.02.02-09.52.22:653][676]LogModuleManager: Shutting down and abandoning module FractureEditor (440)
+[2021.02.02-09.52.22:653][676]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (438)
+[2021.02.02-09.52.22:653][676]LogModuleManager: Shutting down and abandoning module ChaosCloth (436)
+[2021.02.02-09.52.22:653][676]LogModuleManager: Shutting down and abandoning module BackChannel (434)
+[2021.02.02-09.52.22:654][676]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (432)
+[2021.02.02-09.52.22:654][676]LogModuleManager: Shutting down and abandoning module AutomationUtils (430)
+[2021.02.02-09.52.22:654][676]LogModuleManager: Shutting down and abandoning module AlembicImporter (428)
+[2021.02.02-09.52.22:654][676]LogModuleManager: Shutting down and abandoning module AlembicLibrary (427)
+[2021.02.02-09.52.22:654][676]LogModuleManager: Shutting down and abandoning module GeometryCache (426)
+[2021.02.02-09.52.22:654][676]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (425)
+[2021.02.02-09.52.22:654][676]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (420)
+[2021.02.02-09.52.22:654][676]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (418)
+[2021.02.02-09.52.22:655][676]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (416)
+[2021.02.02-09.52.22:655][676]LogModuleManager: Shutting down and abandoning module PluginBrowser (414)
+[2021.02.02-09.52.22:658][676]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (412)
+[2021.02.02-09.52.22:659][676]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (410)
+[2021.02.02-09.52.22:660][676]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (408)
+[2021.02.02-09.52.22:660][676]LogModuleManager: Shutting down and abandoning module CurveEditorTools (406)
+[2021.02.02-09.52.22:662][676]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (404)
+[2021.02.02-09.52.22:662][676]LogModuleManager: Shutting down and abandoning module CryptoKeys (402)
+[2021.02.02-09.52.22:662][676]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (400)
+[2021.02.02-09.52.22:662][676]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (398)
+[2021.02.02-09.52.22:662][676]LogModuleManager: Shutting down and abandoning module UObjectPlugin (396)
+[2021.02.02-09.52.22:662][676]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (394)
+[2021.02.02-09.52.22:664][676]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (392)
+[2021.02.02-09.52.22:664][676]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (390)
+[2021.02.02-09.52.22:666][676]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (388)
+[2021.02.02-09.52.22:670][676]LogModuleManager: Shutting down and abandoning module GitSourceControl (386)
+[2021.02.02-09.52.22:671][676]LogModuleManager: Shutting down and abandoning module SourceControl (385)
+[2021.02.02-09.52.22:672][676]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (382)
+[2021.02.02-09.52.22:672][676]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (380)
+[2021.02.02-09.52.22:672][676]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (378)
+[2021.02.02-09.52.22:673][676]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (376)
+[2021.02.02-09.52.22:673][676]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (374)
+[2021.02.02-09.52.22:673][676]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (372)
+[2021.02.02-09.52.22:673][676]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (370)
+[2021.02.02-09.52.22:673][676]LogModuleManager: Shutting down and abandoning module Paper2DEditor (368)
+[2021.02.02-09.52.22:675][676]LogModuleManager: Shutting down and abandoning module SoundFields (366)
+[2021.02.02-09.52.22:675][676]LogModuleManager: Shutting down and abandoning module SignificanceManager (364)
+[2021.02.02-09.52.22:675][676]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (362)
+[2021.02.02-09.52.22:675][676]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (360)
+[2021.02.02-09.52.22:675][676]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (356)
+[2021.02.02-09.52.22:675][676]LogModuleManager: Shutting down and abandoning module ActorSequence (354)
+[2021.02.02-09.52.22:675][676]LogModuleManager: Shutting down and abandoning module UdpMessaging (352)
+[2021.02.02-09.52.22:776][676]LogModuleManager: Shutting down and abandoning module TcpMessaging (350)
+[2021.02.02-09.52.22:877][676]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (348)
+[2021.02.02-09.52.22:877][676]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (346)
+[2021.02.02-09.52.22:877][676]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (344)
+[2021.02.02-09.52.22:877][676]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (342)
+[2021.02.02-09.52.22:877][676]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (340)
+[2021.02.02-09.52.22:877][676]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.02.02-09.52.22:877][676]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (338)
+[2021.02.02-09.52.22:878][676]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (336)
+[2021.02.02-09.52.22:878][676]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (334)
+[2021.02.02-09.52.22:879][676]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (332)
+[2021.02.02-09.52.22:879][676]LogModuleManager: Shutting down and abandoning module MagicLeapController (330)
+[2021.02.02-09.52.22:881][676]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.02.02-09.52.22:881][676]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (328)
+[2021.02.02-09.52.22:882][676]LogModuleManager: Shutting down and abandoning module MagicLeapAR (326)
+[2021.02.02-09.52.22:882][676]LogModuleManager: Shutting down and abandoning module AugmentedReality (325)
+[2021.02.02-09.52.22:882][676]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (322)
+[2021.02.02-09.52.22:882][676]LogModuleManager: Shutting down and abandoning module Niagara (320)
+[2021.02.02-09.52.22:883][676]LogModuleManager: Shutting down and abandoning module SignalProcessing (319)
+[2021.02.02-09.52.22:884][676]LogModuleManager: Shutting down and abandoning module NiagaraEditor (317)
+[2021.02.02-09.52.22:888][676]LogModuleManager: Shutting down and abandoning module NiagaraCore (314)
+[2021.02.02-09.52.22:888][676]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (312)
+[2021.02.02-09.52.22:889][676]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (310)
+[2021.02.02-09.52.22:889][676]LogModuleManager: Shutting down and abandoning module FacialAnimation (308)
+[2021.02.02-09.52.22:889][676]LogModuleManager: Shutting down and abandoning module DataValidation (306)
+[2021.02.02-09.52.22:889][676]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (304)
+[2021.02.02-09.52.22:892][676]LogModuleManager: Shutting down and abandoning module LevelEditor (303)
+[2021.02.02-09.52.22:895][676]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (302)
+[2021.02.02-09.52.22:897][676]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (300)
+[2021.02.02-09.52.22:897][676]LogModuleManager: Shutting down and abandoning module MainFrame (298)
+[2021.02.02-09.52.22:898][676]LogModuleManager: Shutting down and abandoning module HotReload (297)
+[2021.02.02-09.52.22:899][676]LogModuleManager: Shutting down and abandoning module ToolMenus (293)
+[2021.02.02-09.52.22:899][676]LogModuleManager: Shutting down and abandoning module TreeMap (291)
+[2021.02.02-09.52.22:900][676]LogModuleManager: Shutting down and abandoning module AnimationSharing (288)
+[2021.02.02-09.52.22:900][676]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (286)
+[2021.02.02-09.52.22:900][676]LogModuleManager: Shutting down and abandoning module Paper2D (284)
+[2021.02.02-09.52.22:901][676]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (282)
+[2021.02.02-09.52.22:915][676]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (280)
+[2021.02.02-09.52.22:915][676]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (278)
+[2021.02.02-09.52.22:915][676]LogModuleManager: Shutting down and abandoning module PacketHandler (276)
+[2021.02.02-09.52.22:915][676]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (274)
+[2021.02.02-09.52.22:915][676]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (272)
+[2021.02.02-09.52.22:917][676]LogModuleManager: Shutting down and abandoning module MediaAssets (270)
+[2021.02.02-09.52.22:917][676]LogModuleManager: Shutting down and abandoning module Overlay (268)
+[2021.02.02-09.52.22:917][676]LogModuleManager: Shutting down and abandoning module OverlayEditor (267)
+[2021.02.02-09.52.22:917][676]LogModuleManager: Shutting down and abandoning module VREditor (264)
+[2021.02.02-09.52.22:918][676]LogModuleManager: Shutting down and abandoning module StringTableEditor (262)
+[2021.02.02-09.52.22:919][676]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (260)
+[2021.02.02-09.52.22:919][676]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (258)
+[2021.02.02-09.52.22:920][676]LogModuleManager: Shutting down and abandoning module FunctionalTesting (256)
+[2021.02.02-09.52.22:921][676]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (254)
+[2021.02.02-09.52.22:922][676]LogModuleManager: Shutting down and abandoning module UMG (252)
+[2021.02.02-09.52.22:922][676]LogModuleManager: Shutting down and abandoning module UMGEditor (251)
+[2021.02.02-09.52.22:924][676]LogModuleManager: Shutting down and abandoning module MessageLog (249)
+[2021.02.02-09.52.22:925][676]LogModuleManager: Shutting down and abandoning module MaterialEditor (247)
+[2021.02.02-09.52.22:925][676]LogModuleManager: Shutting down and abandoning module ContentBrowser (246)
+[2021.02.02-09.52.22:928][676]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (245)
+[2021.02.02-09.52.22:931][676]LogModuleManager: Shutting down and abandoning module SlateReflector (238)
+[2021.02.02-09.52.22:934][676]LogModuleManager: Shutting down and abandoning module Slate (236)
+[2021.02.02-09.52.22:934][676]LogModuleManager: Shutting down and abandoning module SlateCore (234)
+[2021.02.02-09.52.22:934][676]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (232)
+[2021.02.02-09.52.22:934][676]LogModuleManager: Shutting down and abandoning module UnrealEd (230)
+[2021.02.02-09.52.22:934][676]LogModuleManager: Shutting down and abandoning module MRMesh (228)
+[2021.02.02-09.52.22:934][676]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (226)
+[2021.02.02-09.52.22:934][676]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (224)
+[2021.02.02-09.52.22:934][676]LogModuleManager: Shutting down and abandoning module XAudio2 (222)
+[2021.02.02-09.52.22:935][676]LogModuleManager: Shutting down and abandoning module Networking (220)
+[2021.02.02-09.52.22:935][676]LogModuleManager: Shutting down and abandoning module Core (218)
+[2021.02.02-09.52.22:935][676]LogModuleManager: Shutting down and abandoning module MovieSceneTools (216)
+[2021.02.02-09.52.22:938][676]LogModuleManager: Shutting down and abandoning module CurveEditor (215)
+[2021.02.02-09.52.22:940][676]LogModuleManager: Shutting down and abandoning module Sequencer (213)
+[2021.02.02-09.52.22:944][676]LogModuleManager: Shutting down and abandoning module EditorStyle (212)
+[2021.02.02-09.52.22:950][676]LogModuleManager: Shutting down and abandoning module KismetCompiler (208)
+[2021.02.02-09.52.22:950][676]LogModuleManager: Shutting down and abandoning module MeshBuilder (206)
+[2021.02.02-09.52.22:950][676]LogModuleManager: Shutting down and abandoning module MeshUtilities (204)
+[2021.02.02-09.52.22:951][676]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (203)
+[2021.02.02-09.52.22:952][676]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (202)
+[2021.02.02-09.52.22:953][676]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (201)
+[2021.02.02-09.52.22:953][676]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (199)
+[2021.02.02-09.52.22:953][676]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (197)
+[2021.02.02-09.52.22:957][676]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (195)
+[2021.02.02-09.52.22:958][676]LogModuleManager: Shutting down and abandoning module MaterialBaking (191)
+[2021.02.02-09.52.22:959][676]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (186)
+[2021.02.02-09.52.22:959][676]LogModuleManager: Shutting down and abandoning module DerivedDataCache (184)
+[2021.02.02-09.52.22:959][676]LogModuleManager: Shutting down and abandoning module XGEController (182)
+[2021.02.02-09.52.22:960][676]LogXGEController: Cleaning working directory: C:/Users/jacob/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.02.02-09.52.22:961][676]LogModuleManager: Shutting down and abandoning module TargetPlatform (180)
+[2021.02.02-09.52.22:964][676]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (179)
+[2021.02.02-09.52.22:964][676]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (177)
+[2021.02.02-09.52.22:965][676]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (175)
+[2021.02.02-09.52.22:965][676]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (173)
+[2021.02.02-09.52.22:965][676]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (171)
+[2021.02.02-09.52.22:966][676]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (169)
+[2021.02.02-09.52.22:966][676]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (167)
+[2021.02.02-09.52.22:967][676]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (165)
+[2021.02.02-09.52.22:967][676]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (163)
+[2021.02.02-09.52.22:968][676]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (161)
+[2021.02.02-09.52.22:968][676]LogModuleManager: Shutting down and abandoning module ImageWrapper (160)
+[2021.02.02-09.52.22:968][676]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (157)
+[2021.02.02-09.52.22:969][676]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (155)
+[2021.02.02-09.52.22:969][676]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (153)
+[2021.02.02-09.52.22:969][676]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (151)
+[2021.02.02-09.52.22:969][676]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (149)
+[2021.02.02-09.52.22:969][676]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (147)
+[2021.02.02-09.52.22:969][676]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (145)
+[2021.02.02-09.52.22:969][676]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (143)
+[2021.02.02-09.52.22:969][676]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (141)
+[2021.02.02-09.52.23:000][676]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (139)
+[2021.02.02-09.52.23:010][676]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (137)
+[2021.02.02-09.52.23:010][676]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (135)
+[2021.02.02-09.52.23:011][676]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (133)
+[2021.02.02-09.52.23:011][676]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (131)
+[2021.02.02-09.52.23:011][676]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (129)
+[2021.02.02-09.52.23:012][676]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (127)
+[2021.02.02-09.52.23:012][676]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2021.02.02-09.52.23:012][676]LogModuleManager: Shutting down and abandoning module Messaging (123)
+[2021.02.02-09.52.23:012][676]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (121)
+[2021.02.02-09.52.23:018][676]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (119)
+[2021.02.02-09.52.23:049][676]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (117)
+[2021.02.02-09.52.23:049][676]LogModuleManager: Shutting down and abandoning module InputCore (114)
+[2021.02.02-09.52.23:049][676]LogModuleManager: Shutting down and abandoning module Settings (112)
+[2021.02.02-09.52.23:049][676]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (110)
+[2021.02.02-09.52.23:050][676]LogModuleManager: Shutting down and abandoning module PhysXCooking (108)
+[2021.02.02-09.52.23:050][676]LogModuleManager: Shutting down and abandoning module ChaosSolvers (106)
+[2021.02.02-09.52.23:051][676]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (105)
+[2021.02.02-09.52.23:051][676]LogModuleManager: Shutting down and abandoning module Chaos (102)
+[2021.02.02-09.52.23:052][676]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (100)
+[2021.02.02-09.52.23:052][676]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (99)
+[2021.02.02-09.52.23:052][676]LogModuleManager: Shutting down and abandoning module AVEncoder (98)
+[2021.02.02-09.52.23:053][676]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (94)
+[2021.02.02-09.52.23:054][676]LogModuleManager: Shutting down and abandoning module SteamVRInput (92)
+[2021.02.02-09.52.23:054][676]LogModuleManager: Shutting down and abandoning module SteamVR (90)
+[2021.02.02-09.52.23:054][676]LogHMD: Freeing OpenVRDLLHandle.
+[2021.02.02-09.52.23:054][676]LogModuleManager: Shutting down and abandoning module OculusHMD (88)
+[2021.02.02-09.52.23:054][676]LogModuleManager: Shutting down and abandoning module OculusAudio (86)
+[2021.02.02-09.52.23:061][676]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2021.02.02-09.52.23:061][676]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2021.02.02-09.52.23:061][676]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2021.02.02-09.52.23:061][676]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2021.02.02-09.52.23:068][676]LogOnline: Oculus: Oculus Shutdown!
+[2021.02.02-09.52.23:068][676]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2021.02.02-09.52.23:070][676]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2021.02.02-09.52.23:099][676]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2021.02.02-09.52.23:099][676]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.02.02-09.52.23:099][676]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B501751B0-4E5B-B7F0-C44F-B9B57F6F4DE5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.2-13908680%2B%2B%2BUE4%2BRelease-4.25&UserID=837c8de947bf81fe7f443a8bf0de18d7%7Cf1f980fa74ef4bb4945b76b0cd7b7d5e%7C5269bd7b-9292-4d46-80b5-25b6b07aba12&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2021.02.02-09.52.23:126][676]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2021.02.02-09.52.23:137][676]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2021.02.02-09.52.23:141][676]LogModuleManager: Shutting down and abandoning module Media (61)
+[2021.02.02-09.52.23:142][676]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2021.02.02-09.52.23:142][676]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2021.02.02-09.52.23:142][676]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2021.02.02-09.52.23:142][676]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2021.02.02-09.52.23:142][676]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2021.02.02-09.52.23:143][676]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2021.02.02-09.52.23:143][676]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2021.02.02-09.52.23:144][676]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2021.02.02-09.52.23:145][676]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2021.02.02-09.52.23:145][676]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2021.02.02-09.52.23:145][676]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.02.02-09.52.23:146][676]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2021.02.02-09.52.23:147][676]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2021.02.02-09.52.23:152][676]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.02.02-09.52.23:153][676]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.02.02-09.52.23:153][676]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.02.02-09.52.23:153][676]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.02.02-09.52.23:157][676]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.02.02-09.52.23:157][676]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.02.02-09.52.23:157][676]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.02.02-09.52.23:157][676]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.02.02-09.52.23:158][676]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.02.02-09.52.23:158][676]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.02.02-09.52.23:158][676]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.02.02-09.52.23:158][676]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.02.02-09.52.23:158][676]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.02.02-09.52.23:159][676]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.02.02-09.52.23:159][676]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.02.02-09.52.23:162][676]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.02.02-09.52.23:163][676]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.02.02-09.52.23:181][676]LogD3D11RHI: Shutdown
+[2021.02.02-09.52.23:181][676]LogD3D11RHI: CleanupD3DDevice
+[2021.02.02-09.52.23:546][676]LogExit: Exiting.
+[2021.02.02-09.52.23:558][676]Log file closed, 02/02/21 04:52:23
