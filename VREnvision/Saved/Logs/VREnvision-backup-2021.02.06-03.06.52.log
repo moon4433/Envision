@@ -1,0 +1,1365 @@
+﻿Log file open, 02/05/21 19:04:59
+LogInit: Display: Running engine for game: VREnvision
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.426511
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemOculus
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusAudio
+LogPluginManager: Mounting plugin OculusAvatar
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogAudio: Display: Oculus Audio: Middleware plugins not found, assuming native UE4 AudioMixer
+LogAudio: Display: Oculus Audio: Attempting to load Oculus Spatializer DLL: ../../../Engine/Binaries/ThirdParty/Oculus/Audio/Win64/ (from ovraudio64)
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/School/Ferris/Capstone/Envision/VREnvision/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/School/Ferris/Capstone/Envision/VREnvision/Saved/Config/Windows/Engine.ini]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[r.ForwardShading:1]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/School/Ferris/Capstone/Envision/VREnvision/Saved/Config/Windows/Engine.ini]
+[2021.02.06-00.05.01:232][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/School/Ferris/Capstone/Envision/VREnvision/Saved/Config/Windows/Engine.ini]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/School/Ferris/Capstone/Envision/VREnvision/Saved/Config/Windows/Engine.ini]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.02.06-00.05.01:232][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.02.06-00.05.01:233][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.02.06-00.05.01:233][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/School/Ferris/Capstone/Envision/VREnvision/Saved/Config/Windows/Engine.ini]
+[2021.02.06-00.05.01:233][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/School/Ferris/Capstone/Envision/VREnvision/Saved/Config/Windows/Engine.ini]
+[2021.02.06-00.05.01:246][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/School/Ferris/Capstone/Envision/VREnvision/Saved/Config/Windows/Scalability.ini]
+[2021.02.06-00.05.01:246][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.06-00.05.01:246][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/School/Ferris/Capstone/Envision/VREnvision/Saved/Config/Windows/Scalability.ini]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/School/Ferris/Capstone/Envision/VREnvision/Saved/Config/Windows/Scalability.ini]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/School/Ferris/Capstone/Envision/VREnvision/Saved/Config/Windows/Scalability.ini]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/School/Ferris/Capstone/Envision/VREnvision/Saved/Config/Windows/Scalability.ini]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.06-00.05.01:247][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/School/Ferris/Capstone/Envision/VREnvision/Saved/Config/Windows/Scalability.ini]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/School/Ferris/Capstone/Envision/VREnvision/Saved/Config/Windows/Scalability.ini]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/School/Ferris/Capstone/Envision/VREnvision/Saved/Config/Windows/Scalability.ini]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.02.06-00.05.01:248][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.06-00.05.01:248][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.02.06-00.05.01:248][  0]LogHAL: Display: Platform has ~ 32 GB [34254540800 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.02.06-00.05.01:248][  0]LogInit: Going up to parent DeviceProfile []
+[2021.02.06-00.05.01:248][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/School/Ferris/Capstone/Envision/VREnvision/Saved/Config/Windows/Scalability.ini]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/School/Ferris/Capstone/Envision/VREnvision/Saved/Config/Windows/Scalability.ini]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/School/Ferris/Capstone/Envision/VREnvision/Saved/Config/Windows/Scalability.ini]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.02.06-00.05.01:248][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/School/Ferris/Capstone/Envision/VREnvision/Saved/Config/Windows/Scalability.ini]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/School/Ferris/Capstone/Envision/VREnvision/Saved/Config/Windows/Scalability.ini]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/School/Ferris/Capstone/Envision/VREnvision/Saved/Config/Windows/Scalability.ini]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.02.06-00.05.01:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.02.06-00.05.01:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.02.06-00.05.01:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.02.06-00.05.01:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.02.06-00.05.01:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.02.06-00.05.01:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.02.06-00.05.01:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.02.06-00.05.01:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.02.06-00.05.01:250][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/School/Ferris/Capstone/Envision/VREnvision/Saved/Config/Windows/Scalability.ini]
+[2021.02.06-00.05.01:250][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.06-00.05.01:250][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.06-00.05.01:250][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/School/Ferris/Capstone/Envision/VREnvision/Saved/Config/Windows/Scalability.ini]
+[2021.02.06-00.05.01:250][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.02.06-00.05.01:250][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.02.06-00.05.01:250][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.02.06-00.05.01:250][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.02.06-00.05.01:250][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.02.06-00.05.01:250][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.02.06-00.05.01:250][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.02.06-00.05.01:250][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.02.06-00.05.01:250][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.02.06-00.05.01:250][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.02.06-00.05.01:250][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.02.06-00.05.01:250][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/School/Ferris/Capstone/Envision/VREnvision/Saved/Config/Windows/Engine.ini]
+[2021.02.06-00.05.01:250][  0]LogInit: Computer: DESKTOP-39QA269
+[2021.02.06-00.05.01:250][  0]LogInit: User: Moon4433
+[2021.02.06-00.05.01:250][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.02.06-00.05.01:250][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.02.06-00.05.01:250][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.02.06-00.05.01:250][  0]LogMemory: Platform Memory Stats for Windows
+[2021.02.06-00.05.01:250][  0]LogMemory: Process Physical Memory: 124.67 MB used, 124.68 MB peak
+[2021.02.06-00.05.01:250][  0]LogMemory: Process Virtual Memory: 115.48 MB used, 115.48 MB peak
+[2021.02.06-00.05.01:251][  0]LogMemory: Physical Memory: 11094.64 MB used,  21573.04 MB free, 32667.68 MB total
+[2021.02.06-00.05.01:251][  0]LogMemory: Virtual Memory: 5214.12 MB used,  134212512.00 MB free, 134217728.00 MB total
+[2021.02.06-00.05.01:260][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.02.06-00.05.01:413][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.02.06-00.05.01:414][  0]LogInit: Using OS detected language (en-US).
+[2021.02.06-00.05.01:414][  0]LogInit: Using OS detected locale (en-US).
+[2021.02.06-00.05.01:416][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.02.06-00.05.01:675][  0]LogInit: Setting process to per monitor DPI aware
+[2021.02.06-00.05.01:725][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.02.06-00.05.01:725][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.02.06-00.05.01:928][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.02.06-00.05.01:928][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.02.06-00.05.01:928][  0]LogD3D11RHI: D3D11 adapters:
+[2021.02.06-00.05.02:070][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2021.02.06-00.05.02:070][  0]LogD3D11RHI:       6052/0/16333 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2021.02.06-00.05.02:074][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.02.06-00.05.02:074][  0]LogD3D11RHI:       0/0/16333 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.02.06-00.05.02:074][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.02.06-00.05.02:084][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.02.06-00.05.02:084][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2021.02.06-00.05.02:084][  0]LogWindows: EnumDisplayDevices:
+[2021.02.06-00.05.02:084][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2021.02.06-00.05.02:085][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2021.02.06-00.05.02:085][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2021.02.06-00.05.02:086][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.02.06-00.05.02:087][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.02.06-00.05.02:087][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2021.02.06-00.05.02:087][  0]LogD3D11RHI:   Driver Version: 460.89 (internal:27.21.14.6089, unified:460.89)
+[2021.02.06-00.05.02:087][  0]LogD3D11RHI:      Driver Date: 12-11-2020
+[2021.02.06-00.05.02:087][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2021.02.06-00.05.02:184][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.02.06-00.05.02:184][  0]LogD3D11RHI: Async texture creation enabled
+[2021.02.06-00.05.02:184][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.02.06-00.05.02:244][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.02.06-00.05.03:146][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.02.06-00.05.03:170][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.02.06-00.05.03:170][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.02.06-00.05.03:170][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.02.06-00.05.03:170][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.02.06-00.05.03:170][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.02.06-00.05.03:170][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.02.06-00.05.03:170][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.02.06-00.05.03:170][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.02.06-00.05.03:170][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.02.06-00.05.03:170][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.02.06-00.05.03:195][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.02.06-00.05.03:195][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.02.06-00.05.03:206][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.02.06-00.05.03:216][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.02.06-00.05.03:227][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.02.06-00.05.03:237][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.02.06-00.05.03:247][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.02.06-00.05.03:257][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.02.06-00.05.03:268][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.02.06-00.05.03:297][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.02.06-00.05.03:297][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.02.06-00.05.03:315][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.02.06-00.05.03:315][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.02.06-00.05.03:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.02.06-00.05.03:336][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.02.06-00.05.03:346][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.02.06-00.05.03:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.02.06-00.05.03:358][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.02.06-00.05.03:370][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.02.06-00.05.03:435][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (../../../../School/Ferris/Capstone/Envision/VREnvision/Intermediate/Shaders/WorkingDirectory/10256/).
+[2021.02.06-00.05.03:435][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Moon4433/AppData/Local/Temp/UnrealShaderWorkingDir/3FBFA69B441B12AAB0339C9CEF46E1EF/'.
+[2021.02.06-00.05.03:436][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.02.06-00.05.03:436][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.02.06-00.05.03:436][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.02.06-00.05.04:303][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.02.06-00.05.04:408][  0]LogDerivedDataCache: Loaded boot cache 0.11s 111MB C:/Users/Moon4433/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.02.06-00.05.04:408][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Moon4433/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.02.06-00.05.04:408][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../School/Ferris/Capstone/Envision/VREnvision/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.02.06-00.05.04:408][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.02.06-00.05.04:408][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../School/Ferris/Capstone/Envision/VREnvision/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.06-00.05.04:408][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.02.06-00.05.04:420][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.02.06-00.05.04:420][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.06-00.05.04:420][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.02.06-00.05.04:422][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Moon4433/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.02.06-00.05.04:422][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.02.06-00.05.04:422][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.02.06-00.05.04:488][  0]LogSlate: Using FreeType 2.10.0
+[2021.02.06-00.05.04:489][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.02.06-00.05.04:519][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2021.02.06-00.05.04:847][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.06-00.05.04:982][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.02.06-00.05.04:982][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.02.06-00.05.04:982][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.02.06-00.05.04:982][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.02.06-00.05.04:982][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.02.06-00.05.05:011][  0]LogNetVersion: VREnvision 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 1551130514)
+[2021.02.06-00.05.05:804][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001DA7DCE0240), frame # 0
+[2021.02.06-00.05.05:804][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DA7DC0BD80), frame # 0
+[2021.02.06-00.05.05:805][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DA7DC0FC00), frame # 0
+[2021.02.06-00.05.06:512][  0]LogPackageLocalizationCache: Processed 21 localized package path(s) for 1 prioritized culture(s) in 0.679207 seconds
+[2021.02.06-00.05.06:517][  0]LogUObjectArray: 15940 objects as part of root set at end of initial load.
+[2021.02.06-00.05.06:517][  0]LogUObjectAllocator: 3973552 out of 0 bytes used by permanent object pool.
+[2021.02.06-00.05.06:517][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.02.06-00.05.06:926][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.02.06-00.05.06:931][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.02.06-00.05.06:985][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2021.02.06-00.05.06:985][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2021.02.06-00.05.06:985][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2021.02.06-00.05.07:021][  0]SourceControl: Source control is disabled
+[2021.02.06-00.05.07:021][  0]SourceControl: Source control is disabled
+[2021.02.06-00.05.07:024][  0]SourceControl: Source control is disabled
+[2021.02.06-00.05.07:027][  0]SourceControl: Source control is disabled
+[2021.02.06-00.05.07:036][  0]SourceControl: Source control is disabled
+[2021.02.06-00.05.07:568][  0]LogOnline: Oculus: Oculus Startup!
+[2021.02.06-00.05.07:572][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.02.06-00.05.07:593][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.02.06-00.05.07:593][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.02.06-00.05.07:864][  0]LogAvatars: Display: UOvrAvatarManager::InitializeSDK()
+[2021.02.06-00.05.07:991][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/Oculus/OculusAvatar/Content/Materials/AvatarsPBR_2/OculusAvatars_PBRV2_Mobile.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.02.06-00.05.08:182][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/Oculus/OculusAvatar/Content/Materials/AvatarsPBR_2/AvatarLighting.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.02.06-00.05.08:209][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/Oculus/OculusAvatar/Content/Materials/AvatarsPBR_2/Functions/DistributionGGX.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.02.06-00.05.08:251][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/Oculus/OculusAvatar/Content/Materials/AvatarsPBR_2/Functions/GeometryGGXPartial.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.02.06-00.05.08:278][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/Oculus/OculusAvatar/Content/Materials/AvatarsPBR_2/Functions/SchlickFresnel.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.02.06-00.05.08:308][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/Oculus/OculusAvatar/Content/Materials/AvatarsPBR_2/Assets/fallbackAlbedo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.02.06-00.05.08:420][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/Oculus/OculusAvatar/Content/Materials/AvatarsPBR_2/Assets/fallbackNormal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.02.06-00.05.08:445][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/Oculus/OculusAvatar/Content/Materials/AvatarsPBR_2/Assets/fallbackRoughness.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.02.06-00.05.08:506][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/Oculus/OculusAvatar/Content/Materials/AvatarsPBR_2/OculusAvatars_PBRV2_Mobile_Combined.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.02.06-00.05.08:522][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/Oculus/OculusAvatar/Content/Materials/AvatarsPBR_2/Functions/ComputeCombinedMeshColor.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.02.06-00.05.08:797][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/Oculus/OculusAvatar/Content/Materials/AvatarsPBR_2/OculusAvatars_PBRV2_Exp_Opaque_Body_Mobile.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.02.06-00.05.08:839][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/Oculus/OculusAvatar/Content/Materials/AvatarsPBR_2/Functions/CombineMasks.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.02.06-00.05.08:878][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/Oculus/OculusAvatar/Content/Materials/AvatarsPBR_2/Functions/ComputeMask.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.02.06-00.05.09:005][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/Oculus/OculusAvatar/Content/Materials/AvatarsPBR_2/OculusAvatars_PBRV2_Exp_Opaque_Simple_Mobile.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.02.06-00.05.09:085][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/Oculus/OculusAvatar/Content/Materials/AvatarsPBR_2/OculusAvatars_PBRV2_Combined_Exp_Opaque_Mobile.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.02.06-00.05.09:119][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/Oculus/OculusAvatar/Content/Materials/AvatarsPBR_2/OculusAvatars_PBRV2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.02.06-00.05.09:150][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/Oculus/OculusAvatar/Content/Materials/AvatarsPBR_2/OculusAvatars_PBRV2_Combined.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.02.06-00.05.09:268][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/Oculus/OculusAvatar/Content/Materials/AvatarsPBR_2/OculusAvatars_PBRV2_Exp_Masked_Body.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.02.06-00.05.09:333][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/Oculus/OculusAvatar/Content/Materials/AvatarsPBR_2/Functions/DitherAlphaToOpacityMask.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.02.06-00.05.09:358][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/Oculus/OculusAvatar/Content/Materials/AvatarsPBR_2/Functions/LDR_LLL1_0.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.02.06-00.05.09:385][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/Oculus/OculusAvatar/Content/Materials/AvatarsPBR_2/OculusAvatars_PBRV2_Exp_Alpha_Body.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.02.06-00.05.09:535][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/Oculus/OculusAvatar/Content/Materials/AvatarsPBR_2/OculusAvatars_PBRV2_Exp_Opaque_Body.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.02.06-00.05.09:560][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/Oculus/OculusAvatar/Content/Materials/AvatarsPBR_2/OculusAvatars_PBRV2_Exp_Alpha_Simple.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.02.06-00.05.09:585][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/Oculus/OculusAvatar/Content/Materials/AvatarsPBR_2/OculusAvatars_PBRV2_Exp_Masked_Simple.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.02.06-00.05.09:613][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/Oculus/OculusAvatar/Content/Materials/AvatarsPBR_2/OculusAvatars_PBRV2_Exp_Opaque_Simple.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.02.06-00.05.09:648][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/Oculus/OculusAvatar/Content/Materials/AvatarsPBR_2/OculusAvatars_PBRV2_Combined_Exp_Masked.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.02.06-00.05.09:707][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/Oculus/OculusAvatar/Content/Materials/AvatarsPBR_2/OculusAvatars_PBRV2_Combined_Exp_Opaque.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.02.06-00.05.09:903][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/Oculus/OculusAvatar/Content/Materials/AvatarsPBR_2/OculusAvatars_PBRV2_Combined_Exp_Alpha.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.02.06-00.05.09:977][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/Oculus/OculusAvatar/Content/Materials/AvatarsPBR_2/OculusAvatars_PBRV2_EyeShell.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.02.06-00.05.10:000][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/Oculus/OculusAvatar/Content/Materials/AvatarsPBR_2/OculusAvatars_PBRV2_ExpressiveController.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.02.06-00.05.13:867][  0]LogAvatars: Display: Oculus Avatars No App Id Found: SHUTTING DOWN Oculus Avatars No App Id Found: SHUTTING DOWN %s
+[2021.02.06-00.05.13:898][  0]LogOcInput: OculusInput pre-init called
+[2021.02.06-00.05.14:206][  0]LogEngine: Initializing Engine...
+[2021.02.06-00.05.14:538][  0]LogHMD: Oculus plugin initialized. Version: 4.25.4-14469661+++UE4+Release-4.25, OVRPlugin: 1.44.0
+[2021.02.06-00.05.14:585][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.02.06-00.05.14:767][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.02.06-00.05.14:774][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.02.06-00.05.14:774][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DA0E82FC00), frame # 0
+[2021.02.06-00.05.14:774][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DA0E8760C0), frame # 0
+[2021.02.06-00.05.14:798][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.06-00.05.14:798][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.06-00.05.14:798][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.06-00.05.14:798][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.06-00.05.14:798][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.06-00.05.14:798][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.06-00.05.14:798][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.06-00.05.14:798][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.06-00.05.14:831][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.06-00.05.14:831][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.06-00.05.14:868][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-00.05.14:868][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-00.05.14:952][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.02.06-00.05.14:958][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.06-00.05.14:960][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.06-00.05.14:960][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.06-00.05.14:961][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.06-00.05.14:962][  0]LogInit: FAudioDevice initialized.
+[2021.02.06-00.05.14:962][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.02.06-00.05.15:063][  0]LogDerivedDataCache: Saved boot cache 0.10s 111MB C:/Users/Moon4433/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.02.06-00.05.15:068][  0]LogInit: Texture streaming: Enabled
+[2021.02.06-00.05.15:086][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.02.06-00.05.15:086][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.02.06-00.05.15:095][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.02.06-00.05.15:486][  0]LogInit: Transaction tracking system initialized
+[2021.02.06-00.05.15:537][  0]BlueprintLog: New page: Editor Load
+[2021.02.06-00.05.15:637][  0]LocalizationService: Localization service is disabled
+[2021.02.06-00.05.19:846][  0]LogFileCache: Scanning file cache for directory 'D:/School/Ferris/Capstone/Envision/VREnvision/Content/' took 1.12s
+[2021.02.06-00.05.19:846][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.02.06-00.05.19:846][  0]LogCook: Display: Mobile HDR setting 1
+[2021.02.06-00.05.21:374][  0]SourceControl: Source control is disabled
+[2021.02.06-00.05.21:374][  0]LogUnrealEdMisc: Loading editor; pre map load, took 24.379
+[2021.02.06-00.05.21:374][  0]Cmd: MAP LOAD FILE="../../../../School/Ferris/Capstone/Envision/VREnvision/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.06-00.05.21:911][  0]LightingResults: New page: Lighting Build
+[2021.02.06-00.05.21:912][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.02.06-00.05.21:912][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.06-00.05.21:912][  0]MapCheck: New page: Map Check
+[2021.02.06-00.05.21:912][  0]LightingResults: New page: Lighting Build
+[2021.02.06-00.05.21:960][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DA0E82FC00), frame # 0
+[2021.02.06-00.05.21:960][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DA0E8760C0), frame # 0
+[2021.02.06-00.05.21:961][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.02.06-00.05.23:673][  0]LogAIModule: Creating AISystem for world StartupMap
+[2021.02.06-00.05.23:673][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DA0ED12600), frame # 0
+[2021.02.06-00.05.23:673][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DA7B3F8A40), frame # 0
+[2021.02.06-00.05.23:860][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.06-00.05.23:873][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.02.06-00.05.23:874][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.06-00.05.23:874][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.102ms to complete.
+[2021.02.06-00.05.23:874][  0]LogFileHelpers: Loading map 'StartupMap' took 2.499
+[2021.02.06-00.05.24:012][  0]LogUnrealEdMisc: Total Editor Startup Time, took 27.017
+[2021.02.06-00.05.26:260][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.06-00.05.26:285][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.06-00.05.26:292][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.06-00.05.26:300][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.06-00.05.26:531][  0]LogCollectionManager: Loaded 0 collections in 0.001430 seconds
+[2021.02.06-00.05.27:056][  0]LogFileCache: Scanning file cache for directory 'D:/School/Ferris/Capstone/Envision/VREnvision/Saved/Collections/' took 0.00s
+[2021.02.06-00.05.27:056][  0]LogFileCache: Scanning file cache for directory 'D:/School/Ferris/Capstone/Envision/VREnvision/Content/Developers/Moon4433/Collections/' took 0.00s
+[2021.02.06-00.05.27:056][  0]LogFileCache: Scanning file cache for directory 'D:/School/Ferris/Capstone/Envision/VREnvision/Content/Collections/' took 0.00s
+[2021.02.06-00.05.27:056][  0]LogContentBrowser: Native class hierarchy populated in 0.0105 seconds. Added 3447 classes and 833 folders.
+[2021.02.06-00.05.27:470][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.02.06-00.05.30:193][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.02.06-00.05.30:342][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2021.02.06-00.05.31:333][  0]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.02.06-00.05.31:481][  0]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.02.06-00.05.31:502][  0]LogSlate: Took 0.017361 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.02.06-00.05.32:211][  0]LogRenderer: Reallocating scene render targets to support 1532x600 Format 26 NumSamples 1 (Frame:1).
+[2021.02.06-00.05.33:054][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.02.06-00.05.33:054][  0]LogLoad: (Engine Initialization) Total time: 36.06 seconds
+[2021.02.06-00.05.33:054][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.02.06-00.05.33:081][  0]LogOcInput: OculusInput is initialized
+[2021.02.06-00.05.33:221][  0]LogAssetRegistry: Asset discovery search completed in 28.7033 seconds
+[2021.02.06-00.05.33:226][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.02.06-00.05.33:330][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.02.06-00.05.33:732][  0]LogSlate: Took 0.016250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.06-00.05.34:619][  3]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.06-00.05.53:865][587]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap
+[2021.02.06-00.05.53:896][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.02.06-00.05.53:909][587]Cmd: MAP LOAD FILE="../../../../School/Ferris/Capstone/Envision/VREnvision/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.06-00.05.53:909][587]LightingResults: New page: Lighting Build
+[2021.02.06-00.05.53:909][587]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2021.02.06-00.05.53:916][587]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.06-00.05.53:917][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.06-00.05.53:917][587]MapCheck: New page: Map Check
+[2021.02.06-00.05.53:917][587]LightingResults: New page: Lighting Build
+[2021.02.06-00.05.53:934][587]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DA0ED12600), frame # 587
+[2021.02.06-00.05.53:934][587]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DA7B3F8A40), frame # 587
+[2021.02.06-00.05.53:935][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.02.06-00.05.54:226][587]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.06-00.05.54:226][587]LogAIModule: Creating AISystem for world MotionControllerMap
+[2021.02.06-00.05.54:227][587]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DA2D4DE000), frame # 587
+[2021.02.06-00.05.54:227][587]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DA1A306980), frame # 587
+[2021.02.06-00.05.54:299][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.02.06-00.05.54:341][587]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.06-00.05.54:341][587]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.109ms to complete.
+[2021.02.06-00.05.54:341][587]LogFileHelpers: Loading map 'MotionControllerMap' took 0.431
+[2021.02.06-01.50.03:053][361]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Testing/ObjectHUD/ObjectTest.ObjectTest
+[2021.02.06-01.50.04:056][361]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 125 classes and 0 folders.
+[2021.02.06-01.50.06:167][361]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.02.06-01.50.06:719][362]LogSlate: Took 0.016904 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.02.06-01.50.17:902][201]LogSlate: Window 'Delete Variable' being destroyed
+[2021.02.06-01.50.20:691][314]LogSlate: Window 'Delete Variable' being destroyed
+[2021.02.06-01.50.21:462][357]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.02.06-01.50.21:852][357]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2021.02.06-01.50.21:854][357]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2021.02.06-01.50.25:206][357]LogSlate: Window 'Delete Assets' being destroyed
+[2021.02.06-01.50.28:394][572]LogSlate: Window 'Delete Variable' being destroyed
+[2021.02.06-01.50.29:626][696]BlueprintLog: New page: Compile ObjectTest
+[2021.02.06-01.50.29:807][696]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.02.06-01.50.29:960][696]LogSlate: Took 0.046493 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.02.06-01.50.52:510][284]LogSlate: Took 0.019267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.02.06-01.51.15:110][721]BlueprintLog: New page: Compile ObjectTest
+[2021.02.06-01.51.15:180][721]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.02.06-01.52.43:335][891]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.02.06-01.52.43:492][892]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.02.06-01.52.43:493][892]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.02.06-01.52.43:493][892]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.02.06-01.52.43:493][892]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.02.06-01.52.43:500][892]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2021.02.06-01.52.43:558][894]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2021.02.06-01.52.43:575][895]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2021.02.06-01.52.43:594][896]LogMaterial: Display: Missing cached shader map for material Material_4, compiling. 
+[2021.02.06-01.52.43:610][897]LogMaterial: Display: Missing cached shader map for material Material_5, compiling. 
+[2021.02.06-01.52.43:740][899]LogMaterial: Display: Missing cached shader map for material Material_6, compiling. 
+[2021.02.06-01.52.43:871][902]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 24
+[2021.02.06-01.52.43:871][902]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 20
+[2021.02.06-01.52.43:871][902]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2021.02.06-01.52.43:871][902]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2021.02.06-01.52.44:132][905]LogMaterial: Display: Missing cached shader map for material Material_7, compiling. 
+[2021.02.06-01.52.44:382][909]LogMaterial: Display: Missing cached shader map for material Material_8, compiling. 
+[2021.02.06-01.52.46:242][ 40]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2021.02.06-01.52.46:366][ 47]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2021.02.06-01.52.46:623][ 62]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2021.02.06-01.52.46:677][ 65]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2021.02.06-01.52.47:418][ 98]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.02.06-01.52.47:557][106]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2021.02.06-01.52.47:643][109]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.02.06-01.52.47:778][109]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2021.02.06-01.52.47:829][112]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.02.06-01.52.48:058][124]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.02.06-01.52.48:058][124]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.02.06-01.53.45:572][634]LogMaterial: Display: Missing cached shader map for material PersonaSky, compiling. 
+[2021.02.06-01.53.45:660][634]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2021.02.06-01.53.45:660][634]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2021.02.06-01.53.45:660][634]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2021.02.06-01.53.45:660][634]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.02.06-01.53.45:660][634]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.02.06-01.53.45:660][634]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.02.06-01.55.43:389][628]BlueprintLog: New page: Compile ObjectTest
+[2021.02.06-01.55.43:495][628]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2021.02.06-01.57.55:394][847]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.02.06-01.57.55:879][847]LogSavePackage: Moving '../../../../School/Ferris/Capstone/Envision/VREnvision/Saved/MotionControllerMap_Auto1F67511E4409B66B1BF62208D8E550941.tmp' to '../../../../School/Ferris/Capstone/Envision/VREnvision/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto1.umap'
+[2021.02.06-01.57.55:974][847]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.607
+[2021.02.06-01.57.55:974][847]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.607
+[2021.02.06-01.57.55:977][847]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Testing/ObjectHUD/ObjectTest] ([1] browsable assets)...
+[2021.02.06-01.57.56:020][847]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Testing/ObjectHUD/ObjectTest.ObjectTest]
+[2021.02.06-01.57.56:021][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Testing/ObjectHUD/ObjectTest]
+[2021.02.06-01.57.56:134][847]LogSavePackage: Moving '../../../../School/Ferris/Capstone/Envision/VREnvision/Saved/ObjectTest_Auto139BDC9454A5E8A4CBB8078844CC29394.tmp' to '../../../../School/Ferris/Capstone/Envision/VREnvision/Saved/Autosaves/Game/VirtualRealityBP/Testing/ObjectHUD/ObjectTest_Auto1.uasset'
+[2021.02.06-01.57.56:151][847]LogFileHelpers: Auto-saving content packages took 0.177
+[2021.02.06-02.01.43:554][760]LogEditorTransaction: Undo Create Pin Link
+[2021.02.06-02.03.00:568][970]LogSlate: Window 'Delete Variable' being destroyed
+[2021.02.06-02.06.17:766][868]BlueprintLog: New page: Compile ObjectTest
+[2021.02.06-02.06.17:907][868]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2021.02.06-02.07.45:954][136]BlueprintLog: New page: Compile ObjectTest
+[2021.02.06-02.07.46:042][136]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.02.06-02.08.13:385][613]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2021.02.06-02.08.13:525][613]LogSavePackage: Moving '../../../../School/Ferris/Capstone/Envision/VREnvision/Saved/MotionControllerMap_Auto293AE167648E2557875C8AAA85C7F3932.tmp' to '../../../../School/Ferris/Capstone/Envision/VREnvision/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto2.umap'
+[2021.02.06-02.08.13:529][613]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.178
+[2021.02.06-02.08.13:529][613]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.178
+[2021.02.06-02.08.13:529][613]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Testing/ObjectHUD/ObjectTest] ([1] browsable assets)...
+[2021.02.06-02.08.13:543][613]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Testing/ObjectHUD/ObjectTest.ObjectTest]
+[2021.02.06-02.08.13:543][613]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Testing/ObjectHUD/ObjectTest]
+[2021.02.06-02.08.13:641][613]LogSavePackage: Moving '../../../../School/Ferris/Capstone/Envision/VREnvision/Saved/ObjectTest_Auto295EF8FAB448A937EA8793E8DE24C8E11.tmp' to '../../../../School/Ferris/Capstone/Envision/VREnvision/Saved/Autosaves/Game/VirtualRealityBP/Testing/ObjectHUD/ObjectTest_Auto2.uasset'
+[2021.02.06-02.08.13:643][613]LogFileHelpers: Auto-saving content packages took 0.114
+[2021.02.06-02.08.33:271][287]LogTemp: Repeating last play command: VR Preview
+[2021.02.06-02.08.33:394][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.06-02.08.33:394][287]LogHMD: Initializing OVRPlugin session
+[2021.02.06-02.08.33:817][287]LogHMD: Allocating Oculus 4128 x 2272 rendertarget swapchain
+[2021.02.06-02.08.33:844][287]PIE: New page: PIE session: MotionControllerMap (Feb 5, 2021, 4:08:33 PM)
+[2021.02.06-02.08.33:872][287]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.02.06-02.08.33:874][287]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.02.06-02.08.34:000][287]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.02.06-02.08.34:050][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050145s)
+[2021.02.06-02.08.34:068][287]LogAIModule: Creating AISystem for world MotionControllerMap
+[2021.02.06-02.08.34:068][287]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DAA455D200), frame # 260287
+[2021.02.06-02.08.34:068][287]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DA9F1674C0), frame # 260287
+[2021.02.06-02.08.34:068][287]LogPlayLevel: PIE: World Init took: (0.017751s)
+[2021.02.06-02.08.34:069][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.069115s)
+[2021.02.06-02.08.34:094][287]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.02.06-02.08.34:097][287]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.06-02.08.34:097][287]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.06-02.08.34:097][287]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.06-02.08.34:097][287]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.06-02.08.34:097][287]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.06-02.08.34:097][287]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.06-02.08.34:097][287]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.06-02.08.34:097][287]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.06-02.08.34:097][287]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.06-02.08.34:097][287]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.06-02.08.34:108][287]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-02.08.34:108][287]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-02.08.34:108][287]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.06-02.08.34:108][287]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.06-02.08.34:108][287]LogAudioMixer: Display: 4: BackLeft
+[2021.02.06-02.08.34:108][287]LogAudioMixer: Display: 5: BackRight
+[2021.02.06-02.08.34:108][287]LogAudioMixer: Display: 6: SideLeft
+[2021.02.06-02.08.34:108][287]LogAudioMixer: Display: 7: SideRight
+[2021.02.06-02.08.34:115][287]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-02.08.34:115][287]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-02.08.34:120][287]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-02.08.34:120][287]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-02.08.34:127][287]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-02.08.34:127][287]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-02.08.34:192][287]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2021.02.06-02.08.34:193][287]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.06-02.08.34:193][287]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.06-02.08.34:193][287]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.06-02.08.34:193][287]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.06-02.08.34:206][287]LogInit: FAudioDevice initialized.
+[2021.02.06-02.08.34:254][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.06-02.08.34:369][287]LogLoad: Game class is 'GameModeBase'
+[2021.02.06-02.08.34:593][287]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2021.02.05-21.08.34
+[2021.02.06-02.08.34:650][287]LogWorld: Bringing up level for play took: 0.084609
+[2021.02.06-02.08.34:670][287]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.02.06-02.08.34:816][287]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.02.06-02.08.35:195][287]PIE: Server logged in
+[2021.02.06-02.08.35:212][287]PIE: Play in editor total start time 1.914 seconds.
+[2021.02.06-02.08.35:244][287]LogEngine: Changing dynamic resolution state.
+[2021.02.06-02.08.35:637][287]LogRenderer: Warning: Resizing VR buffer to 4128 by 2272
+[2021.02.06-02.08.35:637][287]LogRenderer: Reallocating scene render targets to support 4128x2272 Format 26 NumSamples 1 (Frame:1).
+[2021.02.06-02.08.35:637][287]LogHMD: Allocating Oculus 4128 x 2272 depth rendertarget swapchain
+[2021.02.06-02.08.36:052][290]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.02.06-02.09.02:365][130]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	ObjectTest_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.ObjectTest_2
+	Function /Game/VirtualRealityBP/Testing/ObjectHUD/ObjectTest.ObjectTest_C:MAT01:018A
+[2021.02.06-02.09.02:391][130]PIE: Error: Infinite loop detected. Blueprint:  ObjectTest Function:  Branch Call Stack:  Show
+[2021.02.06-02.09.02:591][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.06-02.09.02:591][130]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.02.06-02.09.02:686][130]LogSlate: Window 'VREnvision Preview [NetMode: Standalone] (64-bit/Windows) OculusHMD' being destroyed
+[2021.02.06-02.09.02:872][130]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.06-02.09.02:873][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.06-02.09.02:878][130]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.06-02.09.02:964][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.06-02.09.03:056][130]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DA9F1674C0), frame # 262130
+[2021.02.06-02.09.03:056][130]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DAA455D200), frame # 262130
+[2021.02.06-02.09.03:061][130]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2021.02.06-02.09.03:268][131]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.02.06-02.09.03:290][131]LogEngine: Changing dynamic resolution state.
+[2021.02.06-02.09.10:493][710]LogSlate: Window 'Message Log' being destroyed
+[2021.02.06-02.09.10:502][710]LogSlate: Window 'Message Log' being destroyed
+[2021.02.06-02.09.53:980][887]LogTemp: Repeating last play command: VR Preview
+[2021.02.06-02.09.54:004][887]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.02.06-02.09.54:015][887]LogPlayLevel: [PlayLevel] Compiling ObjectTest before play...
+[2021.02.06-02.09.54:160][887]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2021.02.06-02.09.54:164][887]LogPlayLevel: PlayLevel: Blueprint regeneration took 160 ms (1 blueprints)
+[2021.02.06-02.09.54:164][887]LogHMD: Initializing OVRPlugin session
+[2021.02.06-02.09.54:350][887]LogHMD: Allocating Oculus 4128 x 2272 rendertarget swapchain
+[2021.02.06-02.09.54:351][887]PIE: New page: PIE session: MotionControllerMap (Feb 5, 2021, 4:09:54 PM)
+[2021.02.06-02.09.54:351][887]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.02.06-02.09.54:369][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017634s)
+[2021.02.06-02.09.54:369][887]LogAIModule: Creating AISystem for world MotionControllerMap
+[2021.02.06-02.09.54:370][887]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DAAC383400), frame # 264887
+[2021.02.06-02.09.54:370][887]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DA8FCA6E80), frame # 264887
+[2021.02.06-02.09.54:370][887]LogPlayLevel: PIE: World Init took: (0.001131s)
+[2021.02.06-02.09.54:370][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.018899s)
+[2021.02.06-02.09.54:401][887]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.02.06-02.09.54:402][887]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.06-02.09.54:402][887]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.06-02.09.54:402][887]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.06-02.09.54:402][887]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.06-02.09.54:402][887]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.06-02.09.54:402][887]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.06-02.09.54:402][887]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.06-02.09.54:402][887]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.06-02.09.54:402][887]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.06-02.09.54:402][887]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.06-02.09.54:411][887]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-02.09.54:411][887]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-02.09.54:411][887]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.06-02.09.54:411][887]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.06-02.09.54:411][887]LogAudioMixer: Display: 4: BackLeft
+[2021.02.06-02.09.54:411][887]LogAudioMixer: Display: 5: BackRight
+[2021.02.06-02.09.54:411][887]LogAudioMixer: Display: 6: SideLeft
+[2021.02.06-02.09.54:411][887]LogAudioMixer: Display: 7: SideRight
+[2021.02.06-02.09.54:415][887]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-02.09.54:415][887]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-02.09.54:419][887]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-02.09.54:419][887]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-02.09.54:426][887]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-02.09.54:426][887]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-02.09.54:494][887]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2021.02.06-02.09.54:494][887]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.06-02.09.54:494][887]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.06-02.09.54:494][887]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.06-02.09.54:495][887]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.06-02.09.54:507][887]LogInit: FAudioDevice initialized.
+[2021.02.06-02.09.54:522][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.06-02.09.54:616][887]LogLoad: Game class is 'GameModeBase'
+[2021.02.06-02.09.54:619][887]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2021.02.05-21.09.54
+[2021.02.06-02.09.54:619][887]LogWorld: Bringing up level for play took: 0.002756
+[2021.02.06-02.09.54:619][887]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.02.06-02.09.54:630][887]PIE: Server logged in
+[2021.02.06-02.09.54:632][887]PIE: Play in editor total start time 0.63 seconds.
+[2021.02.06-02.09.54:632][887]LogEngine: Changing dynamic resolution state.
+[2021.02.06-02.09.54:674][887]LogHMD: Allocating Oculus 4128 x 2272 depth rendertarget swapchain
+[2021.02.06-02.09.54:723][890]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.02.06-02.10.48:487][684]Cmd: fawfwa
+[2021.02.06-02.10.48:808][684]Command not recognized: fawfwa
+[2021.02.06-02.10.50:731][822]Set new viewmode: Wireframe
+[2021.02.06-02.10.51:941][892]Set new viewmode: Wireframe
+[2021.02.06-02.10.52:678][945]Set new viewmode: Unlit
+[2021.02.06-02.10.53:572][  9]Set new viewmode: Lit
+[2021.02.06-02.10.54:720][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.06-02.10.54:720][ 82]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.02.06-02.10.54:829][ 82]LogSlate: Window 'VREnvision Preview [NetMode: Standalone] (64-bit/Windows) OculusHMD' being destroyed
+[2021.02.06-02.10.54:864][ 82]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.06-02.10.54:865][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.06-02.10.54:876][ 82]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.06-02.10.54:881][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.06-02.10.54:933][ 82]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DA8FCA6E80), frame # 269082
+[2021.02.06-02.10.54:933][ 82]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DAAC383400), frame # 269082
+[2021.02.06-02.10.54:945][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.02.06-02.10.54:991][ 83]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.02.06-02.10.55:020][ 83]LogEngine: Changing dynamic resolution state.
+[2021.02.06-02.12.12:688][941]BlueprintLog: New page: Compile ObjectTest
+[2021.02.06-02.12.12:787][941]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2021.02.06-02.12.19:161][313]LogTemp: Repeating last play command: VR Preview
+[2021.02.06-02.12.19:182][313]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.06-02.12.19:182][313]LogHMD: Initializing OVRPlugin session
+[2021.02.06-02.12.19:370][313]LogHMD: Allocating Oculus 4128 x 2272 rendertarget swapchain
+[2021.02.06-02.12.19:371][313]PIE: New page: PIE session: MotionControllerMap (Feb 5, 2021, 4:12:19 PM)
+[2021.02.06-02.12.19:371][313]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.02.06-02.12.19:388][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016808s)
+[2021.02.06-02.12.19:389][313]LogAIModule: Creating AISystem for world MotionControllerMap
+[2021.02.06-02.12.19:389][313]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DA3247E400), frame # 274313
+[2021.02.06-02.12.19:389][313]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DAA5086340), frame # 274313
+[2021.02.06-02.12.19:390][313]LogPlayLevel: PIE: World Init took: (0.001493s)
+[2021.02.06-02.12.19:390][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.018528s)
+[2021.02.06-02.12.19:424][313]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2021.02.06-02.12.19:426][313]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.06-02.12.19:426][313]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.06-02.12.19:426][313]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.06-02.12.19:426][313]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.06-02.12.19:426][313]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.06-02.12.19:426][313]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.06-02.12.19:426][313]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.06-02.12.19:426][313]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.06-02.12.19:427][313]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.06-02.12.19:427][313]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.06-02.12.19:434][313]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-02.12.19:434][313]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-02.12.19:434][313]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.06-02.12.19:434][313]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.06-02.12.19:434][313]LogAudioMixer: Display: 4: BackLeft
+[2021.02.06-02.12.19:434][313]LogAudioMixer: Display: 5: BackRight
+[2021.02.06-02.12.19:434][313]LogAudioMixer: Display: 6: SideLeft
+[2021.02.06-02.12.19:434][313]LogAudioMixer: Display: 7: SideRight
+[2021.02.06-02.12.19:438][313]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-02.12.19:438][313]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-02.12.19:441][313]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-02.12.19:441][313]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-02.12.19:448][313]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-02.12.19:448][313]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-02.12.19:514][313]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2021.02.06-02.12.19:514][313]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.06-02.12.19:514][313]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.06-02.12.19:514][313]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.06-02.12.19:515][313]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.06-02.12.19:528][313]LogInit: FAudioDevice initialized.
+[2021.02.06-02.12.19:542][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.06-02.12.19:639][313]LogLoad: Game class is 'GameModeBase'
+[2021.02.06-02.12.19:642][313]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2021.02.05-21.12.19
+[2021.02.06-02.12.19:642][313]LogWorld: Bringing up level for play took: 0.002910
+[2021.02.06-02.12.19:642][313]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.02.06-02.12.19:652][313]PIE: Server logged in
+[2021.02.06-02.12.19:653][313]PIE: Play in editor total start time 0.474 seconds.
+[2021.02.06-02.12.19:654][313]LogEngine: Changing dynamic resolution state.
+[2021.02.06-02.12.19:663][313]LogHMD: Allocating Oculus 4128 x 2272 depth rendertarget swapchain
+[2021.02.06-02.12.19:704][316]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.02.06-02.13.29:094][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.06-02.13.29:094][257]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.02.06-02.13.29:166][257]LogSlate: Window 'VREnvision Preview [NetMode: Standalone] (64-bit/Windows) OculusHMD' being destroyed
+[2021.02.06-02.13.29:204][257]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.06-02.13.29:205][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.06-02.13.29:212][257]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.06-02.13.29:217][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.06-02.13.29:263][257]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DAA5086340), frame # 279257
+[2021.02.06-02.13.29:264][257]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DA3247E400), frame # 279257
+[2021.02.06-02.13.29:267][257]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.02.06-02.13.29:305][258]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.02.06-02.13.29:309][258]LogEngine: Changing dynamic resolution state.
+[2021.02.06-02.20.52:863][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.02.06-02.20.53:168][ 79]LogSavePackage: Moving '../../../../School/Ferris/Capstone/Envision/VREnvision/Saved/MotionControllerMap_Auto38DD6B7D6485CFDF1A8FAFBA83E338E1A.tmp' to '../../../../School/Ferris/Capstone/Envision/VREnvision/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto3.umap'
+[2021.02.06-02.20.53:170][ 79]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.339
+[2021.02.06-02.20.53:170][ 79]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.339
+[2021.02.06-02.20.53:171][ 79]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Testing/ObjectHUD/ObjectTest] ([1] browsable assets)...
+[2021.02.06-02.20.53:184][ 79]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Testing/ObjectHUD/ObjectTest.ObjectTest]
+[2021.02.06-02.20.53:184][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Testing/ObjectHUD/ObjectTest]
+[2021.02.06-02.20.53:275][ 79]LogSavePackage: Moving '../../../../School/Ferris/Capstone/Envision/VREnvision/Saved/ObjectTest_Auto33190DC6E4D4E304F1845F984E02F7C8A.tmp' to '../../../../School/Ferris/Capstone/Envision/VREnvision/Saved/Autosaves/Game/VirtualRealityBP/Testing/ObjectHUD/ObjectTest_Auto3.uasset'
+[2021.02.06-02.20.53:277][ 79]LogFileHelpers: Auto-saving content packages took 0.106
+[2021.02.06-02.33.06:438][222]BlueprintLog: New page: Compile ObjectTest
+[2021.02.06-02.33.06:531][222]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2021.02.06-02.34.10:309][528]BlueprintLog: New page: Compile ObjectTest
+[2021.02.06-02.34.10:406][528]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2021.02.06-02.37.00:065][166]BlueprintLog: New page: Compile ObjectTest
+[2021.02.06-02.37.00:161][166]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2021.02.06-02.37.06:648][869]LogTemp: Repeating last play command: VR Preview
+[2021.02.06-02.37.06:667][869]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.06-02.37.06:667][869]LogHMD: Initializing OVRPlugin session
+[2021.02.06-02.37.06:813][869]LogHMD: Allocating Oculus 4128 x 2272 rendertarget swapchain
+[2021.02.06-02.37.06:814][869]PIE: New page: PIE session: MotionControllerMap (Feb 5, 2021, 4:37:06 PM)
+[2021.02.06-02.37.06:814][869]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.02.06-02.37.06:833][869]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019344s)
+[2021.02.06-02.37.06:835][869]LogAIModule: Creating AISystem for world MotionControllerMap
+[2021.02.06-02.37.06:835][869]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DA1E392A00), frame # 445869
+[2021.02.06-02.37.06:835][869]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DA98D61440), frame # 445869
+[2021.02.06-02.37.06:835][869]LogPlayLevel: PIE: World Init took: (0.001346s)
+[2021.02.06-02.37.06:835][869]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.020858s)
+[2021.02.06-02.37.06:868][869]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2021.02.06-02.37.06:870][869]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.06-02.37.06:870][869]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.06-02.37.06:870][869]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.06-02.37.06:870][869]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.06-02.37.06:870][869]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.06-02.37.06:870][869]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.06-02.37.06:870][869]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.06-02.37.06:870][869]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.06-02.37.06:870][869]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.06-02.37.06:870][869]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.06-02.37.06:878][869]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-02.37.06:878][869]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-02.37.06:878][869]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.06-02.37.06:878][869]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.06-02.37.06:878][869]LogAudioMixer: Display: 4: BackLeft
+[2021.02.06-02.37.06:878][869]LogAudioMixer: Display: 5: BackRight
+[2021.02.06-02.37.06:878][869]LogAudioMixer: Display: 6: SideLeft
+[2021.02.06-02.37.06:878][869]LogAudioMixer: Display: 7: SideRight
+[2021.02.06-02.37.06:881][869]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-02.37.06:881][869]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-02.37.06:885][869]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-02.37.06:885][869]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-02.37.06:892][869]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-02.37.06:892][869]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-02.37.06:947][869]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2021.02.06-02.37.06:947][869]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.06-02.37.06:947][869]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.06-02.37.06:947][869]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.06-02.37.06:948][869]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.06-02.37.06:960][869]LogInit: FAudioDevice initialized.
+[2021.02.06-02.37.06:970][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.06-02.37.07:043][869]LogLoad: Game class is 'GameModeBase'
+[2021.02.06-02.37.07:046][869]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2021.02.05-21.37.07
+[2021.02.06-02.37.07:047][869]LogWorld: Bringing up level for play took: 0.002920
+[2021.02.06-02.37.07:047][869]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.02.06-02.37.07:057][869]PIE: Server logged in
+[2021.02.06-02.37.07:060][869]PIE: Play in editor total start time 0.395 seconds.
+[2021.02.06-02.37.07:060][869]LogEngine: Changing dynamic resolution state.
+[2021.02.06-02.37.07:070][869]LogHMD: Allocating Oculus 4128 x 2272 depth rendertarget swapchain
+[2021.02.06-02.37.07:107][872]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.02.06-02.38.38:493][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.06-02.38.38:493][438]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.02.06-02.38.38:570][438]LogSlate: Window 'VREnvision Preview [NetMode: Standalone] (64-bit/Windows) OculusHMD' being destroyed
+[2021.02.06-02.38.38:602][438]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.06-02.38.38:603][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.06-02.38.38:611][438]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.06-02.38.38:616][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.06-02.38.38:666][438]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DA98D61440), frame # 452438
+[2021.02.06-02.38.38:667][438]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DA1E392A00), frame # 452438
+[2021.02.06-02.38.38:670][438]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.02.06-02.38.38:709][439]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.02.06-02.38.38:713][439]LogEngine: Changing dynamic resolution state.
+[2021.02.06-02.41.15:612][154]BlueprintLog: New page: Compile ObjectTest
+[2021.02.06-02.41.15:712][154]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.02.06-02.41.19:823][415]LogTemp: Repeating last play command: VR Preview
+[2021.02.06-02.41.19:843][415]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.06-02.41.19:844][415]LogHMD: Initializing OVRPlugin session
+[2021.02.06-02.41.20:032][415]LogHMD: Allocating Oculus 4128 x 2272 rendertarget swapchain
+[2021.02.06-02.41.20:033][415]PIE: New page: PIE session: MotionControllerMap (Feb 5, 2021, 4:41:20 PM)
+[2021.02.06-02.41.20:033][415]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.02.06-02.41.20:052][415]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018706s)
+[2021.02.06-02.41.20:053][415]LogAIModule: Creating AISystem for world MotionControllerMap
+[2021.02.06-02.41.20:053][415]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DAC8C25600), frame # 464415
+[2021.02.06-02.41.20:053][415]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DAACAFE340), frame # 464415
+[2021.02.06-02.41.20:054][415]LogPlayLevel: PIE: World Init took: (0.001647s)
+[2021.02.06-02.41.20:054][415]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.020589s)
+[2021.02.06-02.41.20:086][415]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2021.02.06-02.41.20:088][415]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.06-02.41.20:088][415]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.06-02.41.20:088][415]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.06-02.41.20:088][415]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.06-02.41.20:088][415]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.06-02.41.20:088][415]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.06-02.41.20:088][415]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.06-02.41.20:088][415]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.06-02.41.20:088][415]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.06-02.41.20:088][415]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.06-02.41.20:098][415]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-02.41.20:098][415]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-02.41.20:098][415]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.06-02.41.20:098][415]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.06-02.41.20:098][415]LogAudioMixer: Display: 4: BackLeft
+[2021.02.06-02.41.20:098][415]LogAudioMixer: Display: 5: BackRight
+[2021.02.06-02.41.20:098][415]LogAudioMixer: Display: 6: SideLeft
+[2021.02.06-02.41.20:098][415]LogAudioMixer: Display: 7: SideRight
+[2021.02.06-02.41.20:102][415]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-02.41.20:102][415]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-02.41.20:106][415]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-02.41.20:106][415]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-02.41.20:113][415]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-02.41.20:113][415]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-02.41.20:179][415]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2021.02.06-02.41.20:179][415]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.06-02.41.20:179][415]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.06-02.41.20:179][415]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.06-02.41.20:180][415]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.06-02.41.20:192][415]LogInit: FAudioDevice initialized.
+[2021.02.06-02.41.20:206][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.06-02.41.20:288][415]LogLoad: Game class is 'GameModeBase'
+[2021.02.06-02.41.20:293][415]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2021.02.05-21.41.20
+[2021.02.06-02.41.20:293][415]LogWorld: Bringing up level for play took: 0.003910
+[2021.02.06-02.41.20:293][415]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.02.06-02.41.20:304][415]PIE: Server logged in
+[2021.02.06-02.41.20:308][415]PIE: Play in editor total start time 0.467 seconds.
+[2021.02.06-02.41.20:308][415]LogEngine: Changing dynamic resolution state.
+[2021.02.06-02.41.20:321][415]LogHMD: Allocating Oculus 4128 x 2272 depth rendertarget swapchain
+[2021.02.06-02.41.20:363][418]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.02.06-02.42.09:541][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.06-02.42.09:541][914]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.02.06-02.42.09:633][914]LogSlate: Window 'VREnvision Preview [NetMode: Standalone] (64-bit/Windows) OculusHMD' being destroyed
+[2021.02.06-02.42.09:658][914]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.06-02.42.09:663][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.06-02.42.09:674][914]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.06-02.42.09:679][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.06-02.42.09:726][914]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DAACAFE340), frame # 467914
+[2021.02.06-02.42.09:726][914]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DAC8C25600), frame # 467914
+[2021.02.06-02.42.09:730][914]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.02.06-02.42.09:771][915]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.02.06-02.42.09:775][915]LogEngine: Changing dynamic resolution state.
+[2021.02.06-02.42.12:596][152]LogTemp: Repeating last play command: VR Preview
+[2021.02.06-02.42.12:615][152]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.06-02.42.12:615][152]LogHMD: Initializing OVRPlugin session
+[2021.02.06-02.42.12:787][152]LogHMD: Allocating Oculus 4128 x 2272 rendertarget swapchain
+[2021.02.06-02.42.12:788][152]PIE: New page: PIE session: MotionControllerMap (Feb 5, 2021, 4:42:12 PM)
+[2021.02.06-02.42.12:788][152]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.02.06-02.42.12:805][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017711s)
+[2021.02.06-02.42.12:807][152]LogAIModule: Creating AISystem for world MotionControllerMap
+[2021.02.06-02.42.12:807][152]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DAB7ADD000), frame # 468152
+[2021.02.06-02.42.12:807][152]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DA98DC1A80), frame # 468152
+[2021.02.06-02.42.12:807][152]LogPlayLevel: PIE: World Init took: (0.001982s)
+[2021.02.06-02.42.12:807][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.019933s)
+[2021.02.06-02.42.12:837][152]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.02.06-02.42.12:838][152]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.06-02.42.12:838][152]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.06-02.42.12:838][152]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.06-02.42.12:838][152]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.06-02.42.12:838][152]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.06-02.42.12:838][152]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.06-02.42.12:839][152]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.06-02.42.12:839][152]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.06-02.42.12:839][152]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.06-02.42.12:839][152]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.06-02.42.12:847][152]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-02.42.12:847][152]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-02.42.12:847][152]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.06-02.42.12:847][152]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.06-02.42.12:847][152]LogAudioMixer: Display: 4: BackLeft
+[2021.02.06-02.42.12:847][152]LogAudioMixer: Display: 5: BackRight
+[2021.02.06-02.42.12:847][152]LogAudioMixer: Display: 6: SideLeft
+[2021.02.06-02.42.12:847][152]LogAudioMixer: Display: 7: SideRight
+[2021.02.06-02.42.12:852][152]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-02.42.12:852][152]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-02.42.12:855][152]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-02.42.12:855][152]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-02.42.12:863][152]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-02.42.12:863][152]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-02.42.12:926][152]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2021.02.06-02.42.12:926][152]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.06-02.42.12:926][152]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.06-02.42.12:926][152]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.06-02.42.12:927][152]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.06-02.42.12:940][152]LogInit: FAudioDevice initialized.
+[2021.02.06-02.42.12:954][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.06-02.42.13:041][152]LogLoad: Game class is 'GameModeBase'
+[2021.02.06-02.42.13:044][152]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2021.02.05-21.42.13
+[2021.02.06-02.42.13:044][152]LogWorld: Bringing up level for play took: 0.003112
+[2021.02.06-02.42.13:045][152]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.02.06-02.42.13:068][152]PIE: Server logged in
+[2021.02.06-02.42.13:070][152]PIE: Play in editor total start time 0.457 seconds.
+[2021.02.06-02.42.13:070][152]LogEngine: Changing dynamic resolution state.
+[2021.02.06-02.42.13:083][152]LogHMD: Allocating Oculus 4128 x 2272 depth rendertarget swapchain
+[2021.02.06-02.42.13:135][155]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.02.06-02.42.49:960][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.06-02.42.49:960][594]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.02.06-02.42.50:039][594]LogSlate: Window 'VREnvision Preview [NetMode: Standalone] (64-bit/Windows) OculusHMD' being destroyed
+[2021.02.06-02.42.50:082][594]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.06-02.42.50:083][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.06-02.42.50:091][594]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.06-02.42.50:097][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.06-02.42.50:147][594]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DA98DC1A80), frame # 468594
+[2021.02.06-02.42.50:147][594]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DAB7ADD000), frame # 468594
+[2021.02.06-02.42.50:151][594]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.02.06-02.42.50:191][595]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.02.06-02.42.50:196][595]LogEngine: Changing dynamic resolution state.
+[2021.02.06-02.43.50:083][ 30]BlueprintLog: New page: Compile ObjectTest
+[2021.02.06-02.43.50:179][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2021.02.06-02.44.18:354][737]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2021.02.06-02.44.18:518][737]LogSavePackage: Moving '../../../../School/Ferris/Capstone/Envision/VREnvision/Saved/MotionControllerMap_Auto4ADD7B24646F43CDA330E4481B44A9DE2.tmp' to '../../../../School/Ferris/Capstone/Envision/VREnvision/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto4.umap'
+[2021.02.06-02.44.18:818][737]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.495
+[2021.02.06-02.44.18:818][737]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.495
+[2021.02.06-02.44.18:818][737]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Testing/ObjectHUD/ObjectTest] ([1] browsable assets)...
+[2021.02.06-02.44.18:848][737]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Testing/ObjectHUD/ObjectTest.ObjectTest]
+[2021.02.06-02.44.18:848][737]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Testing/ObjectHUD/ObjectTest]
+[2021.02.06-02.44.18:934][737]LogSavePackage: Moving '../../../../School/Ferris/Capstone/Envision/VREnvision/Saved/ObjectTest_Auto43DD082374CA8347A638AB5A1533BB864.tmp' to '../../../../School/Ferris/Capstone/Envision/VREnvision/Saved/Autosaves/Game/VirtualRealityBP/Testing/ObjectHUD/ObjectTest_Auto4.uasset'
+[2021.02.06-02.44.18:935][737]LogFileHelpers: Auto-saving content packages took 0.118
+[2021.02.06-02.44.55:947][ 98]LogTemp: Repeating last play command: VR Preview
+[2021.02.06-02.44.55:968][ 98]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.06-02.44.55:968][ 98]LogHMD: Initializing OVRPlugin session
+[2021.02.06-02.44.56:139][ 98]LogHMD: Allocating Oculus 4128 x 2272 rendertarget swapchain
+[2021.02.06-02.44.56:140][ 98]PIE: New page: PIE session: MotionControllerMap (Feb 5, 2021, 4:44:56 PM)
+[2021.02.06-02.44.56:140][ 98]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.02.06-02.44.56:158][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017772s)
+[2021.02.06-02.44.56:159][ 98]LogAIModule: Creating AISystem for world MotionControllerMap
+[2021.02.06-02.44.56:159][ 98]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DAA4396A00), frame # 476098
+[2021.02.06-02.44.56:159][ 98]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DA98D60B80), frame # 476098
+[2021.02.06-02.44.56:159][ 98]LogPlayLevel: PIE: World Init took: (0.001402s)
+[2021.02.06-02.44.56:159][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.019424s)
+[2021.02.06-02.44.56:189][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.02.06-02.44.56:193][ 98]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.06-02.44.56:193][ 98]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.06-02.44.56:193][ 98]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.06-02.44.56:193][ 98]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.06-02.44.56:193][ 98]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.06-02.44.56:193][ 98]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.06-02.44.56:193][ 98]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.06-02.44.56:193][ 98]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.06-02.44.56:193][ 98]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.06-02.44.56:193][ 98]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.06-02.44.56:202][ 98]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-02.44.56:202][ 98]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-02.44.56:202][ 98]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.06-02.44.56:202][ 98]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.06-02.44.56:202][ 98]LogAudioMixer: Display: 4: BackLeft
+[2021.02.06-02.44.56:202][ 98]LogAudioMixer: Display: 5: BackRight
+[2021.02.06-02.44.56:202][ 98]LogAudioMixer: Display: 6: SideLeft
+[2021.02.06-02.44.56:202][ 98]LogAudioMixer: Display: 7: SideRight
+[2021.02.06-02.44.56:205][ 98]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-02.44.56:205][ 98]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-02.44.56:209][ 98]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-02.44.56:209][ 98]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-02.44.56:217][ 98]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-02.44.56:217][ 98]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-02.44.56:283][ 98]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2021.02.06-02.44.56:283][ 98]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.06-02.44.56:283][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.06-02.44.56:283][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.06-02.44.56:284][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.06-02.44.56:296][ 98]LogInit: FAudioDevice initialized.
+[2021.02.06-02.44.56:305][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.06-02.44.56:398][ 98]LogLoad: Game class is 'GameModeBase'
+[2021.02.06-02.44.56:403][ 98]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2021.02.05-21.44.56
+[2021.02.06-02.44.56:404][ 98]LogWorld: Bringing up level for play took: 0.004879
+[2021.02.06-02.44.56:404][ 98]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.02.06-02.44.56:417][ 98]PIE: Server logged in
+[2021.02.06-02.44.56:419][ 98]PIE: Play in editor total start time 0.455 seconds.
+[2021.02.06-02.44.56:419][ 98]LogEngine: Changing dynamic resolution state.
+[2021.02.06-02.44.56:429][ 98]LogHMD: Allocating Oculus 4128 x 2272 depth rendertarget swapchain
+[2021.02.06-02.44.56:483][101]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.02.06-02.45.19:745][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.06-02.45.19:745][636]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.02.06-02.45.19:819][636]LogSlate: Window 'VREnvision Preview [NetMode: Standalone] (64-bit/Windows) OculusHMD' being destroyed
+[2021.02.06-02.45.19:852][636]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.06-02.45.19:853][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.06-02.45.19:862][636]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.06-02.45.19:868][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.06-02.45.19:916][636]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DA98D60B80), frame # 477636
+[2021.02.06-02.45.19:916][636]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DAA4396A00), frame # 477636
+[2021.02.06-02.45.19:919][636]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.02.06-02.45.19:965][637]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.02.06-02.45.19:971][637]LogEngine: Changing dynamic resolution state.
+[2021.02.06-02.46.07:704][ 29]LogTemp: Repeating last play command: VR Preview
+[2021.02.06-02.46.07:725][ 29]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.06-02.46.07:725][ 29]LogHMD: Initializing OVRPlugin session
+[2021.02.06-02.46.07:928][ 29]LogHMD: Allocating Oculus 4128 x 2272 rendertarget swapchain
+[2021.02.06-02.46.07:929][ 29]PIE: New page: PIE session: MotionControllerMap (Feb 5, 2021, 4:46:07 PM)
+[2021.02.06-02.46.07:929][ 29]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.02.06-02.46.07:946][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016976s)
+[2021.02.06-02.46.07:947][ 29]LogAIModule: Creating AISystem for world MotionControllerMap
+[2021.02.06-02.46.07:947][ 29]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DA1E58CC00), frame # 478029
+[2021.02.06-02.46.07:948][ 29]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DA9F19AE80), frame # 478029
+[2021.02.06-02.46.07:948][ 29]LogPlayLevel: PIE: World Init took: (0.001567s)
+[2021.02.06-02.46.07:948][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.018738s)
+[2021.02.06-02.46.07:979][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.02.06-02.46.07:981][ 29]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.06-02.46.07:981][ 29]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.06-02.46.07:981][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.06-02.46.07:981][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.06-02.46.07:981][ 29]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.06-02.46.07:981][ 29]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.06-02.46.07:981][ 29]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.06-02.46.07:981][ 29]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.06-02.46.07:982][ 29]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.06-02.46.07:982][ 29]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.06-02.46.07:992][ 29]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-02.46.07:992][ 29]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-02.46.07:992][ 29]LogAudioMixer: Display: 2: FrontCenter
+[2021.02.06-02.46.07:992][ 29]LogAudioMixer: Display: 3: LowFrequency
+[2021.02.06-02.46.07:992][ 29]LogAudioMixer: Display: 4: BackLeft
+[2021.02.06-02.46.07:992][ 29]LogAudioMixer: Display: 5: BackRight
+[2021.02.06-02.46.07:992][ 29]LogAudioMixer: Display: 6: SideLeft
+[2021.02.06-02.46.07:992][ 29]LogAudioMixer: Display: 7: SideRight
+[2021.02.06-02.46.07:996][ 29]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-02.46.07:996][ 29]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-02.46.07:999][ 29]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-02.46.07:999][ 29]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-02.46.08:006][ 29]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-02.46.08:006][ 29]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-02.46.08:070][ 29]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2021.02.06-02.46.08:071][ 29]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.06-02.46.08:071][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.06-02.46.08:071][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.06-02.46.08:071][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.06-02.46.08:084][ 29]LogInit: FAudioDevice initialized.
+[2021.02.06-02.46.08:099][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.06-02.46.08:185][ 29]LogLoad: Game class is 'GameModeBase'
+[2021.02.06-02.46.08:189][ 29]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2021.02.05-21.46.08
+[2021.02.06-02.46.08:189][ 29]LogWorld: Bringing up level for play took: 0.003407
+[2021.02.06-02.46.08:189][ 29]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.02.06-02.46.08:199][ 29]PIE: Server logged in
+[2021.02.06-02.46.08:201][ 29]PIE: Play in editor total start time 0.479 seconds.
+[2021.02.06-02.46.08:202][ 29]LogEngine: Changing dynamic resolution state.
+[2021.02.06-02.46.08:212][ 29]LogHMD: Allocating Oculus 4128 x 2272 depth rendertarget swapchain
+[2021.02.06-02.46.08:259][ 32]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.02.06-03.06.52:514][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.06-03.06.52:514][691]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.02.06-03.06.52:619][691]LogSlate: Window 'VREnvision Preview [NetMode: Standalone] (64-bit/Windows) OculusHMD' being destroyed
+[2021.02.06-03.06.52:651][691]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.06-03.06.52:652][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.06-03.06.52:660][691]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.06-03.06.52:665][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.06-03.06.52:714][691]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DA9F19AE80), frame # 489691
+[2021.02.06-03.06.52:714][691]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DA1E58CC00), frame # 489691
+[2021.02.06-03.06.52:718][691]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.02.06-03.06.52:755][692]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.02.06-03.06.52:759][692]LogEngine: Changing dynamic resolution state.
