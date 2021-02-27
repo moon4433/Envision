@@ -1359,3 +1359,231 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.27-21.08.16:875][718]AssetCheck: New page: Asset Save: multiple assets
 [2021.02.27-21.08.16:875][718]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Testing/ObjectHUD/ObjectTest.ObjectTest
 [2021.02.27-21.08.16:875][718]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Glas_MAt_Inst.M_Glas_MAt_Inst
+[2021.02.27-21.25.07:102][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.02.27-21.25.08:902][535]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/GrayBox002_Auto39A50DF9149EBEEEE399504818358E98C.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Saved/Autosaves/Game/VirtualRealityBP/Testing/Maps/GrayBox002_Auto3.umap'
+[2021.02.27-21.25.08:910][535]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Testing/Maps/GrayBox002' took 1.822
+[2021.02.27-21.25.08:910][535]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.822
+[2021.02.27-21.25.10:600][698]Cmd: TRANSACTION UNDO
+[2021.02.27-21.25.10:601][698]LogEditorTransaction: Undo Create Actors
+[2021.02.27-21.25.10:613][698]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_243' invalid (7232 verts, 0 indices).
+[2021.02.27-21.25.10:613][698]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_243.BodySetup_0 when we are unable to.
+[2021.02.27-21.25.41:264][582]Cmd: TRANSACTION UNDO
+[2021.02.27-21.25.41:264][582]LogEditorTransaction: Undo Move Actors
+[2021.02.27-21.25.41:654][584]Cmd: TRANSACTION UNDO
+[2021.02.27-21.25.41:654][584]LogEditorTransaction: Undo Move Actors
+[2021.02.27-21.25.41:947][585]Cmd: TRANSACTION UNDO
+[2021.02.27-21.25.41:947][585]LogEditorTransaction: Undo Move Actors
+[2021.02.27-21.25.42:478][607]Cmd: TRANSACTION UNDO
+[2021.02.27-21.25.42:478][607]LogEditorTransaction: Undo Move Actors
+[2021.02.27-21.25.42:533][607]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_242' invalid (7232 verts, 0 indices).
+[2021.02.27-21.25.42:533][607]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_242.BodySetup_0 when we are unable to.
+[2021.02.27-21.25.42:534][607]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_243' invalid (7232 verts, 0 indices).
+[2021.02.27-21.25.42:534][607]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_243.BodySetup_0 when we are unable to.
+[2021.02.27-21.25.42:534][607]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_244' invalid (7232 verts, 0 indices).
+[2021.02.27-21.25.42:534][607]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_244.BodySetup_0 when we are unable to.
+[2021.02.27-21.25.42:534][607]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_245' invalid (7232 verts, 0 indices).
+[2021.02.27-21.25.42:534][607]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_245.BodySetup_0 when we are unable to.
+[2021.02.27-21.25.43:674][695]Cmd: TRANSACTION UNDO
+[2021.02.27-21.25.43:674][695]LogEditorTransaction: Undo Select Brush Surface
+[2021.02.27-21.25.45:266][835]Cmd: TRANSACTION REDO
+[2021.02.27-21.25.45:266][835]LogEditorTransaction: Redo Select Brush Surface
+[2021.02.27-21.25.45:750][874]Cmd: TRANSACTION REDO
+[2021.02.27-21.25.45:750][874]LogEditorTransaction: Redo Move Actors
+[2021.02.27-21.26.53:684][673]Cmd: TRANSACTION UNDO
+[2021.02.27-21.26.53:684][673]LogEditorTransaction: Undo Move Actors
+[2021.02.27-21.26.53:735][673]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_28' invalid (7224 verts, 0 indices).
+[2021.02.27-21.26.53:735][673]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_28.BodySetup_0 when we are unable to.
+[2021.02.27-21.26.53:735][673]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_29' invalid (7224 verts, 0 indices).
+[2021.02.27-21.26.53:735][673]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_29.BodySetup_0 when we are unable to.
+[2021.02.27-21.26.53:735][673]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_30' invalid (7224 verts, 0 indices).
+[2021.02.27-21.26.53:735][673]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_30.BodySetup_0 when we are unable to.
+[2021.02.27-21.26.53:735][673]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_31' invalid (7224 verts, 0 indices).
+[2021.02.27-21.26.53:736][673]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_31.BodySetup_0 when we are unable to.
+[2021.02.27-21.26.53:759][673]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2021.02.27-21.26.53:759][673]LogGeometryMode: Warning: Unable to resolve Wall35 Brush in new BSP, see above
+[2021.02.27-21.26.53:759][673]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-21.27.19:489][ 85]Cmd: TRANSACTION UNDO
+[2021.02.27-21.27.19:490][ 85]LogEditorTransaction: Undo Move Actors
+[2021.02.27-21.27.19:567][ 85]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2021.02.27-21.27.19:567][ 85]LogGeometryMode: Warning: Unable to resolve Wall35 Brush in new BSP, see above
+[2021.02.27-21.27.19:567][ 85]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-21.27.40:440][100]LogGeometryMode: Warning: Unable to find Wall33 Brush(s) in new BSP
+[2021.02.27-21.27.40:440][100]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-21.27.52:571][113]Cmd: TRANSACTION UNDO
+[2021.02.27-21.27.52:571][113]LogEditorTransaction: Undo Move Actors
+[2021.02.27-21.27.52:650][113]LogGeometryMode: Warning: Unable to find 4 Vertex(s) in new BSP
+[2021.02.27-21.27.52:650][113]LogGeometryMode: Warning: Unable to resolve Wall33 Brush in new BSP, see above
+[2021.02.27-21.27.52:650][113]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-21.28.01:232][821]LogGeometryMode: Warning: Unable to find MasterSuite Brush(s) in new BSP
+[2021.02.27-21.28.01:232][821]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-21.35.09:190][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.02.27-21.35.10:980][403]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/GrayBox002_Auto4228A63EA489C3FBCA3377DBBE6F29EB0.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Saved/Autosaves/Game/VirtualRealityBP/Testing/Maps/GrayBox002_Auto4.umap'
+[2021.02.27-21.35.10:988][403]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Testing/Maps/GrayBox002' took 1.819
+[2021.02.27-21.35.10:988][403]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.819
+[2021.02.27-21.57.05:180][444]LogGeometryMode: Warning: Unable to find MasterSuite Brush(s) in new BSP
+[2021.02.27-21.57.05:180][444]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-21.57.22:243][ 12]LogGeometryMode: Warning: Unable to find Wall33 Brush(s) in new BSP
+[2021.02.27-21.57.22:243][ 12]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-21.57.42:389][914]LogGeometryMode: Warning: Unable to find Wall33 Brush(s) in new BSP
+[2021.02.27-21.57.42:389][914]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-21.57.55:255][160]Cmd: TRANSACTION UNDO
+[2021.02.27-21.57.55:255][160]LogEditorTransaction: Undo Modifier [Edit]
+[2021.02.27-21.57.57:439][361]Cmd: TRANSACTION UNDO
+[2021.02.27-21.57.57:439][361]LogEditorTransaction: Undo Move Actors
+[2021.02.27-21.57.57:512][361]LogGeometryMode: Warning: Unable to find 4 Vertex(s) in new BSP
+[2021.02.27-21.57.57:512][361]LogGeometryMode: Warning: Unable to resolve Wall32 Brush in new BSP, see above
+[2021.02.27-21.57.57:512][361]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-21.58.05:683][172]LogGeometryMode: Warning: Unable to find Wall31 Brush(s) in new BSP
+[2021.02.27-21.58.05:683][172]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-21.58.07:503][357]LogGeometryMode: Warning: Unable to find Wall31 Brush(s) in new BSP
+[2021.02.27-21.58.07:503][357]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-21.58.21:902][923]LogGeometryMode: Warning: Unable to find Ceiling_Cut9 Brush(s) in new BSP
+[2021.02.27-21.58.21:902][923]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-21.58.29:949][616]LogEditorViewport: Clicking on Actor (double click): Brush (Ceiling_Cut9)
+[2021.02.27-21.58.30:346][647]LogEditorViewport: Clicking on Actor (double click): Brush (Ceiling_Cut9)
+[2021.02.27-21.58.32:794][885]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.02.27-21.58.52:321][674]LogGeometryMode: Warning: Unable to find Ceiling_Cut9 Brush(s) in new BSP
+[2021.02.27-21.58.52:321][674]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-21.59.09:374][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (samsungFrenchDoor_Fridge_Base)
+[2021.02.27-21.59.33:988][621]LogGeometryMode: Warning: Unable to find Ceiling_Cut9 Brush(s) in new BSP
+[2021.02.27-21.59.33:988][621]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-21.59.36:769][838]LogGeometryMode: Warning: Unable to find Greatroom Brush(s) in new BSP
+[2021.02.27-21.59.36:769][838]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-21.59.37:994][931]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Window_Frame_4)
+[2021.02.27-21.59.59:804][980]LogGeometryMode: Warning: Unable to find Wall23 Brush(s) in new BSP
+[2021.02.27-21.59.59:804][980]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-22.00.03:784][356]Cmd: TRANSACTION UNDO
+[2021.02.27-22.00.03:785][356]LogEditorTransaction: Undo Move Actors
+[2021.02.27-22.00.03:862][356]LogGeometryMode: Warning: Unable to find 4 Vertex(s) in new BSP
+[2021.02.27-22.00.03:862][356]LogGeometryMode: Warning: Unable to resolve Wall23 Brush in new BSP, see above
+[2021.02.27-22.00.03:862][356]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-22.00.25:512][378]LogGeometryMode: Warning: Unable to find Wall22 Brush(s) in new BSP
+[2021.02.27-22.00.25:512][378]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-22.00.29:809][795]LogGeometryMode: Warning: Unable to find Wall7 Brush(s) in new BSP
+[2021.02.27-22.00.29:809][795]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-22.00.38:866][715]Cmd: TRANSACTION UNDO
+[2021.02.27-22.00.38:866][715]LogEditorTransaction: Undo Move Actors
+[2021.02.27-22.00.38:943][715]LogGeometryMode: Warning: Unable to find 8 Vertex(s) in new BSP
+[2021.02.27-22.00.38:944][715]LogGeometryMode: Warning: Unable to resolve Wall7 Brush in new BSP, see above
+[2021.02.27-22.00.38:944][715]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-22.00.44:663][238]Cmd: TRANSACTION UNDO
+[2021.02.27-22.00.44:663][238]LogEditorTransaction: Undo Modifier [Edit]
+[2021.02.27-22.00.51:325][874]Cmd: TRANSACTION UNDO
+[2021.02.27-22.00.51:325][874]LogEditorTransaction: Undo Move Actors
+[2021.02.27-22.00.51:395][874]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2021.02.27-22.00.51:395][874]LogGeometryMode: Warning: Unable to resolve Wall7 Brush in new BSP, see above
+[2021.02.27-22.00.51:395][874]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-22.00.55:007][243]LogGeometryMode: Warning: Unable to find Wall29 Brush(s) in new BSP
+[2021.02.27-22.00.55:007][243]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-22.01.11:169][916]Cmd: TRANSACTION UNDO
+[2021.02.27-22.01.11:169][916]LogEditorTransaction: Undo Move Actors
+[2021.02.27-22.01.11:255][916]LogGeometryMode: Warning: Unable to find 4 Vertex(s) in new BSP
+[2021.02.27-22.01.11:256][916]LogGeometryMode: Warning: Unable to resolve Wall7 Brush in new BSP, see above
+[2021.02.27-22.01.11:256][916]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-22.01.13:995][121]LogGeometryMode: Warning: Unable to find Wall29 Brush(s) in new BSP
+[2021.02.27-22.01.13:995][121]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-22.01.51:578][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.02.27-22.01.53:341][444]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/GrayBox002_Auto5B0162CD34B258A038A925DAA407AAEF7.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Saved/Autosaves/Game/VirtualRealityBP/Testing/Maps/GrayBox002_Auto5.umap'
+[2021.02.27-22.01.53:349][444]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Testing/Maps/GrayBox002' took 1.801
+[2021.02.27-22.01.53:349][444]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.801
+[2021.02.27-22.02.57:615][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dining_StaticMesh)
+[2021.02.27-22.03.12:195][354]LogEditorViewport: Clicking on Actor (double click): Brush (Wall9)
+[2021.02.27-22.03.12:679][407]LogGeometryMode: Warning: Unable to find Ceiling_Cut6 Brush(s) in new BSP
+[2021.02.27-22.03.12:679][407]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-22.03.13:122][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall15_StaticMesh)
+[2021.02.27-22.03.15:935][740]LogGeometryMode: Warning: Unable to find Wall9 Brush(s) in new BSP
+[2021.02.27-22.03.15:935][740]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-22.03.27:385][910]LogGeometryMode: Warning: Unable to find Ceiling Brush(s) in new BSP
+[2021.02.27-22.03.27:385][910]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-22.03.43:688][682]LogGeometryMode: Warning: Unable to find Wall9 Brush(s) in new BSP
+[2021.02.27-22.03.43:688][682]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-22.11.54:993][ 34]LogGeometryMode: Warning: Unable to find Wall6_6 Brush(s) in new BSP
+[2021.02.27-22.11.54:993][ 34]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-22.11.59:778][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.02.27-22.12.01:575][496]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/GrayBox002_Auto6CF7541FF48FAE57C12912383E7F71B3E.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Saved/Autosaves/Game/VirtualRealityBP/Testing/Maps/GrayBox002_Auto6.umap'
+[2021.02.27-22.12.01:583][496]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Testing/Maps/GrayBox002' took 1.832
+[2021.02.27-22.12.01:583][496]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.832
+[2021.02.27-22.12.13:309][675]LogGeometryMode: Warning: Unable to find Wall16 Brush(s) in new BSP
+[2021.02.27-22.12.13:309][675]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-22.12.16:755][ 10]Cmd: TRANSACTION UNDO
+[2021.02.27-22.12.16:755][ 10]LogEditorTransaction: Undo Move Actors
+[2021.02.27-22.12.16:834][ 10]LogGeometryMode: Warning: Unable to find 4 Vertex(s) in new BSP
+[2021.02.27-22.12.16:834][ 10]LogGeometryMode: Warning: Unable to resolve Wall16 Brush in new BSP, see above
+[2021.02.27-22.12.16:834][ 10]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-22.12.23:924][694]LogGeometryMode: Warning: Unable to find Ceiling_Cut4 Brush(s) in new BSP
+[2021.02.27-22.12.23:925][694]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-22.12.28:377][129]Cmd: TRANSACTION UNDO
+[2021.02.27-22.12.28:377][129]LogEditorTransaction: Undo Modifier [Edit]
+[2021.02.27-22.12.37:837][ 91]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dining_StaticMesh)
+[2021.02.27-22.12.38:539][161]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dining_StaticMesh)
+[2021.02.27-22.12.49:198][228]Cmd: TRANSACTION UNDO
+[2021.02.27-22.12.49:198][228]LogEditorTransaction: Undo Move Actors
+[2021.02.27-22.12.49:279][228]LogGeometryMode: Warning: Unable to find 3 Vertex(s) in new BSP
+[2021.02.27-22.12.49:279][228]LogGeometryMode: Warning: Unable to resolve Wall5 Brush in new BSP, see above
+[2021.02.27-22.12.49:279][228]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-22.13.02:155][497]LogGeometryMode: Warning: Unable to find Ceiling_Cut3 Brush(s) in new BSP
+[2021.02.27-22.13.02:155][497]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-22.13.11:539][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dining_StaticMesh)
+[2021.02.27-22.13.29:855][349]LogGeometryMode: Warning: Unable to find Ceiling_Cut5 Brush(s) in new BSP
+[2021.02.27-22.13.29:855][349]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-22.16.40:764][845]LogGeomTools: Triangulation of poly failed.
+[2021.02.27-22.16.41:262][888]Cmd: TRANSACTION UNDO
+[2021.02.27-22.16.41:262][888]LogEditorTransaction: Undo Move Actors
+[2021.02.27-22.16.41:343][888]LogGeometryMode: Warning: Unable to find 3 Vertex(s) in new BSP
+[2021.02.27-22.16.41:343][888]LogGeometryMode: Warning: Unable to resolve Wall17 Brush in new BSP, see above
+[2021.02.27-22.16.41:343][888]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-22.16.43:401][ 65]LogGeometryMode: Warning: Unable to find Wall18 Brush(s) in new BSP
+[2021.02.27-22.16.43:401][ 65]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-22.16.45:029][185]LogGeometryMode: Warning: Unable to find Ceiling_Cut1 Brush(s) in new BSP
+[2021.02.27-22.16.45:029][185]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-22.17.02:858][969]LogGeometryMode: Warning: Unable to find Wall19 Brush(s) in new BSP
+[2021.02.27-22.17.02:858][969]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-22.17.13:821][148]Cmd: TRANSACTION UNDO
+[2021.02.27-22.17.13:821][148]LogEditorTransaction: Undo Move Actors
+[2021.02.27-22.17.13:892][148]LogGeometryMode: Warning: Unable to find 8 Vertex(s) in new BSP
+[2021.02.27-22.17.13:892][148]LogGeometryMode: Warning: Unable to resolve Wall19 Brush in new BSP, see above
+[2021.02.27-22.17.13:892][148]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-22.17.14:149][150]Cmd: TRANSACTION UNDO
+[2021.02.27-22.17.14:149][150]LogEditorTransaction: Undo Modifier [Edit]
+[2021.02.27-22.17.14:829][214]Cmd: TRANSACTION UNDO
+[2021.02.27-22.17.14:829][214]LogEditorTransaction: Undo Move Actors
+[2021.02.27-22.17.14:903][214]LogGeometryMode: Warning: Unable to find 6 Vertex(s) in new BSP
+[2021.02.27-22.17.14:904][214]LogGeometryMode: Warning: Unable to resolve Wall19 Brush in new BSP, see above
+[2021.02.27-22.17.14:904][214]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-22.17.41:123][156]LogGeometryMode: Warning: Unable to find Wall20 Brush(s) in new BSP
+[2021.02.27-22.17.41:123][156]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-22.17.59:470][993]Cmd: TRANSACTION UNDO
+[2021.02.27-22.17.59:470][993]LogEditorTransaction: Undo Move Actors
+[2021.02.27-22.17.59:538][993]LogGeometryMode: Warning: Unable to find 3 Vertex(s) in new BSP
+[2021.02.27-22.17.59:538][993]LogGeometryMode: Warning: Unable to resolve Wall20 Brush in new BSP, see above
+[2021.02.27-22.17.59:538][993]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-22.18.14:335][480]LogGeometryMode: Warning: Unable to find Wall21 Brush(s) in new BSP
+[2021.02.27-22.18.14:335][480]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-22.18.25:223][459]LogGeometryMode: Warning: Unable to find Wall28 Brush(s) in new BSP
+[2021.02.27-22.18.25:223][459]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-22.18.33:990][329]Cmd: TRANSACTION UNDO
+[2021.02.27-22.18.33:990][329]LogEditorTransaction: Undo Move Actors
+[2021.02.27-22.18.34:070][329]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2021.02.27-22.18.34:070][329]LogGeometryMode: Warning: Unable to resolve Wall21 Brush in new BSP, see above
+[2021.02.27-22.18.34:070][329]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.02.27-22.22.02:004][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.02.27-22.22.03:876][727]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/GrayBox002_Auto79987FC9A4A96AA583705F7AA5CA6450C.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Saved/Autosaves/Game/VirtualRealityBP/Testing/Maps/GrayBox002_Auto7.umap'
+[2021.02.27-22.22.03:885][727]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Testing/Maps/GrayBox002' took 1.920
+[2021.02.27-22.22.03:885][727]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.920
+[2021.02.27-22.33.10:229][679]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.02.27-22.33.57:662][435]Cmd: TRANSACTION UNDO
+[2021.02.27-22.33.57:663][435]LogEditorTransaction: Undo Edit Y
+[2021.02.27-22.34.06:866][315]Cmd: TRANSACTION UNDO
+[2021.02.27-22.34.06:866][315]LogEditorTransaction: Undo Edit Y
+[2021.02.27-22.34.14:425][  4]Cmd: TRANSACTION UNDO
+[2021.02.27-22.34.14:425][  4]LogEditorTransaction: Undo Move Actors
+[2021.02.27-22.34.14:844][  9]Cmd: TRANSACTION UNDO
+[2021.02.27-22.34.14:844][  9]LogEditorTransaction: Undo Move Actors
+[2021.02.27-22.34.27:455][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.02.27-22.34.27:509][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.02.27-22.34.29:345][281]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/GrayBox002C2EB139B4A7D7D76DD16F2B9D23CF268.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/VirtualRealityBP/Testing/Maps/GrayBox002.umap'
+[2021.02.27-22.34.29:424][281]LogFileHelpers: Saving map 'GrayBox002' took 1.938
+[2021.02.27-22.34.33:699][281]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/GrayBox002_BuiltData9F65EDE948423DD147A7E9A110624BBF.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/VirtualRealityBP/Testing/Maps/GrayBox002_BuiltData.uasset'
+[2021.02.27-22.34.33:739][281]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.27-22.34.33:739][281]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002
+[2021.02.27-22.34.33:739][281]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Testing/Maps/GrayBox002_BuiltData.GrayBox002_BuiltData
