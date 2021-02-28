@@ -738,3 +738,252 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.28-01.55.34:623][244]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.175ms to complete.
 [2021.02.28-01.55.34:623][244]LogFileHelpers: Loading map 'GrayBox002' took 1.441
 [2021.02.28-01.58.15:863][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.02.28-02.01.09:068][774]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Material/ArchVis/M_Ceramic_Mat_Inst.uasset' failed to load '/Game/ArchVis/Material/ArchVis/M_Ceramic_Mat': Can't find file.
+[2021.02.28-02.01.09:068][774]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Material/ArchVis/M_Ceramic_Mat_Inst.uasset' failed to load '/Game/ArchVis/Material/ArchVis/M_Ceramic_Mat': Can't find file.
+[2021.02.28-02.01.09:069][774]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Material/ArchVis/M_Ceramic_Mat_Inst.uasset' failed to load '/Game/ArchVis/Material/ArchVis/M_Ceramic_Mat': Can't find file.
+[2021.02.28-02.01.09:069][774]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Material/ArchVis/M_Ceramic_Mat_Inst.uasset' failed to load '/Game/ArchVis/Material/ArchVis/M_Ceramic_Mat': Can't find file.
+[2021.02.28-02.01.09:069][774]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Material/ArchVis/M_Ceramic_Mat_Inst.uasset' failed to load '/Game/ArchVis/Material/ArchVis/M_Ceramic_Mat': Can't find file.
+[2021.02.28-02.01.09:069][774]LoadErrors: Failed to load /Game/ArchVis/Material/ArchVis/M_Ceramic_Mat.M_Ceramic_Mat Referenced by M_Ceramic_Mat_Inst
+[2021.02.28-02.01.09:069][774]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Material/ArchVis/M_Ceramic_Mat_Inst.uasset' failed to load '/Game/ArchVis/Material/ArchVis/M_Ceramic_Mat': Can't find file.
+[2021.02.28-02.01.14:915][428]Cmd: TRANSACTION UNDO
+[2021.02.28-02.01.14:915][428]LogEditorTransaction: Undo Select Brush Surface
+[2021.02.28-02.01.15:377][444]Cmd: TRANSACTION UNDO
+[2021.02.28-02.01.15:377][444]LogEditorTransaction: Undo Create Actors
+[2021.02.28-02.01.20:541][927]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape)
+[2021.02.28-02.01.21:332][983]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Base_StaticMesh)
+[2021.02.28-02.05.19:269][207]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly.uasset' failed to load '/Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Box008Mat': Can't find file.
+[2021.02.28-02.05.19:269][207]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly.uasset' failed to load '/Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Box008Mat': Can't find file.
+[2021.02.28-02.05.19:269][207]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly.uasset' failed to load '/Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Box008Mat': Can't find file.
+[2021.02.28-02.05.19:269][207]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly.uasset' failed to load '/Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Box008Mat': Can't find file.
+[2021.02.28-02.05.19:270][207]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly.uasset' failed to load '/Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Box008Mat': Can't find file.
+[2021.02.28-02.05.19:270][207]LoadErrors: Failed to load /Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Box008Mat.Box008Mat Referenced by Cabinetry_Unwrapped_LowPoly
+[2021.02.28-02.05.19:270][207]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly.uasset' failed to load '/Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Box008Mat': Can't find file.
+[2021.02.28-02.05.19:270][207]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly.uasset' failed to load '/Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Box008Mat': Can't find file.
+[2021.02.28-02.05.19:270][207]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly.uasset' failed to load '/Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Box008Mat': Can't find file.
+[2021.02.28-02.05.19:288][207]LogStaticMesh: Building static mesh Cabinetry_Unwrapped_LowPoly...
+[2021.02.28-02.05.19:366][207]LogStaticMesh: Built static mesh [0.08s] /Game/Geometry/Furniture/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly.Cabinetry_Unwrapped_LowPoly
+[2021.02.28-02.05.19:403][207]LogActorFactory: Actor Factory created Cabinetry_Unwrapped_LowPoly
+[2021.02.28-02.05.20:470][271]LogActorFactory: Actor Factory created Cabinetry_Unwrapped_LowPoly
+[2021.02.28-02.05.20:955][313]LogActorFactory: Actor Factory created Cabinetry_Unwrapped_LowPoly
+[2021.02.28-02.05.44:585][744]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Cabinetry_Buffet/Box008Mat.uasset' failed to load '/Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly_DefaultMaterial_BaseColor': Can't find file.
+[2021.02.28-02.05.44:585][744]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Cabinetry_Buffet/Box008Mat.uasset' failed to load '/Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly_DefaultMaterial_BaseColor': Can't find file.
+[2021.02.28-02.05.44:585][744]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Cabinetry_Buffet/Box008Mat.uasset' failed to load '/Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly_DefaultMaterial_Normal': Can't find file.
+[2021.02.28-02.05.44:585][744]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Cabinetry_Buffet/Box008Mat.uasset' failed to load '/Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly_DefaultMaterial_Normal': Can't find file.
+[2021.02.28-02.05.44:585][744]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Cabinetry_Buffet/Box008Mat.uasset' failed to load '/Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly_DefaultMaterial_OcclusionRoughnessMetallic': Can't find file.
+[2021.02.28-02.05.44:585][744]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Cabinetry_Buffet/Box008Mat.uasset' failed to load '/Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly_DefaultMaterial_OcclusionRoughnessMetallic': Can't find file.
+[2021.02.28-02.05.44:586][744]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Cabinetry_Buffet/Box008Mat.uasset' failed to load '/Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly_DefaultMaterial_BaseColor': Can't find file.
+[2021.02.28-02.05.44:586][744]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Cabinetry_Buffet/Box008Mat.uasset' failed to load '/Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly_DefaultMaterial_BaseColor': Can't find file.
+[2021.02.28-02.05.44:586][744]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Cabinetry_Buffet/Box008Mat.uasset' failed to load '/Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly_DefaultMaterial_Normal': Can't find file.
+[2021.02.28-02.05.44:586][744]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Cabinetry_Buffet/Box008Mat.uasset' failed to load '/Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly_DefaultMaterial_Normal': Can't find file.
+[2021.02.28-02.05.44:586][744]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Cabinetry_Buffet/Box008Mat.uasset' failed to load '/Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly_DefaultMaterial_OcclusionRoughnessMetallic': Can't find file.
+[2021.02.28-02.05.44:586][744]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Cabinetry_Buffet/Box008Mat.uasset' failed to load '/Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly_DefaultMaterial_OcclusionRoughnessMetallic': Can't find file.
+[2021.02.28-02.05.44:587][744]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Cabinetry_Buffet/Box008Mat.uasset' failed to load '/Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly_DefaultMaterial_Normal': Can't find file.
+[2021.02.28-02.05.44:587][744]LoadErrors: Failed to load /Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly_DefaultMaterial_Normal.Cabinetry_Unwrapped_LowPoly_DefaultMaterial_Normal Referenced by MaterialExpressionTextureSample_0
+[2021.02.28-02.05.44:587][744]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Cabinetry_Buffet/Box008Mat.uasset' failed to load '/Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly_DefaultMaterial_Normal': Can't find file.
+[2021.02.28-02.05.44:587][744]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Cabinetry_Buffet/Box008Mat.uasset' failed to load '/Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly_DefaultMaterial_BaseColor': Can't find file.
+[2021.02.28-02.05.44:587][744]LoadErrors: Failed to load /Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly_DefaultMaterial_BaseColor.Cabinetry_Unwrapped_LowPoly_DefaultMaterial_BaseColor Referenced by MaterialExpressionTextureSample_2
+[2021.02.28-02.05.44:587][744]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Cabinetry_Buffet/Box008Mat.uasset' failed to load '/Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly_DefaultMaterial_BaseColor': Can't find file.
+[2021.02.28-02.05.44:588][744]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Cabinetry_Buffet/Box008Mat.uasset' failed to load '/Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly_DefaultMaterial_OcclusionRoughnessMetallic': Can't find file.
+[2021.02.28-02.05.44:588][744]LoadErrors: Failed to load /Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly_DefaultMaterial_OcclusionRoughnessMetallic.Cabinetry_Unwrapped_LowPoly_DefaultMaterial_OcclusionRoughnessMetallic Referenced by MaterialExpressionTextureSample_3
+[2021.02.28-02.05.44:588][744]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Cabinetry_Buffet/Box008Mat.uasset' failed to load '/Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly_DefaultMaterial_OcclusionRoughnessMetallic': Can't find file.
+[2021.02.28-02.05.44:589][744]LogMaterial: Display: Missing cached shader map for material Box008Mat, compiling. 
+[2021.02.28-02.05.44:595][744]LogMaterial: Warning: C:\Envision_Repo\Envision\VREnvision\Content\Geometry\Furniture\Cabinetry_Buffet\Box008Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-02.05.44:595][744]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-02.05.47:428][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cabinetry_Unwrapped_LowPoly)
+[2021.02.28-02.06.04:508][ 29]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (KitchenLayout01_DiningRoomCab_Slab)
+[2021.02.28-02.06.05:297][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (KitchenLayout01_Box051)
+[2021.02.28-02.06.05:869][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (KitchenLayout01_DiningRoomCab_Slab)
+[2021.02.28-02.06.08:161][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (KitchenLayout01_Box052)
+[2021.02.28-02.06.08:673][451]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (KitchenLayout01_DiningRoomCab_Slab)
+[2021.02.28-02.06.09:230][507]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (KitchenLayout01_Box051)
+[2021.02.28-02.06.09:620][546]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (KitchenLayout01_Box050)
+[2021.02.28-02.06.10:368][627]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (KitchenLayout01_Box053)
+[2021.02.28-02.06.11:320][723]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (KitchenLayout01_Box052)
+[2021.02.28-02.06.12:205][817]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (KitchenLayout01_DiningRoomBab_BAse)
+[2021.02.28-02.06.13:726][982]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (KitchenLayout01_DiningRoomBab_BAse)
+[2021.02.28-02.06.15:359][161]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (KitchenLayout01_DiningRoomBab_BAse)
+[2021.02.28-02.06.15:711][195]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (KitchenLayout01_CabinetGlass)
+[2021.02.28-02.06.16:234][251]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (KitchenLayout01_Object002)
+[2021.02.28-02.06.16:776][307]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (KitchenLayout01_Box056)
+[2021.02.28-02.06.17:779][410]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (KitchenLayout01_Box055)
+[2021.02.28-02.06.18:391][476]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (KitchenLayout01_Object002)
+[2021.02.28-02.06.33:732][192]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cabinetry_Unwrapped_LowPoly)
+[2021.02.28-02.06.37:097][485]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Geometry/Furniture/Cabinetry_Buffet/Box008Mat.Box008Mat
+[2021.02.28-02.06.37:098][485]LogMaterial: Display: Missing cached shader map for material Box008Mat, compiling. 
+[2021.02.28-02.06.37:099][485]LogMaterial: Warning: /Engine/Transient.Box008Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-02.06.37:099][485]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-02.06.37:405][485]LogMaterial: Display: Missing cached shader map for material Box008Mat, compiling. 
+[2021.02.28-02.06.37:406][485]LogMaterial: Warning: /Engine/Transient.Box008Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-02.06.37:406][485]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-02.06.37:407][485]LogMaterial: Display: Missing cached shader map for material Box008Mat, compiling. 
+[2021.02.28-02.06.37:408][485]LogMaterial: Warning: /Engine/Transient.Box008Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-02.06.37:408][485]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-02.06.37:416][485]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.02.28-02.06.37:416][485]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.02.28-02.06.37:417][485]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.02.28-02.06.37:469][485]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-02.06.37:476][485]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.02.28-02.06.45:027][829]LogTexture: Display: Building textures: Cabinetry_Unwrapped_LowPoly_DefaultMaterial_OcclusionRoughnessMetallic (AutoDXT, 4096X4096)
+[2021.02.28-02.06.45:053][829]LogMaterial: Display: Missing cached shader map for material Box008Mat, compiling. 
+[2021.02.28-02.06.45:053][829]LogMaterial: Warning: /Engine/Transient.Box008Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-02.06.45:053][829]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-02.06.45:056][829]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.02.28-02.06.45:082][829]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.02.28-02.06.45:082][829]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.02.28-02.06.45:082][829]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.02.28-02.06.45:082][829]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.02.28-02.06.45:086][829]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.02.28-02.06.45:087][829]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.02.28-02.06.45:088][829]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.02.28-02.06.45:088][829]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.02.28-02.06.45:161][831]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.02.28-02.06.45:162][831]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.02.28-02.06.45:162][831]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.02.28-02.06.45:162][831]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.02.28-02.06.48:405][ 33]LogMaterial: Display: Missing cached shader map for material Box008Mat, compiling. 
+[2021.02.28-02.06.48:406][ 33]LogMaterial: Warning: /Engine/Transient.Box008Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-02.06.48:406][ 33]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-02.06.50:342][180]LogMaterial: Display: Missing cached shader map for material Box008Mat, compiling. 
+[2021.02.28-02.06.50:343][180]LogMaterial: Warning: /Engine/Transient.Box008Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-02.06.50:343][180]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-02.06.51:119][234]LogMaterial: Display: Missing cached shader map for material Box008Mat, compiling. 
+[2021.02.28-02.06.51:188][235]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.02.28-02.06.51:188][235]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.02.28-02.06.51:188][235]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.02.28-02.06.51:188][235]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.02.28-02.06.51:188][235]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.02.28-02.06.51:188][235]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.02.28-02.06.51:188][235]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.02.28-02.06.51:188][235]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.02.28-02.06.53:910][267]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.02.28-02.06.53:910][267]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.02.28-02.06.53:910][267]LogTexture: Display: Building textures: Cabinetry_Unwrapped_LowPoly_DefaultMaterial_Normal (BC5, 4096X4096)
+[2021.02.28-02.06.53:932][267]LogMaterial: Display: Missing cached shader map for material Box008Mat, compiling. 
+[2021.02.28-02.06.53:950][267]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2021.02.28-02.06.53:966][267]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.02.28-02.06.53:972][267]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2021.02.28-02.06.59:189][425]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 19
+[2021.02.28-02.06.59:197][425]LogMaterial: Display: Missing cached shader map for material Box008Mat, compiling. 
+[2021.02.28-02.06.59:222][425]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2021.02.28-02.06.59:397][429]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2021.02.28-02.06.59:473][430]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2021.02.28-02.06.59:792][442]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 17
+[2021.02.28-02.07.00:254][456]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2021.02.28-02.07.00:307][458]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2021.02.28-02.07.00:393][462]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2021.02.28-02.07.00:432][464]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2021.02.28-02.07.00:491][467]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.02.28-02.07.00:583][471]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2021.02.28-02.07.00:760][479]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2021.02.28-02.07.00:987][488]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.02.28-02.07.01:553][508]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.02.28-02.07.02:831][544]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.02.28-02.07.06:222][651]LogMaterial: Display: Missing cached shader map for material Box008Mat, compiling. 
+[2021.02.28-02.07.06:249][651]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.02.28-02.07.07:576][697]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 19
+[2021.02.28-02.07.08:014][712]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 18
+[2021.02.28-02.07.08:338][724]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2021.02.28-02.07.08:510][729]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2021.02.28-02.07.08:715][733]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2021.02.28-02.07.08:734][734]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 14
+[2021.02.28-02.07.08:983][742]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2021.02.28-02.07.09:068][746]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2021.02.28-02.07.09:093][747]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2021.02.28-02.07.09:237][752]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.02.28-02.07.09:292][755]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.02.28-02.07.10:058][778]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2021.02.28-02.07.10:403][792]LogMaterial: Display: Missing cached shader map for material Box008Mat, compiling. 
+[2021.02.28-02.07.10:436][792]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.02.28-02.07.10:846][805]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.02.28-02.07.11:035][813]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2021.02.28-02.07.15:467][960]LogMaterial: Display: Missing cached shader map for material Box008Mat, compiling. 
+[2021.02.28-02.07.15:492][960]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.02.28-02.07.16:334][988]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2021.02.28-02.07.16:615][993]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 14
+[2021.02.28-02.07.16:805][998]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2021.02.28-02.07.18:868][  3]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.02.28-02.07.18:868][  3]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2021.02.28-02.07.18:868][  3]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2021.02.28-02.07.18:868][  3]LogTexture: Display: Building textures: Cabinetry_Unwrapped_LowPoly_DefaultMaterial_BaseColor (AutoDXT, 4096X4096)
+[2021.02.28-02.07.18:868][  3]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2021.02.28-02.07.18:868][  3]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2021.02.28-02.07.18:923][  3]LogMaterial: Display: Missing cached shader map for material Box008Mat, compiling. 
+[2021.02.28-02.07.18:941][  3]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2021.02.28-02.07.18:958][  3]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.02.28-02.07.18:964][  3]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2021.02.28-02.07.18:971][  3]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2021.02.28-02.07.19:208][ 10]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 23
+[2021.02.28-02.07.19:257][ 12]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2021.02.28-02.07.22:462][115]LogMaterial: Display: Missing cached shader map for material Box008Mat, compiling. 
+[2021.02.28-02.07.22:494][115]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2021.02.28-02.07.24:461][173]LogMaterialEditor: Saving and Compiling material Box008Mat
+[2021.02.28-02.07.25:448][173]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 23
+[2021.02.28-02.07.25:448][173]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2021.02.28-02.07.25:448][173]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 21
+[2021.02.28-02.07.25:448][173]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2021.02.28-02.07.25:448][173]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2021.02.28-02.07.25:465][173]LogMaterial: Display: Missing cached shader map for material Box008Mat, compiling. 
+[2021.02.28-02.07.25:768][173]LogMaterial: Display: Missing cached shader map for material Box008Mat, compiling. 
+[2021.02.28-02.07.25:845][173]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2021.02.28-02.07.25:885][173]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 41
+[2021.02.28-02.07.26:013][173]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 40
+[2021.02.28-02.07.26:062][173]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 39
+[2021.02.28-02.07.26:069][173]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.02.28-02.07.26:084][173]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.28-02.07.26:625][173]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 40
+[2021.02.28-02.07.26:625][173]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 39
+[2021.02.28-02.07.27:161][173]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 38
+[2021.02.28-02.07.27:161][173]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 37
+[2021.02.28-02.07.27:161][173]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 36
+[2021.02.28-02.07.27:161][173]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 35
+[2021.02.28-02.07.27:161][173]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 34
+[2021.02.28-02.07.27:161][173]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 33
+[2021.02.28-02.07.27:161][173]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 32
+[2021.02.28-02.07.27:161][173]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 31
+[2021.02.28-02.07.27:696][173]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 30
+[2021.02.28-02.07.27:696][173]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 29
+[2021.02.28-02.07.28:232][173]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 28
+[2021.02.28-02.07.33:052][173]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2021.02.28-02.07.33:588][173]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 26
+[2021.02.28-02.07.33:588][173]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2021.02.28-02.07.33:588][173]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2021.02.28-02.07.34:032][173]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2021.02.28-02.07.34:032][173]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2021.02.28-02.07.34:033][173]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2021.02.28-02.07.34:033][173]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.02.28-02.07.34:033][173]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.02.28-02.07.34:033][173]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.02.28-02.07.34:043][173]TextureStreamingBuild: Display: Compiling optional shaders took 7.966 seconds.
+[2021.02.28-02.07.34:074][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.02.28-02.07.34:672][173]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.02.28-02.07.35:743][173]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.02.28-02.07.36:279][173]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.02.28-02.07.37:351][173]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.02.28-02.07.41:100][173]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.02.28-02.07.41:635][173]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.02.28-02.07.47:615][173]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Box008MatA954E87A48B39BE23DA89887BC2CA1CC.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Cabinetry_Buffet/Box008Mat.uasset'
+[2021.02.28-02.07.47:656][173]AssetCheck: New page: Asset Save: Box008Mat
+[2021.02.28-02.07.47:656][173]LogContentValidation: Display: Validating Material /Game/Geometry/Furniture/Cabinetry_Buffet/Box008Mat.Box008Mat
+[2021.02.28-02.07.47:662][173]MaterialEditorStats: Base pass shader: 802 instructions
+[2021.02.28-02.07.47:662][173]MaterialEditorStats: Base pass shader with Surface Lightmap: 830 instructions
+[2021.02.28-02.07.47:662][173]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 873 instructions
+[2021.02.28-02.07.47:662][173]MaterialEditorStats: Base pass vertex shader: 237 instructions
+[2021.02.28-02.07.47:662][173]MaterialEditorStats: Texture samplers: 8/16
+[2021.02.28-02.07.47:662][173]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.02.28-02.07.47:662][173]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.28-02.07.47:778][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.02.28-02.07.49:545][174]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/GrayBox002_Auto1866B514044CB4079D9BE6CBA39338F09.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Saved/Autosaves/Game/VirtualRealityBP/Testing/Maps/GrayBox002_Auto1.umap'
+[2021.02.28-02.07.49:551][174]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Testing/Maps/GrayBox002' took 1.789
+[2021.02.28-02.07.49:551][174]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.789
+[2021.02.28-02.07.51:227][289]LogSlate: Window 'Box008Mat' being destroyed
+[2021.02.28-02.07.51:234][289]LogSlate: Window 'Box008Mat' being destroyed
+[2021.02.28-02.07.51:288][289]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.02.28-02.07.51:288][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-02.08.45:013][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.02.28-02.08.45:055][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.02.28-02.08.46:794][413]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/GrayBox002E5E114A24BAAB31840687994F69DFA16.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/VirtualRealityBP/Testing/Maps/GrayBox002.umap'
+[2021.02.28-02.08.46:846][413]LogFileHelpers: Saving map 'GrayBox002' took 1.810
+[2021.02.28-02.08.50:842][413]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/GrayBox002_BuiltData1C20A2F44460115721987DAF33FE837F.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/VirtualRealityBP/Testing/Maps/GrayBox002_BuiltData.uasset'
+[2021.02.28-02.08.50:882][413]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.28-02.08.50:882][413]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002
+[2021.02.28-02.08.50:882][413]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Testing/Maps/GrayBox002_BuiltData.GrayBox002_BuiltData
