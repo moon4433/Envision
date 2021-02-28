@@ -8146,3 +8146,41 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.28-06.49.57:757][652]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002
 [2021.02.28-06.49.57:757][652]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Testing/Maps/GrayBox002_BuiltData.GrayBox002_BuiltData
 [2021.02.28-06.49.57:757][652]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Geometry/Material/ArchVis/M_Glas_MAt_Inst.M_Glas_MAt_Inst
+[2021.02.28-06.54.38:272][776]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\nconn\OneDrive\Desktop\Capstone\FBX's\Newport_Chair.FBX)
+[2021.02.28-06.54.38:314][776]LogFbx: Loading FBX Scene from C:\Users\nconn\OneDrive\Desktop\Capstone\FBX's\Newport_Chair.FBX
+[2021.02.28-06.54.38:352][776]LogFbx: FBX Scene Loaded Succesfully
+[2021.02.28-06.54.42:633][776]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.02.28-06.54.42:687][776]LogFbx: Display: Triangulating static mesh Newport Chair
+[2021.02.28-06.54.44:871][776]LogStaticMesh: Building static mesh Newport_Chair...
+[2021.02.28-06.54.45:631][776]LogStaticMesh: Built static mesh [0.76s] /Game/Geometry/Furniture/Seating/Newport_Chair.Newport_Chair
+[2021.02.28-06.54.45:770][776]LogStaticMesh: Warning: Newport_Chair has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.02.28-06.54.45:771][776]LogStaticMesh: Warning: Newport_Chair has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2021.02.28-06.54.45:771][776]LogStaticMesh: Warning: Newport_Chair has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.02.28-06.54.45:922][776]FBXImport: Warning: Newport_Chair has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.02.28-06.54.45:922][776]FBXImport: Warning: Newport_Chair has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2021.02.28-06.54.45:922][776]FBXImport: Warning: Newport_Chair has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.02.28-06.54.49:809][ 34]LogSlate: Window 'Message Log' being destroyed
+[2021.02.28-06.54.49:815][ 34]LogSlate: Window 'Message Log' being destroyed
+[2021.02.28-06.54.50:736][114]LogActorFactory: Actor Factory created Newport_Chair
+[2021.02.28-06.54.52:039][197]LogActorFactory: Actor Factory created Newport_Chair
+[2021.02.28-06.54.52:673][235]LogActorFactory: Actor Factory created Newport_Chair
+[2021.02.28-06.54.57:670][793]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Newport_Chair)
+[2021.02.28-06.55.04:627][463]Cmd: ACTOR BAKEPREPIVOT
+[2021.02.28-06.55.08:824][938]Cmd: TRANSACTION UNDO
+[2021.02.28-06.55.08:824][938]LogEditorTransaction: Undo Rotate Actors
+[2021.02.28-06.55.10:157][ 44]Cmd: MODE ROTGRID=1
+[2021.02.28-06.55.34:818][544]LogMetaData: Removing '/Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Chair.Newport_Chair' ref from Metadata '/Game/Geometry/Furniture/Seating/Newport_Chair.PackageMetaData'
+[2021.02.28-06.55.34:984][544]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Newport_ChairEC3983FD4534EEC062B96C8CBD6D36E0.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Seating/Newport_Collection/Newport_Chair.uasset'
+[2021.02.28-06.55.35:276][544]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.02.28-06.55.35:322][544]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.02.28-06.55.35:343][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.02.28-06.55.35:508][544]AssetCheck: New page: Asset Save: Newport_Chair
+[2021.02.28-06.55.35:508][544]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Chair.Newport_Chair
+[2021.02.28-06.55.39:607][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.02.28-06.55.39:658][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.02.28-06.55.41:412][965]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/GrayBox00247FB179E4D974A3BE4689A951A4C7EFC.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/VirtualRealityBP/Testing/Maps/GrayBox002.umap'
+[2021.02.28-06.55.41:465][965]LogFileHelpers: Saving map 'GrayBox002' took 1.833
+[2021.02.28-06.55.44:011][965]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/GrayBox002_BuiltData5984E06D4328E8F70B0FC0A902B50386.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/VirtualRealityBP/Testing/Maps/GrayBox002_BuiltData.uasset'
+[2021.02.28-06.55.44:043][965]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.28-06.55.44:043][965]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002
+[2021.02.28-06.55.44:043][965]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Testing/Maps/GrayBox002_BuiltData.GrayBox002_BuiltData
