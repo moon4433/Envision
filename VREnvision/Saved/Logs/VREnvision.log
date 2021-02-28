@@ -2179,3 +2179,48 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.28-20.04.11:997][387]LogEditorActor: Deleted Actor: StaticMeshActor
 [2021.02.28-20.04.12:026][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
 [2021.02.28-20.04.12:036][387]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2021.02.28-20.05.59:588][105]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Users/nconn/OneDrive/Desktop/Capstone/FBX's/Newport_Sofa_Wood.FBX)
+[2021.02.28-20.05.59:627][105]LogFbx: Loading FBX Scene from ../../../../../Users/nconn/OneDrive/Desktop/Capstone/FBX's/Newport_Sofa_Wood.FBX
+[2021.02.28-20.05.59:641][105]LogFbx: FBX Scene Loaded Succesfully
+[2021.02.28-20.06.01:556][105]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.02.28-20.06.01:640][105]LogFbx: Display: Triangulating static mesh Object005
+[2021.02.28-20.06.01:712][105]LogStaticMesh: Building static mesh Newport_Sofa_Wood...
+[2021.02.28-20.06.01:741][105]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Sofa/Newport_Sofa_Wood.Newport_Sofa_Wood
+[2021.02.28-20.06.11:467][706]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Users/nconn/OneDrive/Desktop/Capstone/FBX's/Newport_Sofa_Leather.FBX)
+[2021.02.28-20.06.11:485][706]LogFbx: Loading FBX Scene from ../../../../../Users/nconn/OneDrive/Desktop/Capstone/FBX's/Newport_Sofa_Leather.FBX
+[2021.02.28-20.06.11:551][706]LogFbx: FBX Scene Loaded Succesfully
+[2021.02.28-20.06.30:127][706]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.02.28-20.06.30:165][706]LogFbx: Display: Triangulating static mesh Leather
+[2021.02.28-20.06.34:634][706]LogStaticMesh: Building static mesh Newport_Sofa_Leather...
+[2021.02.28-20.06.35:931][706]LogStaticMesh: Built static mesh [1.30s] /Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Sofa/Newport_Sofa_Leather.Newport_Sofa_Leather
+[2021.02.28-20.06.39:206][895]LogActorFactory: Actor Factory created Newport_Sofa_Wood
+[2021.02.28-20.06.39:929][954]LogActorFactory: Actor Factory created Newport_Sofa_Wood
+[2021.02.28-20.06.42:335][211]Cmd: TRANSACTION UNDO
+[2021.02.28-20.06.42:335][211]LogEditorTransaction: Undo Rotate Actors
+[2021.02.28-20.06.43:188][258]Cmd: MODE ROTGRID=1
+[2021.02.28-20.06.56:875][620]LogActorFactory: Actor Factory created Newport_Sofa_Leather
+[2021.02.28-20.06.57:517][660]LogActorFactory: Actor Factory created Newport_Sofa_Leather
+[2021.02.28-20.07.22:436][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Sofa_Wood)
+[2021.02.28-20.07.51:097][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Sofa_Leather)
+[2021.02.28-20.07.57:030][712]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Newport_Sofa_Wood)
+[2021.02.28-20.07.57:670][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Sofa_Leather)
+[2021.02.28-20.07.59:823][979]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Sofa/Newport_Sofa_Leather.Newport_Sofa_Leather
+[2021.02.28-20.08.00:145][979]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.02.28-20.08.00:145][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-20.08.24:848][758]LogSlate: Window 'Newport_Sofa_Leather' being destroyed
+[2021.02.28-20.08.24:855][758]LogSlate: Window 'Newport_Sofa_Leather' being destroyed
+[2021.02.28-20.08.24:856][758]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.02.28-20.08.24:856][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-20.08.34:142][753]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Loveseat_Inst)
+[2021.02.28-20.08.48:002][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2021.02.28-20.08.48:053][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.02.28-20.08.49:725][194]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/GrayBox00292DBD4894B9EB1DD04281AB8D2696A09.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/VirtualRealityBP/Testing/Maps/GrayBox002.umap'
+[2021.02.28-20.08.49:802][194]LogFileHelpers: Saving map 'GrayBox002' took 1.770
+[2021.02.28-20.08.54:525][194]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/GrayBox002_BuiltData9C6C21A44ABBD3577DC4669B38876A54.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/VirtualRealityBP/Testing/Maps/GrayBox002_BuiltData.uasset'
+[2021.02.28-20.08.54:564][194]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Newport_Sofa_Wood0EB1B23A4CE217366C9B03823B5F9832.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Seating/Newport_Collection/Newport_Sofa/Newport_Sofa_Wood.uasset'
+[2021.02.28-20.08.54:723][194]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Newport_Sofa_Leather4B345CEF4ABCA1D6A2C8FF9118ECAD88.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Seating/Newport_Collection/Newport_Sofa/Newport_Sofa_Leather.uasset'
+[2021.02.28-20.08.54:754][194]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.28-20.08.54:754][194]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002
+[2021.02.28-20.08.54:754][194]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Testing/Maps/GrayBox002_BuiltData.GrayBox002_BuiltData
+[2021.02.28-20.08.54:754][194]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Sofa/Newport_Sofa_Wood.Newport_Sofa_Wood
+[2021.02.28-20.08.54:754][194]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Sofa/Newport_Sofa_Leather.Newport_Sofa_Leather
