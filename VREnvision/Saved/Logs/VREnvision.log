@@ -1596,3 +1596,22 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.28-16.39.20:697][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
 [2021.02.28-16.39.20:705][530]LogEditorActor: Deleted 1 Actors (0.063 secs)
 [2021.02.28-16.39.40:863][896]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Loveseat_Tan_INST)
+[2021.02.28-16.40.41:480][612]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Window_Frame_4)
+[2021.02.28-16.40.44:215][916]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.28-16.41.21:932][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Chair)
+[2021.02.28-16.41.30:106][765]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.02.28-16.41.35:940][389]Cmd: MODE ROTGRID=0
+[2021.02.28-16.41.46:535][534]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2021.02.28-16.41.47:505][642]Cmd: EDIT COPY
+[2021.02.28-16.41.47:762][670]Cmd: EDIT PASTE
+[2021.02.28-16.42.04:475][ 84]Cmd: EDIT COPY
+[2021.02.28-16.42.04:719][105]Cmd: EDIT PASTE
+[2021.02.28-16.42.19:112][568]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight5)
+[2021.02.28-16.42.24:997][172]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2021.02.28-16.42.37:054][544]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (KitchenLayout02_CabUpperDoor_016)
+[2021.02.28-16.42.40:656][917]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (samsungFrenchDoor_leftDoor)
+[2021.02.28-16.43.01:838][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (KitchenLayout01_DiningRoomCab_Slab)
+[2021.02.28-16.43.25:731][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Chair)
+[2021.02.28-16.43.29:032][427]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Loveseat_Tan_INST)
+[2021.02.28-16.44.03:786][933]Cmd: TRANSACTION UNDO
+[2021.02.28-16.44.03:786][933]LogEditorTransaction: Undo Create Actors
