@@ -1860,3 +1860,74 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.28-16.56.43:887][984]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002
 [2021.02.28-16.56.43:887][984]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Testing/Maps/GrayBox002_BuiltData.GrayBox002_BuiltData
 [2021.02.28-16.56.43:887][984]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Seating/Newport_Collection/Newport_3-Piece_Sectional/Newport_3_Piece_Sectional.Newport_3_Piece_Sectional
+[2021.02.28-17.03.36:139][115]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Holifield_End_Table_Box001)
+[2021.02.28-17.03.37:991][303]Cmd: TRANSACTION UNDO
+[2021.02.28-17.03.37:991][303]LogEditorTransaction: Undo Move Actors
+[2021.02.28-17.03.38:457][318]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Loveseat_Tan_INST2)
+[2021.02.28-17.03.38:983][368]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Newport_Loveseat_Tan_INST)
+[2021.02.28-17.03.42:814][741]Cmd: TRANSACTION UNDO
+[2021.02.28-17.03.42:814][741]LogEditorTransaction: Undo Move Actors
+[2021.02.28-17.06.39:598][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.02.28-17.06.41:269][  4]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/GrayBox002_Auto40AC6D3B54AA3073350E216A98C47C89A.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Saved/Autosaves/Game/VirtualRealityBP/Testing/Maps/GrayBox002_Auto4.umap'
+[2021.02.28-17.06.41:275][  4]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Testing/Maps/GrayBox002' took 1.691
+[2021.02.28-17.06.41:275][  4]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.691
+[2021.02.28-18.55.44:373][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_01)
+[2021.02.28-18.56.59:653][ 95]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Loveseat_Tan_INST)
+[2021.02.28-19.08.51:797][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_01)
+[2021.02.28-19.09.21:015][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall15_StaticMesh)
+[2021.02.28-19.09.24:260][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall15_StaticMesh)
+[2021.02.28-19.09.24:547][715]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.02.28-19.09.33:204][627]Cmd: TRANSACTION UNDO
+[2021.02.28-19.09.33:204][627]LogEditorTransaction: Undo Scale Components
+[2021.02.28-19.09.36:558][941]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.02.28-19.09.36:957][969]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.02.28-19.09.37:423][  6]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.28-19.09.38:236][ 94]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall15_StaticMesh)
+[2021.02.28-19.10.08:812][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Loveseat_Tan_INST)
+[2021.02.28-19.10.09:388][789]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Newport_Loveseat_Tan_INST2)
+[2021.02.28-19.10.11:022][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Loveseat_Tan_INST)
+[2021.02.28-19.10.11:585][ 22]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Newport_Loveseat_Tan_INST2)
+[2021.02.28-19.10.13:759][261]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Newport_Loveseat_Tan_INST2)
+[2021.02.28-19.10.14:266][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Loveseat_Tan_INST)
+[2021.02.28-19.10.34:663][690]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Loveseat_Tan_INST2)
+[2021.02.28-19.11.01:887][512]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2021.02.28-19.11.03:704][512]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/GrayBox002_Auto52F44AAFE4A8094D4A9CEDF90FA9C700D.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Saved/Autosaves/Game/VirtualRealityBP/Testing/Maps/GrayBox002_Auto5.umap'
+[2021.02.28-19.11.03:713][512]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Testing/Maps/GrayBox002' took 1.847
+[2021.02.28-19.11.03:713][512]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.847
+[2021.02.28-19.13.25:791][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Sofa)
+[2021.02.28-19.13.27:471][520]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Sofa)
+[2021.02.28-19.14.42:250][370]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Sofa)
+[2021.02.28-19.14.46:314][780]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Loveseat_Tan_INST2)
+[2021.02.28-19.14.48:783][ 40]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Newport_Loveseat_Tan_INST)
+[2021.02.28-19.14.50:517][232]Cmd: TRANSACTION UNDO
+[2021.02.28-19.14.50:517][232]LogEditorTransaction: Undo Move Actors
+[2021.02.28-19.14.52:733][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Sofa)
+[2021.02.28-19.21.04:306][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.02.28-19.21.06:085][708]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/GrayBox002_Auto6120EC75442009B7FF86F5ABFD712E25E.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Saved/Autosaves/Game/VirtualRealityBP/Testing/Maps/GrayBox002_Auto6.umap'
+[2021.02.28-19.21.06:090][708]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Testing/Maps/GrayBox002' took 1.798
+[2021.02.28-19.21.06:090][708]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.798
+[2021.02.28-19.49.13:759][208]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Loveseat_Tan_INST2)
+[2021.02.28-19.49.15:349][287]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Loveseat_Tan_INST)
+[2021.02.28-19.49.16:201][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Loveseat_Tan_INST2)
+[2021.02.28-19.49.20:682][897]Cmd: DELETE
+[2021.02.28-19.49.20:683][897]Cmd: ACTOR DELETE
+[2021.02.28-19.49.20:793][897]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.28-19.49.20:835][897]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2021.02.28-19.49.20:861][897]LogEditorActor: Deleted 1 Actors (0.148 secs)
+[2021.02.28-19.49.21:217][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Loveseat_Tan_INST)
+[2021.02.28-19.50.15:271][289]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Sofa)
+[2021.02.28-19.50.29:491][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_StaticMesh)
+[2021.02.28-19.51.17:636][454]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_01)
+[2021.02.28-19.51.23:155][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.02.28-19.51.25:060][950]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/GrayBox002_Auto760F2A08E40BCC0A8470AF0A4384F78E7.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Saved/Autosaves/Game/VirtualRealityBP/Testing/Maps/GrayBox002_Auto7.umap'
+[2021.02.28-19.51.25:078][950]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Testing/Maps/GrayBox002' took 1.940
+[2021.02.28-19.51.25:078][950]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.940
+[2021.02.28-19.52.02:508][153]Cmd: TRANSACTION UNDO
+[2021.02.28-19.52.02:508][153]LogEditorTransaction: Undo Move Actors
+[2021.02.28-19.52.18:790][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (KitchenLayout01_Box047)
+[2021.02.28-19.52.28:152][974]Cmd: TRANSACTION UNDO
+[2021.02.28-19.52.28:153][974]LogEditorTransaction: Undo Set Actor Visibility
+[2021.02.28-19.52.30:889][210]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (KitchenLayout01_Box046)
+[2021.02.28-19.52.31:488][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (KitchenLayout02_RaisedCounter)
+[2021.02.28-19.53.28:966][679]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.02.28-19.53.29:480][710]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_01)
