@@ -6109,3 +6109,26 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.28-21.36.51:065][898]MapCheck: Warning: SM_Door_2 Static mesh actor has NULL StaticMesh property 
 [2021.02.28-21.36.51:065][898]MapCheck: Warning: SM_DoorFrame_5 Static mesh actor has NULL StaticMesh property 
 [2021.02.28-21.36.51:065][898]MapCheck: Map check complete: 1 Error(s), 2 Warning(s), took 4.381ms to complete.
+[2021.02.28-21.37.32:577][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.02.28-21.37.32:630][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.02.28-21.37.34:332][576]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/GrayBox0028646DF7C41D40ACE361595B8ACE7166E.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/VirtualRealityBP/Testing/Maps/GrayBox002.umap'
+[2021.02.28-21.37.34:392][576]LogFileHelpers: Saving map 'GrayBox002' took 1.779
+[2021.02.28-21.37.38:950][576]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/GrayBox002_BuiltDataBE237C234081488B69C74E98A03012CD.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/VirtualRealityBP/Testing/Maps/GrayBox002_BuiltData.uasset'
+[2021.02.28-21.37.38:960][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Environment/HDRI/HDRI_Inst" FILE="../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Environment/HDRI/HDRI_Inst.uasset" SILENT=true
+[2021.02.28-21.37.38:973][576]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/HDRI_InstAB89147A4962F4738617F1A3922C7613.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Environment/HDRI/HDRI_Inst.uasset'
+[2021.02.28-21.37.39:001][576]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Newport_Loveseat_TanAB54CA354823BBAED6654BA8C83B120A.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Seating/Newport_Collection/Materials/Loveseat/Newport_Loveseat_Tan.uasset'
+[2021.02.28-21.37.39:032][576]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Newport_Loveseat_Wood0C26689A4D3C85EA8C9F719C07415FAC.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Seating/Newport_Collection/Materials/Loveseat/Newport_Loveseat_Wood.uasset'
+[2021.02.28-21.37.39:061][576]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Newport_Sofa_TanA74842904116051AE677548A4E5F59C5.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Seating/Newport_Collection/Materials/Sofa/Newport_Sofa_Tan.uasset'
+[2021.02.28-21.37.39:318][576]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Newport_Sofa_Inst4C328FA9479526AFC3CB74B95E6E1332.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Seating/Newport_Collection/Newport_Sofa_Inst.uasset'
+[2021.02.28-21.37.39:351][576]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Newport_Sofa_Wood24D475EF48398E714831378BD6C03334.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Seating/Newport_Collection/Materials/Sofa/Newport_Sofa_Wood.uasset'
+[2021.02.28-21.37.39:476][576]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Newport_Sofa_Leather_OcclusionRo1B0670EC40E65AC32897529F4D02312F.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Seating/Newport_Collection/Textures/Newport_Sofa_Black/Newport_Sofa_Leather_OcclusionRoughnessMetallic.uasset'
+[2021.02.28-21.37.39:528][576]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.28-21.37.39:528][576]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002
+[2021.02.28-21.37.39:528][576]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Testing/Maps/GrayBox002_BuiltData.GrayBox002_BuiltData
+[2021.02.28-21.37.39:528][576]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Geometry/Environment/HDRI/HDRI_Inst.HDRI_Inst
+[2021.02.28-21.37.39:528][576]LogContentValidation: Display: Validating Material /Game/Geometry/Furniture/Seating/Newport_Collection/Materials/Loveseat/Newport_Loveseat_Tan.Newport_Loveseat_Tan
+[2021.02.28-21.37.39:528][576]LogContentValidation: Display: Validating Material /Game/Geometry/Furniture/Seating/Newport_Collection/Materials/Loveseat/Newport_Loveseat_Wood.Newport_Loveseat_Wood
+[2021.02.28-21.37.39:528][576]LogContentValidation: Display: Validating Material /Game/Geometry/Furniture/Seating/Newport_Collection/Materials/Sofa/Newport_Sofa_Tan.Newport_Sofa_Tan
+[2021.02.28-21.37.39:528][576]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Sofa_Inst.Newport_Sofa_Inst
+[2021.02.28-21.37.39:528][576]LogContentValidation: Display: Validating Material /Game/Geometry/Furniture/Seating/Newport_Collection/Materials/Sofa/Newport_Sofa_Wood.Newport_Sofa_Wood
+[2021.02.28-21.37.39:528][576]LogContentValidation: Display: Validating Texture2D /Game/Geometry/Furniture/Seating/Newport_Collection/Textures/Newport_Sofa_Black/Newport_Sofa_Leather_OcclusionRoughnessMetallic.Newport_Sofa_Leather_OcclusionRoughnessMetallic
