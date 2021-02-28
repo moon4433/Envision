@@ -784,3 +784,228 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.28-16.04.14:145][132]LogContentValidation: Display: Validating Texture2D /Game/Geometry/Furniture/Seating/Newport_Collection/Textures/Newport_Loveseat_Tan/Newport_Loveseat_Wood_OcclusionRoughnessMetallic.Newport_Loveseat_Wood_OcclusionRoughnessMetallic
 [2021.02.28-16.04.17:118][452]AssetReimport: Importing new asset /Game/Geometry/Furniture/Seating/Newport_Collection/Textures/Newport_Loveseat_Tan/Newport_Loveseat_Wood_Normal.
 [2021.02.28-16.04.17:118][452]AssetReimport: Importing new asset /Game/Geometry/Furniture/Seating/Newport_Collection/Textures/Newport_Loveseat_Tan/Newport_Loveseat_Wood_OcclusionRoughnessMetallic.
+[2021.02.28-16.04.45:604][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.02.28-16.04.47:403][621]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/GrayBox002_Auto11D55279D47155DAB7F2EA48949328174.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Saved/Autosaves/Game/VirtualRealityBP/Testing/Maps/GrayBox002_Auto1.umap'
+[2021.02.28-16.04.47:423][621]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Testing/Maps/GrayBox002' took 1.836
+[2021.02.28-16.04.47:423][621]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.836
+[2021.02.28-16.06.27:811][702]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Newport_Loveseat_Tan59C6EB164BD043C31F8FDA879270F2CD.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Seating/Newport_Collection/Materials/Newport_Loveseat_Tan.uasset'
+[2021.02.28-16.06.27:997][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.02.28-16.06.28:025][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.02.28-16.06.28:040][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.02.28-16.06.28:199][702]AssetCheck: New page: Asset Save: Newport_Loveseat_Tan
+[2021.02.28-16.06.28:199][702]LogContentValidation: Display: Validating Material /Game/Geometry/Furniture/Seating/Newport_Collection/Materials/Newport_Loveseat_Tan.Newport_Loveseat_Tan
+[2021.02.28-16.06.29:902][864]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Geometry/Furniture/Seating/Newport_Collection/Materials/Newport_Loveseat_Tan.Newport_Loveseat_Tan
+[2021.02.28-16.06.29:905][864]LogMaterial: Display: Missing cached shader map for material Newport_Loveseat_Tan, compiling. 
+[2021.02.28-16.06.30:382][864]LogMaterial: Display: Missing cached shader map for material Newport_Loveseat_Tan, compiling. 
+[2021.02.28-16.06.30:391][864]LogMaterial: Display: Missing cached shader map for material Newport_Loveseat_Tan, compiling. 
+[2021.02.28-16.06.30:404][864]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.02.28-16.06.30:404][864]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.02.28-16.06.30:404][864]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.02.28-16.06.30:404][864]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.02.28-16.06.30:404][864]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.02.28-16.06.30:404][864]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.02.28-16.06.30:404][864]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.02.28-16.06.30:404][864]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.02.28-16.06.30:483][864]LogSlate: Took 0.009093 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.02.28-16.06.31:853][905]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.02.28-16.06.56:101][872]LogMaterial: Display: Missing cached shader map for material Newport_Loveseat_Tan, compiling. 
+[2021.02.28-16.06.56:110][872]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.02.28-16.06.56:110][872]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.02.28-16.06.56:110][872]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.02.28-16.06.56:110][872]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.02.28-16.06.56:110][872]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.02.28-16.06.56:110][872]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.02.28-16.06.56:110][872]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.02.28-16.06.56:110][872]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.02.28-16.06.56:110][872]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.02.28-16.06.57:388][912]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.02.28-16.07.08:564][594]LogMaterial: Display: Missing cached shader map for material Newport_Loveseat_Tan, compiling. 
+[2021.02.28-16.07.08:578][594]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.02.28-16.07.08:578][594]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.02.28-16.07.08:578][594]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.02.28-16.07.08:578][594]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.02.28-16.07.08:578][594]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.02.28-16.07.08:578][594]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.02.28-16.07.08:578][594]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.02.28-16.07.08:578][594]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.02.28-16.07.08:580][594]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.02.28-16.07.08:591][594]LogMaterial: Display: Missing cached shader map for material Newport_Loveseat_Tan, compiling. 
+[2021.02.28-16.07.09:553][626]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.02.28-16.07.09:588][628]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.02.28-16.07.10:325][650]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.02.28-16.07.10:503][657]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2021.02.28-16.07.11:316][691]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.02.28-16.07.11:340][692]LogMaterial: Display: Missing cached shader map for material Newport_Loveseat_Tan, compiling. 
+[2021.02.28-16.07.11:352][692]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.02.28-16.07.11:363][692]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.02.28-16.07.16:714][887]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2021.02.28-16.07.16:813][891]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.02.28-16.07.16:946][897]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.02.28-16.07.16:988][899]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2021.02.28-16.07.17:007][900]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.02.28-16.07.17:372][915]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.02.28-16.07.17:755][930]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.02.28-16.07.17:908][936]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.02.28-16.07.18:854][972]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.02.28-16.07.19:606][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.02.28-16.07.19:709][  4]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.02.28-16.07.20:630][ 41]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.02.28-16.07.28:928][618]LogMaterial: Display: Missing cached shader map for material Newport_Loveseat_Tan, compiling. 
+[2021.02.28-16.07.28:936][618]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.02.28-16.07.28:978][619]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.02.28-16.07.28:978][619]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.02.28-16.07.28:978][619]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.02.28-16.07.28:978][619]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.02.28-16.07.28:978][619]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.02.28-16.07.28:978][619]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.02.28-16.07.28:978][619]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.02.28-16.07.28:978][619]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.02.28-16.07.29:844][642]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.02.28-16.07.34:203][808]LogMaterial: Display: Missing cached shader map for material Newport_Loveseat_Tan, compiling. 
+[2021.02.28-16.07.34:213][808]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.02.28-16.07.34:213][808]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.02.28-16.07.34:220][808]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.02.28-16.07.35:081][826]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.02.28-16.07.35:336][834]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.02.28-16.07.35:535][839]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.02.28-16.07.35:613][842]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.02.28-16.07.35:749][847]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.02.28-16.07.35:749][847]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.02.28-16.07.35:956][855]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.02.28-16.07.42:113][ 49]MaterialEditorStats: Base pass shader: 792 instructions
+[2021.02.28-16.07.42:113][ 49]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 859 instructions
+[2021.02.28-16.07.42:113][ 49]MaterialEditorStats: Base pass vertex shader: 237 instructions
+[2021.02.28-16.07.42:113][ 49]MaterialEditorStats: Texture samplers: 5/16
+[2021.02.28-16.07.42:113][ 49]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.02.28-16.07.42:113][ 49]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.28-16.07.53:973][  2]LogMaterial: Display: Missing cached shader map for material Newport_Loveseat_Tan, compiling. 
+[2021.02.28-16.07.53:989][  2]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.02.28-16.07.53:989][  2]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.02.28-16.07.53:989][  2]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.02.28-16.07.53:989][  2]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.02.28-16.07.53:989][  2]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.02.28-16.07.53:989][  2]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.02.28-16.07.53:989][  2]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.02.28-16.07.53:989][  2]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.02.28-16.07.53:991][  2]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.02.28-16.07.53:999][  2]LogMaterial: Display: Missing cached shader map for material Newport_Loveseat_Tan, compiling. 
+[2021.02.28-16.07.54:963][ 27]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.02.28-16.07.55:060][ 31]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.02.28-16.07.55:828][ 56]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.02.28-16.07.56:153][ 62]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2021.02.28-16.07.56:618][ 78]LogMaterial: Display: Missing cached shader map for material Newport_Loveseat_Tan, compiling. 
+[2021.02.28-16.07.56:641][ 78]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.02.28-16.07.56:807][ 83]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.02.28-16.07.57:001][ 91]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.02.28-16.07.58:653][140]LogMaterial: Display: Missing cached shader map for material Newport_Loveseat_Tan, compiling. 
+[2021.02.28-16.07.58:686][140]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.02.28-16.08.01:174][209]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.02.28-16.08.01:226][211]LogMaterial: Display: Missing cached shader map for material Newport_Loveseat_Tan, compiling. 
+[2021.02.28-16.08.01:253][211]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.02.28-16.08.01:680][221]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2021.02.28-16.08.01:811][226]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.02.28-16.08.01:880][229]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2021.02.28-16.08.02:019][235]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2021.02.28-16.08.02:044][236]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.02.28-16.08.02:811][260]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.02.28-16.08.03:910][293]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.02.28-16.08.04:614][319]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.02.28-16.08.04:945][325]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.02.28-16.08.06:081][345]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.02.28-16.08.06:259][351]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Geometry/Furniture/Seating/Newport_Collection/Textures/Newport_Loveseat_Tan/Newport_Loveseat_Leather_OcclusionRoughnessMetallic.Newport_Loveseat_Leather_OcclusionRoughnessMetallic
+[2021.02.28-16.08.06:277][351]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2021.02.28-16.08.06:905][369]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.02.28-16.08.07:885][416]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.02.28-16.08.09:055][453]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.02.28-16.08.11:361][470]LogSlate: Window 'Message' being destroyed
+[2021.02.28-16.08.11:368][470]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Geometry/Furniture/Seating/Newport_Collection/Materials/Newport_Loveseat_Tan.Newport_Loveseat_Tan
+(Selecting 'No' will cause all changes to be lost!)
+[2021.02.28-16.08.11:402][471]MaterialEditorStats: Base pass shader: 796 instructions
+[2021.02.28-16.08.11:402][471]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 867 instructions
+[2021.02.28-16.08.11:402][471]MaterialEditorStats: Base pass vertex shader: 237 instructions
+[2021.02.28-16.08.11:402][471]MaterialEditorStats: Texture samplers: 6/16
+[2021.02.28-16.08.11:402][471]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.02.28-16.08.11:402][471]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.28-16.08.14:678][721]LogMaterial: Display: Missing cached shader map for material Newport_Loveseat_Tan, compiling. 
+[2021.02.28-16.08.14:723][722]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.02.28-16.08.14:723][722]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.02.28-16.08.14:723][722]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.02.28-16.08.14:723][722]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.02.28-16.08.14:723][722]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.02.28-16.08.14:723][722]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.02.28-16.08.14:723][722]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.02.28-16.08.14:723][722]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.02.28-16.08.15:677][760]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.02.28-16.08.21:195][942]MaterialEditorStats: Base pass shader: 792 instructions
+[2021.02.28-16.08.21:195][942]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 859 instructions
+[2021.02.28-16.08.21:195][942]MaterialEditorStats: Base pass vertex shader: 237 instructions
+[2021.02.28-16.08.21:195][942]MaterialEditorStats: Texture samplers: 5/16
+[2021.02.28-16.08.21:195][942]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.02.28-16.08.21:195][942]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.28-16.08.24:844][ 84]LogSlate: Window 'Message' being destroyed
+[2021.02.28-16.08.24:852][ 84]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Geometry/Furniture/Seating/Newport_Collection/Materials/Newport_Loveseat_Tan.Newport_Loveseat_Tan
+(Selecting 'No' will cause all changes to be lost!)
+[2021.02.28-16.08.27:608][288]LogMaterialEditor: Saving and Compiling material Newport_Loveseat_Tan
+[2021.02.28-16.08.28:307][288]LogMaterial: Display: Missing cached shader map for material Newport_Loveseat_Tan, compiling. 
+[2021.02.28-16.08.28:341][288]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.02.28-16.08.28:341][288]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.02.28-16.08.28:341][288]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.02.28-16.08.28:341][288]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.02.28-16.08.28:341][288]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.02.28-16.08.28:341][288]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.02.28-16.08.28:341][288]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.02.28-16.08.28:341][288]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.02.28-16.08.28:493][288]LogMaterial: Display: Missing cached shader map for material Newport_Loveseat_Tan, compiling. 
+[2021.02.28-16.08.28:716][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.02.28-16.08.28:740][288]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.28-16.08.29:283][288]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2021.02.28-16.08.29:283][288]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2021.02.28-16.08.29:819][288]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2021.02.28-16.08.30:106][288]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.02.28-16.08.30:106][288]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.02.28-16.08.30:112][288]TextureStreamingBuild: Display: Compiling optional shaders took 1.382 seconds.
+[2021.02.28-16.08.30:137][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.02.28-16.08.35:036][288]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.02.28-16.08.35:036][288]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2021.02.28-16.08.35:036][288]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.02.28-16.08.35:571][288]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.02.28-16.08.35:571][288]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.02.28-16.08.35:571][288]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.02.28-16.08.36:107][288]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.02.28-16.08.36:642][288]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.02.28-16.08.37:178][288]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.02.28-16.08.42:378][288]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Newport_Loveseat_TanAD02A76C43D5A2B2160CB7922048F818.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Seating/Newport_Collection/Materials/Newport_Loveseat_Tan.uasset'
+[2021.02.28-16.08.42:409][288]AssetCheck: New page: Asset Save: Newport_Loveseat_Tan
+[2021.02.28-16.08.42:409][288]LogContentValidation: Display: Validating Material /Game/Geometry/Furniture/Seating/Newport_Collection/Materials/Newport_Loveseat_Tan.Newport_Loveseat_Tan
+[2021.02.28-16.08.42:414][288]MaterialEditorStats: Base pass shader: 792 instructions
+[2021.02.28-16.08.42:414][288]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 859 instructions
+[2021.02.28-16.08.42:414][288]MaterialEditorStats: Base pass vertex shader: 237 instructions
+[2021.02.28-16.08.42:414][288]MaterialEditorStats: Texture samplers: 6/16
+[2021.02.28-16.08.42:414][288]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.02.28-16.08.42:414][288]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.28-16.08.46:536][631]LogSlate: Window 'Newport_Loveseat_Tan' being destroyed
+[2021.02.28-16.08.46:543][631]LogSlate: Window 'Newport_Loveseat_Tan' being destroyed
+[2021.02.28-16.08.46:594][631]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.02.28-16.08.46:594][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-16.08.50:915][ 39]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Geometry/Furniture/Seating/Newport_Collection/Textures/Newport_Loveseat_Tan/Newport_Loveseat_Leather_OcclusionRoughnessMetallic.Newport_Loveseat_Leather_OcclusionRoughnessMetallic
+[2021.02.28-16.08.53:089][152]LogTexture: Display: Building textures: Newport_Loveseat_Leather_OcclusionRoughnessMetallic (AutoDXT, 4096X4096)
+[2021.02.28-16.08.56:206][218]LogSlate: Window 'Newport_Loveseat_Leather_OcclusionRoughnessMetallic' being destroyed
+[2021.02.28-16.08.56:214][218]LogSlate: Window 'Newport_Loveseat_Leather_OcclusionRoughnessMetallic' being destroyed
+[2021.02.28-16.08.57:250][321]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Geometry/Furniture/Seating/Newport_Collection/Textures/Newport_Loveseat_Tan/Newport_Loveseat_Wood_OcclusionRoughnessMetallic.Newport_Loveseat_Wood_OcclusionRoughnessMetallic
+[2021.02.28-16.08.58:988][409]LogTexture: Display: Building textures: Newport_Loveseat_Wood_OcclusionRoughnessMetallic (AutoDXT, 4096X4096)
+[2021.02.28-16.09.01:741][516]LogSlate: Window 'Newport_Loveseat_Wood_OcclusionRoughnessMetallic' being destroyed
+[2021.02.28-16.09.01:748][516]LogSlate: Window 'Newport_Loveseat_Wood_OcclusionRoughnessMetallic' being destroyed
+[2021.02.28-16.09.08:996][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.02.28-16.09.09:044][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.02.28-16.09.10:900][ 93]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/GrayBox00295F7476F4D9CA213C6AD29BC267E3DF5.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/VirtualRealityBP/Testing/Maps/GrayBox002.umap'
+[2021.02.28-16.09.10:958][ 93]LogFileHelpers: Saving map 'GrayBox002' took 1.933
+[2021.02.28-16.09.14:994][ 93]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/GrayBox002_BuiltDataAB6AA5A644F6895F1DC0E6878C59B853.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/VirtualRealityBP/Testing/Maps/GrayBox002_BuiltData.uasset'
+[2021.02.28-16.09.15:156][ 93]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Newport_Loveseat_Leather_Occlusi41A8D870461C3CF38BC129B1CDCBE149.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Seating/Newport_Collection/Textures/Newport_Loveseat_Tan/Newport_Loveseat_Leather_OcclusionRoughnessMetallic.uasset'
+[2021.02.28-16.09.15:298][ 93]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Newport_Loveseat_Wood_OcclusionR090BB5EB412247DD01D8C581CE7ADF50.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Seating/Newport_Collection/Textures/Newport_Loveseat_Tan/Newport_Loveseat_Wood_OcclusionRoughnessMetallic.uasset'
+[2021.02.28-16.09.15:330][ 93]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.28-16.09.15:330][ 93]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002
+[2021.02.28-16.09.15:330][ 93]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Testing/Maps/GrayBox002_BuiltData.GrayBox002_BuiltData
+[2021.02.28-16.09.15:330][ 93]LogContentValidation: Display: Validating Texture2D /Game/Geometry/Furniture/Seating/Newport_Collection/Textures/Newport_Loveseat_Tan/Newport_Loveseat_Leather_OcclusionRoughnessMetallic.Newport_Loveseat_Leather_OcclusionRoughnessMetallic
+[2021.02.28-16.09.15:331][ 93]LogContentValidation: Display: Validating Texture2D /Game/Geometry/Furniture/Seating/Newport_Collection/Textures/Newport_Loveseat_Tan/Newport_Loveseat_Wood_OcclusionRoughnessMetallic.Newport_Loveseat_Wood_OcclusionRoughnessMetallic
