@@ -1278,3 +1278,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.28-20.47.57:541][102]LogFileHelpers: Auto-saving content packages took 0.240
 [2021.02.28-20.47.58:069][150]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Loveseat_Inst)
 [2021.02.28-20.48.03:818][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.28-20.52.56:360][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Loveseat_Inst)
+[2021.02.28-20.53.02:239][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Sofa_Inst)
+[2021.02.28-20.53.14:039][ 87]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Geometry/Furniture/Seating/Newport_Collection/Textures/Newport_Sofa_Blue/Newport_Sofa_Leather_OcclusionRoughnessMetallic.Newport_Sofa_Leather_OcclusionRoughnessMetallic
+[2021.02.28-20.53.15:853][217]LogSlate: Window 'Newport_Sofa_Leather_OcclusionRoughnessMetallic' being destroyed
+[2021.02.28-20.53.15:860][217]LogSlate: Window 'Newport_Sofa_Leather_OcclusionRoughnessMetallic' being destroyed
