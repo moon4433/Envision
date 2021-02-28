@@ -1096,3 +1096,185 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.28-20.41.16:962][135]LogSlate: Window 'Newport_Sofa_Tan' being destroyed
 [2021.02.28-20.41.17:025][135]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
 [2021.02.28-20.41.17:025][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-20.44.20:566][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Chair)
+[2021.02.28-20.44.22:097][285]Cmd: DELETE
+[2021.02.28-20.44.22:097][285]Cmd: ACTOR DELETE
+[2021.02.28-20.44.22:146][285]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.28-20.44.22:164][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.02.28-20.44.22:168][285]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2021.02.28-20.44.25:292][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Sofa_Leather)
+[2021.02.28-20.44.31:931][311]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Sofa_Wood)
+[2021.02.28-20.44.32:966][425]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Sofa_Leather)
+[2021.02.28-20.44.33:648][498]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Sofa_Wood)
+[2021.02.28-20.44.34:249][562]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Newport_Sofa_Leather)
+[2021.02.28-20.44.35:865][745]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Newport_Sofa_Leather)
+[2021.02.28-20.45.08:887][601]LogSlate: Window 'Create Merged Actor' being destroyed
+[2021.02.28-20.45.15:088][601]LogStaticMesh: Building static mesh Newport_Sofa_Inst...
+[2021.02.28-20.45.16:121][601]LogStaticMesh: Built static mesh [1.03s] /Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Sofa_Inst.Newport_Sofa_Inst
+[2021.02.28-20.45.27:867][408]LogSlate: Window 'Merge Actors' being destroyed
+[2021.02.28-20.45.27:874][408]LogSlate: Window 'Merge Actors' being destroyed
+[2021.02.28-20.45.29:849][623]Cmd: TRANSACTION UNDO
+[2021.02.28-20.45.29:849][623]LogEditorTransaction: Undo Move Actors
+[2021.02.28-20.45.38:197][446]Cmd: DELETE
+[2021.02.28-20.45.38:197][446]Cmd: ACTOR DELETE
+[2021.02.28-20.45.38:233][446]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.28-20.45.38:233][446]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.28-20.45.38:250][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.02.28-20.45.38:254][446]LogEditorActor: Deleted 2 Actors (0.057 secs)
+[2021.02.28-20.45.38:668][473]LogActorFactory: Actor Factory created Newport_Sofa_Inst
+[2021.02.28-20.45.39:445][520]LogActorFactory: Actor Factory created Newport_Sofa_Inst
+[2021.02.28-20.46.09:082][561]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Geometry/Furniture/Seating/Newport_Collection/Materials/Sofa/Newport_Sofa_Wood.Newport_Sofa_Wood
+[2021.02.28-20.46.09:083][561]LogMaterial: Display: Missing cached shader map for material Newport_Sofa_Wood, compiling. 
+[2021.02.28-20.46.09:196][561]LogMaterial: Display: Missing cached shader map for material Newport_Sofa_Wood, compiling. 
+[2021.02.28-20.46.09:204][561]LogMaterial: Display: Missing cached shader map for material Newport_Sofa_Wood, compiling. 
+[2021.02.28-20.46.09:220][561]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.02.28-20.46.09:220][561]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.02.28-20.46.09:220][561]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.02.28-20.46.09:220][561]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.02.28-20.46.09:220][561]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.02.28-20.46.09:220][561]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.02.28-20.46.09:220][561]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.02.28-20.46.09:220][561]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.02.28-20.46.10:464][603]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.02.28-20.46.15:065][789]LogMaterial: Display: Missing cached shader map for material Newport_Sofa_Wood, compiling. 
+[2021.02.28-20.46.15:077][789]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.02.28-20.46.15:077][789]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.02.28-20.46.15:083][789]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.02.28-20.46.15:573][804]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.02.28-20.46.15:927][811]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.02.28-20.46.16:205][817]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.02.28-20.46.16:267][820]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.02.28-20.46.16:389][823]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.02.28-20.46.16:389][823]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.02.28-20.46.16:492][828]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.02.28-20.46.20:637][968]LogMaterial: Display: Missing cached shader map for material Newport_Sofa_Wood, compiling. 
+[2021.02.28-20.46.20:647][968]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2021.02.28-20.46.20:647][968]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.02.28-20.46.20:663][968]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.02.28-20.46.20:664][968]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.02.28-20.46.21:165][984]LogMaterial: Display: Missing cached shader map for material Newport_Sofa_Wood, compiling. 
+[2021.02.28-20.46.21:198][984]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.02.28-20.46.21:205][984]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.02.28-20.46.22:165][  4]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.02.28-20.46.22:638][ 13]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.02.28-20.46.23:297][ 24]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.02.28-20.46.23:397][ 28]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.02.28-20.46.23:499][ 32]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.02.28-20.46.23:668][ 37]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.02.28-20.46.24:184][ 48]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.02.28-20.46.24:811][ 62]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.02.28-20.46.28:360][172]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.02.28-20.46.29:359][199]LogMaterial: Display: Missing cached shader map for material Newport_Sofa_Wood, compiling. 
+[2021.02.28-20.46.29:360][199]LogMaterial: Warning: /Engine/Transient.Newport_Sofa_Wood (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-20.46.29:360][199]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-20.46.29:375][199]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.02.28-20.46.29:391][199]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.02.28-20.46.29:419][199]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-20.46.31:741][303]LogMaterial: Display: Missing cached shader map for material Newport_Sofa_Wood, compiling. 
+[2021.02.28-20.46.31:742][303]LogMaterial: Warning: /Engine/Transient.Newport_Sofa_Wood (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-20.46.31:742][303]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-20.46.31:751][303]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.02.28-20.46.33:273][407]LogMaterial: Display: Missing cached shader map for material Newport_Sofa_Wood, compiling. 
+[2021.02.28-20.46.33:273][407]LogMaterial: Warning: /Engine/Transient.Newport_Sofa_Wood (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-20.46.33:273][407]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-20.46.33:282][407]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.02.28-20.46.35:293][552]LogMaterial: Display: Missing cached shader map for material Newport_Sofa_Wood, compiling. 
+[2021.02.28-20.46.35:293][552]LogMaterial: Warning: /Engine/Transient.Newport_Sofa_Wood (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-20.46.35:293][552]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-20.46.35:302][552]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.02.28-20.46.37:327][683]LogMaterial: Display: Missing cached shader map for material Newport_Sofa_Wood, compiling. 
+[2021.02.28-20.46.37:328][683]LogMaterial: Warning: /Engine/Transient.Newport_Sofa_Wood (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-20.46.37:328][683]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-20.46.37:334][683]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.02.28-20.46.50:120][707]LogMaterial: Display: Missing cached shader map for material Newport_Sofa_Wood, compiling. 
+[2021.02.28-20.46.50:120][707]LogMaterial: Warning: /Engine/Transient.Newport_Sofa_Wood (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-20.46.50:120][707]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-20.46.50:128][707]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.02.28-20.46.50:137][707]LogMaterial: Display: Missing cached shader map for material Newport_Sofa_Wood, compiling. 
+[2021.02.28-20.46.50:137][707]LogMaterial: Warning: /Engine/Transient.Newport_Sofa_Wood (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-20.46.50:137][707]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-20.46.50:140][707]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.02.28-20.46.50:140][707]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.02.28-20.46.50:140][707]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.02.28-20.46.50:140][707]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.02.28-20.46.59:698][431]LogMaterial: Display: Missing cached shader map for material Newport_Sofa_Wood, compiling. 
+[2021.02.28-20.46.59:699][431]LogMaterial: Warning: /Engine/Transient.Newport_Sofa_Wood (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-20.46.59:699][431]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-20.46.59:705][431]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.02.28-20.46.59:711][431]LogMaterial: Display: Missing cached shader map for material Newport_Sofa_Wood, compiling. 
+[2021.02.28-20.46.59:712][431]LogMaterial: Warning: /Engine/Transient.Newport_Sofa_Wood (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-20.46.59:712][431]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-20.46.59:715][431]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.02.28-20.46.59:715][431]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.02.28-20.46.59:715][431]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.02.28-20.46.59:715][431]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.02.28-20.47.07:803][ 53]LogMaterial: Display: Missing cached shader map for material Newport_Sofa_Wood, compiling. 
+[2021.02.28-20.47.07:815][ 53]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.02.28-20.47.07:816][ 53]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.02.28-20.47.07:816][ 53]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.02.28-20.47.07:816][ 53]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.02.28-20.47.07:816][ 53]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.02.28-20.47.07:816][ 53]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.02.28-20.47.07:816][ 53]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.02.28-20.47.07:816][ 53]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.02.28-20.47.07:817][ 53]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.02.28-20.47.07:824][ 53]LogMaterial: Display: Missing cached shader map for material Newport_Sofa_Wood, compiling. 
+[2021.02.28-20.47.08:765][ 77]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.02.28-20.47.09:200][ 92]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.02.28-20.47.09:722][106]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.02.28-20.47.10:167][113]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2021.02.28-20.47.10:279][117]LogMaterialEditor: Saving and Compiling material Newport_Sofa_Wood
+[2021.02.28-20.47.11:294][117]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.02.28-20.47.11:294][117]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.02.28-20.47.11:314][117]LogMaterial: Display: Missing cached shader map for material Newport_Sofa_Wood, compiling. 
+[2021.02.28-20.47.11:552][117]LogMaterial: Display: Missing cached shader map for material Newport_Sofa_Wood, compiling. 
+[2021.02.28-20.47.11:825][117]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2021.02.28-20.47.11:840][117]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.28-20.47.14:526][117]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2021.02.28-20.47.15:061][117]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 25
+[2021.02.28-20.47.15:061][117]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2021.02.28-20.47.15:061][117]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 23
+[2021.02.28-20.47.15:061][117]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2021.02.28-20.47.15:597][117]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 21
+[2021.02.28-20.47.16:132][117]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2021.02.28-20.47.16:132][117]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2021.02.28-20.47.17:204][117]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2021.02.28-20.47.17:739][117]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2021.02.28-20.47.18:275][117]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2021.02.28-20.47.18:275][117]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.02.28-20.47.18:572][117]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.02.28-20.47.18:579][117]TextureStreamingBuild: Display: Compiling optional shaders took 6.749 seconds.
+[2021.02.28-20.47.18:602][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.02.28-20.47.20:834][117]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2021.02.28-20.47.21:369][117]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2021.02.28-20.47.21:369][117]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.02.28-20.47.21:905][117]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.02.28-20.47.22:441][117]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2021.02.28-20.47.22:441][117]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.02.28-20.47.23:512][117]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.02.28-20.47.23:512][117]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.02.28-20.47.24:624][117]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2021.02.28-20.47.30:291][117]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Newport_Sofa_WoodC0EDAF5D4B1CC47F343C90B2E73B9F12.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Seating/Newport_Collection/Materials/Sofa/Newport_Sofa_Wood.uasset'
+[2021.02.28-20.47.30:326][117]AssetCheck: New page: Asset Save: Newport_Sofa_Wood
+[2021.02.28-20.47.30:326][117]LogContentValidation: Display: Validating Material /Game/Geometry/Furniture/Seating/Newport_Collection/Materials/Sofa/Newport_Sofa_Wood.Newport_Sofa_Wood
+[2021.02.28-20.47.30:329][117]MaterialEditorStats: Base pass shader: 802 instructions
+[2021.02.28-20.47.30:329][117]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 873 instructions
+[2021.02.28-20.47.30:329][117]MaterialEditorStats: Base pass vertex shader: 237 instructions
+[2021.02.28-20.47.30:329][117]MaterialEditorStats: Texture samplers: 8/16
+[2021.02.28-20.47.30:329][117]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.02.28-20.47.30:329][117]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.28-20.47.37:107][141]LogSlate: Window 'Newport_Sofa_Wood' being destroyed
+[2021.02.28-20.47.37:118][141]LogSlate: Window 'Newport_Sofa_Wood' being destroyed
+[2021.02.28-20.47.37:151][141]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.02.28-20.47.37:151][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-20.47.55:433][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.02.28-20.47.57:282][102]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/GrayBox002_Auto21755ABBC4471B3756BBF1A9C4DBE8841.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Saved/Autosaves/Game/VirtualRealityBP/Testing/Maps/GrayBox002_Auto2.umap'
+[2021.02.28-20.47.57:300][102]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Testing/Maps/GrayBox002' took 1.884
+[2021.02.28-20.47.57:300][102]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.884
+[2021.02.28-20.47.57:301][102]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Sofa_Inst] ([1] browsable assets)...
+[2021.02.28-20.47.57:310][102]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Sofa_Inst.Newport_Sofa_Inst]
+[2021.02.28-20.47.57:310][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Sofa_Inst]
+[2021.02.28-20.47.57:539][102]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Newport_Sofa_Inst_Auto203EF2C3B47666CF169E65FB781422804.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Saved/Autosaves/Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Sofa_Inst_Auto2.uasset'
+[2021.02.28-20.47.57:541][102]LogFileHelpers: Auto-saving content packages took 0.240
+[2021.02.28-20.47.58:069][150]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Loveseat_Inst)
+[2021.02.28-20.48.03:818][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
