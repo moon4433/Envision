@@ -1524,3 +1524,75 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.28-16.31.34:163][751]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002
 [2021.02.28-16.31.34:163][751]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Testing/Maps/GrayBox002_BuiltData.GrayBox002_BuiltData
 [2021.02.28-16.31.34:163][751]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Loveseat_Tan_INST.Newport_Loveseat_Tan_INST
+[2021.02.28-16.33.43:736][174]Cmd: TRANSACTION UNDO
+[2021.02.28-16.33.43:736][174]LogEditorTransaction: Undo Move Components
+[2021.02.28-16.34.21:639][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PabloLight_LargCone)
+[2021.02.28-16.34.23:080][666]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (PabloLight_MidCone)
+[2021.02.28-16.34.23:902][756]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (PabloLight_SmlCone)
+[2021.02.28-16.34.24:616][829]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (PabloLight_PabloLightBase)
+[2021.02.28-16.34.31:664][595]Cmd: TRANSACTION UNDO
+[2021.02.28-16.34.31:664][595]LogEditorTransaction: Undo Move Actors
+[2021.02.28-16.34.35:974][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PabloLight_LEDPar30Bulb01)
+[2021.02.28-16.34.36:941][122]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (PabloLight_LEDPar30Bulb02)
+[2021.02.28-16.34.37:667][199]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (PabloLight_LEDPar30Bulb03)
+[2021.02.28-16.35.05:774][831]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2021.02.28-16.35.05:775][831]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2021.02.28-16.35.12:866][574]Cmd: TRANSACTION UNDO
+[2021.02.28-16.35.12:866][574]LogEditorTransaction: Undo Move Actors
+[2021.02.28-16.35.13:239][586]Cmd: TRANSACTION UNDO
+[2021.02.28-16.35.13:239][586]LogEditorTransaction: Undo Create Actors
+[2021.02.28-16.35.36:097][ 61]Cmd: EDIT COPY
+[2021.02.28-16.35.36:304][ 81]Cmd: EDIT PASTE
+[2021.02.28-16.35.57:976][419]Cmd: EDIT COPY
+[2021.02.28-16.35.58:209][445]Cmd: EDIT PASTE
+[2021.02.28-16.36.43:005][540]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Loveseat_Tan_INST)
+[2021.02.28-16.36.45:532][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Sofa)
+[2021.02.28-16.37.19:736][381]LogMetaData: Removing '/Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Chair/Newport_Chair.Newport_Chair' ref from Metadata '/Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Chair.PackageMetaData'
+[2021.02.28-16.37.20:030][381]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Newport_Chair695F49164BB262765F593397A4E5818B.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Seating/Newport_Collection/Newport_Chair/Newport_Chair.uasset'
+[2021.02.28-16.37.20:048][381]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Newport_ChairAD739CCF4A8A5AF8A375DAAAC9437E2C.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Seating/Newport_Collection/Newport_Chair.uasset'
+[2021.02.28-16.37.20:212][381]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.28-16.37.20:212][381]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Chair/Newport_Chair.Newport_Chair
+[2021.02.28-16.37.20:212][381]LogContentValidation: Display: Validating ObjectRedirector /Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Chair.Newport_Chair
+[2021.02.28-16.37.45:589][815]LogMetaData: Removing '/Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Loveseat/Newport_Loveseat_Wood.Newport_Loveseat_Wood' ref from Metadata '/Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Loveseat_Wood.PackageMetaData'
+[2021.02.28-16.37.45:624][815]LogMetaData: Removing '/Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Loveseat/Newport_Loveseat_Leather.Newport_Loveseat_Leather' ref from Metadata '/Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Loveseat_Leather.PackageMetaData'
+[2021.02.28-16.37.45:658][815]LogMetaData: Removing '/Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Loveseat/Newport_Loveseat.Newport_Loveseat' ref from Metadata '/Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Loveseat.PackageMetaData'
+[2021.02.28-16.37.45:753][815]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Newport_Loveseat_Wood56704D5944D2179A77DD90B5CB0B1A47.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Seating/Newport_Collection/Newport_Loveseat/Newport_Loveseat_Wood.uasset'
+[2021.02.28-16.37.45:874][815]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Newport_Loveseat_Leather1743602B476545E7948AEDBE056B02D8.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Seating/Newport_Collection/Newport_Loveseat/Newport_Loveseat_Leather.uasset'
+[2021.02.28-16.37.45:999][815]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Newport_Loveseat7FFCD2144D68BF1A2B8A53BEA8DB5F96.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Seating/Newport_Collection/Newport_Loveseat/Newport_Loveseat.uasset'
+[2021.02.28-16.37.46:395][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2021.02.28-16.37.46:418][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.02.28-16.37.46:433][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.02.28-16.37.46:457][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.02.28-16.37.46:473][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.02.28-16.37.46:621][815]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.28-16.37.46:621][815]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Loveseat/Newport_Loveseat_Wood.Newport_Loveseat_Wood
+[2021.02.28-16.37.46:621][815]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Loveseat/Newport_Loveseat_Leather.Newport_Loveseat_Leather
+[2021.02.28-16.37.46:621][815]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Loveseat/Newport_Loveseat.Newport_Loveseat
+[2021.02.28-16.37.59:125][ 52]LogMetaData: Removing '/Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Sofa/Newport_Sofa.Newport_Sofa' ref from Metadata '/Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Sofa.PackageMetaData'
+[2021.02.28-16.37.59:566][ 52]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Newport_Sofa38DE4D674C0BA47403D68BA01425B7A8.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Seating/Newport_Collection/Newport_Sofa/Newport_Sofa.uasset'
+[2021.02.28-16.37.59:585][ 52]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Newport_SofaAF2B645A4DF851697B09409A20820935.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Seating/Newport_Collection/Newport_Sofa.uasset'
+[2021.02.28-16.37.59:740][ 52]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.28-16.37.59:740][ 52]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Sofa/Newport_Sofa.Newport_Sofa
+[2021.02.28-16.37.59:740][ 52]LogContentValidation: Display: Validating ObjectRedirector /Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Sofa.Newport_Sofa
+[2021.02.28-16.38.07:462][857]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Chair)
+[2021.02.28-16.38.13:737][481]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Sofa)
+[2021.02.28-16.38.47:715][793]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Users/nconn/OneDrive/Desktop/Capstone/FBX's/Newport_3 Piece Sectional.FBX)
+[2021.02.28-16.38.47:738][793]LogFbx: Loading FBX Scene from ../../../../../Users/nconn/OneDrive/Desktop/Capstone/FBX's/Newport_3 Piece Sectional.FBX
+[2021.02.28-16.38.47:874][793]LogFbx: FBX Scene Loaded Succesfully
+[2021.02.28-16.38.50:882][793]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.02.28-16.38.51:742][793]LogStaticMesh: Building static mesh Newport_3_Piece_Sectional...
+[2021.02.28-16.38.53:822][793]LogStaticMesh: Built static mesh [2.08s] /Game/Geometry/Furniture/Seating/Newport_Collection/Newport_3-Piece_Sectional/Newport_3_Piece_Sectional.Newport_3_Piece_Sectional
+[2021.02.28-16.38.54:343][793]LogStaticMesh: Warning: Newport_3_Piece_Sectional has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.02.28-16.38.54:343][793]LogStaticMesh: Warning: Newport_3_Piece_Sectional has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.02.28-16.38.54:887][793]FBXImport: Warning: Newport_3_Piece_Sectional has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.02.28-16.38.54:887][793]FBXImport: Warning: Newport_3_Piece_Sectional has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.02.28-16.38.57:664][ 30]LogSlate: Window 'Message Log' being destroyed
+[2021.02.28-16.38.57:670][ 30]LogSlate: Window 'Message Log' being destroyed
+[2021.02.28-16.39.04:897][754]LogActorFactory: Actor Factory created Newport_3_Piece_Sectional
+[2021.02.28-16.39.05:468][792]LogActorFactory: Actor Factory created Newport_3_Piece_Sectional
+[2021.02.28-16.39.20:642][530]Cmd: DELETE
+[2021.02.28-16.39.20:642][530]Cmd: ACTOR DELETE
+[2021.02.28-16.39.20:680][530]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.28-16.39.20:697][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.02.28-16.39.20:705][530]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2021.02.28-16.39.40:863][896]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Loveseat_Tan_INST)
