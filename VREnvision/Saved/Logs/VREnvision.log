@@ -1009,3 +1009,233 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.28-16.09.15:330][ 93]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Testing/Maps/GrayBox002_BuiltData.GrayBox002_BuiltData
 [2021.02.28-16.09.15:330][ 93]LogContentValidation: Display: Validating Texture2D /Game/Geometry/Furniture/Seating/Newport_Collection/Textures/Newport_Loveseat_Tan/Newport_Loveseat_Leather_OcclusionRoughnessMetallic.Newport_Loveseat_Leather_OcclusionRoughnessMetallic
 [2021.02.28-16.09.15:331][ 93]LogContentValidation: Display: Validating Texture2D /Game/Geometry/Furniture/Seating/Newport_Collection/Textures/Newport_Loveseat_Tan/Newport_Loveseat_Wood_OcclusionRoughnessMetallic.Newport_Loveseat_Wood_OcclusionRoughnessMetallic
+[2021.02.28-16.12.11:351][226]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Geometry/Furniture/Seating/Newport_Collection/Materials/Newport_Loveseat_Tan.Newport_Loveseat_Tan
+[2021.02.28-16.12.11:352][226]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.02.28-16.12.11:491][226]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.02.28-16.12.11:500][226]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.02.28-16.12.11:514][226]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.02.28-16.12.11:520][226]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.02.28-16.12.11:520][226]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.02.28-16.12.11:520][226]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.02.28-16.12.11:520][226]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.02.28-16.12.11:520][226]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.02.28-16.12.11:520][226]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.02.28-16.12.11:520][226]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.02.28-16.12.11:520][226]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.02.28-16.12.11:520][226]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.02.28-16.12.12:883][272]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.02.28-16.12.13:004][276]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.02.28-16.12.13:793][305]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.02.28-16.12.14:041][308]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.02.28-16.12.14:897][332]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.02.28-16.12.27:529][173]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.02.28-16.12.27:545][173]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.02.28-16.12.27:545][173]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.02.28-16.12.27:545][173]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.02.28-16.12.27:545][173]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.02.28-16.12.27:545][173]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.02.28-16.12.27:545][173]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.02.28-16.12.27:545][173]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.02.28-16.12.27:545][173]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.02.28-16.12.27:547][173]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.02.28-16.12.27:554][173]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.02.28-16.12.28:626][205]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.02.28-16.12.28:626][205]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.02.28-16.12.29:414][224]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2021.02.28-16.12.29:542][228]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2021.02.28-16.12.30:324][256]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.02.28-16.12.30:350][257]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.02.28-16.12.35:025][410]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.02.28-16.12.35:196][416]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.02.28-16.12.35:553][429]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.02.28-16.12.35:648][433]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.02.28-16.12.35:696][435]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.02.28-16.12.35:810][440]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.02.28-16.12.36:114][453]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.02.28-16.12.41:478][682]MaterialEditorStats: Base pass shader: 792 instructions
+[2021.02.28-16.12.41:478][682]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 859 instructions
+[2021.02.28-16.12.41:479][682]MaterialEditorStats: Base pass vertex shader: 237 instructions
+[2021.02.28-16.12.41:479][682]MaterialEditorStats: Texture samplers: 5/16
+[2021.02.28-16.12.41:479][682]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.02.28-16.12.41:479][682]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.28-16.12.49:356][290]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.02.28-16.12.49:369][290]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.02.28-16.12.49:369][290]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.02.28-16.12.49:369][290]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.02.28-16.12.49:369][290]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.02.28-16.12.49:369][290]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.02.28-16.12.49:369][290]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.02.28-16.12.49:369][290]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.02.28-16.12.49:369][290]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.02.28-16.12.49:371][290]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.02.28-16.12.50:338][320]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.02.28-16.12.50:391][322]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.02.28-16.12.51:135][346]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.02.28-16.12.51:343][354]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.02.28-16.12.52:076][380]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.02.28-16.13.09:453][853]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.02.28-16.13.09:461][853]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.02.28-16.13.09:494][854]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.02.28-16.13.09:494][854]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.02.28-16.13.09:494][854]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.02.28-16.13.09:494][854]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.02.28-16.13.09:494][854]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.02.28-16.13.09:494][854]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.02.28-16.13.09:494][854]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.02.28-16.13.09:494][854]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.02.28-16.13.10:418][883]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.02.28-16.13.16:938][147]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.02.28-16.13.16:950][147]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.02.28-16.13.16:950][147]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.02.28-16.13.16:950][147]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.02.28-16.13.16:950][147]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.02.28-16.13.16:950][147]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.02.28-16.13.16:950][147]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.02.28-16.13.16:950][147]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.02.28-16.13.16:950][147]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.02.28-16.13.16:952][147]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.02.28-16.13.16:958][147]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.02.28-16.13.17:922][177]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.02.28-16.13.18:006][180]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.02.28-16.13.18:775][199]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2021.02.28-16.13.18:973][208]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2021.02.28-16.13.19:413][224]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.02.28-16.13.19:453][224]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.02.28-16.13.19:733][234]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.02.28-16.13.19:756][235]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.02.28-16.13.21:784][286]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.02.28-16.13.21:811][286]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.02.28-16.13.24:191][346]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.02.28-16.13.24:524][359]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.02.28-16.13.24:552][359]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.02.28-16.13.24:695][361]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2021.02.28-16.13.24:824][365]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2021.02.28-16.13.24:824][365]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2021.02.28-16.13.24:956][370]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2021.02.28-16.13.24:982][371]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.02.28-16.13.25:717][399]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.02.28-16.13.26:815][431]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.02.28-16.13.27:213][441]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2021.02.28-16.13.27:736][451]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.02.28-16.13.28:542][470]LogMaterialEditor: Saving and Compiling material Newport_Loveseat_Tan
+[2021.02.28-16.13.29:563][470]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.02.28-16.13.29:563][470]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.02.28-16.13.29:581][470]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.02.28-16.13.29:811][470]LogMaterial: Display: Missing cached shader map for material Newport_Loveseat_Tan, compiling. 
+[2021.02.28-16.13.30:086][470]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.02.28-16.13.30:102][470]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.28-16.13.30:644][470]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 28
+[2021.02.28-16.13.31:716][470]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 27
+[2021.02.28-16.13.31:716][470]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 26
+[2021.02.28-16.13.31:716][470]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 25
+[2021.02.28-16.13.32:251][470]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2021.02.28-16.13.32:251][470]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2021.02.28-16.13.32:251][470]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2021.02.28-16.13.32:787][470]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 21
+[2021.02.28-16.13.32:787][470]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2021.02.28-16.13.33:322][470]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2021.02.28-16.13.33:858][470]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2021.02.28-16.13.33:858][470]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2021.02.28-16.13.34:394][470]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2021.02.28-16.13.34:394][470]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2021.02.28-16.13.34:736][470]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.02.28-16.13.34:744][470]TextureStreamingBuild: Display: Compiling optional shaders took 4.650 seconds.
+[2021.02.28-16.13.34:783][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.02.28-16.13.37:551][470]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.02.28-16.13.38:087][470]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2021.02.28-16.13.38:622][470]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.02.28-16.13.38:622][470]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.02.28-16.13.39:158][470]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.02.28-16.13.39:158][470]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.02.28-16.13.40:229][470]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.02.28-16.13.40:229][470]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.02.28-16.13.41:300][470]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2021.02.28-16.13.45:497][470]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Newport_Loveseat_Tan22646A15477234AF06F790BBE306ACF9.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Seating/Newport_Collection/Materials/Newport_Loveseat_Tan.uasset'
+[2021.02.28-16.13.45:532][470]AssetCheck: New page: Asset Save: Newport_Loveseat_Tan
+[2021.02.28-16.13.45:532][470]LogContentValidation: Display: Validating Material /Game/Geometry/Furniture/Seating/Newport_Collection/Materials/Newport_Loveseat_Tan.Newport_Loveseat_Tan
+[2021.02.28-16.13.45:537][470]MaterialEditorStats: Base pass shader: 802 instructions
+[2021.02.28-16.13.45:537][470]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 873 instructions
+[2021.02.28-16.13.45:537][470]MaterialEditorStats: Base pass vertex shader: 237 instructions
+[2021.02.28-16.13.45:537][470]MaterialEditorStats: Texture samplers: 8/16
+[2021.02.28-16.13.45:537][470]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.02.28-16.13.45:537][470]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.28-16.13.48:862][734]LogSlate: Window 'Newport_Loveseat_Tan' being destroyed
+[2021.02.28-16.13.48:869][734]LogSlate: Window 'Newport_Loveseat_Tan' being destroyed
+[2021.02.28-16.13.48:919][734]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.02.28-16.13.48:919][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-16.13.55:346][463]Cmd: TRANSACTION UNDO
+[2021.02.28-16.13.55:347][463]LogEditorTransaction: Undo Create Actors
+[2021.02.28-16.14.13:583][425]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Loveseat)
+[2021.02.28-16.14.13:654][429]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.02.28-16.14.19:562][ 75]Cmd: TRANSACTION UNDO
+[2021.02.28-16.14.19:562][ 75]LogEditorTransaction: Undo Create Actors
+[2021.02.28-16.14.21:881][291]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.02.28-16.14.23:505][456]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.02.28-16.14.23:569][460]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Newport_Loveseat)
+[2021.02.28-16.14.26:240][709]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Loveseat.Newport_Loveseat
+[2021.02.28-16.14.26:509][709]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.02.28-16.14.26:509][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-16.14.26:781][709]LogRenderer: Reallocating scene render targets to support 1100x612 Format 26 NumSamples 1 (Frame:1).
+[2021.02.28-16.14.26:781][709]LogSlate: Took 0.011356 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.02.28-16.14.35:344][167]Cmd: TRANSACTION UNDO
+[2021.02.28-16.14.35:344][167]LogEditorTransaction: Undo Create Actors
+[2021.02.28-16.15.02:130][641]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Newport_LoveseatB6A9E0D24ABA6151407A93ABADBB634B.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Seating/Newport_Collection/Newport_Loveseat.uasset'
+[2021.02.28-16.15.02:167][641]AssetCheck: New page: Asset Save: Newport_Loveseat
+[2021.02.28-16.15.02:167][641]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Loveseat.Newport_Loveseat
+[2021.02.28-16.15.06:310][779]Cmd: TRANSACTION UNDO
+[2021.02.28-16.15.06:310][779]LogEditorTransaction: Undo Create Actors
+[2021.02.28-16.15.14:275][263]Cmd: TRANSACTION UNDO
+[2021.02.28-16.15.14:275][263]LogEditorTransaction: Undo Create Actors
+[2021.02.28-16.15.28:240][320]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Newport_LoveseatB3689A1242E8E83092788EA965B82637.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Seating/Newport_Collection/Newport_Loveseat.uasset'
+[2021.02.28-16.15.28:253][320]AssetCheck: New page: Asset Save: Newport_Loveseat
+[2021.02.28-16.15.28:253][320]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Loveseat.Newport_Loveseat
+[2021.02.28-16.15.29:247][353]LogSlate: Window 'Newport_Loveseat' being destroyed
+[2021.02.28-16.15.29:254][353]LogSlate: Window 'Newport_Loveseat' being destroyed
+[2021.02.28-16.15.29:279][353]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.02.28-16.15.29:279][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-16.15.31:249][533]Cmd: TRANSACTION UNDO
+[2021.02.28-16.15.31:249][533]LogEditorTransaction: Undo Create Actors
+[2021.02.28-16.15.45:385][377]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Loveseat)
+[2021.02.28-16.15.49:557][826]Cmd: TRANSACTION UNDO
+[2021.02.28-16.15.49:557][826]LogEditorTransaction: Undo Create Actors
+[2021.02.28-16.15.52:061][ 33]Cmd: TRANSACTION UNDO
+[2021.02.28-16.15.52:061][ 33]LogEditorTransaction: Undo Create Actors
+[2021.02.28-16.16.01:107][ 46]Cmd: TRANSACTION UNDO
+[2021.02.28-16.16.01:107][ 46]LogEditorTransaction: Undo Create Actors
+[2021.02.28-16.16.14:840][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Loveseat)
+[2021.02.28-16.16.23:749][635]Cmd: TRANSACTION UNDO
+[2021.02.28-16.16.23:749][635]LogEditorTransaction: Undo Create Actors
+[2021.02.28-16.16.26:181][843]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Loveseat.Newport_Loveseat
+[2021.02.28-16.16.26:384][843]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.02.28-16.16.26:384][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-16.16.37:750][652]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Newport_LoveseatF6C4103143A911DD851C1EAC7AE9BCA0.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Seating/Newport_Collection/Newport_Loveseat.uasset'
+[2021.02.28-16.16.37:768][652]AssetCheck: New page: Asset Save: Newport_Loveseat
+[2021.02.28-16.16.37:768][652]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Loveseat.Newport_Loveseat
+[2021.02.28-16.16.38:752][686]LogSlate: Window 'Newport_Loveseat' being destroyed
+[2021.02.28-16.16.38:759][686]LogSlate: Window 'Newport_Loveseat' being destroyed
+[2021.02.28-16.16.38:782][686]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.02.28-16.16.38:782][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-16.16.41:359][932]Cmd: TRANSACTION UNDO
+[2021.02.28-16.16.41:359][932]LogEditorTransaction: Undo Create Actors
+[2021.02.28-16.16.42:756][ 29]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Newport_Loveseat)
+[2021.02.28-16.16.45:440][314]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Loveseat.Newport_Loveseat
+[2021.02.28-16.16.45:627][314]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.02.28-16.16.45:627][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-16.16.58:409][794]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Newport_LoveseatA92A61ED453B53D830DC50B3BA15DA52.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Seating/Newport_Collection/Newport_Loveseat.uasset'
+[2021.02.28-16.16.58:422][794]AssetCheck: New page: Asset Save: Newport_Loveseat
+[2021.02.28-16.16.58:422][794]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Loveseat.Newport_Loveseat
+[2021.02.28-16.17.00:540][852]LogSlate: Window 'Newport_Loveseat' being destroyed
+[2021.02.28-16.17.00:548][852]LogSlate: Window 'Newport_Loveseat' being destroyed
+[2021.02.28-16.17.00:573][852]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.02.28-16.17.00:573][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-16.17.01:130][904]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Newport_Loveseat)
+[2021.02.28-16.17.01:857][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Loveseat)
+[2021.02.28-16.17.03:813][179]Cmd: TRANSACTION UNDO
+[2021.02.28-16.17.03:814][179]LogEditorTransaction: Undo Create Actors
+[2021.02.28-16.17.27:417][843]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Loveseat)
+[2021.02.28-16.18.14:318][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.02.28-16.19.14:763][709]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Loveseat)
+[2021.02.28-16.19.15:349][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.02.28-16.19.15:352][754]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Testing/Maps/GrayBox002' took 0.020
+[2021.02.28-16.19.17:569][992]Cmd: TRANSACTION UNDO
+[2021.02.28-16.19.17:570][992]LogEditorTransaction: Undo Move Actors
