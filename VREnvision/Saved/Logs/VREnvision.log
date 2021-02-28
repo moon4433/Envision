@@ -707,3 +707,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.28-04.34.05:650][  0]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
 [2021.02.28-04.34.24:210][365]LogSlate: Window 'Message Log' being destroyed
 [2021.02.28-04.34.24:215][365]LogSlate: Window 'Message Log' being destroyed
+[2021.02.28-04.35.28:055][995]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
