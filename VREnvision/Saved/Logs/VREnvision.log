@@ -731,3 +731,159 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.28-05.25.20:309][992]AssetReimport: Importing new asset /Game/BasicParquetPackage/Textures/T_Parquet_parallel_NRM.
 [2021.02.28-05.25.20:309][992]AssetReimport: Reimported asset T_Parquet_cubic_NRM from C:/Envision_Repo/Envision/VREnvision/Content/BasicParquetPackage/Textures/T_Parquet_cubic_NRM.TGA.
 [2021.02.28-05.25.20:309][992]AssetReimport: Reimported asset T_Parquet_herringbone_light from C:/Envision_Repo/Envision/VREnvision/Content/BasicParquetPackage/Textures/T_Parquet_herringbone_light.TGA.
+[2021.02.28-05.27.15:969][204]LogMaterial: Display: Missing cached shader map for material Parquet_herringbone_light, compiling. 
+[2021.02.28-05.27.15:970][204]LogMaterial: Warning: C:\Envision_Repo\Envision\VREnvision\Content\BasicParquetPackage\Materials\Parquet_herringbone_light.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-05.27.15:970][204]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-05.27.15:998][204]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/BasicParquetPackage/Materials/Parquet_herringbone_red_INST.Parquet_herringbone_red_INST
+[2021.02.28-05.28.05:171][608]LogSlate: Window 'Parquet_herringbone_red_INST' being destroyed
+[2021.02.28-05.28.05:175][608]LogSlate: Window 'Parquet_herringbone_red_INST' being destroyed
+[2021.02.28-05.28.05:190][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.02.28-05.28.05:212][608]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.28-05.28.05:213][608]TextureStreamingBuild: Display: Compiling optional shaders took 0.004 seconds.
+[2021.02.28-05.28.05:226][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.02.28-05.28.05:276][608]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.02.28-05.28.05:277][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-05.28.11:900][286]LogMaterial: Display: Missing cached shader map for material Parquet_cubic_light, compiling. 
+[2021.02.28-05.28.11:901][286]LogMaterial: Warning: C:\Envision_Repo\Envision\VREnvision\Content\BasicParquetPackage\Materials\Parquet_cubic_light.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-05.28.11:901][286]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-05.28.11:926][286]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/BasicParquetPackage/Materials/Parquet_cubic_light.Parquet_cubic_light
+[2021.02.28-05.28.11:928][286]LogMaterial: Display: Missing cached shader map for material Parquet_cubic_light, compiling. 
+[2021.02.28-05.28.11:929][286]LogMaterial: Warning: /Engine/Transient.Parquet_cubic_light (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-05.28.11:929][286]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-05.28.12:051][286]LogMaterial: Display: Missing cached shader map for material Parquet_cubic_light, compiling. 
+[2021.02.28-05.28.12:052][286]LogMaterial: Warning: /Engine/Transient.Parquet_cubic_light (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-05.28.12:052][286]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-05.28.12:054][286]LogMaterial: Display: Missing cached shader map for material Parquet_cubic_light, compiling. 
+[2021.02.28-05.28.12:055][286]LogMaterial: Warning: /Engine/Transient.Parquet_cubic_light (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-05.28.12:055][286]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-05.28.12:064][286]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2021.02.28-05.28.12:065][286]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_63, compiling. 
+[2021.02.28-05.28.12:065][286]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_64, compiling. 
+[2021.02.28-05.28.12:066][286]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_21, compiling. 
+[2021.02.28-05.28.12:080][286]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.02.28-05.28.12:084][286]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.02.28-05.28.12:084][286]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.02.28-05.28.12:084][286]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.02.28-05.28.12:084][286]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.02.28-05.28.12:084][286]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.02.28-05.28.12:140][286]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.02.28-05.28.12:140][286]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.02.28-05.28.12:140][286]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.02.28-05.28.12:140][286]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.02.28-05.28.12:140][286]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-05.28.12:150][286]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.02.28-05.28.34:273][534]LogMaterial: Display: Missing cached shader map for material Parquet_cubic_light, compiling. 
+[2021.02.28-05.28.34:274][534]LogMaterial: Warning: /Engine/Transient.Parquet_cubic_light (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-05.28.34:274][534]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-05.28.34:277][534]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2021.02.28-05.28.34:284][534]LogMaterial: Display: Missing cached shader map for material Parquet_cubic_light, compiling. 
+[2021.02.28-05.28.34:284][534]LogMaterial: Warning: /Engine/Transient.Parquet_cubic_light (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-05.28.34:284][534]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-05.28.34:319][535]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.02.28-05.28.34:319][535]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.02.28-05.28.34:319][535]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.02.28-05.28.34:319][535]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.02.28-05.28.38:410][906]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.02.28-05.28.45:397][589]LogMaterial: Display: Missing cached shader map for material Parquet_cubic_light, compiling. 
+[2021.02.28-05.28.45:398][589]LogMaterial: Warning: /Engine/Transient.Parquet_cubic_light (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-05.28.45:398][589]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-05.28.45:404][589]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2021.02.28-05.28.45:410][589]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.02.28-05.28.45:410][589]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.02.28-05.28.45:410][589]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.02.28-05.28.45:410][589]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.02.28-05.28.45:411][589]LogMaterial: Display: Missing cached shader map for material Parquet_cubic_light, compiling. 
+[2021.02.28-05.28.45:411][589]LogMaterial: Warning: /Engine/Transient.Parquet_cubic_light (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-05.28.45:411][589]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-05.29.05:505][551]LogMaterial: Display: Missing cached shader map for material Parquet_cubic_light, compiling. 
+[2021.02.28-05.29.05:506][551]LogMaterial: Warning: /Engine/Transient.Parquet_cubic_light (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-05.29.05:506][551]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-05.29.05:510][551]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_64, compiling. 
+[2021.02.28-05.29.05:517][551]LogMaterial: Display: Missing cached shader map for material Parquet_cubic_light, compiling. 
+[2021.02.28-05.29.05:518][551]LogMaterial: Warning: /Engine/Transient.Parquet_cubic_light (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-05.29.05:518][551]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-05.29.05:581][552]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.02.28-05.29.05:581][552]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.02.28-05.29.05:581][552]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.02.28-05.29.05:581][552]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.02.28-05.29.18:381][847]LogMaterial: Display: Missing cached shader map for material Parquet_cubic_light, compiling. 
+[2021.02.28-05.29.18:381][847]LogMaterial: Warning: /Engine/Transient.Parquet_cubic_light (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-05.29.18:381][847]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-05.29.18:387][847]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.02.28-05.29.18:394][847]LogMaterial: Display: Missing cached shader map for material Parquet_cubic_light, compiling. 
+[2021.02.28-05.29.18:395][847]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.02.28-05.29.18:395][847]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.02.28-05.29.18:395][847]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.02.28-05.29.18:395][847]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.02.28-05.29.18:395][847]LogMaterial: Warning: /Engine/Transient.Parquet_cubic_light (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-05.29.18:395][847]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-05.29.37:103][761]LogMaterialEditor: Saving and Compiling material Parquet_cubic_light
+[2021.02.28-05.29.39:954][761]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2021.02.28-05.30.12:227][166]LogMaterial: Display: Missing cached shader map for material Parquet_cubic_light, compiling. 
+[2021.02.28-05.30.12:259][166]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_63, compiling. 
+[2021.02.28-05.30.12:263][166]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.02.28-05.30.12:263][166]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.02.28-05.30.12:263][166]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.02.28-05.30.12:263][166]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.02.28-05.30.12:263][166]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.02.28-05.30.12:263][166]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.02.28-05.30.12:263][166]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.02.28-05.30.12:263][166]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.02.28-05.30.12:266][166]LogMaterial: Display: Missing cached shader map for material Parquet_cubic_light, compiling. 
+[2021.02.28-05.30.13:626][231]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2021.02.28-05.30.13:626][231]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2021.02.28-05.30.14:424][261]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2021.02.28-05.30.14:489][264]LogMaterialEditor: Saving and Compiling material Parquet_cubic_light
+[2021.02.28-05.30.15:517][264]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.02.28-05.30.15:517][264]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.02.28-05.30.15:517][264]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.02.28-05.30.15:531][264]LogMaterial: Display: Missing cached shader map for material Parquet_cubic_light, compiling. 
+[2021.02.28-05.30.15:642][264]LogMaterial: Display: Missing cached shader map for material Parquet_cubic_light, compiling. 
+[2021.02.28-05.30.15:726][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.02.28-05.30.15:737][264]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.28-05.30.19:492][264]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 37
+[2021.02.28-05.30.20:028][264]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 36
+[2021.02.28-05.30.20:028][264]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 35
+[2021.02.28-05.30.20:028][264]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 34
+[2021.02.28-05.30.20:028][264]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 33
+[2021.02.28-05.30.20:563][264]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 32
+[2021.02.28-05.30.21:099][264]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 31
+[2021.02.28-05.30.22:706][264]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 30
+[2021.02.28-05.30.22:706][264]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 29
+[2021.02.28-05.30.23:241][264]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 28
+[2021.02.28-05.30.26:455][264]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 27
+[2021.02.28-05.30.26:455][264]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 26
+[2021.02.28-05.30.26:455][264]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 25
+[2021.02.28-05.30.26:815][264]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2021.02.28-05.30.26:815][264]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2021.02.28-05.30.26:815][264]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2021.02.28-05.30.26:829][264]TextureStreamingBuild: Display: Compiling optional shaders took 11.099 seconds.
+[2021.02.28-05.30.26:830][264]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2021.02.28-05.30.26:862][264]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.02.28-05.30.26:862][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.02.28-05.30.27:987][264]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2021.02.28-05.30.29:593][264]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2021.02.28-05.30.29:593][264]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.02.28-05.30.31:200][264]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.02.28-05.30.31:200][264]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.02.28-05.30.32:271][264]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.02.28-05.30.34:413][264]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.02.28-05.30.34:949][264]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.02.28-05.30.41:367][264]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Parquet_cubic_light39B4379B4B8C7A477B8698A2ABBC14B2.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/BasicParquetPackage/Materials/Parquet_cubic_light.uasset'
+[2021.02.28-05.30.41:397][264]AssetCheck: New page: Asset Save: Parquet_cubic_light
+[2021.02.28-05.30.41:397][264]LogContentValidation: Display: Validating Material /Game/BasicParquetPackage/Materials/Parquet_cubic_light.Parquet_cubic_light
+[2021.02.28-05.30.41:402][264]MaterialEditorStats: Base pass shader: 812 instructions
+[2021.02.28-05.30.41:402][264]MaterialEditorStats: Base pass shader with Surface Lightmap: 829 instructions
+[2021.02.28-05.30.41:402][264]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 876 instructions
+[2021.02.28-05.30.41:402][264]MaterialEditorStats: Base pass vertex shader: 237 instructions
+[2021.02.28-05.30.41:402][264]MaterialEditorStats: Texture samplers: 8/16
+[2021.02.28-05.30.41:402][264]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.02.28-05.30.41:402][264]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.28-05.30.47:143][765]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/BasicParquetPackage/Materials/Parquet_cubic_light_INST.Parquet_cubic_light_INST
+[2021.02.28-05.31.03:333][449]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/BasicParquetPackage/Textures/T_MacroVariation.T_MacroVariation
+[2021.02.28-05.31.03:349][449]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.02.28-05.31.31:655][509]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.02.28-05.31.31:655][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-05.31.33:053][649]LogSlate: Window 'Parquet_cubic_light' being destroyed
+[2021.02.28-05.31.33:114][649]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.02.28-05.31.33:114][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
