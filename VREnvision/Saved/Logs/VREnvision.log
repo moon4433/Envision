@@ -1239,3 +1239,30 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.28-16.19.15:352][754]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Testing/Maps/GrayBox002' took 0.020
 [2021.02.28-16.19.17:569][992]Cmd: TRANSACTION UNDO
 [2021.02.28-16.19.17:570][992]LogEditorTransaction: Undo Move Actors
+[2021.02.28-16.23.23:660][662]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Loveseat)
+[2021.02.28-16.23.41:190][ 83]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\nconn\OneDrive\Desktop\Capstone\FBX's\Newport_Loveseat_Leather.FBX)
+[2021.02.28-16.23.41:208][ 83]LogFbx: Loading FBX Scene from C:\Users\nconn\OneDrive\Desktop\Capstone\FBX's\Newport_Loveseat_Leather.FBX
+[2021.02.28-16.23.41:257][ 83]LogFbx: FBX Scene Loaded Succesfully
+[2021.02.28-16.23.44:969][ 83]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.02.28-16.23.45:290][ 83]LogFbx: Display: Triangulating static mesh Leather
+[2021.02.28-16.23.48:541][ 83]LogStaticMesh: Building static mesh Newport_Loveseat_Leather...
+[2021.02.28-16.23.49:638][ 83]LogStaticMesh: Built static mesh [1.10s] /Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Loveseat_Leather.Newport_Loveseat_Leather
+[2021.02.28-16.24.06:293][377]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\nconn\OneDrive\Desktop\Capstone\FBX's\Newport_Loveseat_Wood.FBX)
+[2021.02.28-16.24.06:304][377]LogFbx: Loading FBX Scene from C:\Users\nconn\OneDrive\Desktop\Capstone\FBX's\Newport_Loveseat_Wood.FBX
+[2021.02.28-16.24.06:311][377]LogFbx: FBX Scene Loaded Succesfully
+[2021.02.28-16.24.09:753][377]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.02.28-16.24.09:789][377]LogFbx: Display: Triangulating static mesh Wood
+[2021.02.28-16.24.09:833][377]LogStaticMesh: Building static mesh Newport_Loveseat_Wood...
+[2021.02.28-16.24.09:854][377]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Loveseat_Wood.Newport_Loveseat_Wood
+[2021.02.28-16.24.16:644][915]LogActorFactory: Actor Factory created Newport_Loveseat_Wood
+[2021.02.28-16.24.17:554][991]LogActorFactory: Actor Factory created Newport_Loveseat_Wood
+[2021.02.28-16.24.18:877][136]Cmd: TRANSACTION UNDO
+[2021.02.28-16.24.18:877][136]LogEditorTransaction: Undo Move Actors
+[2021.02.28-16.24.19:387][153]Cmd: TRANSACTION UNDO
+[2021.02.28-16.24.19:387][153]LogEditorTransaction: Undo Create Actors
+[2021.02.28-16.24.24:233][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.02.28-16.24.24:397][580]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Newport_Loveseat_Leather2A3C69A8426A8488EAA57AB409DC6E6B.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Seating/Newport_Collection/Newport_Loveseat_Leather.uasset'
+[2021.02.28-16.24.24:428][580]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Newport_Loveseat_Wood04B15100438397F907E6BF89906527C7.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Seating/Newport_Collection/Newport_Loveseat_Wood.uasset'
+[2021.02.28-16.24.24:444][580]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.28-16.24.24:444][580]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Loveseat_Leather.Newport_Loveseat_Leather
+[2021.02.28-16.24.24:444][580]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Loveseat_Wood.Newport_Loveseat_Wood
