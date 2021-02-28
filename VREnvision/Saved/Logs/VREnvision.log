@@ -722,3 +722,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.28-05.11.17:664][492]AssetReimport: Importing new asset /Game/BasicParquetPackage/Textures/T_MacroVariation.
 [2021.02.28-05.11.17:664][492]AssetReimport: Importing new asset /Game/BasicParquetPackage/Textures/T_Parquet_cubic_light.
 [2021.02.28-05.11.17:664][492]AssetReimport: Importing new asset /Game/BasicParquetPackage/Textures/T_Parquet_parallel_light.
+[2021.02.28-05.14.10:733][410]AssetReimport: New page: Outstanding source content changes 7:14:10 PM
+[2021.02.28-05.14.10:763][410]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Envision_Repo/Envision/VREnvision/Content/BasicParquetPackage/Textures/T_Parquet_cubic_NRM.TGA)
+[2021.02.28-05.14.11:026][411]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Envision_Repo/Envision/VREnvision/Content/BasicParquetPackage/Textures/T_Parquet_herringbone_light.TGA)
+[2021.02.28-05.14.12:651][412]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/T_Parquet_cubic_NRM1A98D53F4CA4FBF77C1F5EA41A91C74F.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/BasicParquetPackage/Textures/T_Parquet_cubic_NRM.uasset'
+[2021.02.28-05.14.13:250][412]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/T_Parquet_herringbone_light88BD2395428C3F174C9FCCB662E932B5.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/BasicParquetPackage/Textures/T_Parquet_herringbone_light.uasset'
+[2021.02.28-05.14.13:294][413]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.28-05.14.13:294][413]LogContentValidation: Display: Validating Texture2D /Game/BasicParquetPackage/Textures/T_Parquet_cubic_NRM.T_Parquet_cubic_NRM
+[2021.02.28-05.14.13:294][413]LogContentValidation: Display: Validating Texture2D /Game/BasicParquetPackage/Textures/T_Parquet_herringbone_light.T_Parquet_herringbone_light
+[2021.02.28-05.14.16:286][771]AssetReimport: Importing new asset /Game/BasicParquetPackage/Textures/T_Parquet_cubic_NRM.
+[2021.02.28-05.14.16:286][771]AssetReimport: Importing new asset /Game/BasicParquetPackage/Textures/T_Parquet_herringbone_light.
