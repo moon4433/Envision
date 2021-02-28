@@ -771,3 +771,62 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.28-15.32.51:611][535]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002
 [2021.02.28-15.32.51:611][535]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Testing/Maps/GrayBox002_BuiltData.GrayBox002_BuiltData
 [2021.02.28-15.32.51:611][535]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Environment/Doors/Door_01.Door_01
+[2021.02.28-15.35.14:538][202]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Chair)
+[2021.02.28-15.35.16:404][384]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sofa_Luca_Temp)
+[2021.02.28-15.35.25:368][425]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Chair)
+[2021.02.28-15.35.58:207][110]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sofa_Luca_Temp)
+[2021.02.28-15.36.38:977][744]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Users/nconn/OneDrive/Desktop/Capstone/FBX's/Newport_Sofa.FBX)
+[2021.02.28-15.36.38:998][744]LogFbx: Loading FBX Scene from ../../../../../Users/nconn/OneDrive/Desktop/Capstone/FBX's/Newport_Sofa.FBX
+[2021.02.28-15.36.39:090][744]LogFbx: FBX Scene Loaded Succesfully
+[2021.02.28-15.36.44:807][744]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.02.28-15.36.45:304][744]LogStaticMesh: Building static mesh Newport_Sofa...
+[2021.02.28-15.36.46:470][744]LogStaticMesh: Built static mesh [1.17s] /Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Sofa.Newport_Sofa
+[2021.02.28-15.36.46:741][744]LogStaticMesh: Warning: Newport_Sofa has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.02.28-15.36.46:741][744]LogStaticMesh: Warning: Newport_Sofa has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.02.28-15.36.47:037][744]FBXImport: Warning: Newport_Sofa has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.02.28-15.36.47:037][744]FBXImport: Warning: Newport_Sofa has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.02.28-15.36.52:707][306]LogSlate: Window 'Message Log' being destroyed
+[2021.02.28-15.36.52:713][306]LogSlate: Window 'Message Log' being destroyed
+[2021.02.28-15.36.53:566][377]LogActorFactory: Actor Factory created Newport_Sofa
+[2021.02.28-15.36.54:251][435]LogActorFactory: Actor Factory created Newport_Sofa
+[2021.02.28-15.37.03:212][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sofa_Luca_Temp)
+[2021.02.28-15.37.06:055][717]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Sofa)
+[2021.02.28-15.37.55:280][273]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2021.02.28-15.37.59:007][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SofaSophia)
+[2021.02.28-15.38.13:210][527]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Users/nconn/OneDrive/Desktop/Capstone/FBX's/Newport_Loveseat.FBX)
+[2021.02.28-15.38.13:228][527]LogFbx: Loading FBX Scene from ../../../../../Users/nconn/OneDrive/Desktop/Capstone/FBX's/Newport_Loveseat.FBX
+[2021.02.28-15.38.13:287][527]LogFbx: FBX Scene Loaded Succesfully
+[2021.02.28-15.38.16:422][527]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.02.28-15.38.16:780][527]LogStaticMesh: Building static mesh Newport_Loveseat...
+[2021.02.28-15.38.17:797][527]LogStaticMesh: Built static mesh [1.02s] /Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Loveseat.Newport_Loveseat
+[2021.02.28-15.38.17:982][527]LogStaticMesh: Warning: Newport_Loveseat has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.02.28-15.38.17:982][527]LogStaticMesh: Warning: Newport_Loveseat has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.02.28-15.38.18:188][527]FBXImport: Warning: Newport_Loveseat has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.02.28-15.38.18:188][527]FBXImport: Warning: Newport_Loveseat has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.02.28-15.38.20:650][716]LogActorFactory: Actor Factory created Newport_Loveseat
+[2021.02.28-15.38.21:696][788]LogActorFactory: Actor Factory created Newport_Loveseat
+[2021.02.28-15.38.34:538][120]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SofaSophia)
+[2021.02.28-15.38.40:546][737]Cmd: TRANSACTION UNDO
+[2021.02.28-15.38.40:546][737]LogEditorTransaction: Undo Move Actors
+[2021.02.28-15.38.41:023][753]Cmd: TRANSACTION UNDO
+[2021.02.28-15.38.41:023][753]LogEditorTransaction: Undo Move Actors
+[2021.02.28-15.38.42:030][867]Cmd: TRANSACTION UNDO
+[2021.02.28-15.38.42:030][867]LogEditorTransaction: Undo Set Actor Visibility
+[2021.02.28-15.38.45:125][196]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Newport_Loveseat)
+[2021.02.28-15.38.54:630][231]LogSlate: Window 'Message Log' being destroyed
+[2021.02.28-15.38.54:636][231]LogSlate: Window 'Message Log' being destroyed
+[2021.02.28-15.38.56:226][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.02.28-15.38.56:271][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.02.28-15.38.57:940][383]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/GrayBox0021F1A5185457F11C80CD1A589CCD709D0.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/VirtualRealityBP/Testing/Maps/GrayBox002.umap'
+[2021.02.28-15.38.57:992][383]LogFileHelpers: Saving map 'GrayBox002' took 1.738
+[2021.02.28-15.39.00:393][383]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/GrayBox002_BuiltDataBEF5D2F64602BE47E1D7D492C7AA23C8.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/VirtualRealityBP/Testing/Maps/GrayBox002_BuiltData.uasset'
+[2021.02.28-15.39.00:404][383]LogFileManager: Warning: MoveFile was unable to move '../../../../../Envision_Repo/Envision/VREnvision/Saved/GrayBox002_BuiltDataBEF5D2F64602BE47E1D7D492C7AA23C8.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/VirtualRealityBP/Testing/Maps/GrayBox002_BuiltData.uasset' (Error Code 32), retrying in .5s...
+[2021.02.28-15.39.00:906][383]LogFileManager: Warning: MoveFile recovered during retry!
+[2021.02.28-15.39.01:068][383]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Newport_SofaED4DA1CB4DE42D628DFBB9A3533CC378.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Seating/Newport_Collection/Newport_Sofa.uasset'
+[2021.02.28-15.39.01:201][383]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Newport_Loveseat209195FA432D415A46D3828B15866F92.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Seating/Newport_Collection/Newport_Loveseat.uasset'
+[2021.02.28-15.39.01:245][383]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.28-15.39.01:245][383]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002
+[2021.02.28-15.39.01:245][383]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Testing/Maps/GrayBox002_BuiltData.GrayBox002_BuiltData
+[2021.02.28-15.39.01:245][383]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Sofa.Newport_Sofa
+[2021.02.28-15.39.01:246][383]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Furniture/Seating/Newport_Collection/Newport_Loveseat.Newport_Loveseat
+[2021.02.28-15.39.17:954][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
