@@ -715,3 +715,193 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.28-05.35.59:904][552]AssetCheck: New page: Asset Save: T_Parquet_herringbone_NRM
 [2021.02.28-05.35.59:904][552]LogContentValidation: Display: Validating Texture2D /Game/BasicParquetPackage/Textures/T_Parquet_herringbone_NRM.T_Parquet_herringbone_NRM
 [2021.02.28-05.36.02:891][905]AssetReimport: Importing new asset /Game/BasicParquetPackage/Textures/T_Parquet_herringbone_NRM.
+[2021.02.28-05.39.07:745][489]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Environment/Windows/Wall15_StaticMesh.uasset' failed to load '/Game/ArchVis/DemoAssets/Materials/M_WallPainInterior_MAT_Inst': Can't find file.
+[2021.02.28-05.39.07:746][489]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Environment/Windows/Wall15_StaticMesh.uasset' failed to load '/Game/ArchVis/DemoAssets/Materials/M_WallPainInterior_MAT_Inst': Can't find file.
+[2021.02.28-05.39.07:746][489]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Environment/Windows/Wall15_StaticMesh.uasset' failed to load '/Game/ArchVis/DemoAssets/Materials/M_WallPainInterior_MAT_Inst': Can't find file.
+[2021.02.28-05.39.07:746][489]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Environment/Windows/Wall15_StaticMesh.uasset' failed to load '/Game/ArchVis/DemoAssets/Materials/M_WallPainInterior_MAT_Inst': Can't find file.
+[2021.02.28-05.39.07:751][489]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly.uasset' failed to load '/Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Box008Mat': Can't find file.
+[2021.02.28-05.39.07:751][489]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly.uasset' failed to load '/Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Box008Mat': Can't find file.
+[2021.02.28-05.39.07:752][489]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly.uasset' failed to load '/Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Box008Mat': Can't find file.
+[2021.02.28-05.39.07:752][489]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly.uasset' failed to load '/Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Box008Mat': Can't find file.
+[2021.02.28-05.39.08:041][489]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly.uasset' failed to load '/Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Box008Mat': Can't find file.
+[2021.02.28-05.39.08:042][489]LoadErrors: Failed to load /Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Box008Mat.Box008Mat Referenced by Cabinetry_Unwrapped_LowPoly
+[2021.02.28-05.39.08:042][489]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly.uasset' failed to load '/Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Box008Mat': Can't find file.
+[2021.02.28-05.39.08:042][489]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly.uasset' failed to load '/Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Box008Mat': Can't find file.
+[2021.02.28-05.39.08:042][489]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Furniture/Cabinetry_Buffet/Cabinetry_Unwrapped_LowPoly.uasset' failed to load '/Game/Geometry/Scene_Geometry/Cabinetry_Buffet/Box008Mat': Can't find file.
+[2021.02.28-05.39.08:043][489]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Environment/Windows/Wall15_StaticMesh.uasset' failed to load '/Game/ArchVis/DemoAssets/Materials/M_WallPainInterior_MAT_Inst': Can't find file.
+[2021.02.28-05.39.08:043][489]LoadErrors: Failed to load /Game/ArchVis/DemoAssets/Materials/M_WallPainInterior_MAT_Inst.M_WallPainInterior_MAT_Inst Referenced by Wall15_StaticMesh
+[2021.02.28-05.39.08:044][489]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Environment/Windows/Wall15_StaticMesh.uasset' failed to load '/Game/ArchVis/DemoAssets/Materials/M_WallPainInterior_MAT_Inst': Can't find file.
+[2021.02.28-05.39.08:044][489]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Environment/Windows/Wall15_StaticMesh.uasset' failed to load '/Game/ArchVis/DemoAssets/Materials/M_WallPainInterior_MAT_Inst': Can't find file.
+[2021.02.28-05.39.08:044][489]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Environment/Windows/Wall15_StaticMesh.uasset' failed to load '/Game/ArchVis/DemoAssets/Materials/M_WallPainInterior_MAT_Inst': Can't find file.
+[2021.02.28-05.39.09:041][489]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002
+[2021.02.28-05.39.09:178][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.02.28-05.39.09:181][489]Cmd: MAP LOAD FILE="../../../../../Envision_Repo/Envision/VREnvision/Content/VirtualRealityBP/Testing/Maps/GrayBox002.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.28-05.39.09:184][489]LightingResults: New page: Lighting Build
+[2021.02.28-05.39.09:184][489]LoadErrors: New page: Loading map: GrayBox002.umap
+[2021.02.28-05.39.09:185][489]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.28-05.39.09:185][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-05.39.09:185][489]MapCheck: New page: Map Check
+[2021.02.28-05.39.09:185][489]LightingResults: New page: Lighting Build
+[2021.02.28-05.39.09:201][489]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017766A2C800), frame # 6489
+[2021.02.28-05.39.09:201][489]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017766E99080), frame # 6489
+[2021.02.28-05.39.09:202][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.02.28-05.39.10:415][489]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.28-05.39.10:416][489]LogAIModule: Creating AISystem for world GrayBox002
+[2021.02.28-05.39.10:416][489]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000177CA4E5400), frame # 6489
+[2021.02.28-05.39.10:416][489]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001770DC60400), frame # 6489
+[2021.02.28-05.39.10:495][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.02.28-05.39.10:537][489]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.28-05.39.10:538][489]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.177ms to complete.
+[2021.02.28-05.39.10:538][489]LogFileHelpers: Loading map 'GrayBox002' took 1.357
+[2021.02.28-05.39.22:668][779]LogMaterial: Display: Missing cached shader map for material Parquet_herringbone_light, compiling. 
+[2021.02.28-05.39.22:669][779]LogMaterial: Warning: C:\Envision_Repo\Envision\VREnvision\Content\BasicParquetPackage\Materials\Parquet_herringbone_light.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-05.39.22:669][779]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-05.39.22:693][779]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/BasicParquetPackage/Materials/Parquet_herringbone_light_INST.Parquet_herringbone_light_INST
+[2021.02.28-05.39.25:356][ 27]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/BasicParquetPackage/Materials/Parquet_herringbone_light.Parquet_herringbone_light
+[2021.02.28-05.39.25:358][ 27]LogMaterial: Display: Missing cached shader map for material Parquet_herringbone_light, compiling. 
+[2021.02.28-05.39.25:359][ 27]LogMaterial: Warning: /Engine/Transient.Parquet_herringbone_light (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-05.39.25:359][ 27]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-05.39.25:443][ 27]LogMaterial: Display: Missing cached shader map for material Parquet_herringbone_light, compiling. 
+[2021.02.28-05.39.25:444][ 27]LogMaterial: Warning: /Engine/Transient.Parquet_herringbone_light (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-05.39.25:444][ 27]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-05.39.25:445][ 27]LogMaterial: Display: Missing cached shader map for material Parquet_herringbone_light, compiling. 
+[2021.02.28-05.39.25:446][ 27]LogMaterial: Warning: /Engine/Transient.Parquet_herringbone_light (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-05.39.25:446][ 27]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-05.39.25:455][ 27]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.02.28-05.39.25:456][ 27]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_63, compiling. 
+[2021.02.28-05.39.25:456][ 27]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_64, compiling. 
+[2021.02.28-05.39.25:457][ 27]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_65, compiling. 
+[2021.02.28-05.39.25:458][ 27]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_21, compiling. 
+[2021.02.28-05.39.25:472][ 27]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.02.28-05.39.25:473][ 27]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.02.28-05.39.25:479][ 27]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.02.28-05.39.25:479][ 27]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.02.28-05.39.25:479][ 27]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2021.02.28-05.39.25:479][ 27]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.02.28-05.39.25:479][ 27]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.02.28-05.39.25:479][ 27]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.02.28-05.39.25:479][ 27]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.02.28-05.39.25:479][ 27]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.02.28-05.39.25:530][ 27]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-05.39.25:537][ 27]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.02.28-05.39.47:259][208]LogMaterial: Display: Missing cached shader map for material Parquet_herringbone_light, compiling. 
+[2021.02.28-05.39.47:260][208]LogMaterial: Warning: /Engine/Transient.Parquet_herringbone_light (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-05.39.47:260][208]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-05.39.47:269][208]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.02.28-05.39.47:276][208]LogMaterial: Display: Missing cached shader map for material Parquet_herringbone_light, compiling. 
+[2021.02.28-05.39.47:277][208]LogMaterial: Warning: /Engine/Transient.Parquet_herringbone_light (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-05.39.47:277][208]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-05.39.47:280][208]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.02.28-05.39.47:280][208]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.02.28-05.39.47:280][208]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.02.28-05.39.47:280][208]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.02.28-05.39.50:110][438]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.02.28-05.40.25:189][115]LogMaterial: Display: Missing cached shader map for material Parquet_herringbone_light, compiling. 
+[2021.02.28-05.40.25:190][115]LogMaterial: Warning: /Engine/Transient.Parquet_herringbone_light (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-05.40.25:190][115]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-05.40.25:198][115]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.02.28-05.40.25:205][115]LogMaterial: Display: Missing cached shader map for material Parquet_herringbone_light, compiling. 
+[2021.02.28-05.40.25:206][115]LogMaterial: Warning: /Engine/Transient.Parquet_herringbone_light (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-05.40.25:206][115]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-05.40.25:264][116]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.02.28-05.40.25:265][116]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.02.28-05.40.25:265][116]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.02.28-05.40.25:265][116]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.02.28-05.41.01:752][732]LogMaterial: Display: Missing cached shader map for material Parquet_herringbone_light, compiling. 
+[2021.02.28-05.41.01:753][732]LogMaterial: Warning: /Engine/Transient.Parquet_herringbone_light (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-05.41.01:753][732]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-05.41.01:763][732]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_63, compiling. 
+[2021.02.28-05.41.01:769][732]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.02.28-05.41.01:769][732]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.02.28-05.41.01:769][732]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.02.28-05.41.01:769][732]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.02.28-05.41.01:770][732]LogMaterial: Display: Missing cached shader map for material Parquet_herringbone_light, compiling. 
+[2021.02.28-05.41.01:771][732]LogMaterial: Warning: /Engine/Transient.Parquet_herringbone_light (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-05.41.01:771][732]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-05.41.22:843][696]LogMaterial: Display: Missing cached shader map for material Parquet_herringbone_light, compiling. 
+[2021.02.28-05.41.22:844][696]LogMaterial: Warning: /Engine/Transient.Parquet_herringbone_light (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-05.41.22:844][696]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-05.41.22:853][696]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_64, compiling. 
+[2021.02.28-05.41.22:860][696]LogMaterial: Display: Missing cached shader map for material Parquet_herringbone_light, compiling. 
+[2021.02.28-05.41.22:861][696]LogMaterial: Warning: /Engine/Transient.Parquet_herringbone_light (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.28-05.41.22:861][696]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.28-05.41.22:912][697]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.02.28-05.41.22:912][697]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.02.28-05.41.22:912][697]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.02.28-05.41.22:912][697]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.02.28-05.41.28:473][183]LogMaterial: Display: Missing cached shader map for material Parquet_herringbone_light, compiling. 
+[2021.02.28-05.41.28:508][183]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_65, compiling. 
+[2021.02.28-05.41.28:512][183]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.02.28-05.41.28:512][183]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.02.28-05.41.28:513][183]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.02.28-05.41.28:513][183]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.02.28-05.41.28:513][183]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.02.28-05.41.28:513][183]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.02.28-05.41.28:513][183]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.02.28-05.41.28:513][183]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.02.28-05.41.28:516][183]LogMaterial: Display: Missing cached shader map for material Parquet_herringbone_light, compiling. 
+[2021.02.28-05.41.29:499][225]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2021.02.28-05.41.29:845][238]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2021.02.28-05.41.30:389][258]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2021.02.28-05.41.30:907][277]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2021.02.28-05.41.31:421][291]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2021.02.28-05.41.31:729][300]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.02.28-05.41.36:205][432]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2021.02.28-05.41.36:583][446]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.02.28-05.41.36:800][455]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.02.28-05.41.37:127][468]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.02.28-05.41.37:281][475]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.02.28-05.41.37:325][477]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.02.28-05.41.37:581][488]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.02.28-05.41.38:558][526]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.02.28-05.41.39:003][544]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.02.28-05.41.44:412][795]MaterialEditorStats: Base pass shader: 813 instructions
+[2021.02.28-05.41.44:412][795]MaterialEditorStats: Base pass shader with Surface Lightmap: 833 instructions
+[2021.02.28-05.41.44:412][795]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 880 instructions
+[2021.02.28-05.41.44:412][795]MaterialEditorStats: Base pass vertex shader: 237 instructions
+[2021.02.28-05.41.44:412][795]MaterialEditorStats: Texture samplers: 8/16
+[2021.02.28-05.41.44:412][795]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.02.28-05.41.44:412][795]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.28-05.41.45:579][891]LogMaterialEditor: Saving and Compiling material Parquet_herringbone_light
+[2021.02.28-05.41.46:163][891]LogMaterial: Display: Missing cached shader map for material Parquet_herringbone_light, compiling. 
+[2021.02.28-05.41.46:206][891]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.02.28-05.41.46:206][891]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.02.28-05.41.46:206][891]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.02.28-05.41.46:206][891]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.02.28-05.41.46:206][891]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.02.28-05.41.46:206][891]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.02.28-05.41.46:206][891]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.02.28-05.41.46:206][891]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.02.28-05.41.46:355][891]LogMaterial: Display: Missing cached shader map for material Parquet_herringbone_light, compiling. 
+[2021.02.28-05.41.46:635][891]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.02.28-05.41.46:656][891]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.28-05.41.47:200][891]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 29
+[2021.02.28-05.41.47:200][891]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 28
+[2021.02.28-05.41.53:149][891]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2021.02.28-05.41.53:149][891]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2021.02.28-05.41.53:149][891]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 25
+[2021.02.28-05.41.53:594][891]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2021.02.28-05.41.53:594][891]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2021.02.28-05.41.53:594][891]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2021.02.28-05.41.53:594][891]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2021.02.28-05.41.53:594][891]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.02.28-05.41.53:594][891]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.02.28-05.41.53:594][891]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.02.28-05.41.53:610][891]TextureStreamingBuild: Display: Compiling optional shaders took 6.963 seconds.
+[2021.02.28-05.41.53:650][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.02.28-05.41.53:707][891]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.02.28-05.41.55:315][891]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.02.28-05.41.55:850][891]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.02.28-05.41.56:386][891]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.02.28-05.42.00:135][891]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.02.28-05.42.00:670][891]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.02.28-05.42.08:377][891]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Parquet_herringbone_light247B1D8B43AC7E0E5FD68B9EF82CF124.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/BasicParquetPackage/Materials/Parquet_herringbone_light.uasset'
+[2021.02.28-05.42.08:419][891]AssetCheck: New page: Asset Save: Parquet_herringbone_light
+[2021.02.28-05.42.08:419][891]LogContentValidation: Display: Validating Material /Game/BasicParquetPackage/Materials/Parquet_herringbone_light.Parquet_herringbone_light
+[2021.02.28-05.42.52:146][513]LogSlate: Window 'Parquet_herringbone_light' being destroyed
+[2021.02.28-05.42.52:152][513]LogSlate: Window 'Parquet_herringbone_light' being destroyed
+[2021.02.28-05.42.52:197][513]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.02.28-05.42.52:197][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-05.42.52:262][513]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.02.28-05.42.52:263][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-05.42.57:698][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
