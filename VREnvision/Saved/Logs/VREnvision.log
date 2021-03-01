@@ -1198,3 +1198,82 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.01-03.37.08:064][471]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Testing/Maps/GrayBox002_BuiltData.GrayBox002_BuiltData
 [2021.03.01-03.37.08:064][471]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Environment/Walls/Wall7_StaticMesh.Wall7_StaticMesh
 [2021.03.01-03.37.08:064][471]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Environment/Walls/Wall29_StaticMesh.Wall29_StaticMesh
+[2021.03.01-03.40.38:293][537]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_StaticMesh)
+[2021.03.01-03.41.10:800][245]LogSlate: Window 'FBX Export Options' being destroyed
+[2021.03.01-03.41.10:828][245]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.5.0
+
+
+[2021.03.01-03.47.02:249][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2021.03.01-03.47.02:255][437]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Testing/Maps/GrayBox002' took 0.024
+[2021.03.01-03.49.59:396][176]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Users/nconn/OneDrive/Desktop/Capstone/FBX's/Ceiling.FBX)
+[2021.03.01-03.49.59:415][176]LogFbx: Loading FBX Scene from ../../../../../Users/nconn/OneDrive/Desktop/Capstone/FBX's/Ceiling.FBX
+[2021.03.01-03.49.59:424][176]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.01-03.50.00:853][176]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.01-03.50.00:891][176]LogFbx: Display: Triangulating static mesh Box001
+[2021.03.01-03.50.00:909][176]LogStaticMesh: Building static mesh Ceiling...
+[2021.03.01-03.50.00:915][176]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Environment/Ceiling.Ceiling
+[2021.03.01-03.50.02:076][258]LogActorFactory: Actor Factory created Ceiling
+[2021.03.01-03.50.03:380][352]LogActorFactory: Actor Factory created Ceiling
+[2021.03.01-03.52.20:455][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.01-03.52.21:018][332]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling)
+[2021.03.01-03.52.22:742][508]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.01-03.52.23:308][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling)
+[2021.03.01-03.52.27:397][ 16]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.01-03.52.28:118][ 92]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling)
+[2021.03.01-03.52.29:726][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.01-03.52.30:312][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling)
+[2021.03.01-03.52.32:046][480]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.01-03.52.32:618][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling)
+[2021.03.01-03.52.34:798][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.01-03.52.35:729][872]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling)
+[2021.03.01-03.53.09:572][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling)
+[2021.03.01-03.53.22:749][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling)
+[2021.03.01-03.53.48:135][339]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/Materials/Ceiling_Texture.Ceiling_Texture
+[2021.03.01-03.53.59:394][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Materials/Ceiling_Texture" FILE="../../../../../Envision_Repo/Envision/VREnvision/Content/Materials/Materials/Ceiling_Texture.uasset" SILENT=true
+[2021.03.01-03.53.59:413][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.03.01-03.53.59:417][129]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.03.01-03.53.59:435][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.03.01-03.53.59:458][129]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Ceiling_TextureAF0520F04523AFB1899D7EB6BACA8134.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Materials/Materials/Ceiling_Texture.uasset'
+[2021.03.01-03.53.59:472][129]AssetCheck: New page: Asset Save: Ceiling_Texture
+[2021.03.01-03.53.59:472][129]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Materials/Ceiling_Texture.Ceiling_Texture
+[2021.03.01-03.54.03:585][356]Cmd: TRANSACTION UNDO
+[2021.03.01-03.54.03:585][356]LogEditorTransaction: Undo Edit Scale
+[2021.03.01-03.54.04:462][394]Cmd: TRANSACTION UNDO
+[2021.03.01-03.54.04:462][394]LogEditorTransaction: Undo Edit Scale
+[2021.03.01-03.54.37:084][ 23]LogSlate: Window 'Ceiling_Texture' being destroyed
+[2021.03.01-03.54.37:091][ 23]LogSlate: Window 'Ceiling_Texture' being destroyed
+[2021.03.01-03.54.37:107][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.03.01-03.54.37:129][ 23]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.03.01-03.54.37:144][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.03.01-03.54.37:175][ 23]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.03.01-03.54.37:175][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-03.54.45:770][943]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling)
+[2021.03.01-03.54.47:927][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RecessedLight_LP_RecessedBulb2)
+[2021.03.01-03.54.49:167][295]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (RecessedLight_LP_RecessedCasing2)
+[2021.03.01-03.54.52:737][660]Cmd: DELETE
+[2021.03.01-03.54.52:737][660]Cmd: ACTOR DELETE
+[2021.03.01-03.54.52:769][660]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.01-03.54.52:769][660]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.01-03.54.52:769][660]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.01-03.54.52:770][660]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.01-03.54.52:786][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.03.01-03.54.52:789][660]LogEditorActor: Deleted 4 Actors (0.052 secs)
+[2021.03.01-03.54.56:520][ 99]Cmd: DELETE
+[2021.03.01-03.54.56:520][ 99]Cmd: ACTOR DELETE
+[2021.03.01-03.54.56:538][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.03.01-03.54.56:540][ 99]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2021.03.01-03.55.23:524][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall15_StaticMesh)
+[2021.03.01-03.55.47:101][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.03.01-03.55.47:165][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.03.01-03.55.48:860][140]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/GrayBox002E6A6B6184B4BE3678B0D4498BA95A0EF.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/VirtualRealityBP/Testing/Maps/GrayBox002.umap'
+[2021.03.01-03.55.48:918][140]LogFileHelpers: Saving map 'GrayBox002' took 1.773
+[2021.03.01-03.55.53:356][140]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/GrayBox002_BuiltData49DDBC84436C4C5773DABDA339442000.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/VirtualRealityBP/Testing/Maps/GrayBox002_BuiltData.uasset'
+[2021.03.01-03.55.53:379][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Environment/Ceiling" FILE="../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Environment/Ceiling.uasset" SILENT=true
+[2021.03.01-03.55.53:398][140]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/CeilingDA48955D4C57B9C549BDE79DC779D598.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Environment/Ceiling.uasset'
+[2021.03.01-03.55.53:417][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Materials/Ceiling_Texture" FILE="../../../../../Envision_Repo/Envision/VREnvision/Content/Materials/Materials/Ceiling_Texture.uasset" SILENT=true
+[2021.03.01-03.55.53:440][140]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Ceiling_TextureC3AD4B75444C68212A8B27B0C1DE4105.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Materials/Materials/Ceiling_Texture.uasset'
+[2021.03.01-03.55.53:471][140]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.01-03.55.53:471][140]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002
+[2021.03.01-03.55.53:471][140]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Testing/Maps/GrayBox002_BuiltData.GrayBox002_BuiltData
+[2021.03.01-03.55.53:471][140]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Environment/Ceiling.Ceiling
+[2021.03.01-03.55.53:471][140]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Materials/Ceiling_Texture.Ceiling_Texture
