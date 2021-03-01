@@ -1020,3 +1020,181 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.01-03.22.22:369][826]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002
 [2021.03.01-03.22.22:369][826]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Testing/Maps/GrayBox002_BuiltData.GrayBox002_BuiltData
 [2021.03.01-03.22.22:369][826]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Environment/Walls/FrontDoorCut_StaticMesh.FrontDoorCut_StaticMesh
+[2021.03.01-03.26.49:456][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_StaticMesh)
+[2021.03.01-03.27.08:843][194]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (FrontDoorCut_StaticMesh)
+[2021.03.01-03.27.27:820][258]Cmd: TRANSACTION UNDO
+[2021.03.01-03.27.27:820][258]LogEditorTransaction: Undo Select Brush Surface
+[2021.03.01-03.27.36:788][ 75]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.03.01-03.28.10:149][523]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_StaticMesh)
+[2021.03.01-03.28.21:846][844]Cmd: DELETE
+[2021.03.01-03.28.21:846][844]Cmd: ACTOR DELETE
+[2021.03.01-03.28.21:883][844]LogEditorActor: Deleted Actor: Brush
+[2021.03.01-03.28.21:899][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.03.01-03.28.21:936][844]LogEditorActor: Deleted 1 Actors (0.090 secs)
+[2021.03.01-03.28.32:564][997]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrontDoorCut_StaticMesh)
+[2021.03.01-03.28.45:855][298]Cmd: TRANSACTION UNDO
+[2021.03.01-03.28.45:855][298]LogEditorTransaction: Undo Move Actors
+[2021.03.01-03.28.48:358][521]Cmd: TRANSACTION UNDO
+[2021.03.01-03.28.48:358][521]LogEditorTransaction: Undo Move Actors
+[2021.03.01-03.29.27:018][717]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.01-03.29.35:098][571]Cmd: TRANSACTION UNDO
+[2021.03.01-03.29.35:098][571]LogEditorTransaction: Undo Create Actors
+[2021.03.01-03.29.35:102][571]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_58' invalid (4391 verts, 0 indices).
+[2021.03.01-03.29.35:102][571]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_58.BodySetup_0 when we are unable to.
+[2021.03.01-03.29.44:158][484]Cmd: TRANSACTION UNDO
+[2021.03.01-03.29.44:158][484]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.01-03.29.45:433][590]Cmd: TRANSACTION REDO
+[2021.03.01-03.29.45:433][590]LogEditorTransaction: Redo Clicking on Actors
+[2021.03.01-03.30.14:746][614]LogSlate: Window 'Select Path' being destroyed
+[2021.03.01-03.30.14:789][614]LogStaticMesh: Building static mesh Wall7_StaticMesh...
+[2021.03.01-03.30.14:791][614]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Environment/Walls/Wall7_StaticMesh.Wall7_StaticMesh
+[2021.03.01-03.30.14:796][614]LogActorFactory: Actor Factory created Wall7_StaticMesh
+[2021.03.01-03.30.14:845][614]LogEditor: Error: Actor 'Brush /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.Wall7' is marked pending kill and cannot be converted
+[2021.03.01-03.30.14:846][614]EditorErrors: New page: Actor Reattachment
+[2021.03.01-03.30.14:863][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.03.01-03.30.28:983][975]LogSlate: Window 'Select Path' being destroyed
+[2021.03.01-03.30.29:020][975]LogStaticMesh: Building static mesh Wall29_StaticMesh...
+[2021.03.01-03.30.29:023][975]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Environment/Walls/Wall29_StaticMesh.Wall29_StaticMesh
+[2021.03.01-03.30.29:027][975]LogActorFactory: Actor Factory created Wall29_StaticMesh
+[2021.03.01-03.30.29:079][975]LogEditor: Error: Actor 'Brush /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.Wall29' is marked pending kill and cannot be converted
+[2021.03.01-03.30.29:079][975]EditorErrors: New page: Actor Reattachment
+[2021.03.01-03.30.29:097][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.03.01-03.30.36:391][661]LogActorFactory: Actor Factory created FrontDoorCut_StaticMesh
+[2021.03.01-03.30.37:404][763]LogActorFactory: Actor Factory created FrontDoorCut_StaticMesh
+[2021.03.01-03.30.44:259][542]Cmd: TRANSACTION UNDO
+[2021.03.01-03.30.44:259][542]LogEditorTransaction: Undo Move Actors
+[2021.03.01-03.31.08:166][172]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.01-03.31.08:650][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrontDoorCut_StaticMesh2)
+[2021.03.01-03.31.11:327][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrontDoorCut_StaticMesh2)
+[2021.03.01-03.31.11:703][530]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.01-03.31.20:616][503]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_89' invalid (4139 verts, 0 indices).
+[2021.03.01-03.31.20:616][503]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_89.BodySetup_0 when we are unable to.
+[2021.03.01-03.31.20:616][503]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_90' invalid (4139 verts, 0 indices).
+[2021.03.01-03.31.20:616][503]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_90.BodySetup_0 when we are unable to.
+[2021.03.01-03.31.22:394][688]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_89' invalid (4139 verts, 0 indices).
+[2021.03.01-03.31.22:394][688]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_89.BodySetup_0 when we are unable to.
+[2021.03.01-03.31.22:394][688]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_90' invalid (4139 verts, 0 indices).
+[2021.03.01-03.31.22:394][688]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_90.BodySetup_0 when we are unable to.
+[2021.03.01-03.31.23:869][833]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_89' invalid (4139 verts, 0 indices).
+[2021.03.01-03.31.23:869][833]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_89.BodySetup_0 when we are unable to.
+[2021.03.01-03.31.23:869][833]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_90' invalid (4139 verts, 0 indices).
+[2021.03.01-03.31.23:869][833]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_90.BodySetup_0 when we are unable to.
+[2021.03.01-03.31.46:347][419]Cmd: DELETE
+[2021.03.01-03.31.46:347][419]Cmd: ACTOR DELETE
+[2021.03.01-03.31.46:378][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.01-03.31.46:394][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.03.01-03.31.46:397][419]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2021.03.01-03.31.47:267][512]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrontDoorCut_StaticMesh)
+[2021.03.01-03.32.00:653][911]LogSlate: Window 'Select Path' being destroyed
+[2021.03.01-03.32.00:698][911]LogStaticMesh: Building static mesh Wall3_StaticMesh...
+[2021.03.01-03.32.00:701][911]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Environment/Walls/Wall3_StaticMesh.Wall3_StaticMesh
+[2021.03.01-03.32.00:707][911]LogActorFactory: Actor Factory created Wall3_StaticMesh
+[2021.03.01-03.32.00:759][911]LogEditor: Error: Actor 'Brush /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.Wall3' is marked pending kill and cannot be converted
+[2021.03.01-03.32.00:759][911]EditorErrors: New page: Actor Reattachment
+[2021.03.01-03.32.00:777][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.03.01-03.32.02:157][ 57]Cmd: TRANSACTION UNDO
+[2021.03.01-03.32.02:157][ 57]LogEditorTransaction: Undo Convert Actors
+[2021.03.01-03.32.18:561][807]Cmd: TRANSACTION UNDO
+[2021.03.01-03.32.18:561][807]LogEditorTransaction: Undo Move Actors
+[2021.03.01-03.33.27:333][764]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.01-03.33.28:531][900]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.01-03.33.29:451][  5]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.01-03.33.30:897][169]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.01-03.33.32:231][321]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.01-03.33.32:774][384]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.01-03.33.33:860][511]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.01-03.33.35:416][694]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.01-03.33.38:022][965]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.01-03.33.41:030][305]Cmd: TRANSACTION UNDO
+[2021.03.01-03.33.41:030][305]LogEditorTransaction: Undo Move Actors
+[2021.03.01-03.33.43:138][494]Cmd: TRANSACTION UNDO
+[2021.03.01-03.33.43:138][494]LogEditorTransaction: Undo Move Actors
+[2021.03.01-03.33.45:720][764]Cmd: TRANSACTION UNDO
+[2021.03.01-03.33.45:721][764]LogEditorTransaction: Undo Move Actors
+[2021.03.01-03.33.51:750][410]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.01-03.34.09:271][459]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_01)
+[2021.03.01-03.34.13:598][902]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.01-03.34.14:967][ 34]Cmd: TRANSACTION UNDO
+[2021.03.01-03.34.14:967][ 34]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.01-03.34.17:560][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.01-03.34.22:070][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_01)
+[2021.03.01-03.34.42:242][559]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrontDoorCut_StaticMesh)
+[2021.03.01-03.34.55:549][ 77]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BookCase)
+[2021.03.01-03.35.02:714][910]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Window_Frame_2)
+[2021.03.01-03.35.15:665][335]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_84' invalid (4139 verts, 0 indices).
+[2021.03.01-03.35.15:665][335]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_84.BodySetup_0 when we are unable to.
+[2021.03.01-03.35.15:666][335]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_89' invalid (4139 verts, 0 indices).
+[2021.03.01-03.35.15:666][335]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_89.BodySetup_0 when we are unable to.
+[2021.03.01-03.35.15:666][335]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_90' invalid (4139 verts, 0 indices).
+[2021.03.01-03.35.15:666][335]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_90.BodySetup_0 when we are unable to.
+[2021.03.01-03.35.35:004][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_StaticMesh)
+[2021.03.01-03.35.47:771][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PabloLight_PabloLightBase)
+[2021.03.01-03.35.49:805][250]Cmd: DELETE
+[2021.03.01-03.35.49:806][250]Cmd: ACTOR DELETE
+[2021.03.01-03.35.49:835][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.01-03.35.49:851][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.03.01-03.35.49:855][250]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2021.03.01-03.35.50:527][329]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PabloLight_MidCone)
+[2021.03.01-03.35.50:757][350]Cmd: DELETE
+[2021.03.01-03.35.50:757][350]Cmd: ACTOR DELETE
+[2021.03.01-03.35.50:786][350]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.01-03.35.50:800][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.03.01-03.35.50:801][350]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2021.03.01-03.35.51:015][375]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PabloLight_LargCone)
+[2021.03.01-03.35.51:221][394]Cmd: DELETE
+[2021.03.01-03.35.51:221][394]Cmd: ACTOR DELETE
+[2021.03.01-03.35.51:250][394]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.01-03.35.51:266][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.03.01-03.35.51:268][394]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2021.03.01-03.35.51:678][436]Cmd: DELETE
+[2021.03.01-03.35.51:678][436]Cmd: ACTOR DELETE
+[2021.03.01-03.35.51:710][436]LogEditorActor: Deleted Actor: Brush
+[2021.03.01-03.35.51:727][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.03.01-03.35.51:759][436]LogEditorActor: Deleted 1 Actors (0.081 secs)
+[2021.03.01-03.35.52:141][477]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_StaticMesh)
+[2021.03.01-03.35.53:184][595]Cmd: TRANSACTION UNDO
+[2021.03.01-03.35.53:184][595]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.01-03.35.53:452][604]Cmd: TRANSACTION UNDO
+[2021.03.01-03.35.53:452][604]LogEditorTransaction: Undo Delete Actors
+[2021.03.01-03.35.54:750][717]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PabloLight_SmlCone)
+[2021.03.01-03.35.55:675][821]Cmd: DELETE
+[2021.03.01-03.35.55:675][821]Cmd: ACTOR DELETE
+[2021.03.01-03.35.55:703][821]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.01-03.35.55:720][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.03.01-03.35.55:724][821]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2021.03.01-03.35.56:315][891]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_StaticMesh)
+[2021.03.01-03.35.56:915][954]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PabloLight_LEDPar30Bulb01)
+[2021.03.01-03.35.57:441][ 11]Cmd: DELETE
+[2021.03.01-03.35.57:441][ 11]Cmd: ACTOR DELETE
+[2021.03.01-03.35.57:471][ 11]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.01-03.35.57:487][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.03.01-03.35.57:489][ 11]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2021.03.01-03.35.57:856][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PabloLight_LEDPar30Bulb03)
+[2021.03.01-03.35.58:292][101]Cmd: DELETE
+[2021.03.01-03.35.58:292][101]Cmd: ACTOR DELETE
+[2021.03.01-03.35.58:323][101]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.01-03.35.58:340][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.03.01-03.35.58:342][101]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2021.03.01-03.35.59:002][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PabloLight_LEDPar30Bulb02)
+[2021.03.01-03.35.59:377][219]Cmd: DELETE
+[2021.03.01-03.35.59:377][219]Cmd: ACTOR DELETE
+[2021.03.01-03.35.59:407][219]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.01-03.35.59:423][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.03.01-03.35.59:425][219]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2021.03.01-03.36.13:087][838]Cmd: DELETE
+[2021.03.01-03.36.13:087][838]Cmd: ACTOR DELETE
+[2021.03.01-03.36.13:106][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.03.01-03.36.13:109][838]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2021.03.01-03.36.40:814][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.01-03.37.01:897][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.03.01-03.37.01:941][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.03.01-03.37.03:562][471]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/GrayBox0020ECF2208463607DAD6E55DA8715DDABC.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/VirtualRealityBP/Testing/Maps/GrayBox002.umap'
+[2021.03.01-03.37.03:625][471]LogFileHelpers: Saving map 'GrayBox002' took 1.703
+[2021.03.01-03.37.07:950][471]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/GrayBox002_BuiltDataDEE22A2E4D633CEA61FBB9BA360EDB6A.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/VirtualRealityBP/Testing/Maps/GrayBox002_BuiltData.uasset'
+[2021.03.01-03.37.07:993][471]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Wall7_StaticMesh977E0DEE4B0678482E60CFAF6DDD37BC.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Environment/Walls/Wall7_StaticMesh.uasset'
+[2021.03.01-03.37.08:027][471]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/Wall29_StaticMesh762820EC4EF3D5697E68E482F30D7D39.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Environment/Walls/Wall29_StaticMesh.uasset'
+[2021.03.01-03.37.08:064][471]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.01-03.37.08:064][471]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002
+[2021.03.01-03.37.08:064][471]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Testing/Maps/GrayBox002_BuiltData.GrayBox002_BuiltData
+[2021.03.01-03.37.08:064][471]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Environment/Walls/Wall7_StaticMesh.Wall7_StaticMesh
+[2021.03.01-03.37.08:064][471]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Environment/Walls/Wall29_StaticMesh.Wall29_StaticMesh
