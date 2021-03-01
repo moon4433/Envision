@@ -724,3 +724,299 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.01-03.08.30:408][377]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/T_PaintedWall_N.T_PaintedWall_N
 [2021.03.01-03.08.33:396][708]AssetReimport: Importing new asset /Game/Materials/Textures/T_PaintedWall_N.
 [2021.03.01-03.08.33:534][723]LogSlate: Window 'Message Log' being destroyed
+[2021.03.01-03.13.04:738][804]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Environment/Windows/Wall15_StaticMesh.uasset' failed to load '/Game/ArchVis/DemoAssets/Materials/M_WallPainInterior_MAT_Inst': Can't find file.
+[2021.03.01-03.13.04:739][804]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Environment/Windows/Wall15_StaticMesh.uasset' failed to load '/Game/ArchVis/DemoAssets/Materials/M_WallPainInterior_MAT_Inst': Can't find file.
+[2021.03.01-03.13.04:739][804]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Environment/Windows/Wall15_StaticMesh.uasset' failed to load '/Game/ArchVis/DemoAssets/Materials/M_WallPainInterior_MAT_Inst': Can't find file.
+[2021.03.01-03.13.04:739][804]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Environment/Windows/Wall15_StaticMesh.uasset' failed to load '/Game/ArchVis/DemoAssets/Materials/M_WallPainInterior_MAT_Inst': Can't find file.
+[2021.03.01-03.13.04:873][804]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Environment/Windows/Wall15_StaticMesh.uasset' failed to load '/Game/ArchVis/DemoAssets/Materials/M_WallPainInterior_MAT_Inst': Can't find file.
+[2021.03.01-03.13.04:873][804]LoadErrors: Failed to load /Game/ArchVis/DemoAssets/Materials/M_WallPainInterior_MAT_Inst.M_WallPainInterior_MAT_Inst Referenced by Wall15_StaticMesh
+[2021.03.01-03.13.04:873][804]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Environment/Windows/Wall15_StaticMesh.uasset' failed to load '/Game/ArchVis/DemoAssets/Materials/M_WallPainInterior_MAT_Inst': Can't find file.
+[2021.03.01-03.13.04:874][804]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Environment/Windows/Wall15_StaticMesh.uasset' failed to load '/Game/ArchVis/DemoAssets/Materials/M_WallPainInterior_MAT_Inst': Can't find file.
+[2021.03.01-03.13.04:874][804]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Environment/Windows/Wall15_StaticMesh.uasset' failed to load '/Game/ArchVis/DemoAssets/Materials/M_WallPainInterior_MAT_Inst': Can't find file.
+[2021.03.01-03.13.07:632][804]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002
+[2021.03.01-03.13.07:656][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.03.01-03.13.07:660][804]Cmd: MAP LOAD FILE="../../../../../Envision_Repo/Envision/VREnvision/Content/VirtualRealityBP/Testing/Maps/GrayBox002.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.01-03.13.07:660][804]LightingResults: New page: Lighting Build
+[2021.03.01-03.13.07:660][804]LoadErrors: New page: Loading map: GrayBox002.umap
+[2021.03.01-03.13.07:661][804]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.01-03.13.07:661][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-03.13.07:661][804]MapCheck: New page: Map Check
+[2021.03.01-03.13.07:661][804]LightingResults: New page: Lighting Build
+[2021.03.01-03.13.07:676][804]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D671C63E00), frame # 2804
+[2021.03.01-03.13.07:676][804]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D671311940), frame # 2804
+[2021.03.01-03.13.07:678][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.03.01-03.13.09:766][804]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.01-03.13.09:766][804]LogAIModule: Creating AISystem for world GrayBox002
+[2021.03.01-03.13.09:766][804]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D6A51E5400), frame # 2804
+[2021.03.01-03.13.09:766][804]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D61375A200), frame # 2804
+[2021.03.01-03.13.09:851][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.03.01-03.13.09:897][804]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.01-03.13.09:898][804]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.175ms to complete.
+[2021.03.01-03.13.09:898][804]LogFileHelpers: Loading map 'GrayBox002' took 2.238
+[2021.03.01-03.13.36:226][422]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Materials/Materials/M_WallPainInterior_MAT.uasset' failed to load '/Game/ArchVis/DemoAssets/Textures/T_PaintedWall_N': Can't find file.
+[2021.03.01-03.13.36:226][422]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Materials/Materials/M_WallPainInterior_MAT.uasset' failed to load '/Game/ArchVis/DemoAssets/Textures/T_PaintedWall_N': Can't find file.
+[2021.03.01-03.13.36:227][422]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Materials/Materials/M_WallPainInterior_MAT.uasset' failed to load '/Game/ArchVis/DemoAssets/Textures/T_PaintedWall_N': Can't find file.
+[2021.03.01-03.13.36:227][422]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Materials/Materials/M_WallPainInterior_MAT.uasset' failed to load '/Game/ArchVis/DemoAssets/Textures/T_PaintedWall_N': Can't find file.
+[2021.03.01-03.13.36:227][422]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Materials/Materials/M_WallPainInterior_MAT.uasset' failed to load '/Game/ArchVis/DemoAssets/Textures/T_PaintedWall_N': Can't find file.
+[2021.03.01-03.13.36:228][422]LoadErrors: Failed to load /Game/ArchVis/DemoAssets/Textures/T_PaintedWall_N.T_PaintedWall_N Referenced by MaterialExpressionTextureSampleParameter2D_4
+[2021.03.01-03.13.36:228][422]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Materials/Materials/M_WallPainInterior_MAT.uasset' failed to load '/Game/ArchVis/DemoAssets/Textures/T_PaintedWall_N': Can't find file.
+[2021.03.01-03.13.36:229][422]LogMaterial: Display: Missing cached shader map for material M_WallPainInterior_MAT, compiling. 
+[2021.03.01-03.13.36:230][422]LogMaterial: Warning: C:\Envision_Repo\Envision\VREnvision\Content\Materials\Materials\M_WallPainInterior_MAT.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.01-03.13.36:230][422]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.01-03.13.36:255][422]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Materials/M_WallPainInterior_MAT.M_WallPainInterior_MAT
+[2021.03.01-03.13.36:256][422]LogMaterial: Display: Missing cached shader map for material M_WallPainInterior_MAT, compiling. 
+[2021.03.01-03.13.36:257][422]LogMaterial: Warning: /Engine/Transient.M_WallPainInterior_MAT (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.01-03.13.36:257][422]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.01-03.13.36:551][422]LogMaterial: Display: Missing cached shader map for material M_WallPainInterior_MAT, compiling. 
+[2021.03.01-03.13.36:552][422]LogMaterial: Warning: /Engine/Transient.M_WallPainInterior_MAT (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.01-03.13.36:552][422]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.01-03.13.36:553][422]LogMaterial: Display: Missing cached shader map for material M_WallPainInterior_MAT, compiling. 
+[2021.03.01-03.13.36:554][422]LogMaterial: Warning: /Engine/Transient.M_WallPainInterior_MAT (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.01-03.13.36:554][422]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.01-03.13.36:566][422]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_8, compiling. 
+[2021.03.01-03.13.36:580][422]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2021.03.01-03.13.36:581][422]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_4, compiling. 
+[2021.03.01-03.13.36:587][422]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.03.01-03.13.36:587][422]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.03.01-03.13.36:587][422]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.03.01-03.13.36:587][422]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.03.01-03.13.36:652][422]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.03.01-03.13.36:652][422]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.03.01-03.13.36:652][422]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.03.01-03.13.36:652][422]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.03.01-03.13.36:652][422]MaterialEditorStats: Error: [SM5] (Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.01-03.13.36:662][422]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.03.01-03.13.37:853][470]LogSlate: Took 0.000867 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.01-03.14.02:727][649]LogMaterial: Display: Missing cached shader map for material M_WallPainInterior_MAT, compiling. 
+[2021.03.01-03.14.02:762][649]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_8, compiling. 
+[2021.03.01-03.14.02:766][649]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.03.01-03.14.02:766][649]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.03.01-03.14.02:766][649]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.03.01-03.14.02:766][649]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.03.01-03.14.02:766][649]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.03.01-03.14.02:766][649]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.03.01-03.14.02:766][649]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.03.01-03.14.02:766][649]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.03.01-03.14.02:766][649]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2021.03.01-03.14.02:771][649]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_4, compiling. 
+[2021.03.01-03.14.04:038][697]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2021.03.01-03.14.04:159][702]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2021.03.01-03.14.06:220][773]LogMaterialEditor: Saving and Compiling material M_WallPainInterior_MAT
+[2021.03.01-03.14.07:314][773]LogMaterial: Display: Missing cached shader map for material M_WallPainInterior_MAT, compiling. 
+[2021.03.01-03.14.07:590][773]LogMaterial: Display: Missing cached shader map for material M_WallPainInterior_MAT, compiling. 
+[2021.03.01-03.14.07:890][773]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2021.03.01-03.14.07:909][773]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.01-03.14.10:596][773]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 49
+[2021.03.01-03.14.10:596][773]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 48
+[2021.03.01-03.14.11:131][773]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 47
+[2021.03.01-03.14.11:131][773]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 46
+[2021.03.01-03.14.11:131][773]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 45
+[2021.03.01-03.14.11:131][773]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 44
+[2021.03.01-03.14.11:131][773]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 43
+[2021.03.01-03.14.11:667][773]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 42
+[2021.03.01-03.14.11:667][773]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 41
+[2021.03.01-03.14.11:667][773]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 40
+[2021.03.01-03.14.11:667][773]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 39
+[2021.03.01-03.14.11:667][773]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 38
+[2021.03.01-03.14.11:667][773]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 37
+[2021.03.01-03.14.11:667][773]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 36
+[2021.03.01-03.14.12:202][773]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 35
+[2021.03.01-03.14.12:202][773]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 34
+[2021.03.01-03.14.12:202][773]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 33
+[2021.03.01-03.14.12:202][773]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 32
+[2021.03.01-03.14.12:202][773]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 31
+[2021.03.01-03.14.12:202][773]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 30
+[2021.03.01-03.14.12:738][773]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 29
+[2021.03.01-03.14.13:274][773]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 28
+[2021.03.01-03.14.18:880][773]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 27
+[2021.03.01-03.14.19:427][773]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 26
+[2021.03.01-03.14.19:975][773]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2021.03.01-03.14.19:975][773]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 24
+[2021.03.01-03.14.19:975][773]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2021.03.01-03.14.19:976][773]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2021.03.01-03.14.20:074][773]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2021.03.01-03.14.20:087][773]TextureStreamingBuild: Display: Compiling optional shaders took 12.190 seconds.
+[2021.03.01-03.14.20:119][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.03.01-03.14.20:718][773]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2021.03.01-03.14.20:718][773]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2021.03.01-03.14.20:718][773]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.03.01-03.14.21:253][773]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.03.01-03.14.22:860][773]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2021.03.01-03.14.22:860][773]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.03.01-03.14.23:931][773]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.03.01-03.14.28:216][773]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.03.01-03.14.28:751][773]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.03.01-03.14.35:840][773]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/M_WallPainInterior_MATD52D65664E403457D0FC0685DFF302F3.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Materials/Materials/M_WallPainInterior_MAT.uasset'
+[2021.03.01-03.14.35:881][773]AssetCheck: New page: Asset Save: M_WallPainInterior_MAT
+[2021.03.01-03.14.35:881][773]LogContentValidation: Display: Validating Material /Game/Materials/Materials/M_WallPainInterior_MAT.M_WallPainInterior_MAT
+[2021.03.01-03.14.35:883][773]MaterialEditorStats: Base pass shader: 800 instructions
+[2021.03.01-03.14.35:883][773]MaterialEditorStats: Base pass shader with Surface Lightmap: 822 instructions
+[2021.03.01-03.14.35:883][773]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 867 instructions
+[2021.03.01-03.14.35:883][773]MaterialEditorStats: Base pass vertex shader: 237 instructions
+[2021.03.01-03.14.35:883][773]MaterialEditorStats: Texture samplers: 6/16
+[2021.03.01-03.14.35:883][773]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.03.01-03.14.35:883][773]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.03.01-03.14.43:581][797]LogSlate: Window 'M_WallPainInterior_MAT' being destroyed
+[2021.03.01-03.14.43:588][797]LogSlate: Window 'M_WallPainInterior_MAT' being destroyed
+[2021.03.01-03.14.43:653][797]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.03.01-03.14.43:653][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-03.14.45:314][955]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Materials/Materials/M_WallPainInterior_MAT_Inst.uasset' failed to load '/Game/ArchVis/DemoAssets/Materials/M_WallPainInterior_MAT': Can't find file.
+[2021.03.01-03.14.45:315][955]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Materials/Materials/M_WallPainInterior_MAT_Inst.uasset' failed to load '/Game/ArchVis/DemoAssets/Materials/M_WallPainInterior_MAT': Can't find file.
+[2021.03.01-03.14.45:315][955]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Materials/Materials/M_WallPainInterior_MAT_Inst.uasset' failed to load '/Game/ArchVis/DemoAssets/Materials/M_WallPainInterior_MAT': Can't find file.
+[2021.03.01-03.14.45:315][955]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Materials/Materials/M_WallPainInterior_MAT_Inst.uasset' failed to load '/Game/ArchVis/DemoAssets/Materials/M_WallPainInterior_MAT': Can't find file.
+[2021.03.01-03.14.45:315][955]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Materials/Materials/M_WallPainInterior_MAT_Inst.uasset' failed to load '/Game/ArchVis/DemoAssets/Materials/M_WallPainInterior_MAT': Can't find file.
+[2021.03.01-03.14.45:315][955]LoadErrors: Failed to load /Game/ArchVis/DemoAssets/Materials/M_WallPainInterior_MAT.M_WallPainInterior_MAT Referenced by M_WallPainInterior_MAT_Inst
+[2021.03.01-03.14.45:315][955]LogLinker: Warning: While loading '../../../../../Envision_Repo/Envision/VREnvision/Content/Materials/Materials/M_WallPainInterior_MAT_Inst.uasset' failed to load '/Game/ArchVis/DemoAssets/Materials/M_WallPainInterior_MAT': Can't find file.
+[2021.03.01-03.14.50:414][472]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/Materials/M_WallPainInterior_MAT_Inst.M_WallPainInterior_MAT_Inst
+[2021.03.01-03.14.50:613][472]LogRenderer: Reallocating scene render targets to support 1100x612 Format 26 NumSamples 1 (Frame:1).
+[2021.03.01-03.15.20:857][350]LogSlate: Window 'M_WallPainInterior_MAT_Inst' being destroyed
+[2021.03.01-03.15.20:865][350]LogSlate: Window 'M_WallPainInterior_MAT_Inst' being destroyed
+[2021.03.01-03.15.20:883][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.03.01-03.15.20:916][350]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.03.01-03.15.20:932][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.03.01-03.15.21:032][350]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.03.01-03.15.21:032][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-03.15.59:986][221]Cmd: TRANSACTION UNDO
+[2021.03.01-03.15.59:986][221]LogEditorTransaction: Undo Create Actors
+[2021.03.01-03.16.19:755][172]Cmd: TRANSACTION UNDO
+[2021.03.01-03.16.19:755][172]LogEditorTransaction: Undo Create Actors
+[2021.03.01-03.16.57:217][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.03.01-03.16.57:267][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.03.01-03.16.59:138][548]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/GrayBox002436BB2174A12916AB0F2E6938B3FB331.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/VirtualRealityBP/Testing/Maps/GrayBox002.umap'
+[2021.03.01-03.16.59:194][548]LogFileHelpers: Saving map 'GrayBox002' took 1.943
+[2021.03.01-03.17.05:519][548]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/GrayBox002_BuiltData92263F37437F40610D9DFA84EB2C37CA.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/VirtualRealityBP/Testing/Maps/GrayBox002_BuiltData.uasset'
+[2021.03.01-03.17.05:920][548]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/M_WallPainInterior_MAT_InstF5F9E05D4558AC0318EC7D9122F7D967.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Materials/Materials/M_WallPainInterior_MAT_Inst.uasset'
+[2021.03.01-03.17.05:955][548]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.01-03.17.05:955][548]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002
+[2021.03.01-03.17.05:955][548]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Testing/Maps/GrayBox002_BuiltData.GrayBox002_BuiltData
+[2021.03.01-03.17.05:955][548]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Materials/M_WallPainInterior_MAT_Inst.M_WallPainInterior_MAT_Inst
+[2021.03.01-03.17.14:696][441]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.01-03.17.32:316][377]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_01)
+[2021.03.01-03.17.54:242][596]LogSlate: Window 'Select Path' being destroyed
+[2021.03.01-03.17.54:289][596]LogStaticMesh: Building static mesh Wall001_StaticMesh...
+[2021.03.01-03.17.54:292][596]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Environment/Walls/Wall001_StaticMesh.Wall001_StaticMesh
+[2021.03.01-03.17.54:297][596]LogActorFactory: Actor Factory created Wall001_StaticMesh
+[2021.03.01-03.17.54:349][596]LogEditor: Error: Actor 'Brush /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.Wall001' is marked pending kill and cannot be converted
+[2021.03.01-03.17.54:349][596]EditorErrors: New page: Actor Reattachment
+[2021.03.01-03.17.54:367][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.03.01-03.17.57:964][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall001_StaticMesh)
+[2021.03.01-03.18.15:698][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall001_StaticMesh)
+[2021.03.01-03.18.32:728][515]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall001_StaticMesh)
+[2021.03.01-03.18.41:167][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_01)
+[2021.03.01-03.18.45:477][758]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_01)
+[2021.03.01-03.18.49:149][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_01)
+[2021.03.01-03.18.52:435][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_01)
+[2021.03.01-03.18.56:314][799]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_01)
+[2021.03.01-03.18.57:621][909]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall001_StaticMesh)
+[2021.03.01-03.18.58:553][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall001_StaticMesh)
+[2021.03.01-03.18.59:211][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall001_StaticMesh)
+[2021.03.01-03.18.59:627][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall001_StaticMesh)
+[2021.03.01-03.19.00:642][221]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall001_StaticMesh)
+[2021.03.01-03.19.04:167][612]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Door_01)
+[2021.03.01-03.19.05:383][739]Cmd: TRANSACTION UNDO
+[2021.03.01-03.19.05:383][739]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.01-03.19.06:124][778]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall001_StaticMesh)
+[2021.03.01-03.19.06:746][841]Cmd: TRANSACTION UNDO
+[2021.03.01-03.19.06:746][841]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.01-03.19.07:007][866]Cmd: TRANSACTION UNDO
+[2021.03.01-03.19.07:007][866]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.01-03.19.07:180][880]Cmd: TRANSACTION UNDO
+[2021.03.01-03.19.07:180][880]LogEditorTransaction: Undo Select Brush Surface
+[2021.03.01-03.19.07:370][891]Cmd: TRANSACTION UNDO
+[2021.03.01-03.19.07:370][891]LogEditorTransaction: Undo Edit Overridden Light Map Res
+[2021.03.01-03.19.07:532][904]Cmd: TRANSACTION UNDO
+[2021.03.01-03.19.07:532][904]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.01-03.19.07:711][916]Cmd: TRANSACTION UNDO
+[2021.03.01-03.19.07:711][916]LogEditorTransaction: Undo Select Brush Surface
+[2021.03.01-03.19.07:888][926]Cmd: TRANSACTION UNDO
+[2021.03.01-03.19.07:888][926]LogEditorTransaction: Undo Edit Overridden Light Map Res
+[2021.03.01-03.19.08:062][941]Cmd: TRANSACTION UNDO
+[2021.03.01-03.19.08:062][941]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.01-03.19.08:262][955]Cmd: TRANSACTION UNDO
+[2021.03.01-03.19.08:262][955]LogEditorTransaction: Undo Select Brush Surface
+[2021.03.01-03.19.08:449][967]Cmd: TRANSACTION UNDO
+[2021.03.01-03.19.08:449][967]LogEditorTransaction: Undo Edit Overridden Light Map Res
+[2021.03.01-03.19.08:620][982]Cmd: TRANSACTION UNDO
+[2021.03.01-03.19.08:620][982]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.01-03.19.08:836][997]Cmd: TRANSACTION UNDO
+[2021.03.01-03.19.08:837][997]LogEditorTransaction: Undo Select Brush Surface
+[2021.03.01-03.19.09:009][  7]Cmd: TRANSACTION UNDO
+[2021.03.01-03.19.09:010][  7]LogEditorTransaction: Undo Edit Overridden Light Map Res
+[2021.03.01-03.19.09:208][ 24]Cmd: TRANSACTION UNDO
+[2021.03.01-03.19.09:208][ 24]LogEditorTransaction: Undo Overridden Light Map Res Edit Condition Changed
+[2021.03.01-03.19.09:395][ 38]Cmd: TRANSACTION UNDO
+[2021.03.01-03.19.09:395][ 38]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.01-03.19.09:577][ 49]Cmd: TRANSACTION UNDO
+[2021.03.01-03.19.09:577][ 49]LogEditorTransaction: Undo Select Brush Surface
+[2021.03.01-03.19.09:771][ 61]Cmd: TRANSACTION UNDO
+[2021.03.01-03.19.09:772][ 61]LogEditorTransaction: Undo Edit Overridden Light Map Res
+[2021.03.01-03.19.09:984][ 82]Cmd: TRANSACTION UNDO
+[2021.03.01-03.19.09:984][ 82]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.01-03.19.10:212][100]Cmd: TRANSACTION UNDO
+[2021.03.01-03.19.10:212][100]LogEditorTransaction: Undo Select Brush Surface
+[2021.03.01-03.19.10:416][114]Cmd: TRANSACTION UNDO
+[2021.03.01-03.19.10:416][114]LogEditorTransaction: Undo Edit Overridden Light Map Res
+[2021.03.01-03.19.10:608][133]Cmd: TRANSACTION UNDO
+[2021.03.01-03.19.10:608][133]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.01-03.19.10:784][145]Cmd: TRANSACTION UNDO
+[2021.03.01-03.19.10:785][145]LogEditorTransaction: Undo Select Brush Surface
+[2021.03.01-03.19.10:975][158]Cmd: TRANSACTION UNDO
+[2021.03.01-03.19.10:975][158]LogEditorTransaction: Undo Edit Overridden Light Map Res
+[2021.03.01-03.19.11:153][175]Cmd: TRANSACTION UNDO
+[2021.03.01-03.19.11:153][175]LogEditorTransaction: Undo Overridden Light Map Res Edit Condition Changed
+[2021.03.01-03.19.11:350][193]Cmd: TRANSACTION UNDO
+[2021.03.01-03.19.11:350][193]LogEditorTransaction: Undo Convert Actors
+[2021.03.01-03.19.11:390][193]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_21' invalid (5669 verts, 0 indices).
+[2021.03.01-03.19.11:390][193]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_21.BodySetup_0 when we are unable to.
+[2021.03.01-03.19.11:391][193]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_22' invalid (5669 verts, 0 indices).
+[2021.03.01-03.19.11:391][193]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_22.BodySetup_0 when we are unable to.
+[2021.03.01-03.19.11:391][193]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_23' invalid (5669 verts, 0 indices).
+[2021.03.01-03.19.11:391][193]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_23.BodySetup_0 when we are unable to.
+[2021.03.01-03.19.11:391][193]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_24' invalid (5669 verts, 0 indices).
+[2021.03.01-03.19.11:391][193]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_24.BodySetup_0 when we are unable to.
+[2021.03.01-03.19.11:391][193]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_25' invalid (5669 verts, 0 indices).
+[2021.03.01-03.19.11:391][193]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_25.BodySetup_0 when we are unable to.
+[2021.03.01-03.19.11:391][193]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_26' invalid (5669 verts, 0 indices).
+[2021.03.01-03.19.11:391][193]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_26.BodySetup_0 when we are unable to.
+[2021.03.01-03.19.11:391][193]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_27' invalid (5669 verts, 0 indices).
+[2021.03.01-03.19.11:391][193]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.ModelComponent_27.BodySetup_0 when we are unable to.
+[2021.03.01-03.19.11:659][194]Cmd: TRANSACTION UNDO
+[2021.03.01-03.19.11:659][194]LogEditorTransaction: Undo Select Brush Surface
+[2021.03.01-03.19.11:776][199]Cmd: TRANSACTION UNDO
+[2021.03.01-03.19.11:776][199]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.01-03.19.12:056][224]Cmd: TRANSACTION UNDO
+[2021.03.01-03.19.12:057][224]LogEditorTransaction: Undo Select Brush Surface
+[2021.03.01-03.19.12:665][284]Cmd: TRANSACTION UNDO
+[2021.03.01-03.19.12:665][284]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.01-03.19.13:464][368]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.03.01-03.20.17:340][703]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.03.01-03.20.21:294][128]Cmd: TRANSACTION UNDO
+[2021.03.01-03.20.21:294][128]LogEditorTransaction: Undo Move Actors
+[2021.03.01-03.20.45:158][558]LogSlate: Window 'Select Path' being destroyed
+[2021.03.01-03.20.45:199][558]LogStaticMesh: Building static mesh FrontDoorCut_StaticMesh...
+[2021.03.01-03.20.45:204][558]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Environment/Walls/FrontDoorCut_StaticMesh.FrontDoorCut_StaticMesh
+[2021.03.01-03.20.45:209][558]LogActorFactory: Actor Factory created FrontDoorCut_StaticMesh
+[2021.03.01-03.20.45:261][558]LogEditor: Error: Actor 'Brush /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.FrontDoorCut' is marked pending kill and cannot be converted
+[2021.03.01-03.20.45:261][558]LogEditor: Error: Actor 'Brush /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002:PersistentLevel.Wall001' is marked pending kill and cannot be converted
+[2021.03.01-03.20.45:261][558]EditorErrors: New page: Actor Reattachment
+[2021.03.01-03.20.45:277][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.03.01-03.20.46:551][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrontDoorCut_StaticMesh)
+[2021.03.01-03.20.48:055][834]Cmd: TRANSACTION UNDO
+[2021.03.01-03.20.48:055][834]LogEditorTransaction: Undo Move Actors
+[2021.03.01-03.20.56:669][696]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrontDoorCut_StaticMesh)
+[2021.03.01-03.21.02:957][347]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_01)
+[2021.03.01-03.21.09:735][ 13]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_01)
+[2021.03.01-03.21.14:438][489]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_01)
+[2021.03.01-03.21.18:414][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_01)
+[2021.03.01-03.21.35:683][508]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrontDoorCut_StaticMesh)
+[2021.03.01-03.22.14:404][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.01-03.22.16:267][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.03.01-03.22.16:308][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.03.01-03.22.17:957][826]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/GrayBox002FE350A5D4CAAB1C16E4E279032C4DA8E.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/VirtualRealityBP/Testing/Maps/GrayBox002.umap'
+[2021.03.01-03.22.18:013][826]LogFileHelpers: Saving map 'GrayBox002' took 1.720
+[2021.03.01-03.22.22:293][826]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/GrayBox002_BuiltDataFD29F52141850187B7DAB096916A2E30.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/VirtualRealityBP/Testing/Maps/GrayBox002_BuiltData.uasset'
+[2021.03.01-03.22.22:335][826]LogSavePackage: Moving '../../../../../Envision_Repo/Envision/VREnvision/Saved/FrontDoorCut_StaticMesh24FA712C4D994C1CC2307EBAE89B4667.tmp' to '../../../../../Envision_Repo/Envision/VREnvision/Content/Geometry/Environment/Walls/FrontDoorCut_StaticMesh.uasset'
+[2021.03.01-03.22.22:369][826]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.01-03.22.22:369][826]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Testing/Maps/GrayBox002.GrayBox002
+[2021.03.01-03.22.22:369][826]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Testing/Maps/GrayBox002_BuiltData.GrayBox002_BuiltData
+[2021.03.01-03.22.22:369][826]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Environment/Walls/FrontDoorCut_StaticMesh.FrontDoorCut_StaticMesh
